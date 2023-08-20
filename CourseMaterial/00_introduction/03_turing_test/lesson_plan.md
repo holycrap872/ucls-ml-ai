@@ -23,6 +23,11 @@ following question: ..."
     - What is a local maxima?
     - What do parameters mean?
     - What is max gradient ascent?
+- ChatGPT intro
+    - Look at the homework
+    - We know ChatGPT is good at this kind of thing, so let's see what it says
+        - Ask question on homework of ChatGPT
+    - Today, going to see how smart ChatGPT is
 - Who's heard of Alan Turing?
     - Why he's famous...
 - Who's heard of the Turing test?

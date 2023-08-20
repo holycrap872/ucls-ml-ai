@@ -4,8 +4,9 @@ import typing
 from typing import NamedTuple
 import matplotlib
 import matplotlib.pyplot as plots
-plots.style.use('fivethirtyeight')
-matplotlib.use('MacOSX')
+
+plots.style.use("fivethirtyeight")
+matplotlib.use("MacOSX")
 datascience.Table.interactive_plots()
 
 
@@ -18,7 +19,7 @@ def get_distance(point_1: Point, point_2: Point) -> float:
     x_diff = point_1.x - point_2.x
     y_diff = point_1.y - point_2.y
 
-    return (x_diff ** 2 + y_diff ** 2) ** .5
+    return (x_diff**2 + y_diff**2) ** 0.5
 
 
 def in_circle(point: Point) -> bool:
@@ -38,7 +39,9 @@ def run_experiment(trials: int, graph_ites: int) -> None:
     total_in_circle = 0
 
     for trial in range(1, trials):
-        random_point = Point((random.random() * 2.0) - 1.0, (random.random() * 2.0) - 1.0)
+        random_point = Point(
+            (random.random() * 2.0) - 1.0, (random.random() * 2.0) - 1.0
+        )
         if in_circle(random_point):
             total_in_circle += 1
 
@@ -53,16 +56,16 @@ def run_experiment(trials: int, graph_ites: int) -> None:
             print(running_best_guess[-1])
 
     plots.figure(figsize=(6, 6))
-    plots.scatter(in_x_points, in_y_points, color='darkblue', label="Inside circle")
+    plots.scatter(in_x_points, in_y_points, color="darkblue", label="Inside circle")
     plots.scatter(out_x_points, out_y_points, color="gold", label="Outside circle")
-    plots.xlabel('X')
-    plots.xlabel('Y')
+    plots.xlabel("X")
+    plots.xlabel("Y")
     plots.show()
 
     plots.figure(figsize=(12, 6))
     plots.plot(running_best_guess)
-    plots.xlabel('Iteration Count')
-    plots.xlabel('Estimated Value of Pi')
+    plots.xlabel("Iteration Count")
+    plots.xlabel("Estimated Value of Pi")
     plots.show()
 
 
