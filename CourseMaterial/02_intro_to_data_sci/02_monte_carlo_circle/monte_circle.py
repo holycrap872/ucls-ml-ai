@@ -2,6 +2,11 @@ import datascience
 import random
 import typing
 from typing import NamedTuple
+import matplotlib
+import matplotlib.pyplot as plots
+plots.style.use('fivethirtyeight')
+matplotlib.use('MacOSX')
+datascience.Table.interactive_plots()
 
 
 class Point(NamedTuple):
@@ -24,8 +29,10 @@ def in_circle(point: Point) -> bool:
 
 
 def run_experiment(trials: int, graph_ites: int) -> None:
-    x_points: typing.List[float] = []
-    y_points: typing.List[float] = []
+    in_x_points: typing.List[float] = []
+    in_y_points: typing.List[float] = []
+    out_x_points: typing.List[float] = []
+    out_y_points: typing.List[float] = []
 
     running_best_guess = []
     total_in_circle = 0
@@ -35,17 +42,28 @@ def run_experiment(trials: int, graph_ites: int) -> None:
         if in_circle(random_point):
             total_in_circle += 1
 
-        x_points += [random_point.x]
-        y_points += [random_point.y]
+            in_x_points += [random_point.x]
+            in_y_points += [random_point.y]
+        else:
+            out_x_points += [random_point.x]
+            out_y_points += [random_point.y]
 
         if trial % graph_ites == 0:
             running_best_guess += [(total_in_circle / trial) * 4]
             print(running_best_guess[-1])
 
-    points = datascience.Table().with_columns("X", datascience.make_array(*x_points), "Y", datascience.make_array(*y_points))
-    over_time = datascience.Table().with_column("Best guess", datascience.make_array(*running_best_guess))
+    plots.figure(figsize=(6, 6))
+    plots.scatter(in_x_points, in_y_points, color='darkblue', label="Inside circle")
+    plots.scatter(out_x_points, out_y_points, color="gold", label="Outside circle")
+    plots.xlabel('X')
+    plots.xlabel('Y')
+    plots.show()
 
-    points.scatter("X", "Y")
-    over_time.plot()
+    plots.figure(figsize=(12, 6))
+    plots.plot(running_best_guess)
+    plots.xlabel('Iteration Count')
+    plots.xlabel('Estimated Value of Pi')
+    plots.show()
 
-run_experiment(500, 10)
+
+run_experiment(5000, 10)
