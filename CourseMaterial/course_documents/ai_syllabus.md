@@ -72,9 +72,8 @@ are some specific guidelines that will help you to meet these expectations:
 - Remain open-minded and sensitive during class discussions.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
   also wonderful distractions. Your laptop should be charged for class, but
-  it should only be open when instructed. Place your cell phones in your
-  backpack. If you need to use it during course, quietly remove yourself from
-  the hallway.
+  it should only be open when instructed. **Place your cell phones in your
+  backpack. If you need to use it during class, quietly go into the hallway.**
 - I expect each of you to make a solid, good-faith effort to do your best in
   this class (and I expect the same from myself). I know, however, that this
   class is just one of many aspects of your life, so please talk to me if you
@@ -99,9 +98,9 @@ typically involve:
   (non-extension) parts of these assignments during class. Regular parts that
   aren’t completed during class time will usually need to be finished outside of
   class time before the next class period. **Late classwork will not receive
-  credit.** While classwork will be graded based on completion and not
-  correctness, you are encouraged to follow up on non-functioning code with
-  me outside of class time.
+  credit.** While classwork will be graded based on completion (honest attemt)
+  and not correctness, you are encouraged to follow up on non-functioning code
+  with me outside of class time.
 - Homework (after class): Standard assignments (done individually) to practice
   and develop mastery of the material covered in class.
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
