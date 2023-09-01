@@ -20,8 +20,9 @@ following question: ..."
 
 - Refresher
     - What did we do yesterday?
+    - What do **parameters** mean?
+    - What is an **object function** mean?
     - What is a local maxima?
-    - What do parameters mean?
     - What is max gradient ascent?
 - ChatGPT intro
     - Look at the homework

@@ -35,17 +35,29 @@
     - Must have one global maxima of height 5
     - Must have two other local maximas
 - Let play and debrief
-    - How many "parameters" in each game?
+    - How many **parameters** in each game?
     - Gradient descent (ascent) in our case
         - https://youtu.be/IHZwWFHWa-w?t=420
     - What would "baking the perfect cake" look like?
         - What are some parameters?
         - Estimate of total number of parameters?
-        - What is the objective function?
+        - What is the **objective function**?
 
 ### Homework
 
-- Research "simulated annealing" and explain what its strategy would be
-- https://ed.ted.com/lessons/malcolm-gladwell-on-spaghetti-sauce
-    - One paragraph answering "What mistake did Prego make in terms of their objective function, when asking Howard Moskowitz to find the perfect sauce?"
+```
+This assignment has three parts:
 
+1. Watch [Malcolm Gladwell's "On Spaghetti Sauce" talk](
+   https://ed.ted.com/lessons/malcolm-gladwell-on-spaghetti-sauce) up to 9m30s
+   (although feel free to watch the rest... it's funny)!
+
+2. List 5 **parameters** that can be altered to affect the taste of spaghetti sauce.
+
+3. Write one paragraph answering the question "what mistake did Prego make in
+   terms of their **objective function** when asking Howard to find the perfect
+   spaghetti sauce"?
+```
+
+### Other possible homeworks
+- Research "simulated annealing" and explain what its strategy would be
