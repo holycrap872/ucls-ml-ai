@@ -39,7 +39,7 @@ are, and what the hidden downstream effects of their decisions might be.
 - To utilize AI to extract knowledge from data.
 - To articulate the value of data in isolation and in aggregate.
 - To understand how the notion of consciousness has evolved over time.
-- To identify areas where AI is given the power to make real-world decisions. 
+- To identify areas where AI is given the power to make real-world decisions.
 - To assess the decisions made by existing AI systems and detect unjust outcomes.
 - To develop confidence and a problem-solving mindset when dealing with new
   techniques.
@@ -59,7 +59,7 @@ install programs and do their homework. Any desktop or laptop computer (i.e.,
 not a phone or a tablet) will suffice as long as it's **not a Chromebook**.
 Windows, Mac, or Linux machines will all work fine.
 
-## Expectations 
+## Expectations
 
 Generally, I expect you to be invested in the class and to be an active and
 positive member of our classroom community. In addition, I expect you to take
@@ -71,7 +71,7 @@ are some specific guidelines that will help you to meet these expectations:
   of any assigned reading.
 - Remain open-minded and sensitive during class discussions.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
-  also wonderful distractions. Your laptop should be charging for the class, but
+  also wonderful distractions. Your laptop should be charged for class, but
   it should only be open when instructed. Place your cell phones in your
   backpack. If you need to use it during course, quietly remove yourself from
   the hallway.
@@ -91,7 +91,8 @@ received in revising assignments and preparing future work.
 ## Coursework
 
 Assignments for this course can be broken up into different types which will
-typically involve: 
+typically involve:
+
 - Classwork (during class): This will involve programming challenges which
   you will complete individually or with partners to practice the concepts
   that are presented. Usually, you will be able to finish the regular
@@ -100,7 +101,7 @@ typically involve:
   class time before the next class period. **Late classwork will not receive
   credit.** While classwork will be graded based on completion and not
   correctness, you are encouraged to follow up on non-functioning code with
-  me outside of class time. 
+  me outside of class time.
 - Homework (after class): Standard assignments (done individually) to practice
   and develop mastery of the material covered in class.
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
@@ -112,9 +113,9 @@ typically involve:
 
 Late or revised homework, projects and quizzes will be accepted with a
 letter-grade penalty up until the end of a unit. Once we move on to the next
-unit no late or revised work from the prior units will be accepted. In practice,
+unit, no late or revised work from the prior units will be accepted. In practice,
 though, you will want to complete any missing assignments as soon as possible as
-future work will build on previously covered concepts. 
+future work will build on previously covered concepts.
 
 ## Grading and Assessment
 
@@ -127,7 +128,7 @@ and unit grades will be broken down into the following categories:
 - Exams: 20%
 
 Grades for assignments will be posted on Schoology. You can expect to get a
-progress report at the end of each unit. 
+progress report at the end of each unit.
 
 ## Time Expectations
 
@@ -154,7 +155,7 @@ dictate your code to another student but should, rather, guide them along a path
 of inquiry.
 
 The spirit of this policy is to make sure that you are the owner of the work
-you are producing. If you are unable to explain a solution they produce, you
+you are producing. If you are unable to explain a solution you produce, you
 will receive a zero for the assignment and the Dean of Students will be
 notified.
 

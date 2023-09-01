@@ -21,3 +21,7 @@ __pycache__/
 /build
 
 .DS_Store
+*.pptx
+*.docx
+*.pdf
+*.html
