@@ -98,7 +98,7 @@ typically involve:
   (non-extension) parts of these assignments during class. Regular parts that
   aren’t completed during class time will usually need to be finished outside of
   class time before the next class period. **Late classwork will not receive
-  credit.** While classwork will be graded based on completion (honest attemt)
+  credit.** While classwork will be graded based on completion (honest attempt)
   and not correctness, you are encouraged to follow up on non-functioning code
   with me outside of class time.
 - Homework (after class): Standard assignments (done individually) to practice
