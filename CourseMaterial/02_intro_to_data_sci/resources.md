@@ -1,2 +1,13 @@
-- Really like the two experiments here:
-    - https://youtu.be/0Jw8seqai18
+- Funny graph
+- Coin flipping
+    - Graph both order dependent and order independent
+- Monte Carlo circle
+- Dice rolling
+    - Difference between 6 20-sided dice and 20 6-sided dice
+        - From https://youtu.be/0Jw8seqai18
+- UFO sightings
+    - Sightings over time
+    - Sightings according to country
+        - From https://youtu.be/0Jw8seqai18
+- Monty Hall problem
+- Map of Cholera

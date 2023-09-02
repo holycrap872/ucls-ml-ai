@@ -1,16 +1,14 @@
-import datascience
 import random
 import typing
-from typing import NamedTuple
+
 import matplotlib
 import matplotlib.pyplot as plots
 
 plots.style.use("fivethirtyeight")
 matplotlib.use("MacOSX")
-datascience.Table.interactive_plots()
 
 
-class Point(NamedTuple):
+class Point(typing.NamedTuple):
     x: float
     y: float
 
