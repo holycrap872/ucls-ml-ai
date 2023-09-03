@@ -114,7 +114,7 @@
 
 - Learn important historical moments in the attempts to understand cognition.
 - Analyze materialist, dualist, and panpsychist understandings of consciousness.
-- Create an argument for which model you find most persuasive.
+- Create an argument for which model of conciousness you find most persuasive.
 - Identify areas of culture that have been affected by these debates.
 
 #### Essential Questions:
@@ -165,7 +165,7 @@
 
 - Understand conditional probability.
 - Implement a Bayesian classifier.
-- Use the Bayesian classifier to answer a variety of sample problems.
+- Use the Bayesian classifier to solve a variety of sample problems.
 - Create a lab report that is able to justify conclusions reached during exploration.
 
 #### Essential Questions:
