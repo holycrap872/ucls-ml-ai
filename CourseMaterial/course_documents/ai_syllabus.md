@@ -6,7 +6,7 @@ back and ask ourselves, what are the possible downsides”* - Emily Bender
 This half-year course introduces students to both the technological and
 philosophical underpinnings of the current AI revolution. Throughout the term,
 students will be exposed to a variety of AI/ML techniques such as decision
-trees and evolutionary algorithms. Students will implement part or all of these
+trees and bayesian classifiers. Students will implement part or all of these
 techniques in python and then use the resulting functionality to draw
 conclusions about various datasets. Alongside each of these engineering tasks,
 students will also be exposed to readings that highlight the various
@@ -39,7 +39,7 @@ are, and what the hidden downstream effects of their decisions might be.
 - To utilize AI to extract knowledge from data.
 - To articulate the value of data in isolation and in aggregate.
 - To understand how the notion of consciousness has evolved over time.
-- To identify areas where AI is given the power to make real-world decisions.
+- To identify areas where AI has been given the power to make real-world decisions.
 - To assess the decisions made by existing AI systems and detect unjust outcomes.
 - To develop confidence and a problem-solving mindset when dealing with new
   techniques.
@@ -76,7 +76,7 @@ are some specific guidelines that will help you to meet these expectations:
   backpack. If you need to use it during class, quietly go into the hallway.**
 - I expect each of you to make a solid, good-faith effort to do your best in
   this class (and I expect the same from myself). I know, however, that this
-  class is just one of many aspects of your life, so please talk to me if you
+  class is just one of the many aspects of your life, so please talk to me if you
   need help doing your best work.
 - If you have questions or concerns, please ask me anytime. Also, please ask
   if you don’t know why we’re doing something or if you have a better idea.
@@ -122,8 +122,8 @@ Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
 - Classwork: 40%
-- Homework: 25%
-- Quizzes: 15%
+- Homework: 20%
+- Quizzes: 20%
 - Exams: 20%
 
 Grades for assignments will be posted on Schoology. You can expect to get a
