@@ -9,5 +9,13 @@
     - Sightings over time
     - Sightings according to country
         - From https://youtu.be/0Jw8seqai18
+- Implement different sorts and explain
+    - Selection sort
+        - They might have done this before
+    - Bubble sort
+    - Merge sort
+        - If get here, then compare with previous sorts
+    - Quick sort
+        - If get here, then compare with previous sorts
 - Monty Hall problem
 - Map of Cholera
