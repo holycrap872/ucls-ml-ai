@@ -28,19 +28,25 @@
 
 - In-class discussion
 
-## Unit 1 - Programming Bootcamp
+## Unit 1 - Introduction to Data Science
+
+#### Texts:
+
+- *Computational and Inferential Thinking,* by Ani Adhikari, John DeNero, and David Wagner
 
 #### Objectives:
 
 - Refresh previously learned programming skills.
-- Develop debugging techniques to quickly identify issues.
-- Utilize git to save work and collaborate with classmates.
-- Learn the importance of unit testing for documentation and speed of development.
-- Appreciate the utility of using types to reduce errors.
+- Understand how to run simple statistical experiments on a computer.
+- Learn how to utilize a simple data presentation library.
+- Practice pulling out knowledge from a dataset.
+- Experiment with different parameters to understand how they affect the problem.
+- Create a lab report that is able to justify conclusions reached during exploration.
 
 #### Essential Questions:
 
-- What are the best practices to use when working on a software project?
+- How can we use the power of computers to run better experiments?
+- What is the best way to represent data to make it easy to understand?
 
 #### Formative Assessments:
 
@@ -52,24 +58,18 @@
 
 - Programming projects
 
-## Unit 2 - Introduction to Data Science
-
-#### Texts:
-
-- *Computational and Inferential Thinking,* by Ani Adhikari, John DeNero, and David Wagner
+## Unit 2 - SDE Bootcamp
 
 #### Objectives:
 
-- Understand how to run simple statistical experiments on a computer.
-- Learn how to utilize a simple data presentation library.
-- Practice pulling out knowledge from a dataset.
-- Experiment with different parameters to understand how they affect the problem.
-- Create a lab report that is able to justify conclusions reached during exploration.
+- Develop debugging techniques to quickly identify issues.
+- Utilize git to save work and collaborate with classmates.
+- Learn the importance of unit testing for documentation and speed of development.
+- Appreciate the utility of using types to reduce errors.
 
 #### Essential Questions:
 
-- How can we use the power of computers to run better experiments?
-- What is the best way to represent data to make it easy to understand?
+- What are the best practices to use when working on a software project?
 
 #### Formative Assessments:
 
