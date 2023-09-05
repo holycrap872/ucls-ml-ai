@@ -49,8 +49,11 @@ following question: ..."
         - Will eventually have list of types of questions that are disallowed
             - e.g., Doesn't know the name of the teacher -> no local context q's
 - Go over list of types of questions and try to descibe why AI struggles with each
-- Talk about the performance of difference chat bots over time
+- Talk about the performance of different chat bots over time
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
+- Discuss chatbot policy (if have time)
+    - Exploratory committee about what policy the school should have
+    - Likely going to ask you folks to be involved in some way to get student's view
 
 ### Homework
 

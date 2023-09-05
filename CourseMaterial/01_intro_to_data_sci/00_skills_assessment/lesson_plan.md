@@ -55,3 +55,9 @@ figure out where the students along several dimensions.
 
 9. Implement a basic linked lista data struction with functions for (insert,
    deletion, and "contains")
+
+## Homework
+
+- Finish the problem you were working on with the help of Bard or ChatGPT
+    - 20m max
+    - Be prepared to come in and discuss ChatBot policy
