@@ -18,43 +18,34 @@ figure out where the students along several dimensions.
 
 ### Actual Lesson
 
-1. Create a function that asks for the user's name and then prints out a greeting.
-    - `Shows use of input`
-    - Ability to run a program
-    - Ability to create/use a function
-
-2. Create a program that take three numbers from a user and prints out the max.
-    - Conditionals
-    - type conversion
-
-3. Write a function that determines if a given number is a prime.
-    - Algorithms
-    - Loops
-
-4. Create a function to check if a given string is a palindrome.
-    - Algorithms
-    - Various accesses in a list
-
-5. Create a function that produces the intersection of two lists. Create at
-   least four tests.
-    - Multiple lists
-    - List creation
-    - Unit testing
-
-6. Create a function that merges two sorted lists into a single sorted list and
-   create tests.
-    - Algorithms
-    - Sorting
-    - Assertions
-
-7. Create a function that takes two strings as inputs and determines if they are
-   anagrams. Write enough tests such that you have 100% line coverage.
-
-8. Develop a function that calculates the score of a given word in a Scrabble
-   game. Write enough tests such that you have 100% line coverage.
-
-9. Implement a basic linked lista data struction with functions for (insert,
-   deletion, and "contains")
+- Reflection
+    - Who was Turing?
+    - What was his test?
+    - What did we learn?
+    - What is machine learning?
+- Setup skills assessment
+    - Today going to see how far you can get programming stuff
+    - No pressure at all
+- Walk through vscode setup
+- Show how to run unit tests
+- Why are unit tests important
+    - If I were to lose a project, I'd rather have the tests than the code
+    - Naming scheme
+- Hand out paper
+    - Explain progression of problems:
+        - `Shows use of input`
+        - Ability to run a program
+        - Ability to create/use a function
+        - Conditionals
+        - type conversion
+        - Algorithms
+        - Loops
+        - Various accesses in a list
+        - Multiple lists
+        - List creation
+        - Unit testing
+        - Sorting
+        - Assertions
 
 ## Homework
 

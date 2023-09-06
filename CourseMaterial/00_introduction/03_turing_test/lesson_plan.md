@@ -32,6 +32,7 @@ following question: ..."
     - Today, going to see how smart ChatGPT is
 - Who's heard of Alan Turing?
     - Why he's famous...
+    - Why he died prematurely
 - Read a snippet from the paper
     - What is Turing trying to discribe?
     - Why? -> intelligence is hard to pin point?

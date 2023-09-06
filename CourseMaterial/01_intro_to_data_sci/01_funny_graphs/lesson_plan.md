@@ -7,7 +7,11 @@ Distribute base python file for every one to experiment with / modify
 ## Actual Lesson
 
 - Reflection
-     - What did we do last time?
+    - What did we do last time?
+        - What was hard about skills assessment?
+        - What were things suddenly remembered?
+    - Come up with proposed ChatBot policy
+        - 20m discussion
 - Today, going to work on graphing
     - Funny graphs to show
         - Bar Charts:
