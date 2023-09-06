@@ -6,44 +6,84 @@
 
 - Bunch of sets of legos with green "baseplate" (32x32) to stick them to
 - Dividers
-- Pre-created "boards" (both 1d and 2d) to make clear what I'm talking about
+- Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
+    - I took pictures of the board and will show them in class
+- Example board in case there's an odd number of students
 
 ### Actual Lesson
 
 - Today going to play a game called "Search Space Battle Ship"
     - Who's played Battle Ship?
     - Explain Battle Ship
+        - 2 dimensions
     - What are good strategies in Battle Ship?
-- Most of ML/AI is trying to find the best possible solution
-    - Parameters and objective function
-    - Looking for a "global maxima"
-    - Don't want to get stuck in a "local maxima"
-    - Bunch of alogrithms to do this, but lets see what you come up with
+        - Link each thing they say to key terms for the day
+- Most of ML/AI is trying to find the best possible solution for a problem
+    - Put up key words on the board and define them
+        - Search Space
+        - Objective Function
+        - Parameters
+        - Global Maxima
+        - Local Maxima
+    - What would "baking the perfect cake" look like?
+        - What is the **objective function**?
+        - What are some **parameters**?
+        - Estimate of total number of parameters?
+    - AL/ML is looking for a "global maxima"
+        - Search "3d search space" in google for examples
+        - Don't want to get stuck in a "local maxima"
+        - Bunch of alogrithms to do this, but lets see what you come up with
+    - 1 billion to 170 tillion parameters
 - Rules
     - Play along one dimension
     - Board is 32 long (entire green lego baseplate)
     - Need to use between 35-40 legos
-    - Must have a "peak" of height 5 that other person is trying to find
-    - Must have at least two other "local" maximas
+    - Must have a global maxima between 4 and 7
+    - Must have between 2 and 4 local maximas
+    - Maximum slope of 1
+    - Each get 12 guesses. At the end you guess the other person's global max
+- Show them my example boards and ask what's good/bad about them
 - Let play and debrief
     - What were people's strategies?
     - What was the hardest solution to find?
-- Reset
-    - Now going to play in 2d (12x12)
-    - Set the parameters (in this case x,y)
-    - Must have a maximum scope of 1
-    - Must have one global maxima of height 5
-    - Must have two other local maximas
+- Reset and replay against a new partner
 - Let play and debrief
     - How many **parameters** in each game?
     - Gradient descent (ascent) in our case
         - https://youtu.be/IHZwWFHWa-w?t=420
-    - What would "baking the perfect cake" look like?
-        - What are some parameters?
-        - Estimate of total number of parameters?
-        - What is the **objective function**?
+    - Explain all algorithms we're going to learn
+        - Simulated annealing
+        - Hill climbing
+        - Evolutionary
+        - Bayesian
+        - Neural Nets
+- Do another example:
+    - Training for a marathon
+        - What is the objective function?
+        - What are possible parameters?
+        - What is the search space?
 
 ### Homework
+
+```
+This assignment has five parts:
+
+1. Think of a problem where you "search" for the best solution. What is it?
+
+2. What is the objective function?
+
+3. What are 5 paramenters that are inputs to the objective function?
+
+4. Describe in a few sentences what would likely be an input somewhere "near"
+   the global maxima?
+
+5. Describe in a few sentences what might be a local maxima and why it's a
+   local maxima?
+```
+
+### Other possible homeworks
+
+- Research "simulated annealing" and explain what its strategy would be
 
 ```
 This assignment has three parts:
@@ -58,6 +98,3 @@ This assignment has three parts:
    terms of their **objective function** when asking Howard to find the perfect
    spaghetti sauce"?
 ```
-
-### Other possible homeworks
-- Research "simulated annealing" and explain what its strategy would be

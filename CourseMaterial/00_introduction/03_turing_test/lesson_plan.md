@@ -24,6 +24,7 @@ following question: ..."
     - What is an **object function** mean?
     - What is a local maxima?
     - What is max gradient ascent?
+    - How does "growing the perfect sunflower" map onto this?
 - ChatGPT intro
     - Look at the homework
     - We know ChatGPT is good at this kind of thing, so let's see what it says
@@ -31,9 +32,10 @@ following question: ..."
     - Today, going to see how smart ChatGPT is
 - Who's heard of Alan Turing?
     - Why he's famous...
-- Who's heard of the Turing test?
-    - What it is...
-    - Today we're going to simulate it
+- Read a snippet from the paper
+    - What is Turing trying to discribe?
+    - Why? -> intelligence is hard to pin point?
+    - How could we do this today in class?
 - Rules:
     - Volunteer to ask questions and volunteer to answer
     - Questioner stands with their back to the class with ear plugs/muffs on
@@ -49,6 +51,9 @@ following question: ..."
         - Will eventually have list of types of questions that are disallowed
             - e.g., Doesn't know the name of the teacher -> no local context q's
 - Go over list of types of questions and try to descibe why AI struggles with each
+
+### Extensions (if have time)
+
 - Talk about the performance of different chat bots over time
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
 - Discuss chatbot policy (if have time)
@@ -57,6 +62,12 @@ following question: ..."
 
 ### Homework
 
-Read:
-    - Turing's `Computing Machinery and Intelligence` document?
+- Possible:
+    - Come up with 5 different types of things that are clearly intelligent.
+    - Come up with 5 different types of things that are clearly not intelligent.
+    - Come up with 5 different types of things where it can get a little confusing.
+- Possible:
+    - Come up with a class policy for use of AI
+- Possible
+    - Read Turnings's response to the 9 objections of intelligence
     - intro of https://plato.stanford.edu/entries/turing-test/ and be prepared to discuss

@@ -1,4 +1,8 @@
-## 1. The Imitation Game
+## Computing Machinery and Intelligence
+
+By Alan Turing
+
+#### 1. The Imitation Game
 
 I propose to consider the question, "Can machines think?" This should begin with
 definitions of the meaning of the terms "machine" and "think." The definitions might be
@@ -15,7 +19,7 @@ The new form of the problem can be described in terms of a game which we call th
 
 ...
 
-## 6. Contrary Views on the Main Question
+#### 6. Contrary Views on the Main Question
 
 ...
 
@@ -36,7 +40,7 @@ great importance since they suggest useful lines of research.
 
 ...
 
-## Learning Machines
+#### 7. Learning Machines
 
 ...
 
@@ -82,12 +86,6 @@ tuition. We need not be too concerned about the legs, eyes, etc. The example of 
 Helen Keller shows that education can take place provided that communication in both
 directions between teacher and pupil can take place by some means or other.
 
-We normally associate punishments and rewards with the teaching process. Some simple
-child machines can be constructed or programmed on this sort of principle. The machine
-has to be so constructed that events which shortly preceded the occurrence of a
-punishment signal are unlikely to be repeated, whereas a reward signal increased the
-probability of repetition of the events which led up to it.
-
 ...
 
 Opinions may vary as to the complexity which is suitable in the child machine. One
@@ -105,26 +103,9 @@ the well-established facts. Another such fact might be, "Everything that teacher
 true." Combining these may eventually lead to the imperative, "Do your homework now,"
 being included amongst the well-established facts, and this, by the construction of the
 machine, will mean that the homework actually gets started, but the effect is very
-satisfactory. The processes of inference used by the machine need not be such as would
-satisfy the most exacting logicians. There might for instance be no hierarchy of types. But
-this need not mean that type fallacies will occur, any more than we are bound to fall over
-unfenced cliffs. Suitable imperatives (expressed within the systems, not forming part of
-the rules of the system) such as "Do not use a class unless it is a subclass of one which
-has been mentioned by teacher" can have a similar effect to "Do not go too near the
-edge."
+satisfactory.
 
-The imperatives that can be obeyed by a machine that has no limbs are bound to be of a
-rather intellectual character, as in the example (doing homework) given above. important
-amongst such imperatives will be ones which regulate the order in which the rules of the
-logical system concerned are to be applied, For at each stage when one is using a logical
-system, there is a very large number of alternative steps, any of which one is permitted to
-apply, so far as obedience to the rules of the logical system is concerned. These choices
-make the difference between a brilliant and a footling reasoner, not the difference
-between a sound and a fallacious one. Propositions leading to imperatives of this kind
-might be "When Socrates is mentioned, use the syllogism in Barbara" or "If one method
-has been proved to be quicker than another, do not use the slower method." Some of
-these may be "given by authority," but others may be produced by the machine itself, e.g.
-by scientific induction.
+...
 
 The idea of a learning machine may appear paradoxical to some readers. How can the
 rules of operation of the machine change? They should describe completely how the
@@ -152,16 +133,9 @@ learning is that "human fallibility" is likely to be omitted in a rather natural
 without special "coaching." ... Processes that are learnt do not produce a hundred percent
 certainty of result; if they did they could not be unlearnt.
 
-It is probably wise to include a random element in a learning machine. A random element
-is rather useful when we are searching for a solution of some problem. Suppose for
-instance we wanted to find a number between 50 and 200 which was equal to the square
-of the sum of its digits, we might start at 51 then try 52 and go on until we got a number
-that worked. Alternatively we might choose numbers at random until we got a good one.
-This method has the advantage that it is unnecessary to keep track of the values that have
-been tried, but the disadvantage that one may try the same one twice, but this is not very
-important if there are several solutions. The systematic method has the disadvantage that
-there may be an enormous block without any solutions in the region which has to be
-investigated first, Now the learning process may be regarded as a search for a form of
+...
+
+Now the learning process may be regarded as a search for a form of
 behaviour which will satisfy the teacher (or some other criterion). Since there is probably
 a very large number of satisfactory solutions the random method seems to be better than
 the systematic. It should be noticed that it is used in the analogous process of evolution.
