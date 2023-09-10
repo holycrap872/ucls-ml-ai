@@ -2,6 +2,8 @@
 
 Only do this if they're really interested in the philosophy of the mind stuff
 
+> Note: I haven't actually done this.
+
 Have them read "Computing Machinery and Intelligence" by Alan Turning and be
 prepared to discuss. It's a long article, so instead of reading everything I'd
 suggest:
