@@ -1,4 +1,4 @@
-## Python Skills Assessment
+# Python Skills Assessment
 
 This skills assessment is intended to determine where you are as a programmer.
 You **will not** be graded for how many of these problems your get right. All
@@ -27,19 +27,33 @@ if __name__ == "__main__":
 
 ```
 
-### Problems
+# Problems
+
+### Problems using `input()` and `print()` functions
 
 0. Create a function that asks for the user's name and then prints out a greeting.
-1. Create a function that take three numbers from a user and prints out the max.
-2. Write a function that determines if a given number is a prime.
-3. Create a function to check if a given string is a palindrome.
-4. Create a function that produces the intersection of two lists. Create at
-   least four unit tests.
-5. Create a function that merges two sorted lists into a single sorted list and
-   create at least four unit tests.
-6. Create a function that takes two strings as inputs and determines if they are
-   anagrams. Write enough unit tests such that you have 100% line coverage.
-7. Develop a function that calculates the score of a given word in a Scrabble
-   game. Write enough unit tests such that you have 100% line coverage.
-8. Implement a basic linked lista data struction with functions for (insert,
-   deletion, and "contains")
+1. Create a function that take three numbers from the user and prints out the max.
+2. Create a function that takes a single number from the user and prints a
+   prints a "count down" from that number all the way to zero.
+3. Create a function that takes a single number from the user and prints out
+   whether it is a prime or not.
+4. Create a function that takes a word (string) from the user and prints out
+   whether it is a palindrome or not.
+
+### Problems using parameters for input and `return` for output
+
+0. Create a function that takes two lists of integers as input and returns a
+   single list that is the "intersection" of the two lists.
+1. Create a function that takes two sorted lists of integers as inputs and
+   returns a single, combined sorted list. Create at least four unit tests.
+2. Create a function that takes a single list of integers as input and returns
+   a list of pairs of all the numbers that were "next to each other". For
+   example: `[1, 5, 6] -> [(1, 5), (5, 6)]`. Create at least four unit tests.
+3. Create a function that takes two strings as inputs and returns a boolean
+   of whether they are anagrams. Write enough unit tests such that you have
+   100% line coverage.
+4. Crate a function that takes a single string as an input and returns the
+   score of the given string in a Scrabble game. Write enough unit tests such
+   that you have 100% line coverage.
+5. Implement a basic linked list data struction with functions for `insert()`,
+   `delete()`, and `contains()`.
