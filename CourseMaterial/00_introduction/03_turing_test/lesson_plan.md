@@ -33,8 +33,8 @@ following question: ..."
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely
-- Read a snippet from the paper
-    - What is Turing trying to discribe?
+- Read a snippet from the paper (`turing_paper_snippet.md`)
+    - What is Turing trying to describe?
     - Why? -> intelligence is hard to pin point?
     - How could we do this today in class?
 - Rules:
@@ -67,8 +67,8 @@ following question: ..."
     - Come up with 5 different types of things that are clearly intelligent.
     - Come up with 5 different types of things that are clearly not intelligent.
     - Come up with 5 different types of things where it can get a little confusing.
-- Possible:
-    - Come up with a class policy for use of AI
+    - Based on these, write your own definition of intelligence and compare it
+      with Turings.
 - Possible
-    - Read Turnings's response to the 9 objections of intelligence
+    - Read one of Turnings's response to the 9 objections of intelligence
     - intro of https://plato.stanford.edu/entries/turing-test/ and be prepared to discuss
