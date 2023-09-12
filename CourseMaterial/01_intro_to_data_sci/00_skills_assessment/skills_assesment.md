@@ -34,7 +34,7 @@ if __name__ == "__main__":
 0. Create a function that asks for the user's name and then prints out a greeting.
 1. Create a function that take three numbers from the user and prints out the max.
 2. Create a function that takes a single number from the user and prints a
-   prints a "count down" from that number all the way to zero.
+   "count down" from that number all the way to zero.
 3. Create a function that takes a single number from the user and prints out
    whether it is a prime or not.
 4. Create a function that takes a word (string) from the user and prints out
@@ -44,8 +44,8 @@ if __name__ == "__main__":
 
 0. Create a function that takes two lists of integers as input and returns a
    single list that is the "intersection" of the two lists.
-1. Create a function that takes two sorted lists of integers as inputs and
-   returns a single, combined sorted list. Create at least four unit tests.
+1. Create a function that takes two **sorted** lists of integers as inputs and
+   returns a single, combined **sorted** list. Create at least four unit tests.
 2. Create a function that takes a single list of integers as input and returns
    a list of pairs of all the numbers that were "next to each other". For
    example: `[1, 5, 6] -> [(1, 5), (5, 6)]`. Create at least four unit tests.
@@ -56,4 +56,5 @@ if __name__ == "__main__":
    score of the given string in a Scrabble game. Write enough unit tests such
    that you have 100% line coverage.
 5. Implement a basic linked list data struction with functions for `insert()`,
-   `delete()`, and `contains()`.
+   `delete()`, and `contains()`. Write enough unit tests such that you have
+   100% line coverage.
