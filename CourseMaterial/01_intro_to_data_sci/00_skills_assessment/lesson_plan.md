@@ -12,8 +12,8 @@ figure out where the students are along several dimensions.
 2. How much do they remember about programming?
 3. What other things do I not know about?
 
-> This class will be split into two lessons. The first class just tries to get
-  everyone up and running with vscode installed. The second class starts to
+> This class will be split into multiple lessons. The first class just tries to
+  get everyone up and running with vscode installed. The second class starts to
   add in best practices such as types and unit tests.
 
 ### Setup
@@ -31,25 +31,14 @@ figure out where the students are along several dimensions.
 - Setup skills assessment
     - Today going to see how far you can get programming stuff
     - No pressure at all
+- What do we remember about python?
+    - list
+    - variables
+    - primitives
 - Walk through vscode setup
     - Install necessary extensions and get running
     - Do simple program together
         - Take in numbers from user until they hit "q" and then sums then
-- Hand out paper
-    - Explain progression of problems:
-        - `Shows use of input`
-        - Ability to run a program
-        - Ability to create/use a function
-        - Conditionals
-        - type conversion
-        - Algorithms
-        - Loops
-        - Various accesses in a list
-        - Multiple lists
-        - List creation
-        - Unit testing
-        - Sorting
-        - Assertions
 - Walk around prodding people to improve practices in various ways
     - types!!!
 
