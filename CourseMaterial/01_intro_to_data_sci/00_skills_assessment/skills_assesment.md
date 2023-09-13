@@ -33,28 +33,30 @@ if __name__ == "__main__":
 
 0. Create a function that asks for the user's name and then prints out a greeting.
 1. Create a function that take three numbers from the user and prints out the max.
+   Do **not** use any outside helper functions (e.g., `max()`).
 2. Create a function that takes a single number from the user and prints a
    "count down" from that number all the way to zero.
-3. Create a function that takes a single number from the user and prints out
-   whether it is a prime or not.
-4. Create a function that takes a word (string) from the user and prints out
-   whether it is a palindrome or not.
 
-### Problems using parameters for input and `return` for output
+### Problems using **parameters** for input and `return` for output
 
-0. Create a function that takes two lists of integers as input and returns a
+0. Create a function that takes a single number as input and returns a boolean
+   of whether it is a prime or not.
+1. Create a function that takes a single word (string) as input and returns a
+   boolean of whether it is a palindrome or not.
+2. Create a function that takes two lists of integers as input and returns a
    single list that is the "intersection" of the two lists.
-1. Create a function that takes two **sorted** lists of integers as inputs and
+3. Create a function that takes two **sorted** lists of integers as inputs and
    returns a single, combined **sorted** list. Create at least four unit tests.
-2. Create a function that takes a single list of integers as input and returns
+   Do **not** use any outside helper functions (e.g., `sort()`).
+4. Create a function that takes a single list of integers as input and returns
    a list of pairs of all the numbers that were "next to each other". For
    example: `[1, 5, 6] -> [(1, 5), (5, 6)]`. Create at least four unit tests.
-3. Create a function that takes two strings as inputs and returns a boolean
+5. Create a function that takes two strings as inputs and returns a boolean
    of whether they are anagrams. Write enough unit tests such that you have
    100% line coverage.
-4. Crate a function that takes a single string as an input and returns the
+6. Crate a function that takes a single string as an input and returns the
    score of the given string in a Scrabble game. Write enough unit tests such
    that you have 100% line coverage.
-5. Implement a basic linked list data struction with functions for `insert()`,
+7. Implement a basic linked list data struction with functions for `insert()`,
    `delete()`, and `contains()`. Write enough unit tests such that you have
    100% line coverage.
