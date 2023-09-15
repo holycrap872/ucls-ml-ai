@@ -42,9 +42,10 @@ if __name__ == "__main__":
 0. Create a function that takes a single number as input and returns a boolean
    of whether it is a prime or not.
 1. Create a function that takes a single word (string) as input and returns a
-   boolean of whether it is a palindrome or not.
+   boolean of whether it is a palindrome or not. Create at least four unit tests.
 2. Create a function that takes two lists of integers as input and returns a
-   single list that is the "intersection" of the two lists.
+   single list that is the "intersection" of the two lists. Create at least
+   four unit tests.
 3. Create a function that takes two **sorted** lists of integers as inputs and
    returns a single, combined **sorted** list. Create at least four unit tests.
    Do **not** use any outside helper functions (e.g., `sort()`).
