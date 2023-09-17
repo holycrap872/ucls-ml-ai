@@ -10,8 +10,8 @@ Distribute base python file for every one to experiment with / modify
     - What did we do last time?
         - What was hard about skills assessment?
         - What were things suddenly remembered?
-    - Come up with proposed ChatBot policy
-        - 20m discussion
+    - Discuss proposed chatbot policy
+        - 5m discussion
 - Today, going to work on graphing
     - Funny graphs to show
         - Bar Charts:
@@ -44,9 +44,15 @@ Distribute base python file for every one to experiment with / modify
 - Show my code and discuss a bit
     - see `funny_graphs.py`
         - Amount of "funniness" may vary
+    - Have them recreate my two graphs
+        - Bar graph
+        - Scatter plot
     - Show common mistakes
         - x/y arrays of different size
         - misspelled colors
         - Bad labels...
-- Create three joke graphs, one of each type
-- Will show them at the end of class (maybe next week)?
+
+### Homework
+
+- Create two joke graphs of two different types
+    - Will show them at the beginning of next class
