@@ -7,6 +7,7 @@ import matplotlib.pyplot as plots
 plots.style.use("fivethirtyeight")
 matplotlib.use("MacOSX")
 
+
 """
 Find the area under x^2 curve from -1 to 1
 """
@@ -35,7 +36,7 @@ def run_experiment(trials: int, graph_ites: int) -> None:
     running_best_guess = []
     total_in_circle = 0
 
-    for trial in range(1, trials):
+    for trial_count in range(1, trials):
         random_point = get_random_point()
         if is_under_curve(random_point):
             total_in_circle += 1
@@ -46,8 +47,8 @@ def run_experiment(trials: int, graph_ites: int) -> None:
             out_x_points += [random_point[0]]
             out_y_points += [random_point[1]]
 
-        if trial % graph_ites == 0:
-            running_best_guess += [(total_in_circle / trial) * 2]
+        if trial_count % graph_ites == 0:
+            running_best_guess += [(total_in_circle / trial_count) * 2]
             print(running_best_guess[-1])
 
     plots.figure(figsize=(6, 6))

@@ -36,10 +36,8 @@ def run_experiment(trials: int, graph_ites: int) -> None:
     running_best_guess = []
     total_in_circle = 0
 
-    for trial in range(1, trials):
-        random_point = Point(
-            (random.random() * 2.0) - 1.0, (random.random() * 2.0) - 1.0
-        )
+    for trial_count in range(1, trials):
+        random_point = Point((random.random() * 2.0) - 1.0, (random.random() * 2.0) - 1.0)
         if in_circle(random_point):
             total_in_circle += 1
 
@@ -49,8 +47,8 @@ def run_experiment(trials: int, graph_ites: int) -> None:
             out_x_points += [random_point.x]
             out_y_points += [random_point.y]
 
-        if trial % graph_ites == 0:
-            running_best_guess += [(total_in_circle / trial) * 4]
+        if trial_count % graph_ites == 0:
+            running_best_guess += [(total_in_circle / trial_count) * 4]
             print(running_best_guess[-1])
 
     plots.figure(figsize=(6, 6))
