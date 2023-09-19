@@ -68,16 +68,17 @@ import matplotlib.pyplot as plots
 plots.style.use("fivethirtyeight")
 
 
-plots.figure(figsize=(6, 6))
+if __name__ == "__main__":
+    plots.figure(figsize=(6, 6))
 
-plots.scatter([2.5, 3, 2, 1], [10, 9.5, 9, 10], color="red", label="In")
-plots.scatter([14, 4.5, 3.5, 1], [1, 0, 0, 0.5], color="orange", label="Out")
+    plots.scatter([2.5, 3, 2, 1], [10, 9.5, 9, 10], color="red", label="In")
+    plots.scatter([14, 4.5, 3.5, 1], [1, 0, 0, 0.5], color="orange", label="Out")
 
-plots.title("Made up data")
-plots.ylabel("This is the y axis")
-plots.xlabel("This is the x axis")
-plots.legend()
-plots.grid(True)
+    plots.title("Made up data")
+    plots.ylabel("This is the y axis")
+    plots.xlabel("This is the x axis")
+    plots.legend()
+    plots.grid(True)
 
-plots.show()
+    plots.show()
 ```
