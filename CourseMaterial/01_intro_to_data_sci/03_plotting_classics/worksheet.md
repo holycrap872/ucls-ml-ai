@@ -53,14 +53,14 @@ assert string_piece == "aceca"
 
 ## Step 0
 
-Download The Great Gatsby and Little Women from Schoology and put them on your
-desktop.
+Download _The Great Gatsby_ and _Little Women_ from Schoology and put them on
+your desktop.
 
 ## Step 1
 
-Write a function to read in the text of The Great Gatsby and Little Women. Print
-out the first 100 characters of each book. Make sure you review the "functions
-to know" section above.
+Write a function to read in the text of _The Great Gatsby_ and _Little Women_.
+Print out the first 100 characters of each book. Make sure you review the
+"functions to know" section above.
 
 **Q:** Based on the first 100 characters, where do each of these books come from?
 
@@ -68,9 +68,9 @@ to know" section above.
 
 Print out the first 100 characters of each chapter.
 
-**Q:** What are the first three words of the last chapter in The Great Gatsby?
+**Q:** What are the first three words of the last chapter in _The Great Gatsby_?
 
-**Q:** What are the first three words in the 10th chapter in Little Women?
+**Q:** What are the first three words in the 10th chapter in _Little Women_?
 
 ## Step 3
 
