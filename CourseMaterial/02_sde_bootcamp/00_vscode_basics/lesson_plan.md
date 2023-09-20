@@ -1,11 +1,18 @@
 ## Essential Questions
+
 - How much effort should I put into understanding the tools I'm using?
 
 ## Lesson Plan
 
+This lesson will run through the vscode IDE and explain particular parts of
+it that might be useful.
+
 ### Setup
 
+None
+
 ### Actual Lesson
+
 - Refresher
     - What is the turning test?
     - What are some signals of intelligence?
@@ -24,17 +31,14 @@
         - Come with tools to help (e.g., spell check)
 - VSCode
     - Why vscode
-    - Get everyone running a simple "hello world" program
-- Extensions
-    - Python Extension
-    - Pylance
-    - Vim!
 - Story about ctrl-r
 - What are common things you do with programming tool?
     - Selectively running code with shift-enter
         - Make sure to run libraries first
     - Fuzzy file search
     - How do we catch ourselves when we don't know what we don't know?
+- Debugging
+    - Have run through 
 
 ### Resources
 - https://youtu.be/B-s71n0dHUk
