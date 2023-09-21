@@ -11,8 +11,12 @@ This is in `shell_exercise.zip`.
 
 ### Actual Lesson
 
-- Review
-    - ...
+- Refresher
+    - What is the turning test?
+    - What are some signals of intelligence?
+    - What are the themes of the class?
+- Kicking off multi-week "boot camp" to get everyone up to speed
+    - Interns at AWS I've seen
 - Today going to learn shell
     - Who has used shell before?
     - What can you do?
