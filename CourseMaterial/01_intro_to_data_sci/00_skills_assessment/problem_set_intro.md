@@ -1,33 +1,19 @@
-# Python Wheaties
+# Python Intro Wheaties
 
-For each problem, create a new function and then call that function from the
-`__main__` hook. Once you have completed the problem, comment it out out and
-move onto the next one.
+Create two new files in your problem set skeleton. Name one file
+`intro_wheaties.py` and put it in the `src` folder (`src/intro_wheaties.py`).
+Name the other file `test_intro_wheaties.py` and put it in the `test` folder
+(`test/test_intro_wheaties.py`).
 
-For example:
-
-```python3
-def min_of_three():
-    ...
-
-
-def max_of_three():
-    ...
-
-
-if __name__ == "__main__":
-    # say_hi()
-    min_of_three(4, 5, 6)
-
-```
+For each problem, create a new function in the `intro_wheaties.py` file and
+then write at **least** three unit tests is the `test_intro_wheaties.py` file.
 
 # Problems
 
 ### Problems using **parameters** for input and `return` for output
 
 0. Create a function that takes three numbers as input and returns the smallest
-   number. Do **not** use any outside helper functions (e.g., `min()`). Create
-   at least three unit tests.
+   number. Do **not** use any outside helper functions (e.g., `min()`).
 1. Create a function that takes a list of numbers as input and returns the sum
    of all the numbers in the list. Do **not** use any outside helper functions
    (e.g., `sum()`). Create at least three unit tests.

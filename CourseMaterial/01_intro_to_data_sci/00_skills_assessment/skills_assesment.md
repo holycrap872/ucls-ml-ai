@@ -5,7 +5,6 @@ You **will not** be graded for how many of these problems your get right. All
 that matters is that you approach this problem set with a problem solving
 attitude and try to apply your past learnings to get as far as you can.
 
-
 For each problem, create a new function and then call that function from the
 `__main__` hook. Once you have completed the problem, comment it out out and
 move onto the next one.
