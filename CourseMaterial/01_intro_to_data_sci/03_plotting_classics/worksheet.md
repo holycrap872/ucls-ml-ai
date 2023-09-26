@@ -51,14 +51,21 @@ assert string_piece == "aceca"
 
 # Setup
 
-Download _The Great Gatsby_ and _Little Women_ from Schoology and put them on
-your desktop.
+1. Download _The Great Gatsby_ and _Little Women_ from Schoology and put them on
+   your desktop.
+
+2. Create a new file in your skeleton called `plotting_classics.py` (no need for
+   unit tests today).
+
+3. Write two functions that return the text (string) of each book.
 
 # Exploring (with the python interpreter in Terminal)
 
 ## Step 1
 
-Read in the text of _The Great Gatsby_ and _Little Women_ into your program.
+Copy the two functions you created in the `Setup` into the python interpreter.
+Read in the text of _The Great Gatsby_ and _Little Women_ into your interpreter
+session by calling each function.
 
 **Q:** How many characters are in each book?
 
