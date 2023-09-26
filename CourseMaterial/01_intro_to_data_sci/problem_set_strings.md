@@ -13,8 +13,8 @@ then write at **least one** unit tests is the `test_string_wheaties.py` file.
 ### Problems using **parameters** for input and `return` for output
 
 0. Create a function that takes a sentence (string) as an input and then returns
-   the first and last characters of the input string as a tuple (pair).
-   - For example: `"hi there" -> ("h", "e")`
+   the first and last characters of the input string as a string.
+   - For example: `"hi there" -> "he"`
 1. Create a function that takes a sentence (string) as an input and then returns
    a string of the fourth, five, sixth, and seventh characters of the input string.
    - For example: `"hi there" -> "ther"`
@@ -38,7 +38,7 @@ then write at **least one** unit tests is the `test_string_wheaties.py` file.
 7. Create a function that takes a sentence (string) as an input and then returns
    the number of words in the input string.
    - For example: `"hello there" -> 2`
-   - Hint: `count()`
+   - Hint: `count() OR split()`
 8. Create a function that takes a sentence (string) as an input and then returns
    the longest word in the input string.
    - Hint: `split()`
@@ -54,7 +54,7 @@ then write at **least one** unit tests is the `test_string_wheaties.py` file.
     a version of the input string where the first letter of every word is
     capitalized.
     - For example: `"hello there" -> "Hello There"`
-    - Hint: `split()`, `upper()`
+    - Hint: `split()`, look up the `upper()` function
 12. Create a function that takes **two** sentences (strings) as inputs and then
     returns their longest common prefix.
     - For example: `"apple", "application" -> "app"`
