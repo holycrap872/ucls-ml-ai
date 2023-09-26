@@ -19,6 +19,11 @@ commands: https://youtu.be/gd7BXuUQ91w?si=wykRpbOiXLn6gu-E&t=20 .
 Download the `shell_exercise.zip` folder from Schoology. Move it do your
 `Desktop` and `unzip` it.
 
+## Terminal Startup
+
+Open up the terminal (`Applications/Utilities/Terminal`) and navigate to your
+desktop (in unix: `cd ~/Desktop`). Then, go into the `shell_exercise` folder.
+
 # Execution
 
 ## Exploration
@@ -26,46 +31,57 @@ Download the `shell_exercise.zip` folder from Schoology. Move it do your
 In the figure below, fill in the blank spaces with what you observe in the
 `shell_exercise` folder tree.
 
-```
+```shell
 ~/Desktop
-  /shell_exercise
+    /shell_exercise
 
-    /__________________
+        /__________________
 
-      /_____________.txt
+            /_____________.txt
 
-      /__________________.txt
+            /__________________.txt
 
-      /__________________
-        /file_0.txt
-        /...
-        /file_999.txt
+            /__________________
+                /file_0.txt
+                /...
+                /file_999.txt
+            /__________________
+                /cs_quotes_v0.txt
+                /...
+                /cs_quotes_v4.txt
 ```
 
 ## Investigation
 
-1. What string does `.hidden_folder/big_file.txt` repeat over and over?
-2. How many lines does `.hidden_folder/big_file.txt` contain?
-3. What is the difference between `.hidden_folder/big_file.txt` and `.hidden_folder/other_big_file.txt`?
-4. Looking at the man page of `cp`, what does `-r` do?
+**Q:** What string does `.hidden_folder/big_file.txt` repeat over and over?
+
+**Q:** How many lines does `.hidden_folder/big_file.txt` contain?
+
+**Q:** What is the difference between `.hidden_folder/big_file.txt` and `.hidden_folder/other_big_file.txt`?
+
+**Q:** Looking at the man page of `cp`, what does `-r` do?
 
 ## Action
 
 1. Make changes such that the `shell_exercise` folder structure now looks like:
 
-```
+```shell
 ~/Desktop
-  /shell_exercise
-    /.hidden_folder
-      /buncha_orig_files
-        /file_0.txt
-        /...
-        /file_999.txt
-    /visible_folder
-      /big_file.txt           # hint: `mv`
-      /empty_file.txt         # hint: `touch`
-      /buncha_copied_files    # hint: `cp`
-        /file_0.txt
-        /...
-        /file_999.txt
+    /shell_exercise
+        /.hidden_folder
+            /buncha_orig_files
+                /file_0.txt
+                /...
+                /file_999.txt
+        /visible_folder
+            /big_file.txt           # hint: `mv`
+            /empty_file.txt         # hint: `touch`
+            /buncha_copied_files    # hint: `cp`
+                /file_0.txt
+                /...
+                /file_999.txt
+            /buncha_versions
+                /cs_quotes_v0.txt
+                /...
+                /cs_quotes_v4.txt
 ```
