@@ -102,7 +102,8 @@ Focus on the text of _The Great Gatsby_.
 Create a line graph that shows the number of occurences of "Tom", "Daisy", and
 "Gatsby" within each chapter.
 
-**Q:** What do you think happens in Chapter 7 and why?
+**Q:** What do you think happens in Chapter 8 (it's ok to guess)? What led you
+   to that conclusion?
 
 ## Step 2
 
