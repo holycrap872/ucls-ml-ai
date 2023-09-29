@@ -23,12 +23,18 @@ This is in `shell_exercise.zip`.
     - How is it different from GUI
         - Why better than a GUI? Why worse?
 - Open up shell and do some examples
-    - `ls`
-    - `cd`
+    - Where to find shell for various systems
+        - Mac is easy since based off Unix
+        - Windows is harder... you might have to move to in-lab computer
+    - Explore directory structure of computer
+        - `ls`
+        - `cd`
 - Draw a tree structure and explain relative/absolute
     - Show all the libraries
+    - https://github.com/dektar/command-line-treasure-hunt
+    - Show that folder structure is the same in websites and in terminal
 - Hidden folders
-- Do a bunch of randome stuff
+- Do a bunch of random stuff. Make sure to hit:
     - `mkdir`
     - `touch`
     - `cp`
@@ -38,10 +44,16 @@ This is in `shell_exercise.zip`.
     - `diff`
     - `say`
     - `cmatrix`
+    - `man`
 - Command line editors
     - `vim` and `nano` and `emacs`
     - `hexedit`
 - Story of ctrl-r
+- Hand out shell worksheet and havem them get started
+
+### Homework
+
+None
 
 ### Resources / Random ideas
 

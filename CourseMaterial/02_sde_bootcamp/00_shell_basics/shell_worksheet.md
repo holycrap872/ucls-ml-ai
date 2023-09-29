@@ -6,7 +6,7 @@ parts: preparation and execution.
 
 # Preparation
 
-## Knowledge Transfer
+## 1. Knowledge Transfer
 
 Watch the following video that explains a bunch (but by no mean all) shell
 commands: https://youtu.be/gd7BXuUQ91w?si=wykRpbOiXLn6gu-E&t=20 .
@@ -14,19 +14,24 @@ commands: https://youtu.be/gd7BXuUQ91w?si=wykRpbOiXLn6gu-E&t=20 .
   - Watch the portions talkinga bout `curl` -> `find`
   - Watch each portion again since it goes pretty fast
 
-## File System Setup
+## 2. File System Setup
 
 Download the `shell_exercise.zip` folder from Schoology. Move it do your
 `Desktop` and `unzip` it.
 
-## Terminal Startup
+## 3. Terminal Startup
 
 Open up the terminal (`Applications/Utilities/Terminal`) and navigate to your
 desktop (in unix: `cd ~/Desktop`). Then, go into the `shell_exercise` folder.
 
+## 4. Chat Model Setup
+
+Open up Bard or ChatGPT and be prepared to type any questions you might have
+about shell/terminal into it.
+
 # Execution
 
-## Exploration
+## 1. Exploration
 
 In the figure below, fill in the blank spaces with what you observe in the
 `shell_exercise` folder tree.
@@ -37,7 +42,7 @@ In the figure below, fill in the blank spaces with what you observe in the
 
         /__________________
 
-            /_____________.txt
+            /__________________.txt
 
             /__________________.txt
 
@@ -46,22 +51,25 @@ In the figure below, fill in the blank spaces with what you observe in the
                 /...
                 /file_999.txt
             /__________________
-                /cs_quotes_v0.txt
+                /cs_quotes_v0.md
                 /...
-                /cs_quotes_v4.txt
+                /cs_quotes_v4.md
 ```
 
-## Investigation
+## 2. Investigation
+
+**Q:** What was the most recently created folder?
 
 **Q:** What string does `.hidden_folder/big_file.txt` repeat over and over?
 
 **Q:** How many lines does `.hidden_folder/big_file.txt` contain?
 
-**Q:** What is the difference between `.hidden_folder/big_file.txt` and `.hidden_folder/other_big_file.txt`?
+**Q:** What is the difference between `.hidden_folder/big_file.txt` and
+    `.hidden_folder/other_big_file.txt`?
 
-**Q:** Looking at the man page of `cp`, what does `-r` do?
+**Q:** Looking at the man page of `cp`, what does `-R` do?
 
-## Action
+## 3. Action
 
 1. Make changes such that the `shell_exercise` folder structure now looks like:
 
@@ -81,7 +89,25 @@ In the figure below, fill in the blank spaces with what you observe in the
                 /...
                 /file_999.txt
             /buncha_versions
-                /cs_quotes_v0.txt
+                /cs_quotes_v0.md
                 /...
-                /cs_quotes_v4.txt
+                /cs_quotes_v4.md
 ```
+
+# Extension
+
+## Mild
+
+See how far you can get in https://cmdchallenge.com
+
+## Spicy
+
+See how far you can get in https://overthewire.org/wargames . To get started,
+you will need to "ssh" into a demonstration computer using the following
+command:
+
+```
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+```
+
+> This is a _difficult_ demo and requires careful reading, but you will learn A LOT
