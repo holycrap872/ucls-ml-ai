@@ -7,7 +7,9 @@ plots.style.use("fivethirtyeight")
 
 
 def get_data() -> typing.List[int]:
-    with open("CourseMaterial/01_intro_to_data_sci/03_plotting_classics/homework/simple_data.txt", "r") as file_fp:
+    with open(
+        "CourseMaterial/01_intro_to_data_sci/03_plotting_classics/simple_graph_hw/simple_data.txt", "r"
+    ) as file_fp:
         text = file_fp.read()
         print(text)
         s = text.split(",")
