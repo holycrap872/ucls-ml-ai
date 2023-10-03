@@ -8,10 +8,11 @@ parts: preparation and execution.
 
 ## 1. Knowledge Transfer
 
-Watch the following video that explains a bunch (but by no mean all) shell
-commands: https://youtu.be/gd7BXuUQ91w?si=wykRpbOiXLn6gu-E&t=20 .
+Watch the following video that explains a bunch (but by no means all) shell
+commands: https://youtu.be/gd7BXuUQ91w .
   - Watch the portions talking about `ls` -> `clear`
-  - Watch the portions talkinga bout `curl` -> `find`
+    - Look in "About Video" to find links to jump to the right part of the video
+  - Watch the portions talking about `curl` -> `find`
   - Watch each portion again since it goes pretty fast
 
 ## 2. File System Setup

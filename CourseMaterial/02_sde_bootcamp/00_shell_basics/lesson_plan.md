@@ -49,7 +49,11 @@ This is in `shell_exercise.zip`.
     - `vim` and `nano` and `emacs`
     - `hexedit`
 - Story of ctrl-r
-- Hand out shell worksheet and havem them get started
+- Hand out shell worksheet
+    - Read through the introduction together
+    - Reinforce section on ChatGPT/Bard
+        - "What if I want to know ...."
+- Go!
 
 ### Homework
 
