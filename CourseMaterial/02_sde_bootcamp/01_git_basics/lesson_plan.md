@@ -10,24 +10,33 @@
 ### Actual Lesson
 
 - Reflection from previous lesson
-    - What is vscode?
-    - What is vscode good at?
-    - What is vscode bad at?
-    - What are some ways we can configure vscode?
+    - What is shell?
+    - Why do we need shell?
+    - Do a quick example as a class.
 - What do we know about git?
     - Version control
     - Totally dominated/took over
         - Interesting history w/ Linus Torvald
-    - Github!
+    - GitHub!
         - Git was designed for collaboration
-    - Philosophical changes caused by github
+    - Philosophical changes caused by GitHub
         - Open source movement on steroids
-    - Pull/merge requests
-    - Forks
+            - Pull/merge requests
+            - Forks
 - What operations do we know in git?
+    - ...
+- Essence of git
+    - Diffs!
+    - Show example diffs from shell exercise
+    - Draw as a network/graph
+    - Show equivalent in git: https://gitlab.ucls.uchicago.edu/ml-ai/git-example
 - What is going on under the hood
     - Staging area -> makes for pretty commits
-    - https://software-carpentry.org/blog/2018/05/git-worksheets.html
+    - Do a word ladder as a class
+        - Have do changes along with me on their git worksheet
+            - Inspired by https://software-carpentry.org/blog/2018/05/git-worksheets.html
+- Show them some of class's repos
+    - https://gitlab.ucls.uchicago.edu/ml-ai/problem-set-skeleton
 
 ### Homework
 
@@ -41,6 +50,7 @@
     - Go from one sentence to a completely new sentence with one line changes
     - Each change gets its own commit
     - Represent this as git would
+- Clone our classes "Problem Set Skeleton" and do problem set lists in it?
 
 ### Resources
 - https://youtu.be/8JJ101D3knE
