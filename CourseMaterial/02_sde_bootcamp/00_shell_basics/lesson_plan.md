@@ -17,6 +17,7 @@ This is in `shell_exercise.zip`.
     - What are the themes of the class?
 - Kicking off multi-week "boot camp" to get everyone up to speed
     - Interns at AWS I've seen
+    - Going to keep doing some python on the side so skills do atrophy
 - Today going to learn shell
     - Who has used shell before?
     - What can you do?
@@ -27,19 +28,23 @@ This is in `shell_exercise.zip`.
         - Mac is easy since based off Unix
         - Windows is harder... you might have to move to in-lab computer
     - Explore directory structure of computer
+        - Do it on desktop so you can see the changes
         - `ls`
         - `cd`
+        - `mkdir`
+        - `pwd`
 - Draw a tree structure and explain relative/absolute
     - Show all the libraries
-    - https://github.com/dektar/command-line-treasure-hunt
     - Show that folder structure is the same in websites and in terminal
+        - https://github.com/dektar/command-line-treasure-hunt
+        - https://www.ucls.uchicago.edu/about-lab/maps-transportation-parking as example
 - Hidden folders
 - Do a bunch of random stuff. Make sure to hit:
-    - `mkdir`
     - `touch`
     - `cp`
     - `mv`
     - `cat`
+        - `cat` a random file (e.g., .pdf or .png to show the craziness)
     - `python3` -> REPL
     - `diff`
     - `say`
@@ -47,7 +52,6 @@ This is in `shell_exercise.zip`.
     - `man`
 - Command line editors
     - `vim` and `nano` and `emacs`
-    - `hexedit`
 - Story of ctrl-r
 - Hand out shell worksheet
     - Read through the introduction together
