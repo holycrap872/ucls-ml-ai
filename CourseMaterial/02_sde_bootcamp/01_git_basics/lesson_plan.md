@@ -5,7 +5,16 @@
 
 ## Lesson Plan
 
+The goal of this lesson is to introduce students to git. I _do not_ want them to
+be git experts coming out of this. Instead, I would like them to know why git is
+important and to understand in general how git is a chain of diffs. With that
+foundation, we can emphasize certain aspects of git in future lessons as they
+are needed. In summary, as long as they understand the "graph" concept and the
+`git log` concept, then I'm happy.
+
 ### Setup
+
+A few example git repositories to chew on.
 
 ### Actual Lesson
 
@@ -17,14 +26,20 @@
     - Version control
     - Totally dominated/took over
         - Interesting history w/ Linus Torvald
+    - Why do you think so popular?
+- What do you notice about a real git repository?
+    - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
+    - Have click around for 3-5 minutes
+- Why git?
+    - Make small changes over time
+    - Track who's making changes
+    - Easily go back in history
     - GitHub!
         - Git was designed for collaboration
     - Philosophical changes caused by GitHub
         - Open source movement on steroids
             - Pull/merge requests
             - Forks
-- What operations do we know in git?
-    - ...
 - Essence of git
     - Diffs!
     - Show example diffs from shell exercise
