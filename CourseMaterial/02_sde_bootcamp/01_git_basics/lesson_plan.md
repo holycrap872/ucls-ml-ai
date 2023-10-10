@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- What are the benefits of version controlling your software
+- What are the benefits of version controlling your software?
 - Why are diffs such a powerful primitive?
 
 ## Lesson Plan
@@ -21,6 +21,9 @@ A few example git repositories to chew on.
 - Reflection from previous lesson
     - What is shell?
     - Why do we need shell?
+    - Watch video as a class
+        - https://www.youtube.com/watch?v=ephId3mYu9o
+        - Discuss
     - Do a quick example as a class.
 - What do we know about git?
     - Version control
@@ -45,13 +48,14 @@ A few example git repositories to chew on.
     - Show example diffs from shell exercise
     - Draw as a network/graph
     - Show equivalent in git: https://gitlab.ucls.uchicago.edu/ml-ai/git-example
-- What is going on under the hood
+- Do super simple example
+    - Have them follow on the sheet
     - Staging area -> makes for pretty commits
-    - Do a word ladder as a class
-        - Have do changes along with me on their git worksheet
-            - Inspired by https://software-carpentry.org/blog/2018/05/git-worksheets.html
-- Show them some of class's repos
-    - https://gitlab.ucls.uchicago.edu/ml-ai/problem-set-skeleton
+- What do you think we're going to use git for?
+    - Problem sets
+    - TIL
+        - Show Josh's TIL
+        - 11k stars
 
 ### Homework
 
@@ -75,3 +79,5 @@ A few example git repositories to chew on.
     - Git for vscode
     - Kind of relies on you knowing git/purpose of git
     - Not sure how much git knowledge people have
+- https://www.youtube.com/watch?v=USjZcfj8yxE
+    - 15m intro to git

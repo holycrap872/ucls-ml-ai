@@ -12,20 +12,21 @@ project that they will add to over time.
 
 ### Setup
 
-None unless you want to use a "class group"
+None unless you want to use a "class group". Might want them do this on the
+school provided computers for some amount of sanity.
 
 ### Actual Lesson
 
 - Review
     - `git` is just a bunch of diffs
     - staged changes vs. unstaged changes
+    - Do a word ladder as a class
+        - Have do changes along with me on their git worksheet
 - Today going to push `git` to the cloud
-    - Show some examples in github
-        - angr
-        - Josh's TIL
+    - Show some examples in gitlab
         - Look at commits to see what's going on
-    - Every good project has a README
-        - README is in markdown
+    - Every good project has a `README`
+        - `README` is in markdown
         - Basically opposite of mark up
         - Show raw file vs. rendered file
     - https://stackedit.io/app#
@@ -35,7 +36,8 @@ None unless you want to use a "class group"
         - Create a TIL repo
             - Going to be adding to it over the course of the term
         - First commit is a README.md explaining what is going on
-        - Second commit is a commit about what you learned about the turing test
+        - Second commit is a commit about something you learned in class
+        - We will read through them and they will be graded for effort
     - Go
 
 ### Homework

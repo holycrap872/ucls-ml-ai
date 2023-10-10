@@ -59,6 +59,16 @@ This is in `shell_exercise.zip`.
         - "What if I want to know ...."
 - Go!
 
+## Day 2
+
+- Review
+    - Various commands
+    - Why shell is useful
+- Class exercise
+    - Create and move a bunch of stuff around
+- Reiterate that should have Bard/ChatGPT open
+- Go!
+
 ### Homework
 
 None
