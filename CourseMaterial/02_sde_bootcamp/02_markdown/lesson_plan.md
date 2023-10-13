@@ -18,28 +18,51 @@ school provided computers for some amount of sanity.
 ### Actual Lesson
 
 - Review
+    - `git` in comparison to GoogleDocs
     - `git` is just a bunch of diffs
     - staged changes vs. unstaged changes
     - Do a word ladder as a class
         - Have do changes along with me on their git worksheet
+    - Git check -> who has `git` on command line?
 - Today going to push `git` to the cloud
     - Show some examples in gitlab
         - Look at commits to see what's going on
-    - Every good project has a `README`
-        - `README` is in markdown
-        - Basically opposite of mark up
+    - Have everyone create their own til project in git
+        - GitLab > Create New Project
+            - Name: Today I learned
+            - Projec slug: til
+            - Visibility Level: Internal
+            - Initialize with README: True
+    - Allow them to briefly explore
+        - Notice paths in URL
+        - Notice number of commits
+    - Every good project has a `README.md`
+        - `README.md` is in markdown
+            - Basically opposite of mark up
+            - Philosphy of markdown: Structure that's as readable as possible
         - Show raw file vs. rendered file
-    - https://stackedit.io/app#
-        - Have them experiment for a while
-        - Bold, headings 1 - 2 - 3, ordered lists, unordered lists, notes
+        - Have them edit the existing README to include:
+            - List of categories covered (eventually)
+                - Python
+                - AI
+                - Git
+                - Shell
+            - Link to outside website
+            - A License Section
+    - Now going to clone
+        - Pull down TIL
+        - Create second entry
     - Goal today:
-        - Create a TIL repo
-            - Going to be adding to it over the course of the term
-        - First commit is a README.md explaining what is going on
-        - Second commit is a commit about something you learned in class
-        - We will read through them and they will be graded for effort
-    - Go
+        - Get started on homework
 
 ### Homework
 
-- Finish ... I'll check your work
+```
+Create and push your first TIL entry. The entry must:
+
+1. Be inside its own "category" folder inside your til repository
+2. Have a title, a brief writeup and and example (use this as a model)
+3. Be linked to in the README.md
+
+This means that your commit will include changes to two files: the file that contains your new entry and a change to the README (to insert the link).
+```
