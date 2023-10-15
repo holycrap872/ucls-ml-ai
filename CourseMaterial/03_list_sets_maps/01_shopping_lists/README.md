@@ -72,4 +72,3 @@ EQs:
 1. What is the only time where the shopping list is efficient (for the shopper)?
 2. What would be the code for a shopping dictionary?
 3. How could we simply the program with functions?
-

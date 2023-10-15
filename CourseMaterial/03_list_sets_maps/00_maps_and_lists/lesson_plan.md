@@ -1,45 +1,36 @@
 ## Essential Questions
+
 - Why are maps, sets, and lists such powerful datastructures?
 - What situations lend themselves to the use of these datastructures?
 
 ## Lesson Plan
 
 - Refresher
-    - 
-- Maps
-- Sets
-- Lists
-- Places with maps
-    - JSON
-        - Go through various API calls
-            - Show maps and lists in AWS call
-    - Functions are similar to maps
-        - vargs
-        - kwargs 
-    - 
-- Real life examples of each
-    - Maps
-        - Phone book
-        - School database
-    - Sets
-        - Books a library has
-        - People "in da club"
-    - Lists
-        - People not "in da club"
-        - Birth order
-- Layering
-    - Maps to a set
-        - Class rosters
-    - Maps to a list
-- When one becomes another
-    - List of all presidents or set of all presidents?
-    - Map of things to buy or set of things to buy?
-- Simple problems together
-    - Name to age map
-        - What if same person is in map twice
-    - Phone book
-        - Who even has heard of phone books?
-    - Words in a sentence
+    - What does "the perfect setup" look like
+        - shell, vscode, and ChatGPT open
+    - Show someone's homework on git
+    - Discuss both the homework and git
+- New unit!
+    - Data Structures: maps (dicts), sets, and lists
+- What do you remember about these?
+    - It's in Grok
+- Philosophy:
+    - Only need these three data structures
+    - Lists are ordered
+    - Sets are existence
+    - Dictionaries are relationships
+    - All you need!
+- Go through real life examples
+    - School database -> dict
+    - Birth order of family -> list
+    - Books a library has -> set
+    - People waiting outside "da club" -> list
+    - People inside "da club" -> set
+    - Search engine -> dict
+- Do one example of each in Python
+- Hand out worksheet and let do it for 10 minutes in pairs
+    - Discuss when come back
 
 ## Homework
-- Real life maps/sets/lists
+
+- TIL entry about syntax/purpose of each data structure
