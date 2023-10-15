@@ -30,6 +30,8 @@ A few example git repositories to chew on.
     - Totally dominated/took over
         - Interesting history w/ Linus Torvald
     - Why do you think so popular?
+    - Git check -> who has `git` on command line?
+        - They all _should_ have `git` on the command line because of vscode
 - What do you notice about a real git repository?
     - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
     - Have click around for 3-5 minutes
@@ -37,41 +39,35 @@ A few example git repositories to chew on.
     - Make small changes over time
     - Track who's making changes
     - Easily go back in history
-    - GitHub!
-        - Git was designed for collaboration
-    - Philosophical changes caused by GitHub
-        - Open source movement on steroids
-            - Pull/merge requests
-            - Forks
+    - How similar/how different to GoogleDocs history
 - Essence of git
     - Diffs!
     - Show example diffs from shell exercise
     - Draw as a network/graph
     - Show equivalent in git: https://gitlab.ucls.uchicago.edu/ml-ai/git-example
+        - How is this similar to GoogleDocs?
 - Do super simple example
-    - Have them follow on the sheet
+    - Word ladder
+    - **Have them follow on the sheet**
     - Staging area -> makes for pretty commits
 - What do you think we're going to use git for?
     - Problem sets
     - TIL
-        - Show Josh's TIL
+        - Show Josh's TIL: https://github.com/jbranchaud/til
         - 11k stars
 
 ### Homework
 
-- Create a TIL repository
-    - Create github account
-    - create repository named "til"
-    - Add an entry to til
-    - Good example: https://github.com/jbranchaud/til
-- Create a 5 word sentence "ladder"
-    - Put each word on its own line
-    - Go from one sentence to a completely new sentence with one line changes
-    - Each change gets its own commit
-    - Represent this as git would
-- Clone our classes "Problem Set Skeleton" and do problem set lists in it?
+- Turn Problem Set Skeleton into git repo
+    1. `git init`
+    2. Add any and all useful files (nothing with a `.` in front of it)
+        - I very sneakily put a .gitignore file in the problem set skeleton
+    3. Create "initial commit"
+    4. Do a **single** problem from Wheaties
+    5. Create second commit
 
 ### Resources
+
 - https://youtu.be/8JJ101D3knE
     - Good general introduction up to minute 6
     - Make clear get bonus points (fake) if can do it on command-line

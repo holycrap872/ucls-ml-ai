@@ -20,20 +20,20 @@ school provided computers for some amount of sanity.
 - Review
     - `git` in comparison to GoogleDocs
     - `git` is just a bunch of diffs
-    - staged changes vs. unstaged changes
-    - Do a word ladder as a class
-        - Have do changes along with me on their git worksheet
-    - Git check -> who has `git` on command line?
+    - Staged changes vs. unstaged changes
+    - Do a real world example of a project as a class
+        - Go SLOW!
+        - Have them again do changes along with me on their git worksheet
 - Today going to push `git` to the cloud
     - Show some examples in gitlab
         - Look at commits to see what's going on
     - Have everyone create their own til project in git
         - GitLab > Create New Project
             - Name: Today I learned
-            - Projec slug: til
+            - Project slug: til
             - Visibility Level: Internal
             - Initialize with README: True
-    - Allow them to briefly explore
+    - Allow them to briefly explore effects of creating a repo via GitLab
         - Notice paths in URL
         - Notice number of commits
     - Every good project has a `README.md`
@@ -51,7 +51,6 @@ school provided computers for some amount of sanity.
             - A License Section
     - Now going to clone
         - Pull down TIL
-        - Create second entry
     - Goal today:
         - Get started on homework
 
