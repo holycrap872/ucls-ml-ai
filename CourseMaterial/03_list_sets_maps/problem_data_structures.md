@@ -7,7 +7,7 @@ Create two new files in your problem set skeleton. Name one file
 (`test/test_string_wheaties.py`).
 
 For each problem, create a new function in the `data_structure_wheaties.py` file
-and then write at **least** two unit tests is the
+and then write at **least two unit tests** in the
 `test_data_structure_wheaties.py` file.
 
 # Problems
@@ -33,7 +33,7 @@ and then write at **least** two unit tests is the
    returns the smallest value.
 7. Create a function that takes a list of pairs as an input and returns those
    pairs as keys/values in a dictionary.
-   - For example: `[(1, "a") (2, "b") (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
+    - For example: `[(1, "a") (2, "b") (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
 8. Create a function that takes a sentence as an input and returns a set of all
    of the words in the sentence.
 9. Create a function that takes list of ints and returns a dictionary containing
@@ -47,10 +47,10 @@ and then write at **least** two unit tests is the
 12. Create a function that takes a dictionary of ints mapped to ints as an input
     and returns a list of all of the values ordered by their keys (different
     from the previous question).
-   - For example: `{1: 100, 3: 55, 2: 8} -> [100, 8, 55]`
+    - For example: `{1: 100, 3: 55, 2: 8} -> [100, 8, 55]`
 13. Create a function that takes two lists of ints as inputs and returns the
     set of ints that are in both.
-14. Create a function that takes a sentence and counts the number of time each
+14. Create a function that takes a sentence and counts the number of times each
     word in the sentence appears.
     - For example: `"hey you hey there hey" -> {"hey": 3, "you": 1, "there": 1}`
 15. Create a function that takes a string as an input and returns the first,

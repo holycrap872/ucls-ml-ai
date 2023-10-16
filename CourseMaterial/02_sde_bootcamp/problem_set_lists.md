@@ -6,7 +6,7 @@ Name the other file `test_list_wheaties.py` and put it in the `test` folder
 (`test/test_list_wheaties.py`).
 
 For each problem, create a new function in the `list_wheaties.py` file and
-then write at **least** two unit tests is the `test_list_wheaties.py` file.
+then write at **least two unit tests** in the `test_list_wheaties.py` file.
 
 # Problems
 

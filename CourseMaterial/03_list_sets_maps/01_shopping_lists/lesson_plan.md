@@ -43,4 +43,4 @@
 
 ### Homework
 
-Problems 0-X of Python Data Structures Wheaties
+- Problems 0-6 of Python Data Structures Wheaties

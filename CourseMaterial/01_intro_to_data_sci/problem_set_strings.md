@@ -6,7 +6,7 @@ Name the other file `test_string_wheaties.py` and put it in the `test` folder
 (`test/test_string_wheaties.py`).
 
 For each problem, create a new function in the `string_wheaties.py` file and
-then write at **least one** unit tests is the `test_string_wheaties.py` file.
+then write at **least one unit test** in the `test_string_wheaties.py` file.
 
 # Problems
 
