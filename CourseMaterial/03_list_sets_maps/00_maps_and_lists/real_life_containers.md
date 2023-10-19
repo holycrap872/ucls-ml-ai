@@ -17,8 +17,6 @@ For example:
 
    - Code Example:
 
-
-
 2. You're building a music playlist where you simply want to print out the
    song titles in the order they will play.
    - Storage type:
