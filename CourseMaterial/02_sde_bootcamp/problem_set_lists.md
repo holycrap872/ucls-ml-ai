@@ -43,10 +43,10 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
    a single list which is the strings at each index concatenated. Assume that
    the two lists are of the same length.
    - For example: `["a", "hi"], ["b", "bye] -> ["ab", "hibye"]`
-10. Create a function that takes two lists of integers as inputs and then returns
+10. Create a function that takes a list of lists of integers and then returns
+   a single list that is the input list "flattened".
+   - For example: `[[1, 6], [3], [7, 9]] -> [1, 6, 3, 7, 9]`
+11. Create a function that takes two lists of integers as inputs and then returns
    a single list such that they elements are alternating from the two input lists.
    **Do not** assume that the two lists are of the same length.
    - For example: `[1, 4, 10], [100, 3, 55] -> [1, 100, 4, 3, 10, 55]`
-11. Create a function that takes a list of lists of integers and then returns
-   a single list that is the input list "flattened".
-   - For example: `[[1, 6], [3], [7, 9]] -> [1, 6, 3, 7, 9]`
