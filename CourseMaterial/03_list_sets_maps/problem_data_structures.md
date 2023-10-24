@@ -39,39 +39,49 @@ and then write at **least two unit tests** in the
    returns the smallest value.
 8. Create a function that takes a list of pairs as an input and returns those
    pairs as keys/values in a dictionary.
-    - For example: `[(1, "a") (2, "b") (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
+    - For example: `[(1, "a"), (2, "b"), (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
 9. Create a function that takes a sentence as an input and returns a set of all
    of the words in the sentence.
-10. Create a function that takes list of ints and returns a dictionary containing
+10. Create a function that takes two sets of ints as an input and returns a
+    boolean of whether the first set is a "subset" of the second set. Do
+    **not** use the `.issubset()` function.
+11. Create a function that takes list of ints and returns a dictionary containing
     the even/odd count.
     - For example: `[1, 11, 10, 5] -> {"even": 1, "odd": 3}`
-11. Create a function that takes a sentence as an input and returns the number
+12. Create a function that takes a sentence as an input and returns the number
     of unique words in the sentence.
     - For example: `"hey you hey there hey" -> 3`
-12. Create a function that takes a dictionary of ints mapped to ints as an input
-    and returns a list of all of the values in the dictionary in sorted order.
 13. Create a function that takes a dictionary of ints mapped to ints as an input
+    and returns a list of all of the values in the dictionary in sorted order.
+14. Create a function that takes a dictionary of ints mapped to ints as an input
     and returns a list of all of the values ordered by their keys (different
     from the previous question).
     - For example: `{1: 100, 3: 55, 2: 8} -> [100, 8, 55]`
-14. Create a function that takes two lists of ints as inputs and returns the
+15. Create a function that takes two lists of ints as inputs and returns the
     set of ints that are in both.
-15. Create a function that takes a sentence and counts the number of times each
+16. Create a function that takes a sentence and counts the number of times each
     word in the sentence appears.
     - For example: `"hey you hey there hey" -> {"hey": 3, "you": 1, "there": 1}`
-16. Create a function that takes a string as an input and returns the first,
+17. Create a function that takes a string as an input and returns the first,
     non-repeated character in the string.
     - For example: `"good gosh" -> "d"`
-17. Create a function that takes a list as an input and then returns a boolean
+18. Create a function that takes a list as an input and then returns a boolean
     of whether there are duplicates in the list.
-18. Create a function that takes a list of strings as an input and returns a
+19. Create a function that takes a list of strings as an input and returns a
     list containing the reverse of each string.
     - For example: `["apple", "banana", "cherry"] -> ["elppa", "ananab", "yrrehc"]`
-19. Create a function that takes a list of ints as an input and returns a version
+20. Create a function that takes two sets of ints as an input and returns a
+    set of ints that is the intersetion of the two sets. Do **not** use the
+    `intersection()` function.
+21. Create a function that takes a list of ints as an input and returns a version
     of the input list without any duplicates but with order preserved.
     - For example: `[4, 5, 4, 4, 1, 2, 5] -> [4, 5, 1, 2]`
-20. Create a function that takes a list of ints as an input and returns a version
+22. Create a function that takes a list of ints as an input and returns a version
     of the input list without any duplicates (order need not be preserved).
-21. Create a function that takes two lists of ints as inputs and returns the set
+23. Create a function that takes two lists of ints as inputs and returns the set
     of ints that are in only one of the lists.
     - For example: `[4, 5, 4, 3], [3, 1, 5] -> {4, 1}`
+24. Create a function that takes a nested dictionary of strings and a complex key
+    as an input and then returns the value for the nested key. If the complex key
+    doesn't lead to anything, have it return the empty string.
+    - For example: `{"a": {"b": {"c": "d"}}}, "a/b/c" -> "d"`
