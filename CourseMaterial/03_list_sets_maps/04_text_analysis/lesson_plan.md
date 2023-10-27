@@ -11,6 +11,8 @@ Print out text analysis sheet
 
 ### Actual Lesson
 
+#### Day 1
+
 - Reflection
     - When to use sets/maps/lists?
     - What is a count dict?
@@ -41,6 +43,21 @@ Print out text analysis sheet
             - `text_to_words()`
             - `get_count_dict()`
     - Go!
+
+#### Day 2
+
+- Reflection
+    - Set operations
+    - Things that were hard about lab so far
+- `git mv` discussion
+    - Show how if you rename files, git loses track of them
+    - Can do `git mv` OR `git add` and `git rm`
+    - Illustrate
+    - Homework tonight is to organize all of your TIL entires
+        - better "topic folders"
+        - better names for files
+    - Show Josh's as an example
+- Continue with worksheet
 
 ### Possible extensions
 - Book to book comparison

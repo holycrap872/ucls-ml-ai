@@ -35,6 +35,7 @@ points if you have a forumla for checking that the numbers are between 0 and 9.
     - Bar chart of even/odds
 
 #### Day 2
+
 - Reflection
     - What is randomness
     - Why is it hard
