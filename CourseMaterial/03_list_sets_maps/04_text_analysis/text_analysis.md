@@ -2,13 +2,13 @@
 
 The way that people communicate changes over time. This includes the words
 that they actually use. In this exercise, we are going to investigate the
-similarities and differences in language over time.
+similarities and differences in language over decades.
 
 The data that we will be operating on will come from Project Gutenberg. First,
 choose two non-consecutive decades (1920's or before for copyright reasons).
 Then, go to https://www.goodreads.com/list/show/39 and find two books from
-different authors from each of those decades that are of interest to you
-and verify that they are on Project Gutenberg.
+different authors from each of those decades and verify that they are available
+on Project Gutenberg.
 
 1. Decade 1: _______________
     - Book 1: _______________
@@ -25,11 +25,11 @@ with Project Gutenberg.
 
 1. For calculating the number of **total words** in the book:
     - What data structure should you use?
-    - Implement it!
-    - How many words are in the book?
+    - Implement functionality to calculate it!
+    - How many total words are in the book?
 2. For calculating the number of **unique words** in the book:
     - What data structure should you use?
-    - Implement it!
+    - Implement functionality to calculate it!
     - How many unique words are in the book?
 3. For counting the number of times each word appears in the book:
     - What data structure should you use?
@@ -59,8 +59,8 @@ previous section.
 
 
         ```
-    - Implement it!
-    - How many words are in at least one of the books?
+    - Implement functionality to calculate it!
+    - How many unique words are in at least one of the books?
 3. For calculating the words that the books have in common (aka in **both** books):
     - What data structure should you use?
     - Draw a Venn diagram of what portion you want to select:
@@ -72,8 +72,8 @@ previous section.
 
 
         ```
-    - Implement it!
-    - How many words are in both of the books?
+    - Implement functionality to calculate it!
+    - How many unique words are in both of the books?
 4. For calculating the words that are only in the first book and not the second:
     - What data structure should you use?
     - Draw a Venn diagram of what portion you want to select:
@@ -85,8 +85,8 @@ previous section.
 
 
         ```
-    - Implement it!
-    - How many words are only in the first book?
+    - Implement functionality to calculate it!
+    - How many unique words are only in the first book?
     - What are two or three of these words?
 5. How many times does the most common word in the first book appear in the second?
 
@@ -97,15 +97,16 @@ Load up the two books from the decade that we haven't analyzed yet.
 Create a set of words that are _in both books_ from your first decade and a set
 of words that are _in both_ books from your second decade.
 
-1. For calculating what words are only in the books from the first decade:
+1. For calculating what words are only in the books from the **first decade**:
     - What set operation should you use?
-    - Implement it!
+    - Implement functionality to calculate it!
     - How many words are only in the books from the first decade?
     - What are two or three of these words?
     - Give a one sentence explanation of what this set represents:
-2. What are words that are only in the second set?
+2. For calculating what words are only in the books from the **second decade**:
     - What set operation should you use?
-    - How many are there?
+    - Implement functionality to calculate it!
+    - How many words are only in the books from the second decade?
     - What are two or three of these words?
     - Give a one sentence explanation of what this set represents:
 
