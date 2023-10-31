@@ -34,9 +34,8 @@ with Project Gutenberg.
 3. For counting the number of times each word appears in the book:
     - What data structure should you use?
     - Implement it!
-    - How often does the word `"and"` appear in the book?
+    - How often does the word `and` appear in the book?
     - What is the most common word in the book and how often does it occur? 
-    - What are two or three words that only occur once?
 4. Print out all of the words that occur only once in the book:
     - What are two or three of them?
     - Is there anything you can do to clean up your data?
@@ -47,7 +46,7 @@ with Project Gutenberg.
 Load up the other book **from the same decade** as the one you analyzed in the
 previous section.
 
-1. Is the word `"and"` in both books?
+1. Is the word `and` in both books?
 2. For calculating the words that appear in at least one of the books (aka in **either** book):
     - What data structure should you use?
     - Draw a Venn diagram of what portion you want to select:

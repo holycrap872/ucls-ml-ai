@@ -5,11 +5,16 @@ import typing
 def load_book(path: str) -> typing.List[str]:
     with open(path, "r") as fp:
         text = fp.read()
+        text = text.lower()
         text = text.replace(".", "")
         text = text.replace(",", "")
         text = text.replace("_", "")
+        text = text.replace("'", "")
+        text = text.replace('"', "")
+        text = text.replace("?", "")
+        text = text.replace("!", "")
         text = text.replace("-", " ")
-        return [x.lower() for x in text.split()]
+        return text.split()
 
 
 def get_num_words(text: typing.List[str]) -> int:
@@ -41,6 +46,21 @@ def max_find(count_dict: typing.Dict[str, int]) -> str:
     return word
 
 
+def jaccard_similarity(base_book_paths: typing.List[str], compare_book_path: str) -> float:
+    common_words = None
+    for base_book_path in base_book_paths:
+        words_in_book = set(load_book(base_book_path))
+        if common_words is None:
+            common_words = words_in_book
+        else:
+            common_words = common_words.intersection(words_in_book)
+
+    compare_book_words = set(load_book(compare_book_path))
+    assert common_words is not None
+
+    return len(common_words.intersection(compare_book_words)) / len(common_words.union(compare_book_words))
+
+
 if __name__ == "__main__":
     rb_word_list = load_book("CourseMaterial/data/robert_frost.txt")
     fr_word_list = load_book("CourseMaterial/data/frankenstein.txt")
@@ -60,5 +80,22 @@ if __name__ == "__main__":
     print("Words in either RF and Frank:", len(rb_word_set.union(fr_word_list)))
     print("Words in both RF and Frank:", len(rb_word_set.intersection(fr_word_list)))
 
-    # print(count_dict["road"])
-    # print(max_find(count_dict))
+    similarity_thriller = jaccard_similarity(
+        [
+            "CourseMaterial/data/dracula.txt",
+            "CourseMaterial/data/the_time_machine.txt",
+            "CourseMaterial/data/frankenstein.txt",
+        ],
+        "CourseMaterial/data/great_gatsby.txt",
+    )
+    print("Similarity to thriller:", similarity_thriller)
+
+    similarity_drama = jaccard_similarity(
+        [
+            "CourseMaterial/data/pride_and_prejudice.txt",
+            "CourseMaterial/data/oliver_twist.txt",
+            "CourseMaterial/data/little_women.txt",
+        ],
+        "CourseMaterial/data/great_gatsby.txt",
+    )
+    print("Similarity to drama:", similarity_drama)
