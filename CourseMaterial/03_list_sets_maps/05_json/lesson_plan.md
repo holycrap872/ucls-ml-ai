@@ -18,29 +18,44 @@
     - Go to URL: https://groklearning.com/dashboard/99895/students/#/assignments/?group=59221
         - Look in network for `student-data-batched` for student "objects"
         - Look in network for `student-assignment-data-batched/` for student progress "objects"
-    - What do you notice/wonder?
-- Go to AWS and show a Lambda function
-    - Simple lambda that takes in a name and locations and prints out something
-    - JSON!
-    - What do you see?
+    - Put in json formatter
+        - What do you notice/wonder?
+- JSON Demo
+    ```python
+    def json_demo() -> None:
+        received_json_dict_via_internet = '{"name": "eric", "job": "teacher"}'
+
+        # print(received_json_dict_via_internet["name"])  WILL FAIL
+        # print(received_json_dict_via_internet["job"])  WILL FAIL
+        print(len(received_json_dict_via_internet))
+        # print(received_json_dict_via_internet["no_key"])  WILL FAIL
+
+        dict_2 = json.loads(received_json_dict_via_internet)
+
+        print(dict_2["name"])
+        print(dict_2["job"])
+        print(len(dict_2))
+        print(dict_2["no_key"])
+
+    if __name__ == "__main__":
+        json_demo()
+    ```
 - Theory of JSON:
     - Why is it so prevelent?
     - Where are the sets?
 - Talk through emoji pics:
-    - Steps
-        - Download files
-        - Read files
-        - Print files
+    - Talk through file format
+        - Have flag.json and pic side by side
     - Key Functions
         - encoding_to_emoji()
-        - output_picture()
-    - Pair programming!
+        - load_dict_from_file()
 - Go!
     - `color_outputter.py`
 
 ### Homework
 
-- Data structures 13-15 (only b/c I don't see them until Monday)
+- Data structures 13-14 (only b/c I don't see them until Monday)
+- TIL on JSON
 
 ### Potential Extensions
 
