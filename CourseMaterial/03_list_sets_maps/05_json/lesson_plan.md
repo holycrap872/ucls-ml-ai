@@ -5,6 +5,8 @@
 
 ## Lesson Plan
 
+#### Day 1
+
 - Reflection
     - Things that were easy/hard about the text analysis
     - Show my Jaccardian analysis
@@ -51,6 +53,23 @@
         - load_dict_from_file()
 - Go!
     - `color_outputter.py`
+
+#### Day 2
+
+- Review
+    - JSON
+    - Show someone's TIL entry and discuss
+- JSON serialization/deserialization
+    - How would I output json another thing can use
+    - Show can't just print out a dictionary
+    - Dumps
+    - Verify correct using a json formatter
+        - What language is json formatter in?
+        - Doesn't matter... language agnostic
+- Emoji Outputter
+    - Review
+    - Come up with key functions
+- Go!
 
 ### Homework
 
