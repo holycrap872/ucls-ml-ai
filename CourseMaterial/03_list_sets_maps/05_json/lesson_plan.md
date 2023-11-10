@@ -69,7 +69,29 @@
 - Emoji Outputter
     - Review
     - Come up with key functions
+    - Return type is `typing.Dict[str, typing.List[str]]`
 - Go!
+
+#### Day 3
+
+- Review
+    - Getting pytest to run on your computer
+        - pwd
+        - export PYTHONPATH
+        - pytest
+        - ctrl-r
+    - JSON serialize/deserialize
+- Emoji Deserializer
+    - Review
+- Emoji Serializer task
+    - Read text file
+    - Convert to dictionary
+    - Print JSON
+- As a class, come up with key functions
+    - Have them think and write down two useful functions first
+- Classwork
+    - Design your own EmojiPic
+    - Encode it and dump it
 
 ### Homework
 
@@ -80,3 +102,5 @@
 
 - Do JSON encode/decode together on screen
     - JSON of scrabble words
+- Pydantic validator
+    - Starting to edge towards objects
