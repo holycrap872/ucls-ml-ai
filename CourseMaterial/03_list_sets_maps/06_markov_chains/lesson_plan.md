@@ -4,6 +4,8 @@
 
 ### Setup
 
+`ana_markov_sim.py` seeded with intentional error where `ana_location = next_stop` is missing
+
 ### Actual Lesson
 
 #### Day 1:
@@ -14,7 +16,7 @@
 #### Day 2
 
 - Review
-    TIL of debugging
+    - TIL of debugging
 - Today theory or chatbots, M-W chat bots
 - Markov Chains
     - Discuss theory

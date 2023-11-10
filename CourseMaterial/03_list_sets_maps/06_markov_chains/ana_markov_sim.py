@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import random
+import time
 
 AVERAGEMONT = "AVERAGEMONT"
 DISCRETOWN = "DISCRETOWN"
@@ -19,10 +20,16 @@ def ana_markov_sim() -> None:
 
     ana_location = BAYESVILLE
     for _ in range(0, 5):
-        next_stop = random.sample(flights[ana_location], 1)[0]
-        print(f"Ana is getting on a plan in {ana_location}")
-        print("Airplane sound")
+        possible_stops = flights[ana_location]
+        next_stop = random.sample(possible_stops, 1)[0]
+        time.sleep(1)
+        print(f"Ana is getting on a plane in {ana_location}")
+        time.sleep(1)
+        print("🛫 Airplane sound 🛬")
+        time.sleep(1)
         print(f"Ana arrived in {next_stop}")
+
+        ana_location = next_stop
 
 
 if __name__ == "__main__":
