@@ -7,6 +7,8 @@
 
 ### Setup
 
+Sufficient copies of `predict_text.md` printed out
+
 ### Actual Lesson
 
 - Review
@@ -25,14 +27,14 @@
     - Words instead of letters
     - Back to "I like turtles" example
 - Worksheet
+    - Read through worksheet
     - Before starting, come up with possible functions
-    - 
-
 
 Extensions:
 - Formally define the behvaior in terms of probability
     - Bayes
 
-### Resource
+#### Missed class
 
 - https://www.youtube.com/watch?v=MGVdu39gT6k
+    - 6:37 - end

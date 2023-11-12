@@ -44,3 +44,12 @@
     - Hard
         - Dictionary to counting dictionary
     - Test function with unit tests
+
+##### Homework
+
+- Finish class work
+
+##### Missed class resource
+
+- https://www.youtube.com/watch?v=MGVdu39gT6k
+    - 0:00 - 6:37
