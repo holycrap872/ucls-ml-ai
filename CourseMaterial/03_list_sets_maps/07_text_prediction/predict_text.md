@@ -31,18 +31,18 @@ Now we're going to operate on real data. Choose _one_ of your books from your
 `data` folder. Make sure that and _any pre/post text_ that has to do with
 Project Gutenberg has been removed.
 
-1. For generating the "Markov" graph associated with the book:
+1. For generating the "Markov graph" associated with the book:
     - What book did you choose?
-    - What data structure should you use?
+    - Including types, what data structure should you use?
     - What are three functions you could create that will make implementation easier?
         - Function 1:
         - Function 2:
         - Function 3:
     - Implement functionality to calculate it!
 2. Looking at the model/graph you just generated:
-    - How many total transitions  (word -> word) are there?
-    - What word has the greatest number of words that follow it?
     - What word most commonly follows "and"?
+    - What word has the greatest number of words that follow it?
+    - How many total transitions (word -> word) are there?
     - What is the most common word -> word transition?
 
 ## Most Common Sentence
@@ -53,9 +53,15 @@ This means we **don't yet need** to use any call to `random`.
 
 1. For generating the "most common sentence" of **a given length**:
     - What are two functions you could create that will make implementation easier?
+        - Function 1:
+        - Function 2:
     - Implement functionality to calculate it!
 2. What is the "most common sentence" eight-word sentence that starts with "i"?
+    ```
+    ```
 3. What is the "most common sentence" eight-word sentence that starts with a word of your choosing?
+    ```
+    ```
 
 ## Most Common Non-Repeating Sentence
 
@@ -68,6 +74,8 @@ how to use this to prevent the same word from being output more than once.
     - What is the function you will need to alter?
     - Implement functionality to calculate it!
 2. What is the "most common sentence" eight-word sentence that starts with "i"?
+    ```
+    ```
 
 ## True Markov Chain Generation
 
@@ -77,11 +85,15 @@ that we follow a transition is proportional to the number of occurrences it has.
 1. For generating a "true Markov-chain generated sentence" of **a given length**:
     - What is the function you will need to alter?
     - Implement functionality to calculate it!
-2. What is a Markov-chain generated eight-word sentence that starts with "i"?
+2. What is a Markov chain generated eight-word sentence that starts with "i"?
 3. Ingest a different book from the one you've been using up to this point.
-    - What is a Markov-chain generated eight-word sentence that your program produces given this input?
+    - What is a Markov chain generated eight-word sentence that your program produces given this input?
+        ```
+        ```
 4. Ingest four different books at the same time.
-    - What is a Markov-chain generated eight-word sentence that your program produces given this input?
+    - What is a Markov chain generated eight-word sentence that your program produces given this input?
+        ```
+        ```
 
 ## Markov Chain Visualization
 
