@@ -8,13 +8,6 @@
 
 ### Actual Lesson
 
-#### Day 1:
-
-- Introduce and play manufactoria
-    - Before leave, show a formalization with FSM
-
-#### Day 2
-
 - Review
     - TIL of debugging
 - Today theory or chatbots, M-W chat bots
