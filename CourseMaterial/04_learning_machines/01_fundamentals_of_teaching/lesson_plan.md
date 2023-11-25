@@ -40,3 +40,19 @@ Machine learning as a worksheet
 - Journaling / TIL
     - Unsupervised learning
 
+
+
+- Topics to discuss:
+    - Purpose of grading
+    - Cognitive science:
+        - Constructivism
+        - Behaviorism
+        - Cognitivism
+- Types of learning
+    - Reinforcement learning
+    - Unsupervised learning
+- Students as a search for knowledge
+    - Optimizing multiple inputs
+        - Grit
+        - Knowledge
+        - Minimizing cost (time)
