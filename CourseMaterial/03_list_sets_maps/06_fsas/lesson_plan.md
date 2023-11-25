@@ -21,7 +21,7 @@
 - Play!
     - Play in pairs
     - Pair programming theater?
-- Before leave
+- Last 10 minutes before leave
     - Show super simple FSA
     - Show levels
         - Stage: 2, Level: Candidate Picker
@@ -31,6 +31,11 @@
         - Graph
         - Transistions
         - Accept state
+
+##### Homework
+
+- Data structures problem set
+- TIL entry
 
 #### Day 2
 
@@ -48,6 +53,11 @@
 - Break into pairs:
     - Do `fsa_worksheet.docx`
 
+##### Homework
+
+- Finish worksheet (with partner?)
+- Data structures problem set
+
 #### Day 3
 
 - Reflection
@@ -61,8 +71,19 @@
     - Show me running it
     - Explain what the issues are
 - Find the bugs!
+    - What are techniques we can use to debug?
+        - Adding types
+        - Unit tests
+        - `print()` statements
+            - Often the most useful
+        - Guarded breakpoints
 - Download from schoology
     - Go!
+
+##### Homework
+
+- Finish debugging and get program working
+- Data structures problem set
 
 ### Resources
 

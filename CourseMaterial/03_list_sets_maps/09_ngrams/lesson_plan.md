@@ -18,8 +18,8 @@ None
     - Transistions
 - Markov chain implementation
     - Where did we leave off
-    - Show my graph of the sentence
     - Difficult / easy parts
+    - Show volunteer's code as of now
 - Markov strengths/weakenesses
     - Strenths
         - Somewhat mimic the voice of a book
@@ -34,9 +34,11 @@ None
     - Two-grams add a small amount of context
     - 2-gram demo of a sentence
         - "Bright stars light dark skies, dark skies hide"
-        - Have them do it on the board (use `bs`, `sl`, `ld`, ... for short)
-        - How is this different from 1-gram?
+        - How would resulting 2-gram differ from 1-gram?
     - Show them my two-gram code and the actual code
+        - Run it
+        - Highlight that sometimes can start to repeat part of book verbatim
+            - Why?
 - Discussion
     - Think/write for 5-10 minutes then discuss
     - EQ's:
@@ -46,8 +48,8 @@ None
 
 #### Homework
 
-- Finish worksheet and commit if didn't
-- TIL on topic of your choice
+- Finish worksheet on 1-grams and commit if didn't
+- Data structures problem set
 
 ### Extensions
 
