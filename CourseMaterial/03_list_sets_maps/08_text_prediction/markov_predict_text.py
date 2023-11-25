@@ -7,7 +7,7 @@ import networkx as nx
 SAID_WORDS = set()
 
 
-def get_words(file_path: str) -> list[str]:
+def get_text_words(file_path: str) -> list[str]:
     with open(file_path, "r") as fd:
         text = fd.read()
         text = text.lower()
@@ -17,32 +17,34 @@ def get_words(file_path: str) -> list[str]:
         text = text.replace(",", " ")
         text = text.replace('"', "")
         text = text.replace("“", "")
+        text = text.replace("”", "")
         text = text.replace(".", "")
         text = text.replace("?", "")
         text = text.replace("!", "")
         text = text.replace("&", "")
+        text = text.replace(";", "")
         text = text.replace("\n", " ")
         return text.split(" ")
 
 
-def ingest(text_words: list[str]) -> dict[str, dict[str, int]]:
-    ngram_map: dict[str, dict[str, int]] = {}
+def create_markov_graph(text_words: list[str]) -> dict[str, dict[str, int]]:
+    markov_graph: dict[str, dict[str, int]] = {}
     prev_word = None
 
     for word in text_words:
         cur_word = word.strip().lower()
-        if cur_word not in ngram_map:
-            ngram_map[cur_word] = {}
+        if cur_word not in markov_graph:
+            markov_graph[cur_word] = {}
 
         if prev_word:
-            if prev_word not in ngram_map[cur_word]:
-                ngram_map[cur_word][prev_word] = 0
+            if prev_word not in markov_graph[cur_word]:
+                markov_graph[cur_word][prev_word] = 0
 
-            ngram_map[cur_word][prev_word] += 1
+            markov_graph[cur_word][prev_word] += 1
 
         prev_word = cur_word
 
-    return ngram_map
+    return markov_graph
 
 
 def get_most_frequest_word(hit_map: dict[str, int]) -> str:
@@ -79,13 +81,12 @@ def get_probabilistic_word(hit_map: dict[str, int]) -> str:
     return random.choice(choices)
 
 
-def produce(ngram_map: dict[str, dict[str, int]], input_word: str, length: int) -> None:
+def produce(markov_graph: dict[str, dict[str, int]], input_word: str, length: int) -> None:
     start_word = input_word.lower()
 
     sentence = []
     for _ in range(0, length):
-        sub_map = ngram_map[start_word]
-        print(sub_map)
+        sub_map = markov_graph[start_word]
         next_word = get_probabilistic_word(sub_map)
 
         sentence.append(next_word)
@@ -95,17 +96,14 @@ def produce(ngram_map: dict[str, dict[str, int]], input_word: str, length: int) 
     print(" ".join(sentence))
 
 
-def visualize() -> None:
-    words = ["^", "fish", "swim", "fish", "jump", "i", "swim", "i", "fish", "$"]
-    n_graph_map = ingest(words)
-
+def visualize(markov_graph: dict[str, dict[str, int]]) -> None:
     graph = nx.DiGraph()
 
     # Add nodes (you can also add nodes along with the edges)
-    graph.add_nodes_from(words)
+    graph.add_nodes_from([w for w in markov_graph])
 
     # Add edges with weights (representing transition probabilities)
-    for key, next_word_map in n_graph_map.items():
+    for key, next_word_map in markov_graph.items():
         total = sum([n for n in next_word_map.values()])
         for next_word, occurences in next_word_map.items():
             graph.add_edge(next_word, key, prob=f"{(occurences / total):0.2f}")
@@ -120,9 +118,12 @@ def visualize() -> None:
 
 
 if __name__ == "__main__":
-    text_words = get_words("CourseMaterial/data/frankenstein.txt")
-    text_words += get_words("CourseMaterial/data/dracula.txt")
-    text_words += get_words("CourseMaterial/data/little_women.txt")
-    ngram_map = ingest(text_words)
-    produce(ngram_map, "Who", 15)
-    visualize()
+    text_words = get_text_words("CourseMaterial/data/frankenstein.txt")
+    text_words += get_text_words("CourseMaterial/data/dracula.txt")
+    text_words += get_text_words("CourseMaterial/data/little_women.txt")
+    markov_graph = create_markov_graph(text_words)
+    produce(markov_graph, "Who", 15)
+
+    sample_text_words = ["^", "fish", "swim", "fish", "jump", "i", "swim", "i", "fish", "$"]
+    sample_markov_graph = create_markov_graph(sample_text_words)
+    visualize(sample_markov_graph)

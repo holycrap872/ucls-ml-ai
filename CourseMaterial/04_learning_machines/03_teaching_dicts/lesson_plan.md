@@ -1,13 +1,12 @@
 ## Essential Questions
 
--
--
+- How can we use ChatGPT to augment our creativity?
+- How can we use different types of learning to increase the effectiveness of a lesson?
 
 ## Lesson Plan
 
-> Have them use ChatGPT to come up with lesson
-
 - Review
+    - 
 - Setup up:
     - The way Grok teaches dictionaries sucks
     - Come up with a three day lesson
@@ -29,3 +28,5 @@
         - Grit
         - Knowledge
         - Minimizing cost (time)
+
+> Have them use ChatGPT to come up with lesson

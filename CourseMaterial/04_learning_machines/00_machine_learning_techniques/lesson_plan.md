@@ -1,7 +1,8 @@
 ## Essential Questions
 
-- How can we use our experience at lab to understand what learning is?
-- What ways do I/you learn best?
+- What does it mean for a machine to learn?
+- What are the core machine learning techniques?
+- Where are each of these techniques most effective?
 
 ## Lesson Plan
 
@@ -9,9 +10,14 @@
 - Learning unit will be two parts:
     - Given a specific type of problem, how do we best teach machines?
     - Given a specific type of problem, how do we best teach humans?
-- Humans aren't machines
-    - What are the similarities in techniques?
-    - What are the differences?
+- Learning discussion
+    - Set expectations
+    - Read short article
+        - Have "questions to ponder" while read
+            - TODO: What does it mean for a machine to learn?
+            - TODO: What examples have we seen of machines learning in this class?
+            - TODO: What is missing in our examples so far?
+            - TODO: 
 - Three basic types of machine learning
     - Just look at two first: supervised vs. unsupervised:
         - https://www.youtube.com/watch?v=rHeaoaiBM6Y

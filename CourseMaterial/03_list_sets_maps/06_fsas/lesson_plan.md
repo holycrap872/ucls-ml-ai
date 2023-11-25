@@ -19,6 +19,8 @@
     - Walk through rules
     - Hint at FSAs being behind the scenes
 - Play!
+    - Play in pairs
+    - Pair programming theater?
 - Before leave
     - Show super simple FSA
     - Show levels
