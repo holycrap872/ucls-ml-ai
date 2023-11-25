@@ -6,7 +6,9 @@
 
 ### Setup
 
-Manufactoria on computers in lab
+- Manufactoria on computers in lab
+- `fsa_worksheet.docx` printed out
+- `broken_fsa.py` loaded up in Schoology
 
 ### Actual Lesson
 
@@ -19,8 +21,14 @@ Manufactoria on computers in lab
 - Play!
 - Before leave
     - Show super simple FSA
-    - Show level X
-    - Formalize
+    - Show levels
+        - Stage: 2, Level: Candidate Picker
+        - Stage: 3, Level: Home delivery
+    - Formalize together
+        - Start state
+        - Graph
+        - Transistions
+        - Accept state
 
 #### Day 2
 
@@ -29,13 +37,30 @@ Manufactoria on computers in lab
     - Where are FSAs
         - Turnstiles: http://csunplugged.mines.edu/Activities/FSA/FSA.pdf
         - Automatic doors
-- Do some FSM worksheets/problems together
-- Do some FSMs in small groups
+    - Do example FSA together
+        - Only accepts 101
+        - Accepts anything that starts with 11
+    - Create example FSA together
+        - Rejects anything that starts with 11
+        - Accepts anything that ends wtih 11
+- Break into pairs:
+    - Do `fsa_worksheet.docx`
 
 #### Day 3
 
-- Pr
-
+- Reflection
+    - FSA formalizations
+    - Where are FSAs used?
+- Today going to combine a few things at once
+    - FSAs
+    - Debugging
+- Walk-through
+    - Show schema
+    - Show me running it
+    - Explain what the issues are
+- Find the bugs!
+- Download from schoology
+    - Go!
 
 ### Resources
 
