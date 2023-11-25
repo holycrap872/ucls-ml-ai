@@ -9,7 +9,6 @@
 
 - Paper clip -> end of the world article
 - Section from US government's AI document
-- OpenAI governance structure
 
 ### Actual Lesson
 
