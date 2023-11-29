@@ -7,8 +7,8 @@
 ### Setup
 
 - Manufactoria on computers in lab
-- `fsa_worksheet.docx` printed out
-- `broken_fsa.py` loaded up in Schoology
+- `fsm_worksheet.docx` printed out
+- `broken_fsm.py` loaded up in Schoology
 
 ### Actual Lesson
 
@@ -17,12 +17,12 @@
 - Reflection
 - Manufactoria
     - Walk through rules
-    - Hint at FSAs being behind the scenes
+    - Hint at FSMs being behind the scenes
 - Play!
     - Play in pairs
     - Pair programming theater?
 - Last 10 minutes before leave
-    - Show super simple FSA
+    - Show super simple FSM
     - Show levels
         - Stage: 2, Level: Candidate Picker
         - Stage: 3, Level: Home delivery
@@ -40,18 +40,18 @@
 #### Day 2
 
 - Reflection
-    - What are FSAs
-    - Where are FSAs
+    - What are FSMs
+    - Where are FSMs
         - Turnstiles: http://csunplugged.mines.edu/Activities/FSA/FSA.pdf
         - Automatic doors
-    - Do example FSA together
+    - Do example FSM together
         - Only accepts 101
         - Accepts anything that starts with 11
-    - Create example FSA together
+    - Create example FSM together
         - Rejects anything that starts with 11
         - Accepts anything that ends wtih 11
 - Break into pairs:
-    - Do `fsa_worksheet.docx`
+    - Do `fsm_worksheet.docx`
 
 ##### Homework
 
@@ -61,10 +61,10 @@
 #### Day 3
 
 - Reflection
-    - FSA formalizations
-    - Where are FSAs used?
+    - FSM formalizations
+    - Where are FSMs used?
 - Today going to combine a few things at once
-    - FSAs
+    - FSMs
     - Debugging
 - Walk-through
     - Show schema

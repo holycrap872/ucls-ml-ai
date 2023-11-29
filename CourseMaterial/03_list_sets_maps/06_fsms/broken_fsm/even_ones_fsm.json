@@ -1,7 +1,7 @@
 {
     "start_state": "a",
     "accept_states": ["a"],
-    "fsa_graph": {
+    "fsm_graph": {
         "a": {"0": "a", "1": "b"},
         "b": {"0": "b", "1": "a"}
     }
