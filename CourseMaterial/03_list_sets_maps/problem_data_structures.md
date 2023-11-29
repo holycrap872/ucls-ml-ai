@@ -73,11 +73,12 @@ and then write at **least two unit tests** in the
 20. Create a function that takes two sets of ints as an input and returns a
     set of ints that is the intersetion of the two sets. Do **not** use the
     `intersection()` function.
-21. Create a function that takes a list of ints as an input and returns a version
-    of the input list without any duplicates but with order preserved.
+21. Create a function that takes a list of ints as an input and returns a set
+    which is a version of the original list but without any duplicates.
+22. Create a function that takes a list of ints as an input and returns a list
+    which is a version of the original list but without any duplicates. The order
+    or the elements from the original list should be preserved.
     - For example: `[4, 5, 4, 4, 1, 2, 5] -> [4, 5, 1, 2]`
-22. Create a function that takes a list of ints as an input and returns a version
-    of the input list without any duplicates (order need not be preserved).
 23. Create a function that takes two lists of ints as inputs and returns the set
     of ints that are in only one of the lists.
     - For example: `[4, 5, 4, 3], [3, 1, 5] -> {4, 1}`
