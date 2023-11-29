@@ -1,8 +1,11 @@
-https://natureofcode.com/book/chapter-10-neural-networks/
-
-Watson Nova video
-
-Pro-log
-
-Text recognition
-- What's a program to figure out if it's an "a"
+- General
+    - Watson Nova video
+- Neural networks:
+    - https://natureofcode.com/book/chapter-10-neural-networks/
+    - What's a program to figure out if it's an "a"
+    - Gradient descent
+        - https://youtu.be/IHZwWFHWa-w?si=NGkJbUUuj3pzDyiB
+- Cognition:
+    - https://www.theatlantic.com/magazine/archive/2019/03/what-the-crow-knows/580726/
+    - Pro-log
+        - Define what a chair is

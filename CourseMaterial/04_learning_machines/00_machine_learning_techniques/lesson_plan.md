@@ -26,6 +26,7 @@
         - https://www.youtube.com/watch?v=rHeaoaiBM6Y
 - Give examples and determine what kind of training:
     - https://studio.code.org/s/oceans/lessons/1/levels/2
+    - Captchas where you have to find the bike
     - ??? example of unsupervised learning ???
 - Reinforcement learning
     - Fun one!
@@ -47,3 +48,7 @@ Neural networks require back propogation (sleep?)
 - Linear algebra
 - Want to integrate with hardware
 - 
+
+### Resources:
+
+- https://youtu.be/i_LwzRVP7bg?si=obrRe2vHGKaXYK3K&t=634
