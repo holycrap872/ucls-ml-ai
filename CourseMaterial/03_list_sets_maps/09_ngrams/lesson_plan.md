@@ -45,6 +45,9 @@ None
         - How does this compare with your experience of how ChatBots programmed?
         - How does this compare with your experience of how ChatBots trained?
         - How does this compare to your experience using ChatBots?
+    - Show quote from Turing's Computer Intelligence article
+        - Which part of what we did is the "Child Programme"
+        - Which part is the "education process"?
 
 #### Homework
 
