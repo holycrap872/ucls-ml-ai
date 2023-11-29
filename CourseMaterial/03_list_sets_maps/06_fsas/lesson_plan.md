@@ -89,3 +89,6 @@
 
 - https://www.madebyevan.com/fsm/
     - Make curved lines between states by making arrow and then pulling it up/down
+- If someone misses
+    - https://www.youtube.com/watch?v=4rNYAvsSkwk
+    - Do problems 1-5 of worksheet
