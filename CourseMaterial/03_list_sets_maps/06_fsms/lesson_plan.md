@@ -61,22 +61,33 @@
 #### Day 3
 
 - Reflection
-    - FSM formalizations
     - Where are FSMs used?
+    - FSM formalizations
+        - Example: Accept/reject various strings on simple FSM
+        - Example: Create and FSM
+- How to represent FSMs as graphs
+    - Have come up with "schema"
 - Today going to combine a few things at once
     - FSMs
     - Debugging
-- Walk-through
+- Walk through `working_fsm.py`
     - Show schema
     - Show me running it
-    - Explain what the issues are
+    - Have them create the json version for a particular FSM
+- Walk through `broken_fsm.py`
+    - Explain the exercise
+        - Intentionally seeded errors mimicing real-world
+    - What are ways we could find the bugs
 - Find the bugs!
     - What are techniques we can use to debug?
-        - Adding types
-        - Unit tests
+        - Linter
+        - Type checker
         - `print()` statements
             - Often the most useful
         - Guarded breakpoints
+        - Unit tests
+- Quick debugging example using breakpoints
+    - see `debugging_examples.py`
 - Download from schoology
     - Go!
 
