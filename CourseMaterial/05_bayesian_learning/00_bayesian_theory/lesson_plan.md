@@ -1,3 +1,4 @@
 - Rock paper scissors
     - https://archive.nytimes.com/www.nytimes.com/interactive/science/rock-paper-scissors.html
     - https://youtu.be/WfdnbYFPzeA?si=hA-1N9OMTezWTkw8
+- Game of Skull where you record the past

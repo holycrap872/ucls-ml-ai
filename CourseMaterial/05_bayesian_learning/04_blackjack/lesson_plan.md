@@ -23,3 +23,7 @@ Implementation steps:
         - Graph win percentage in chunks of 1000
 - The rule in black jack is dealer sticks on 17 or greater.
     - What is the win percentage if the dealer sticks on 16 or greater, or 19 or greater?
+
+### Resources
+
+- https://towardsdatascience.com/winning-blackjack-using-machine-learning-681d924f197c
