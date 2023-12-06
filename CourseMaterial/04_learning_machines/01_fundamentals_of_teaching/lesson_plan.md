@@ -5,6 +5,15 @@
 
 ## Lesson Plan
 
+- Spaced practice
+- Interleaving
+- Retrieval practice
+- Elaboration
+- Concrete examples
+- Dual coding
+
+- https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y
+
 I do, we do, you do
 Lecture
 Fish bowls
