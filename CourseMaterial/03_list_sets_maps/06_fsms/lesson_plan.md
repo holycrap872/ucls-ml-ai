@@ -81,14 +81,20 @@
 - Find the bugs!
     - What are techniques we can use to debug?
         - Linter
+        - Read closely
         - Type checker
+        - Good test cases
         - `print()` statements
             - Often the most useful
         - Guarded breakpoints
         - Unit tests
+    - Have them come up with techniques and order them from easiest to hardest
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
 - Download from schoology
+    - Make clear what types of fixes required
+        - One addition of `_ = _`
+        - One addition of `_ in _`
     - Go!
 
 ##### Homework
