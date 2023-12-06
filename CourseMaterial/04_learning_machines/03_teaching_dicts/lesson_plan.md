@@ -46,3 +46,5 @@ Rubric printed out
 #### Homework
 
 Work on project
+
+Notes: Have them pick a topic that they wish they had learned in the 9th grade (at all or better)
