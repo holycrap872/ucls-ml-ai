@@ -1,67 +1,42 @@
 ## Essential Questions
 
-- What is learning?
 - What techniques help humans learn best?
+- How does human learning compare to machine learning?
 
 ## Lesson Plan
 
-- Spaced practice
-- Interleaving
-- Retrieval practice
-- Elaboration
-- Concrete examples
-- Dual coding
+### Setup
 
-- https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y
+Printed out discussion rubrics
 
-I do, we do, you do
-Lecture
-Fish bowls
-POGIL
-Worksheets
-Creative writing
-Journaling
-Q/A
-Rubrics
-What do you notice, what do you wonder?
+### Actual Lesson
 
+- Review
+    - Supervised
+    - Unsupervised
+    - Reinforcement
+    - Training set
+    - Test set
+    - Overfitting
+- Today going to have a discussion
+    - Hand out discussion rubric
+    - Have read through it and ask any questions
+- Write for 5m answering one of the essential questions:
+    - How does the research compare with your learning experience?
+    - Which techniques have comparable ones in machine learning?
+     - Which techniques have no comparable ones in ML and what does this say
+       about the difference between humans and machines?
+- Ground rules
+    - Think of positive examples
+    - Listen
+- Begin discussion
+- Wrap up
+    - Ask someone to summarize
+    - Ask if there's anything that wasn't said
+- Debrief
+    - Self-assess on the rubric
+    - Answer questions on the back
 
-Keywords:
-- Context
-- Scaffolding
-- Group work
-- Memorization
-- Attention
--
+### Homework
 
-What is similar to teaching machines?
-- 
-What is different?
-- Have complete attention of the machine
-- 
-
-Machine learning as a worksheet
-
-- Long division
-    - More like hard-coded program
-- Chemistry worksheet
-    - Reinforcement learning
-- Journaling / TIL
-    - Unsupervised learning
-
-
-
-- Topics to discuss:
-    - Purpose of grading
-    - Cognitive science:
-        - Constructivism
-        - Behaviorism
-        - Cognitivism
-- Types of learning
-    - Reinforcement learning
-    - Unsupervised learning
-- Students as a search for knowledge
-    - Optimizing multiple inputs
-        - Grit
-        - Knowledge
-        - Minimizing cost (time)
+Start thinking about/working on teaching unit

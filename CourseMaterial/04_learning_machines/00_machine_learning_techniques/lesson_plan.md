@@ -69,7 +69,7 @@
     - Training Set
     - Test Set
 
-## Day 2:
+#### Day 2:
 
 - Review
     - Supervised
@@ -91,49 +91,9 @@
         - See how well you can classify the data
     - Reflection
 
+#### Homework
 
-- Learning discussion
-    - Set expectations
-        - Read rubric
-        - Reflect on last dicussion and changes will make
-    - Read short article
-        - Have "questions to ponder" while read
-            - TODO: What does it mean for a machine to learn?
-            - TODO: What examples have we seen of machines learning in this class?
-            - TODO: What is missing in our examples so far?
-            - TODO: 
-
-- Three basic types of machine learning
-    - Just look at two first: supervised vs. unsupervised:
-        - https://www.youtube.com/watch?v=rHeaoaiBM6Y
-- Give examples and determine what kind of training:
-    - Captchas where you have to find the bike
-    - ??? example of unsupervised learning ???
-- Reinforcement learning
-    - Fun one!
-    - https://youtu.be/DcYLT37ImBY?si=PUazEpIJsm2kLfhU
-        - 0:00 - 3:30
-    - https://youtu.be/WSW-5m8lRMs?si=lnyqQgUC0IX-sx7e&t=253
-        - 
-    - Evolutionary
-- How does this relate to learning?
-    - 
-
-Neural networks require back propogation (sleep?)
-
-
-- How to handle data so don't get over-fitting
-- Over fitting -> when all you have is a hammer every problem is a nail
-- Improvisation -> stories of teaching to the test
-- Should I use Weka?
-
-
-# Output
-
-- Want to make a stock trading bot
-- Linear algebra
-- Want to integrate with hardware
-- 
+- Read `science_of_learning.docx` and prepare for discussion
 
 ### Resources:
 
