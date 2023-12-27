@@ -69,28 +69,6 @@
     - Training Set
     - Test Set
 
-#### Day 2:
-
-- Review
-    - Supervised
-    - Reinforcement
-    - Unsupervised
-- Weka activity
-    - Show weka
-    - Explore `voting_record_labeled.csv` data
-        - Load it up
-        - Show various graphs
-        - Build classifer
-        - Explain what classifier is doing
-    - Individual activity:
-        - Based on: https://youtu.be/bUsPNNr6pvg?si=G9FxZsKQJe1rz2FR
-        - Load `segment-challenge.arff` in explorer
-            - From https://storm.cis.fordham.edu/~gweiss/data-mining/datasets.html
-        - Select `UserClassifier`
-        - Use `segment-test.arff` as test set
-        - See how well you can classify the data
-    - Reflection
-
 #### Homework
 
 - Read `science_of_learning.docx` and prepare for discussion

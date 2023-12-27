@@ -1,3 +1,10 @@
+## Essential Questions
+
+- How can we use the past to predict the future?
+- How can we use feedback to create a learning system?
+
+## Lesson Plan
+
 The point of this lesson is to have the students start to program larger systems
 beyond the pointed worksheets/lessons I've been giving them up to this point.
 This will allow them to start to decompose problems better.
@@ -5,9 +12,11 @@ This will allow them to start to decompose problems better.
 The fact that it is blackjack game allows for them to build a system them mostly
 know without having to constantly check in with me.
 
-Possible extension questions:
-- Amount to bet (expected value)
-- How do things change w/ dealing from 1 deck vs 6 decks?
+### Setup
+
+None
+
+### Actual Lesson
 
 Implementation steps:
 - Create a black jack game that you can play from the command line
@@ -23,6 +32,13 @@ Implementation steps:
         - Graph win percentage in chunks of 1000
 - The rule in black jack is dealer sticks on 17 or greater.
     - What is the win percentage if the dealer sticks on 16 or greater, or 19 or greater?
+
+#### Extensions
+
+- Create graph showing % chance of winning under particular situations
+    - e.g., Dealer showing a 9
+- Amount to bet (expected value)
+- How do things change w/ dealing from 1 deck vs 6 decks?
 
 ### Resources
 
