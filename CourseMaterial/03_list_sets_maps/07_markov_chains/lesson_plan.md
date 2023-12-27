@@ -46,4 +46,3 @@
 
 - https://www.youtube.com/watch?v=MGVdu39gT6k
     - 0:00 - 6:37
-- https://www.cs.cmu.edu/~dst/MarkovChainDemo/

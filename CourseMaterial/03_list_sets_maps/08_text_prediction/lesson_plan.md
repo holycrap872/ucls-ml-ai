@@ -34,6 +34,11 @@ Extensions:
 - Formally define the behvaior in terms of probability
     - Bayes
 
+#### Extensions
+
+- https://towardsdatascience.com/text-generation-using-n-gram-model-8d12d9802aa0
+- https://www.cs.cmu.edu/~dst/MarkovChainDemo/
+
 #### Missed class
 
 - https://www.youtube.com/watch?v=MGVdu39gT6k
