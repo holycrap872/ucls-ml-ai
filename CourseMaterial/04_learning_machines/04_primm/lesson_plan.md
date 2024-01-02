@@ -14,7 +14,8 @@ the students have no experience in).
 
 ### Setup
 
-Recursion worksheet/code posted to Schoology
+- Recursion worksheet printed out
+- Recursion code posted to Schoology
 
 ### Actual Lesson
 
@@ -45,7 +46,12 @@ Recursion worksheet/code posted to Schoology
     - Explain
     - Explain via PRIMM
         - Simple counting example
-    - Worksheet on recursion
+- Worksheet on recursion
+    - Walk through worksheet
+    - Quickly walk through source code
+    - How to kill the turtle screen
+        - Kill the terminal via the trash can
+    - Go!
 
 #### Homework
 

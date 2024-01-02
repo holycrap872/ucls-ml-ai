@@ -39,8 +39,9 @@ if __name__ == "__main__":
     t.back(200)
     t.pendown()
 
-    shape_one(t, cur_size=100.0, min_size=5.0)
-    shape_two(t, cur_size=200.0, min_size=5.0)
+    # UNCOMMENT FUNCTIONS BELOW ONE AT A TIME!
+    # shape_one(t, cur_size=100.0, min_size=5.0)
+    # shape_two(t, cur_size=200.0, min_size=5.0)
 
     # Pause for reflection
     time.sleep(10)

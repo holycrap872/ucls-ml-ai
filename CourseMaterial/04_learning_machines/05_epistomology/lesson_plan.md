@@ -8,3 +8,7 @@
     - Come up with a few basic/classic questions from epistimology
     - 
 Is there a difference between good learning and bad learning?
+
+- Context based knowledge vs definitions
+    - Context as a graph
+    - What is a chair?
