@@ -16,7 +16,7 @@
 
 #### Day 1
 
-- Going to enter brief section on "Philosophy of Learning"
+- Going to enter section on "Philosophy of Learning"
 - Learning unit will be two parts:
     - Given a specific type of problem, how do we best teach machines?
     - Given a specific type of problem, how do we best teach humans?
@@ -71,7 +71,7 @@
 
 #### Homework
 
-- Read `science_of_learning.docx` and prepare for discussion
+- Read "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete"
 
 ### Resources:
 

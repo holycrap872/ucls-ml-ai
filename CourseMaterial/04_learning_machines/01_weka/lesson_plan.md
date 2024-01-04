@@ -65,7 +65,7 @@
 
 #### Homework
 
-- Read epistomology paper
+- None
 
 #### Resources
 

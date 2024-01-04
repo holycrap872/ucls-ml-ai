@@ -12,9 +12,9 @@ Printed out discussion rubrics
 ### Actual Lesson
 
 - Review
-    - Supervised
-    - Unsupervised
-    - Reinforcement
+    - Types of learning (supervised, unsupervised, reinforcement)
+    - Types of classifiers (bayesian, decision trees)
+    - Properties of trees
     - Training set
     - Test set
     - Overfitting

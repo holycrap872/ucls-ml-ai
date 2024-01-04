@@ -18,6 +18,13 @@ compare their intuitions with the output of Weka.
 
 ### Actual Lesson
 
+- Review
+    - Supervised
+    - Reinforcement
+    - Unsupervised
+    - Classifier
+    - Over-fitting
+    - Human vs. Machine learning
 - Guess Who is very hot right now
     - Who's played Guess Who?
     - https://www.youtube.com/watch?v=vl4dQrGaOcU
@@ -61,12 +68,12 @@ compare their intuitions with the output of Weka.
     - Leaf
     - Child
     - Balanced
+    - Acyclical
     - Similar to 20 questions
         - Exponential growth!
         - Optimum strategy is finding properties that split sets in half
+    - Show example code in `guess_who_code.py` of "classes"
 
 #### Homework
 
-- Encode a decision tree of 4 Guess Who that I give you
-    - Have it play based on the tree you encode
-    - Can use ChatGPT to create code
+- Read `science_of_learning.docx` and prepare for discussion
