@@ -6,9 +6,9 @@
 ## Lesson Plan
 
 This lesson provides an intuitive understanding of decisions trees (and trees
-in general). Beginning with just playing, the students learn to create decision
-trees and what features lead to the best tree (balanced). From there, we
-compare their intuitions with the output of Weka.
+in general). Beginning with just playing a game of Guess Who, the students
+learn to create decision trees and what features lead to the best tree
+(balanced). From there, we compare their intuitions with the output of Weka.
 
 ### Setup
 
@@ -40,7 +40,7 @@ compare their intuitions with the output of Weka.
 - What's going on here?
     - What is everyone's first question?
         - Who's is best and why?
-    - Features
+    - Goal is to split the search space in half
 - Weka
     - Show `guess_who_data.csv` in excel
         - Brief aside about how gender is a construct
