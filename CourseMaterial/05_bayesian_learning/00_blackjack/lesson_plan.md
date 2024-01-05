@@ -14,31 +14,44 @@ know without having to constantly check in with me.
 
 ### Setup
 
-None
+- One deck of cards for every two students
 
 ### Actual Lesson
 
-Implementation steps:
-- Create a black jack game that you can play from the command line
-- Create a "rule bot" that is like the dealer in that it hits up until it reaches a certain value
-    - Play 1000 games and graph the win percentage of the rule bot at each value
-- Use the json data I give you to create a bot
-- Create bayesian bot of your own
-    - It should do "the easy stuff" automatically
-        - e.g., it should always hit when less than 20
-        - Only need to make a decision when greater than 11
-    - Play 1000 games to learn
-    - Play 100000 games
-        - Graph win percentage in chunks of 1000
-- The rule in black jack is dealer sticks on 17 or greater.
-    - What is the win percentage if the dealer sticks on 16 or greater, or 19 or greater?
+- Review
+    - Wrap up the "learning machines" lesson
+    - Any last thoughts?
+- Starting a new unit: Bayesian Learning
+    - It's been a long time since programmed, so first create blackjack
+    - Program that we will alter over the course of the unit
+    - Initially, the user will play the game
+    - Then, plug in bots to play the game
+- Explain blackjack
+    - Dealer is deterministic (must hit if <= 16)
+    - Only see one of dealer's cards
+- Have play against each other a few times so understand the rules
+- Now going to create this game
+    - Command line version to begin with: asks user if hit/stand
+    - Record win %
+    - After, going to replace user with bot, so much sure user decision's are function
+- Design discussion:
+    - What are useful functions?
+    - What are return types?
+    - Highlight the `get_user_decision()` function should basically be interface
+- Get started
+    - Have one other class period to work on it
+    - Encourage you to use ChatBots since probably too ambitious w/o them
 
-#### Extensions
+#### Homework
 
-- Create graph showing % chance of winning under particular situations
-    - e.g., Dealer showing a 9
-- Amount to bet (expected value)
-- How do things change w/ dealing from 1 deck vs 6 decks?
+- Work on blackjack
+- Come in ready to talk about at least one query you made
+
+#### Extension
+
+- Multiple players against one dealer
+- Implement `split`
+- Pick deck size at beginning (so can practice counting cards)
 
 ### Resources
 
