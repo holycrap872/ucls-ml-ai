@@ -23,15 +23,17 @@ function.
    
    ```
 2. Draw your best guess of what will happen for a call to `shape_one()` that
-   results in no levels of recursion (aka: the base case):
+   results in no levels of recursion (aka, the base case):
    ```
    
    
+
    ```
 3. Draw your best guess of what will happen for a call to `shape_one()` that
    results in one level of recursion:
    ```
-   
+
+
    
    ```
 4. Based on your sketches, what do you think `shape_one()` is creating?
@@ -43,6 +45,7 @@ function.
 
 1. Draw the result that comes from running `shape_one()`:
    ```
+
 
 
    ```
@@ -70,9 +73,10 @@ function.
 
 ### Modify
 
-1. Alter the code so there only right angle turns. Run the code and then draw
+1. Alter the code so there are only right angle turns. Run the code and then draw
    the result:
    ```
+
 
 
    ```
@@ -82,10 +86,12 @@ function.
    ```
 
 
+
    ```
 3. Alter the code so that the base case draws a small circle. Run the code and
    then draw the result:
    ```
+
 
 
    ```
@@ -104,14 +110,16 @@ uncommented.
 
    ```
 2. Draw your best guess of what will happen for a call to `shape_two()` that
-   results in no levels of recursion (aka: the base case):
+   results in no levels of recursion (aka, the base case):
    ```
+
 
 
    ```
 3. Draw your best guess of what will happen for a call to `shape_two()` that
    results in one level of recursion:
    ```
+
 
  
    ```
@@ -125,6 +133,7 @@ uncommented.
 
 1. Draw the result that comes from running `shape_two()`:
    ```
+
 
 
    ```
@@ -148,16 +157,18 @@ uncommented.
 1. Add code so that the resulting shape is a closed circle/figure. Run the code
    and then draw the result:
     ```
-    
-    
-    
+
+
+
+
     ```
 2. Alter the code so there only right angle turns. Run the code and then draw
    the result:
     ```
-    
-    
-    
+
+
+
+
     ```
 
 ## Shape Three
