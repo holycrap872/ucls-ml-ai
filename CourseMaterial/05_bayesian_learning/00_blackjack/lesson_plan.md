@@ -52,7 +52,3 @@ know without having to constantly check in with me.
 - Multiple players against one dealer
 - Implement `split`
 - Pick deck size at beginning (so can practice counting cards)
-
-### Resources
-
-- https://towardsdatascience.com/winning-blackjack-using-machine-learning-681d924f197c

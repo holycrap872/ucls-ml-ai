@@ -24,19 +24,9 @@ None
     - Bayesian statistics
     - Bayesian learning
     - Black jack
-- Have everyone play someone else's blackjack game
-    - Notice any bugs?
-- Today we're basically going to do same thing
-    - Instead of a new person playing, we're going to have a "bayesian bot"
-- First, going to create a "rule bot"
-    - Similar to dealer
-    - Hits up until it reaches a certain value
-    - For each "value":
-        - Play 1000 games
-        - Find win %
-        - Graph
-        - Explain
-- Next, going to create a "bayesian data bot"
+- Today we're basically going to do same thing as "rule bot"
+    - Instead of a "rule bot" playing, we're going to have a "bayesian bot"
+- Bayesian Bot description:
     - Use the data I give you to make decisions
     - Play 1000 games and find win %
 - Finally, going to create a "learning bayesian bot"

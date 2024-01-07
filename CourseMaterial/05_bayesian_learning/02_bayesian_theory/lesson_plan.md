@@ -43,6 +43,7 @@ person made (winter break filler activity).
     - Have them represent a particular problem with the sliders
     - Take a snapshot
     - Explain what it means
+- https://calcworkshop.com/probability/bayes-theorem/
 
 #### Extensions
 

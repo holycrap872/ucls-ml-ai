@@ -110,3 +110,4 @@
 - If someone misses
     - https://www.youtube.com/watch?v=4rNYAvsSkwk
     - Do problems 1-5 of worksheet
+- Graph lesson: https://mathigon.org/course/graph-theory/map-colouring
