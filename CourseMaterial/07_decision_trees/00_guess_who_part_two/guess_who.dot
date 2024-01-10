@@ -1,0 +1,16 @@
+digraph G {
+    node_1 [shape=rectangle label="Is showing teeth" color=brown];
+    node_2 [shape=rectangle label="Has hat"];
+    node_3 [shape=rectangle label="Has glasses"];
+    node_4 [shape=oval label="David!"];
+    node_5 [shape=oval label="Carmen!"];
+    node_6 [shape=oval label="Amy!"];
+    node_7 [shape=oval label="Jordan!"];
+
+    node_1 -> node_2 [label="true"];
+    node_1 -> node_3 [label="false"];
+    node_2 -> node_4 [label="true"];
+    node_2 -> node_5 [label="false"];
+    node_3 -> node_6 [label="true"];
+    node_3 -> node_7 [label="false"];
+}
