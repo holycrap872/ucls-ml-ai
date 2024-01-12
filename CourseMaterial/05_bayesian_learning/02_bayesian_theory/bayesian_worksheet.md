@@ -2,7 +2,7 @@
 
 ## Independent Events 1
 
-1. You have a bag with 4 blue marbles and 7 brown marbles. You pick two marbles,
+1. You have a bag with 6 blue marbles and 4 brown marbles. You pick two marbles,
    _replacing_ your choice each time. Draw a probability tree to represent this
    situation:
 ```
@@ -13,42 +13,16 @@
 
 ```
 
-2. What is the probability of picking two blue marbles?
-```
-
-```
-
-3. Why are these two events (two separate "picks") independent?
-```
-
-```
-
-## Independent Events 2
-
-1. The probability of hitting a green light at two independent traffic signals
-   is 0.5 and 0.4, respectively. Draw a probability tree to represent this
-   situation:
-```
-
-
-
-
-
-```
-
-2. What is the probability of hitting green lights at both signals?
-```
-
-```
-
-3. What is the probability of hitting EXACTLY one red light?
+2. We want to calculate the probability of getting at least one brown.
+   **UNDERLINE** on your probability tree the **TWO NODES** that match this
+   description. Then, write the probability.
 ```
 
 ```
 
 ## Dependent Events 1
 
-1. You have a bag with 4 blue marbles and 7 brown marbles. You pick two marbles,
+1. You have a bag with 6 blue marbles and 4 brown marbles. You pick two marbles,
    _without replacing_ your choice each time. Draw a probability tree to
    represent this situation:
 ```
@@ -59,43 +33,33 @@
 
 ```
 
-2. What is the probability of picking two blue marbles?
+2. We want to calculate the probability of getting two browns in a row.
+   **UNDERLINE** on your probability tree the **ONE NODE** that matches this
+   description. Then, write the probability.
 ```
 
 ```
 
-3. Why are these two events (two separate "picks") dependent?
+3. We want to calculate `P(Blue Second | Brown First)`? **CIRCLE** on your
+   probability tree the **TWO NODES** that match the "given". Then, calculate
+   the probability.
 ```
 
 ```
 
-4. What is `P(Blue Second | Brown First)`? In English, what is the probability of
-   picking a blue marble given you picked a brown marble first?
-```
-
-```
-
-5. What is `P(Brown Second | Blue First)`? Underline on your probability tree
-   the **ONE NODE** that should be accounted for.
-```
-
-```
-
-6. (BAYES RULE ALERT). What is `P(Brown First | Brown Second)`? Circle on your
-   probability tree the **TWO NODES** that should be accounted for.
+4. We want to calculate `P(Brown First | Brown Second)`. **STAR** on your
+   probability tree the **TWO NODES** that match the "given". Then, calculate
+   the probability.
 ```
 
 ```
 
 ## Dependent Events 2
 
-1. From a standard deck of 52 cards, you draw one card and then another without
-   replacement. What is the probability that both cards are Aces?
-```
-
-```
-
-2. Draw a probability tree to represents the above situation:
+1. The probability that someone is a middle schooler is .4. If they are a middle
+   schooler, the probability they play soccer is .8. If they are not a middle
+   schooler, the probability they play soccer is .5. Draw a probability tree to
+   represent this situation:
 ```
 
 
@@ -104,25 +68,16 @@
 
 ```
 
-3. Why are these two events (two separate card draws) dependent?
+2. We want to calculate `P(Play soccer | Middle school)`. **UNDERLINE** on your
+   probability tree the **TWO NODES** that match the "given". Then, calculate
+   the probability.
 ```
 
 ```
 
-4. What is `P(Ace Second | Ace First)`? In English, what is the probability of
-   drawing an Ace given you previously drew an Ace?
-```
-
-```
-
-5. What is `P(Ace Second | King First)`? Underline on your probability tree the
-   **ONE NODE** that should be accounted for.
-```
-
-```
-
-6. (BAYES RULE ALERT). What is `P(Ace First | Ace Second)`? Circle on your
-   probability tree the **TWO NODES** that should be accounted for.
+3. We want to calculate `P(Middle school | Play Soccer)`. **CIRCLE** on your
+   probability tree the **TWO NODES** that match the "given". Then, calculate
+   the probability.
 ```
 
 ```
@@ -147,28 +102,29 @@ Jordan | 1    |  Make
 Jordan | 1    |  Make
 
 
-1. What is `P(Make)`? In English, what is the probability of a free throw being made?
+1. What is `P(Make)`?
 ```
 
 ```
 
-2. What is `P(Make | Jordan)`. In English, what is the probability a free throw
-   being made given Jordan is the shooter?
+2. What is `P(Make | Jordan)`.
 ```
 
 ```
 
-3. Explain what you did to calculate the previous question.
+3. Explain what you did to calculate the previous question and how the addition
+   of the `|` made it different from the first question.
 ```
 
 ```
 
-4. What `P(Make | Rose in half 1)`?
+4. What is `P(Make | Rose in half 1)`?
 ```
 
 ```
 
-5. Explain what you did to calculate the previous question.
+5. Explain what you did to calculate the previous question and how the addition
+   of the `|` made it different from the first question.
 ```
 
 ```
