@@ -21,15 +21,26 @@ None
 ### Actual Lesson
 
 - Review
-    - Bayesian statistics
-    - Bayesian learning
-    - Black jack
+    - Bayes theorem
+    - 3Blue1Brown
+- Watch https://www.youtube.com/watch?v=Zxm4Xxvzohk
+    - Discuss how tree relates to bayes theorem
+    - Whether to think of it as a Venn Diagram or a Tree
+- Bayesian data
+    - Use sample blackjack data to answer a bunch of questions
+        - P(Win)
+        - P(Win | p16)
+        - P(Win | Stay)
+        - P(Win | p16, d10)
+        - P(Win | p16, d10, Hit)
+        - P(Win | p16, d10, Stay)
+    - Why is this useful?
 - Today we're basically going to do same thing as "rule bot"
     - Instead of a "rule bot" playing, we're going to have a "bayesian bot"
 - Bayesian Bot description:
     - Use the data I give you to make decisions
     - Play 1000 games and find win %
-- Finally, going to create a "learning bayesian bot"
+- Advanced: create a "learning bayesian bot"
     - It should do "the easy stuff" automatically
         - e.g., it should always hit when less than 20
         - Only need to make a decision when greater than 11
