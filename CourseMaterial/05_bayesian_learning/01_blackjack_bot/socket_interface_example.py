@@ -8,37 +8,34 @@ import java.util.HashMap;
 import java.util.Map;
 
 interface Pluggable {
-    String plugin();
+  String plugin();
 }
 
 class Refrigerator implements Pluggable {
-    @Override
-    public String plugin() {
-        return "Making stuff cold";
-    }
+  @Override
+  public String plugin() {
+    return "Making stuff cold";
+  }
 }
 
 class Microwave implements Pluggable {
-    @Override
-    public String plugin() {
-        return "Making stuff hot";
-    }
+  @Override
+  public String plugin() {
+    return "Making stuff hot";
+  }
 }
 
 class Wall {
-    public static void main(String[] args) {
-        Map<String, Pluggable> applianceMap = new HashMap<>();
-        applianceMap.put("fridge", new Refrigerator());
-        applianceMap.put("micro", new Microwave());
+  public static void main(String[] args) {
+    Map<String, Pluggable> applianceMap = new HashMap<>();
+    applianceMap.put("fridge", new Refrigerator());
+    applianceMap.put("micro", new Microwave());
 
-        String applianceChoice = "fridge";
+    String applianceChoice = "fridge";
 
-        Pluggable appliance = applianceMap.get(applianceChoice);
-        if (appliance != null) {
-            System.out.println("Result: " + appliance.plugin());
-        } else {
-            System.out.println("Invalid operation");
-        }
+    Pluggable appliance = applianceMap.get(applianceChoice);
+    if (appliance != null) {
+      System.out.println("Result: " + appliance.plugin());
     }
 }
 ```
@@ -59,6 +56,6 @@ FN_MAP = {
 }
 
 if __name__ == "__main__":
-    appliance = input("Enter an appliance: ")
+    appliance = input("Enter an app: ")
 
     print(FN_MAP[appliance]())

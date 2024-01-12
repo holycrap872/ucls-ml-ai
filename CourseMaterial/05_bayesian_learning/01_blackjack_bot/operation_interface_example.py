@@ -8,40 +8,38 @@ import java.util.HashMap;
 import java.util.Map;
 
 interface Operation {
-    int operate(int x, int y);
+  int operate(int x, int y);
 }
 
 class Add implements Operation {
-    @Override
-    public int operate(int x, int y) {
-        return x + y;
-    }
+  @Override
+  public int operate(int x, int y) {
+    return x + y;
+  }
 }
 
 class Subtract implements Operation {
-    @Override
-    public int operate(int x, int y) {
-        return x - y;
-    }
+  @Override
+  public int operate(int x, int y) {
+    return x - y;
+  }
 }
 
 class Calculator {
-    public static void main(String[] args) {
-        Map<String, Operation> operationMap = new HashMap<>();
-        operationMap.put("add", new Add());
-        operationMap.put("subtract", new Subtract());
+  public static void main(String[] args) {
+    Map<String, Operation> operationMap = new HashMap<>();
+    operationMap.put("add", new Add());
+    operationMap.put("subtract", new Subtract());
 
-        int num1 = 5;
-        int num2 = 4;
-        String operation = "add";
+    int i_1 = 5;
+    int i_2 = 4;
+    String operation = "add";
 
-        Operation op = operationMap.get(operation);
-        if (op != null) {
-            System.out.println("Result: " + op.operate(num1, num2));
-        } else {
-            System.out.println("Invalid operation");
-        }
+    Operation op = operationMap.get(operation);
+    if (op != null) {
+      System.out.println("Result: " + op.operate(i_1, i_2));
     }
+  }
 }
 ```
 """
@@ -61,8 +59,8 @@ FN_MAP = {
 }
 
 if __name__ == "__main__":
-    num_1 = int(input("Enter a number: "))
-    num_2 = int(input("Enter another number: "))
-    operation = input("Enter an operation: ")
+    i_1 = int(input("Enter an int: "))
+    i_2 = int(input("Enter an int: "))
+    operation = input("Enter an op: ")
 
-    print(FN_MAP[operation](num_1, num_2))
+    print(FN_MAP[operation](i_1, i_1))

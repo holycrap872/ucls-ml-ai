@@ -57,8 +57,13 @@ process) and then graph which value is the "best" value to stand on.
 #### Homework
 
 - Finish assignment
-- Watch https://www.youtube.com/watch?v=HZGCoVF3YvM
-    - 0m0s to 4m40s
+- Prepare for bayesian statistics
+    - If don't know probability trees, watch:
+        - Independent:
+            - https://www.youtube.com/watch?v=mkDzmI7YOx0
+        - Dependent:
+            - https://www.youtube.com/watch?v=NOOMC_rc-8Q
+    - Complete probability worksheet
 
 #### Extension
 
