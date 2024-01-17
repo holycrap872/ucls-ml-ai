@@ -54,7 +54,7 @@
 
 ```
 
-3. We want to calculate the probability of hitting at least one read light.
+3. We want to calculate the probability of hitting at least one red light.
    **CIRCLE** on your probability tree the **THREE NODES** that match this
    description. Then, write the probability.
 ```
@@ -102,7 +102,7 @@
 
 ```
 
-2. Draw a probability tree to represents the above situation:
+2. Draw a probability tree to represent the above situation:
 ```
 
 
