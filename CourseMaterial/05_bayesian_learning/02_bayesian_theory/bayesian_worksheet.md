@@ -11,10 +11,12 @@
 
 
 
+
+
 ```
 
 2. We want to calculate the probability of getting at least one brown.
-   **UNDERLINE** on your probability tree the **TWO NODES** that match this
+   **UNDERLINE** on your probability tree the **THREE NODES** that match this
    description. Then, write the probability.
 ```
 
@@ -26,6 +28,8 @@
    _without replacing_ your choice each time. Draw a probability tree to
    represent this situation:
 ```
+
+
 
 
 
@@ -66,6 +70,8 @@
 
 
 
+
+
 ```
 
 2. We want to calculate `P(Play soccer | Middle school)`. **UNDERLINE** on your
@@ -85,7 +91,7 @@
 ## Bayesian Data
 
 Use the table representing whether a particular player made/missed a free throw
-and in what half the free throw occurred.
+and in what half the free throw occurred to answer the following questions.
 
 Player | Half | Result
 -------|------|--------
