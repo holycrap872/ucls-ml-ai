@@ -39,6 +39,11 @@ know without having to constantly check in with me.
     - What are useful functions?
     - What are return types?
     - Highlight the `get_user_decision()` function should basically be interface
+- MUST CREATES:
+    - `def create_deck() -> list[int]:`
+        - Avoids any suite nonsense
+    - `def player_turn(..., ...) -> int`
+        - Avoids weirdness
 - Get started
     - Have two other class periods to work on it
     - Encourage you to use ChatBots since probably too ambitious w/o them
