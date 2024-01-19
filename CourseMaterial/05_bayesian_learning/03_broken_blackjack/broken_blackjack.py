@@ -36,20 +36,15 @@ def calculate_hand_value(hand: list[int]) -> int:
     return value
 
 
-def show_hand(hand: list[str]) -> None:
+def show_hand(hand: list[int]) -> None:
     for card in hand:
         print(card)
 
 
-def check_blackjack(hand: list) -> bool:
-    return len(hand) == 2 and calculate_hand_value(hand) == 21
-
-
 def bot_turn(deck, bot_hand: list):
     hand_value = calculate_hand_value(bot_hand)
-    player_hand_value = calculate_hand_value(play_player_turn)
 
-    while hand_value < player_hand_value and hand_value < 17:
+    while hand_value < 17:
         bot_hand.append(draw_card(deck))
         print("\nBot's Hand:")
         show_hand(bot_hand)
@@ -63,7 +58,7 @@ def bot_turn(deck, bot_hand: list):
     return None
 
 
-# if a user input is necssary, call this function
+# if a user input is necessary, call this function
 def play_player_turn(deck, player_hand: list):
     while True:
         choice = input("\nDo you want to Hit or Stand? Enter 'h' or 's': ")
@@ -85,8 +80,37 @@ def play_player_turn(deck, player_hand: list):
     return None
 
 
+def track_wins(winner, wins: dict[str, int]) -> None:
+    if winner == "player":
+        wins["player"] += 1
+    elif winner == "dealer":
+        wins["dealer"] += 1
+    else:
+        wins["tie"] += 1
+
+
+def print_wins(wins: dict[str, int]) -> None:
+    print("Total Wins:")
+    print("Player:", wins["player"])
+    print("Dealer:", wins["dealer"])
+    print("Tie:", wins["tie"])
+
+
+def dealer_turn(deck: list[str], dealer_hand: list) -> None:
+    print("\nDealer's Hand:")
+    show_hand(dealer_hand)
+
+    while calculate_hand_value(dealer_hand) < 17:
+        card = deck.pop()
+        dealer_hand.append(card)
+
+    print("Dealer's Hand:")
+    show_hand(dealer_hand)
+    print("Total value:", calculate_hand_value(dealer_hand))
+
+
 # this is where to change bot vs. user input
-def play_round(deck, player_hand: list[str], dealer_hand: list[str]):
+def play_round(deck, player_hand: list[int], dealer_hand: list[int]):
     shuffle_deck(deck)
 
     print("\nPlayer's Hand:")
@@ -96,11 +120,6 @@ def play_round(deck, player_hand: list[str], dealer_hand: list[str]):
     print("\nDealer's Hand:")
     show_hand(dealer_hand)
     print("Total value:", calculate_hand_value(dealer_hand))
-
-    print("\nDealer's Hand:")
-    print("Unknown card")
-    rank, suit = dealer_hand[1]
-    print(rank, "of", suit)
 
     if calculate_hand_value(player_hand) > 21:
         print("\nPlayer busts! Dealer wins!")
@@ -138,35 +157,6 @@ def play_round(deck, player_hand: list[str], dealer_hand: list[str]):
             else:
                 print("\nIt's a tie! Push.")
                 return "tie"
-
-
-def track_wins(winner, wins: dict[str, int]) -> None:
-    if winner == "player":
-        wins["player"] += 1
-    elif winner == "dealer":
-        wins["dealer"] += 1
-    else:
-        wins["tie"] += 1
-
-
-def print_wins(wins: dict[str, int]) -> None:
-    print("Total Wins:")
-    print("Player:", wins["player"])
-    print("Dealer:", wins["dealer"])
-    print("Tie:", wins["tie"])
-
-
-def dealer_turn(deck: list[str], dealer_hand: list) -> None:
-    print("\nDealer's Hand:")
-    show_hand(dealer_hand)
-
-    while calculate_hand_value(dealer_hand) < 17:
-        card = deck.pop()
-        dealer_hand.append(card)
-
-    print("Dealer's Hand:")
-    show_hand(dealer_hand)
-    print("Total value:", calculate_hand_value(dealer_hand))
 
 
 def play_blackjack():
