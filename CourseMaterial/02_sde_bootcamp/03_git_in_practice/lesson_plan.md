@@ -3,11 +3,11 @@
 - How we utilize git remote repositories?
 - What is the best way to save our work?
 
-## Lessson Plan
+## Lesson Plan
 
 ### Setup
 
-Make sure that students are a part of the ML/AI group
+- Make sure that students are a part of the ML/AI group in GitLab
 
 ### Actual Lesson
 
@@ -35,15 +35,15 @@ Make sure that students are a part of the ML/AI group
     - Create an ml-ai folder in Documents/workspace/2023-24/lab_school
     - Move all previous projects into this folder
         - TIL and Problem Skeleton
-    - Create an “initial commit” for your Problem Set Skeleton
+    - Create an "initial commit" for your Problem Set Skeleton
         - `git init` and `git add`
         - Do not commit any hidden files/folders (leading “.”) 
-    - Push “initial commit” to your GitLab Problem Set repo
+    - Push "initial commit" to your GitLab Problem Set repo
     - Create a README.md for your Problem set and commit it
     - Start homework
 
 ### Homework
 
-    - Do problems 7-11 of Python String Wheaties
-    - For each problem, create a commit
-    - Every time create a commit, push it to main so you don't lose your work
+- Do problems 7-11 of Python String Wheaties
+- For each problem, create a commit
+- Every time create a commit, push it to main so you don't lose your work
