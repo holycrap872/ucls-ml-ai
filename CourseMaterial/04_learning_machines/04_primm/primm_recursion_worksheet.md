@@ -8,7 +8,8 @@ by ChatBots to solve problems that are of interest to you.
 
 In this worksheet, we will use the PRIMM paradigm to help us understand
 recursion: a subject that will come up a lot in this class and future CS
-classes.
+classes. Use the `recursion_skeleton.py` file to help you answer each of the
+following questions.
 
 ## Shape One
 
@@ -22,16 +23,18 @@ function.
    
    
    ```
-2. Draw your best guess of what will happen for a call to `shape_one()` that
+2. Sketch your best guess of what will happen for a call to `shape_one()` that
    results in no levels of recursion (aka, the base case):
    ```
    
+
    
 
    ```
-3. Draw your best guess of what will happen for a call to `shape_one()` that
+3. Sketch your best guess of what will happen for a call to `shape_one()` that
    results in one level of recursion:
    ```
+
 
 
    
@@ -43,8 +46,9 @@ function.
 
 ### Run
 
-1. Draw the result that comes from running `shape_one()`:
+1. Sketch the result that comes from running `shape_one()`:
    ```
+
 
 
 
@@ -73,24 +77,27 @@ function.
 
 ### Modify
 
-1. Alter the code so there are only right angle turns. Run the code and then draw
+1. Alter the code so there are only right angle turns. Run the code and then sketch
    the result:
    ```
+
 
 
 
    ```
 2. Alter the code so that there is a third (recursive) call to `shape_one()`
    within each recursion level. Make sure that the result is symmetrical. Run
-   the code and then draw the result:
+   the code and then sketch the result:
    ```
+
 
 
 
    ```
 3. Alter the code so that the base case draws a small circle. Run the code and
-   then draw the result:
+   then sketch the result:
    ```
+
 
 
 
@@ -109,16 +116,18 @@ uncommented.
 
 
    ```
-2. Draw your best guess of what will happen for a call to `shape_two()` that
+2. Sketch your best guess of what will happen for a call to `shape_two()` that
    results in no levels of recursion (aka, the base case):
    ```
 
 
 
+
    ```
-3. Draw your best guess of what will happen for a call to `shape_two()` that
+3. Sketch your best guess of what will happen for a call to `shape_two()` that
    results in one level of recursion:
    ```
+
 
 
  
@@ -131,8 +140,9 @@ uncommented.
 
 ### Run
 
-1. Draw the result that comes from running `shape_two()`:
+1. Sketch the result that comes from running `shape_two()`:
    ```
+
 
 
 
@@ -155,16 +165,18 @@ uncommented.
 ### Modify
 
 1. Add code so that the resulting shape is a closed circle/figure. Run the code
-   and then draw the result:
+   and then sketch the result:
     ```
 
 
 
 
+
     ```
-2. Alter the code so there only right angle turns. Run the code and then draw
+2. Alter the code so there only right angle turns. Run the code and then sketch
    the result:
     ```
+
 
 
 
@@ -173,6 +185,6 @@ uncommented.
 
 ## Shape Three
 
-Now it’s your turn to `make`. In the space below, draw a self-similar pattern.
+Now it's your turn to `make`. In the space below, sketch a self-similar pattern.
 Then, create a function called `shape_three()` to try and recreate it via a
 turtle.
