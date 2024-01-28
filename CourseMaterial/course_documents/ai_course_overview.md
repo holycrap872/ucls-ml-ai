@@ -10,8 +10,8 @@
 
 - Understand different techniques for search space exploration.
 - Learn to detect a computer impersonating a human.
-- Consider the difficulty of pin-pointing the source of intelligence.
-- Discuss ways that chat bots can help and hurt learning.
+- Consider the difficulty of pinpointing the source of intelligence.
+- Discuss ways that ChatBots can help and hurt learning.
 
 #### Essential Questions:
 
@@ -101,72 +101,43 @@
 
 - Programming projects
 
-## Unit 4 - Cognition and Computing
+## Unit 4 - Learning Machines
 
 #### Texts:
 
-- *Discourse on the Method,* by Renee Descartes
-- *What is it like to be a bat,* by Thomas Nagel 
-- *What Computers Still Can’t Do,* by Hubert L. Dreyfus
-- *God, Human, Animal Machine,"* by Meghan  O'Gieblyn
+- *Teaching the Science of Learning,* by Yana Weinstein, Christopher R. Madan, and Megan A. Sumeracki
+- *Abstraction: What Is It? Why Is It So Important?,* by Jeff Kramer
 
 #### Objectives:
 
-- Learn important historical moments in the attempts to understand cognition.
-- Analyze materialist, dualist, and panpsychist understandings of consciousness.
-- Create an argument for which model of conciousness you find most persuasive.
-- Identify areas of culture that have been affected by these debates.
+- Identify which techniques are most useful for human learning.
+- Visualize ways that data can be grouped and classified.
+- Differentiate between the major techniques used in machine learning.
+- Draw analogies between the ways humans learn and the way machines learn.
+- Utilize techniques to prevent over-fitting of data.
 
 #### Essential Questions:
 
-- How has the notion of consciousness evolved through time?
-- What are the differences between a human mind and a computer?
+- How do humans learn best?
+- What techniques do researchers use to help machines learn?
+- Why is abstraction essential when solving complex problems?
 
 #### Formative Assessments:
 
-- Reading check-ins
-- In-glass group work
-
-#### Summative Assessments:
-
-- In-class discussion
-- In-class essay
-
-## Unit 5 - Forest for the Trees
-
-#### Objectives:
-
-- Learn how to create and traverse a tree data structure.
-- Learn how to display a tree data structure so it is easily understood.
-- Represent simple games using a tree.
-- Create an implementation of the decision tree algorithm.
-- Analyze a series of data sets using a decision tree.
-- Utilize techniques to prevent overfitting of data.
-- Create a lab report that is able to justify conclusions reached during exploration.
-
-#### Essential Questions:
-
-- How are trees useful for representing decisions?
-- What kind of data is best represented within a tree?
-- What techniques can be used to prevent overfitting of data and why are they important?
-
-#### Formative Assessments:
-
-- Programming problem sets
 - In-class group work
+- In-class discussion
 
 #### Summative Assessments:
 
-- Programming projects
+- Group project
 
-## Unit 6 - Hey Bayes Bayes
+## Unit 5 - Hey Bayes Bayes
 
 #### Objectives:
 
 - Understand conditional probability.
 - Implement a Bayesian classifier.
-- Use the Bayesian classifier to solve a variety of sample problems.
-- Create a lab report that is able to justify conclusions reached during exploration.
+- Use a Bayesian classifier to solve a variety of sample problems.
 
 #### Essential Questions:
 - In what circumstances can we use the past to predict the future?

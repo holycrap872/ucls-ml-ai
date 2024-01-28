@@ -1,6 +1,25 @@
 # Course Overview (subject to change)
 
-## Unit 0 - Machines in Society
+## Unit 0 - Bayesian Classifiers
+
+- Understand conditional probability.
+- Implement a Bayesian classifier.
+- Use a Bayesian classifier to solve a variety of sample problems.
+
+#### Essential Questions:
+- In what circumstances can we use the past to predict the future?
+- What types of data are amenable to machine learning?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 1 - Machines in Society
 
 #### Texts:
 
@@ -32,26 +51,22 @@
 - In-class discussion
 - In-class presentation
 
-## Unit 1 - Evolutionary Algorithms
-
-#### Texts:
-
-- *The Gene,* by Siddhartha Mukherjee
+## Unit 2 - Forest for the Trees
 
 #### Objectives:
 
-- Articulate the three key components of any evolutionary algorithm.
-- Appreciate how the evolutionary process can be applied to multiple domains.
-- Create a generic skeleton for solving problems via an evolutionary algorithm.
-- Alter fitness functions to apply same basic techniques to multiple problems.
-- Visualize how small changes can lead to solving difficult problems.
-- Understand what a metaheuristic is.
+- Learn how to create and traverse a tree data structure.
+- Learn how to display a tree data structure so it is easily understood.
+- Represent simple games using a tree.
+- Create an implementation of the decision tree algorithm.
+- Analyze a series of data sets using a decision tree.
 - Create a lab report that is able to justify conclusions reached during exploration.
 
 #### Essential Questions:
 
-- What outcomes within our world can be attributed to an evolutionary process?
-- How can problems be modeled to take advantage of the evolutionary process?
+- How are trees useful for representing decisions?
+- What kind of data is best represented within a tree?
+- What techniques can be used to prevent over-fitting of data and why are they important?
 
 #### Formative Assessments:
 
@@ -60,69 +75,38 @@
 
 #### Summative Assessments:
 
-- In-class discussion
 - Programming projects
 
-## Unit 2 - Emergence
+## Unit 3 - Cognition and Computing
 
 #### Texts:
 
-- *Darwin’s Cathedral,* by David Wilson
-- *War and Peace,* by Leo Tolstoy
+- *Discourse on the Method,* by Renee Descartes
+- *What is it like to be a bat,* by Thomas Nagel
+- *What Computers Still Can’t Do,* by Hubert L. Dreyfus
+- *God, Human, Animal Machine,"* by Meghan O'Gieblyn
 
 #### Objectives:
 
-- Learn to utilize a gaming library to visualize certain emergent behaviors.
-- Appreciate how simple rules can lead to complex behaviors.
-- Create various emergent systems.
-- Discuss how levels of abstraction can be utilized to bridge the gap between
-  simple individual actions and complex systems.
+- Learn important historical moments in the attempts to understand cognition.
+- Analyze materialist, dualist, and panpsychist understandings of consciousness.
+- Create an argument for which model of consciousness you find most persuasive.
+- Identify areas of culture that have been affected by these debates.
 
 #### Essential Questions:
 
-- What are the underlying properties of an emergent behavior?
-- Is consciousness an emergent system?
+- How has the notion of consciousness evolved through time?
+- What are the differences between a human mind and a computer?
 
 #### Formative Assessments:
 
-- Programming problem sets
+- Reading check-ins
 - In-class group work
 
 #### Summative Assessments:
 
 - In-class discussion
-- Programming projects
-
-## Unit 3 - Neural Networks
-
-#### Texts:
-
-- *A Sociological Study of the Official History of the Perceptrons Controversy,*
-  by Mikel Olazaran
-
-#### Objectives:
-
-- Create a perceptron.
-- Visualize what a perceptron is capable of deciding.
-- Understand why back propagation is necessary for training a neural network.
-- Use existing neural network libraries to create and train a multi-layered network.
-- Create a lab report that is able to justify conclusions reached during exploration.
-- Articulate the major research movements within AI.
-
-#### Essential Questions:
-
-- Why have neural networks become the “go to” for the most ambitious AI projects?
-- What factors determine if an idea receives attention within the scientific community?
-
-#### Formative Assessments:
-
-- Programming problem sets
-- In-class group work
-
-#### Summative Assessments:
-
-- In-class discussion
-- Programming projects
+- In-class essay
 
 ## Unit 4 - Application of Knowledge
 
@@ -136,9 +120,7 @@
 - Identify data sources that will best help answer research question.
 - Apply pre-existing knowledge to create tools to analyze data set.
 - Extract knowledge from data and present it.
-- Create a lab report justifying conclusions and explaining the research process.
-- Cite the sources and researchers who led to final project.
-- Present findings in front of class.
+- Utilize best practices to implement a robust, well-engineered solution.
 
 #### Essential Questions:
 
@@ -153,5 +135,4 @@
 
 #### Summative Assessments:
 
-- Research project
-
+- Group project
