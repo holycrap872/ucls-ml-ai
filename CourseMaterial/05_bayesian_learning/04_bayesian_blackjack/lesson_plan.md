@@ -36,10 +36,17 @@ None
         - P(Win | p16, d10, Stay)
     - Why is this useful?
 - Today we're basically going to do same thing as "rule bot"
-    - Instead of a "rule bot" playing, we're going to have a "bayesian bot"
-- Bayesian Bot description:
-    - Use the data I give you to make decisions
-    - Play 1000 games and find win %
+    - Create an outside "suggester" then can easily plug it into the blackjack game
+- How suggester works:
+    - Gets two inputs: user hand total and dealer card showing
+    - Then, based on data, suggests whether to hit or stay
+- Program design:
+    - `parse_csv(path: str) -> list[dict]:`
+    - `filter(data: list[dict], hand_value: int, dealer_showing: int, *, is_hit: bool) -> float:`
+Progression:
+    - Build "bayesian suggester" (required)
+    - Plug "suggester" into blackjack as a bot (extension)
+    - Calculate win % of blackjack using suggester (extension)
 - Advanced: create a "learning bayesian bot"
     - It should do "the easy stuff" automatically
         - e.g., it should always hit when less than 20
