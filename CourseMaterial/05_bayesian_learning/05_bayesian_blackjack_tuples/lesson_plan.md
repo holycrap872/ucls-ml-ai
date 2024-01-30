@@ -36,9 +36,6 @@ None
         - All Python stuff is dictionaries at the bottom
         - Difficult to work with
         - Dictionaries are for variable sized data (graphs)
-- Use `NamedTuple` to make more realistic cards in my simple blackjack game
-    - Have them come up with Tuple
-    - I just do the copy/replace stuff
 - Goals
     - Replace dicts with NamedTuples in suggester
     - Update functions to use NamedTuples
