@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import random
 import typing
 
 
@@ -43,10 +44,15 @@ def find_matches(data: list[CancerData], smoothness: int, area: int, radius: int
 
 
 if __name__ == "__main__":
-    training_list = parse_data("CourseMaterial/05_bayesian_learning/06_cancer_detection/cancer.csv")
-    print(len(training_list))
-    test_list = parse_data("CourseMaterial/05_bayesian_learning/06_cancer_detection/cancer_test.csv")
-    print(len(test_list))
+    data = parse_data("CourseMaterial/05_bayesian_learning/06_cancer_detection/cancer.csv")
+
+    training_list = []
+    test_list = []
+    for d in data:
+        if random.randint(1, 4) == 1:
+            test_list += [d]
+        else:
+            training_list += [d]
 
     correct = 0
     wrong = 0
