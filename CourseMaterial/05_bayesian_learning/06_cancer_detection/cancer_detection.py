@@ -46,8 +46,8 @@ def find_matches(data: list[CancerData], smoothness: int, area: int, radius: int
 if __name__ == "__main__":
     data = parse_data("CourseMaterial/05_bayesian_learning/06_cancer_detection/cancer.csv")
 
-    training_list = []
-    test_list = []
+    training_list: list[CancerData] = []
+    test_list: list[CancerData] = []
     for d in data:
         if random.randint(1, 4) == 1:
             test_list += [d]

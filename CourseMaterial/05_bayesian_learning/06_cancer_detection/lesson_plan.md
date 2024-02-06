@@ -14,6 +14,9 @@
 - Review
     - NamedTuples
     - Bayes Theorem
+- NamedTuples Detective
+    - I give properties and you guess the name of the tuple
+    - e.g., `name: str, age: int, weight: int, has_hair: bool` -> `Person`
 - Essentials of Programming
     - Identify data structures
         - Variable size: lists/dicts/sets
