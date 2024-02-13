@@ -1,6 +1,139 @@
 # Course Overview (subject to change)
 
-## Unit 0 - Bayesian Classifiers
+## Unit 0 - Hello World
+
+#### Texts:
+
+- *Computing Machinery and Intelligence,* by Alan Turing
+
+#### Objectives:
+
+- Understand different techniques for search space exploration.
+- Learn to detect a computer impersonating a human.
+- Consider the difficulty of pinpointing the source of intelligence.
+- Discuss ways that ChatBots can help and hurt learning.
+
+#### Essential Questions:
+
+- What types of problems can be represented as a search for a global maximum?
+- What signals do we use to identify intelligence?
+- What is the role of AI in the classroom?
+
+#### Formative Assessments:
+
+- Reading check-ins
+- In-class group work
+
+#### Summative Assessments:
+
+- In-class discussion
+
+## Unit 1 - Introduction to Data Science
+
+#### Texts:
+
+- *Computational and Inferential Thinking,* by Ani Adhikari, John DeNero, and David Wagner
+
+#### Objectives:
+
+- Refresh previously learned programming skills.
+- Understand how to run simple statistical experiments on a computer.
+- Learn how to utilize a simple data presentation library.
+- Practice pulling out knowledge from a dataset.
+- Experiment with different parameters to understand how they affect the problem.
+- Create a lab report that is able to justify conclusions reached during exploration.
+
+#### Essential Questions:
+
+- How can we use the power of computers to run better experiments?
+- What is the best way to represent data to make it easy to understand?
+
+#### Formative Assessments:
+
+- Skills assessment
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 2 - SDE Bootcamp
+
+#### Objectives:
+
+- Develop debugging techniques to quickly identify issues.
+- Utilize git to save work and collaborate with classmates.
+- Learn the importance of unit testing for documentation and speed of development.
+- Appreciate the utility of using types to reduce errors.
+
+#### Essential Questions:
+
+- What are the best practices to use when working on a software project?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 3 - Lists and Sets and Maps Oh My!
+
+#### Objectives:
+
+- Learn about built in python data structures such as sets, maps, and lists.
+- Create a rudimentary text completion bot.
+- Experiment with the bot to understand the effect of different data sources.
+
+#### Essential Questions:
+
+- What situations are best served by the use of sets, maps, and lists?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 4 - Learning Machines
+
+#### Texts:
+
+- *Teaching the Science of Learning,* by Yana Weinstein, Christopher R. Madan, and Megan A. Sumeracki
+- *Abstraction: What Is It? Why Is It So Important?,* by Jeff Kramer
+
+#### Objectives:
+
+- Identify which techniques are most useful for human learning.
+- Visualize ways that data can be grouped and classified.
+- Differentiate between the major techniques used in machine learning.
+- Draw analogies between the ways humans learn and the way machines learn.
+- Utilize techniques to prevent over-fitting of data.
+
+#### Essential Questions:
+
+- How do humans learn best?
+- What techniques do researchers use to help machines learn?
+- Why is abstraction essential when solving complex problems?
+
+#### Formative Assessments:
+
+- In-class group work
+- In-class discussion
+
+#### Summative Assessments:
+
+- Group project
+
+## Unit 5 - Hey Bayes Bayes
+
+#### Objectives:
 
 - Understand conditional probability.
 - Implement a Bayesian classifier.
@@ -19,120 +152,3 @@
 
 - Programming projects
 
-## Unit 1 - Machines in Society
-
-#### Texts:
-
-- *ChatGPT is a Blurry JPEG of the Web,* by Ted Chiang
-- *The Trial,* by Franz Kafka
-- *A Hacker Manifesto,* by McKenzie Wark
-
-#### Objectives:
-
-- Understand where data comes from and how it is utilized within the modern world.
-- Identify entities that have a natural advantage in capturing data.
-- Articulate the value of data in isolation and in aggregate.
-- Identify areas where humans have turned over decision making to AI.
-- Discuss how data controls the quality of any learning process.
-- Explore datasets that are encoded with pre-existing biases and their effects on society.
-
-#### Essential Questions:
-
-- What is the value of data?
-- How can societies best utilize data sources to produce just outcomes?
-
-#### Formative Assessments:
-
-- Reading check-ins
-- In-glass group work
-
-#### Summative Assessments:
-
-- In-class discussion
-- In-class presentation
-
-## Unit 2 - Forest for the Trees
-
-#### Objectives:
-
-- Learn how to create and traverse a tree data structure.
-- Learn how to display a tree data structure so it is easily understood.
-- Represent simple games using a tree.
-- Create an implementation of the decision tree algorithm.
-- Analyze a series of data sets using a decision tree.
-- Create a lab report that is able to justify conclusions reached during exploration.
-
-#### Essential Questions:
-
-- How are trees useful for representing decisions?
-- What kind of data is best represented within a tree?
-- What techniques can be used to prevent over-fitting of data and why are they important?
-
-#### Formative Assessments:
-
-- Programming problem sets
-- In-class group work
-
-#### Summative Assessments:
-
-- Programming projects
-
-## Unit 3 - Cognition and Computing
-
-#### Texts:
-
-- *Discourse on the Method,* by Renee Descartes
-- *What is it like to be a bat,* by Thomas Nagel
-- *What Computers Still Can’t Do,* by Hubert L. Dreyfus
-- *God, Human, Animal Machine,"* by Meghan O'Gieblyn
-
-#### Objectives:
-
-- Learn important historical moments in the attempts to understand cognition.
-- Analyze materialist, dualist, and panpsychist understandings of consciousness.
-- Create an argument for which model of consciousness you find most persuasive.
-- Identify areas of culture that have been affected by these debates.
-
-#### Essential Questions:
-
-- How has the notion of consciousness evolved through time?
-- What are the differences between a human mind and a computer?
-
-#### Formative Assessments:
-
-- Reading check-ins
-- In-class group work
-
-#### Summative Assessments:
-
-- In-class discussion
-- In-class essay
-
-## Unit 4 - Application of Knowledge
-
-#### Texts:
-
-- *Oh the Places You’ll Go,* by Theodore Geisel
-
-#### Objectives:
-
-- Create a research question that is of interest to you.
-- Identify data sources that will best help answer research question.
-- Apply pre-existing knowledge to create tools to analyze data set.
-- Extract knowledge from data and present it.
-- Utilize best practices to implement a robust, well-engineered solution.
-
-#### Essential Questions:
-
-- What questions are important to me?
-- What resources and techniques will allow me to create knowledge to answer these questions?
-- What biases within my analyses do I have to check for?
-
-#### Formative Assessments:
-
-- 2-minute check-in presentations
-- Research check-ins
-
-#### Summative Assessments:
-
-- Group project

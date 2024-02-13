@@ -3,20 +3,20 @@ back and ask ourselves, what are the possible downsides"* - Emily Bender
 
 # Machine Learning
 
-This half-year course allows students to build on the knowledge they gained in
-the previous semester and to utilize these new skills to build a project of
-their choosing. In particular, students will continue to be exposed to a
-variety of AI/ML techniques including decision trees and neural networks.
-Students will implement part or all of these techniques in python and then use
-the resulting functionality to draw conclusions about various datasets.
-Alongside each of these engineering tasks, students will also be exposed to
-readings that highlight the trade offs that come from asking machines to make
-important decisions and the difficulty of determining the root of consciousness.
+This half-year course introduces students to both the technological and
+philosophical underpinnings of the current AI revolution. Throughout the term,
+students will be exposed to a variety of AI/ML techniques such as decision
+trees and bayesian classifiers. Students will implement part or all of these
+techniques in python and then use the resulting functionality to draw
+conclusions about various datasets. Alongside each of these engineering tasks,
+students will also be exposed to readings that highlight the various
+breakthroughs, false starts, and intellectual heritage of the quest to make a
+thinking machine.
 
 The goal of this course is for students to emerge as capable engineers and as
 critical creators of technology. In terms of engineering, students will become
-schooled in best practices such as CI/CD, virtual machines, and git. In terms
-critical thinking, students will be forced to explain how different
+schooled in best practices such as unit testing, git, and pair programming. In
+terms of critical thinking, students will be forced to explain how different
 philosophical ideas map onto different technical ideas and how they might be
 utilized in the future. Students will continually come back to questioning how
 to accomplish a particular task, what the costs and benefits of their decisions
@@ -29,21 +29,18 @@ are, and what the hidden downstream effects of their decisions might be.
   systems?
 - What are the strengths and weaknesses of the techniques underlying the AI
   systems we interact with on a daily basis?
-- How can we create systems that avoid our personal biases and the limits of
-  our knowledge?
-- How can we utilize outside resources to increase our own capabilities?
-- How can data be used to produce just outcomes?
+- What is the difference in the ways machines and humans learn?
 
 ## Learning Objectives
 
 - To learn common programming and engineering techniques.
 - To utilize AI to extract knowledge from data.
-- To articulate the value of data in isolation and in aggregate.
-- To understand how the notion of consciousness has evolved over time.
 - To identify areas where AI has been given the power to make real-world decisions.
 - To assess the decisions made by existing AI systems and detect unjust outcomes.
 - To develop confidence and a problem-solving mindset when dealing with new
   techniques.
+- To identify techniques that increase the effectiveness of learning for both
+  humans and machines.
 - To engage with the material carefully and thoughtfully; to search for and
   analyze complex meaning.
 - To lead and participate in class discussions and group activities with
@@ -68,7 +65,7 @@ your development seriously as a reader, writer, and programmer. The following
 are some specific guidelines that will help you to meet these expectations:
 
 - Come to class prepared. This means you should have completed all of the
-  assignments due for that day’s class, and you should have annotated the text
+  assignments due for that day's class, and you should have annotated the text
   of any assigned reading.
 - Remain open-minded and sensitive during class discussions.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
@@ -121,11 +118,10 @@ future work will build on previously covered concepts.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 20%
-- Homework: 20%
+- Classwork: 50%
+- Homework: 30%
 - Discussions: 10%
 - Quizzes: 10%
-- Projects: 40%
 
 Grades for assignments will be posted on Schoology within one week of their due
 date.
@@ -179,3 +175,4 @@ after 7am.
 
 If you miss a class, you should review the materials on Schoology and follow up
 with me if there’s anything there that you don't understand.
+
