@@ -60,6 +60,10 @@
 
 ## Unit 2 - SDE Bootcamp
 
+#### Texts:
+
+- *Conventional Comments,* by Paul Slaughter
+
 #### Objectives:
 
 - Develop debugging techniques to quickly identify issues.

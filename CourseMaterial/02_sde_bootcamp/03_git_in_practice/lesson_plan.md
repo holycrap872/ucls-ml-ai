@@ -40,6 +40,7 @@
         - Do not commit any hidden files/folders (leading “.”) 
     - Push "initial commit" to your GitLab Problem Set repo
     - Create a README.md for your Problem set and commit it
+        - Browser https://conventionalcomments.org/ to understand the type of feedback I'll leave
     - Start homework
 
 ### Homework
