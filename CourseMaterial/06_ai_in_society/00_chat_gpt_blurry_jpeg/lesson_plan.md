@@ -20,12 +20,11 @@
     - Reemphasize rubric
 - Prepare for discussion of previous night's reading
     - Three essential questions on the board
-        - What level of control should people have for their work?
-            - Original sin of AI industry: beg forgiveness
-        - When does the use of art tip into copying?
-        - How would our class projects have changed with different usage laws?
+        - What does it mean to know something?
+        - How important is originality for individuals and society?
+        - How is ChatGPT different from the technologies that preceded it?
     - Discuss
-    - Have self-assess about dicussion
+    - Have self-assess about discussion
     - Last words?
 - Ground homework reading
     - Discussion about economics of data
