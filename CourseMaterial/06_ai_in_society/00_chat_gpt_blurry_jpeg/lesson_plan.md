@@ -7,7 +7,7 @@
 
 ### Setup
 
-`chat_gpt_is_a_blurry_jpeg` printed out
+- `chat_gpt_is_a_blurry_jpeg` printed out
 
 ### Actual Lesson
 
@@ -18,14 +18,27 @@
     - Role of data and AI in society
     - Series of discussions based on readings the night before
     - Reemphasize rubric
-- Prepare for discussion of previous night's reading
-    - Three essential questions on the board
+- Today going to have discussion on previous night's reading
+    - Hand out discussion rubric
+    - Have read through it and ask any questions
+- Write for 5m answering one of the essential questions:
+    - Questions:
         - What does it mean to know something?
         - How important is originality for individuals and society?
         - How is ChatGPT different from the technologies that preceded it?
+    - Use timer to make clear
+- Ground rules
+    - Think of positive examples
+    - Listen
+- Begin discussion
+    - Should last ~20 - 25m
     - Discuss
-    - Have self-assess about discussion
-    - Last words?
+- Wrap up
+    - Ask someone to summarize
+    - Ask if there's anything that wasn't said
+- Debrief
+    - Self-assess on the rubric
+    - Answer questions on the back
 - Ground homework reading
     - Discussion about economics of data
     - Initial thoughts?
