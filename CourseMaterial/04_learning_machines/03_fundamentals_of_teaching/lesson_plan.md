@@ -17,14 +17,14 @@ Printed out discussion rubrics
     - Properties of trees
     - Training set
     - Test set
-    - Overfitting
+    - Over-fitting
 - Today going to have a discussion
     - Hand out discussion rubric
     - Have read through it and ask any questions
 - Write for 5m answering one of the essential questions:
     - How does the research compare with your learning experience?
     - Which techniques have comparable ones in machine learning?
-     - Which techniques have no comparable ones in ML and what does this say
+    - Which techniques have no comparable ones in ML and what does this say
        about the difference between humans and machines?
 - Ground rules
     - Think of positive examples
