@@ -8,6 +8,8 @@
 ### Setup
 
 - `chat_gpt_is_a_blurry_jpeg` printed out
+- `discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4/edit?usp=sharing
 
 ### Actual Lesson
 
@@ -45,11 +47,9 @@
 
 #### Homework
 
-Read next day's discussion article
+- Read next day's discussion article
 
 ### Extensions
-
-https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
 
 Thoughts:
 - Some disciplines it's ok to blurry
@@ -58,4 +58,3 @@ Thoughts:
     - English -> deadening/homogenization of language
     - Plato worried about writing
     - Ludites
-
