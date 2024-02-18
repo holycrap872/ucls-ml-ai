@@ -38,6 +38,8 @@ and then write at **least two unit tests** in the
    **value** with the highest frequency in a dictionary.
 8. Create a function that takes an integer as an input and returns a list
    containing all of the primes less than or equal to the given number.
+   - For example: `11 -> [2, 3, 5, 7, 11]`
+   - Hint: Use the function your created for problem 0 in your solution
 9. Create a function that takes a string as an input and returns a list of all
    two-length substrings.
    - For example: `"compu" -> ["co", "om", "mp", "pu"]`
@@ -48,35 +50,37 @@ and then write at **least two unit tests** in the
 11. Create a function that takes a **list of lists of integers** as an input
    and returns a "flattened" version of the input (aka. no sub-lists).
 12. Create a function that takes a list of integers and returns how many pairs of
-   numbers add up to 10.
-   - For example: `[5, 7, 4] -> 0`
-   - For example: `[5, 5, 6, 3, 4, 4] -> 3`
+    numbers add up to 10.
+    - For example: `[5, 7, 4] -> 0`
+    - For example: `[5, 5, 6, 3, 4, 4] -> 3`
 13. Create a function that finds the largest number in a list and returns a
     tuple: the number and the list without the number.
-   - For example: `[5, 7, 4] -> (7, [5, 4])`
-14. Create a function that takes a list of integers as an input and, use the
-   function above, to returns a sorted version of the list.
+    - For example: `[5, 7, 4] -> (7, [5, 4])`
+14. Create a function that takes a list of integers as an input and, using the
+    function above, to returns a sorted version of the list.
+    - For example: `[5, 7, 4, 3] -> [3, 4, 5, 7]`
 15. Implement a system to track employee hours. Each record is a NamedTuple
-   that includes `employee_id` and `hours_worked`. Create a function that takes
-   a list of records and a employee id and returns the total hours worked by
-   the employee in a given month.
-16. Create a function that takes a list of integers as an input and returns the
-   length of the longest consecutive elements sequence.
-   - For example: `[1, 5, 5, 6, 6, 6, 5, 5, 2] -> 3`
+    that includes `employee_id` and `hours_worked`. Create a function that takes
+    a list of records and a employee id and returns the total hours worked by
+    the employee in a given month.
+16. Create a function that takes a list of integers as an input a NamedTuple
+    that contains information on which number has the longest consecutive
+    elements sequence and what the length of the sequence was.
+    - For example: `[1, 5, 5, 6, 6, 6, 5, 5, 2] -> NamedTuple(val=6, length=3)`
 17. Create a function that takes a string as an input and returns a boolean of
-   whether the string has balanced parentheses.
-   - For example: `"((1 + 2) * 4) + (4 * 5) -> True`
-   - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
+    whether the string has balanced parentheses.
+    - For example: `"((1 + 2) * 4) + (4 * 5) -> True`
+    - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
 18. Create a function that takes two dictionaries as inputs. It then returns
-   a new dictionary containing all of the key/value pairs that are in **both**
-   dictionaries.
+    a new dictionary containing all of the key/value pairs that are in **both**
+    dictionaries.
 19. Create a function that takes a list of integers as an input and then returns
-   the maximum sum of non-adjacent numbers.
-   - For example: `[17, 100, 101, 5, 8] -> 118`
+    the maximum sum of non-adjacent numbers.
+    - For example: `[17, 100, 101, 5, 8] -> 118`
 20. Create a tool for analyzing traffic data. Use a NamedTuple for each data
     point, containing `date`, `location`, and `vehicle_count`. Create a
     function that takes a list of data points as an input and returns the
     busiest location in one day.
 21. Create a function that takes a string as an input and returns the longest
-   substring without repeating characters.
-   - For example: `"hellothere" -> "lother"`
+    substring without repeating characters.
+    - For example: `"hellothere" -> "lother"`
