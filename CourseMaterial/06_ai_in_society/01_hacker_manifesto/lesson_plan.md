@@ -25,7 +25,7 @@
             - e.g., Google scrapes public data but won't disclose its own
         - What do people mean when they say "data is the new oil"? How apt is the analogy?
     - Discuss
-    - Have self-assess about dicussion
+    - Have self-assess about discussion
     - Last words?
 - Ground homework
     - P-doom
