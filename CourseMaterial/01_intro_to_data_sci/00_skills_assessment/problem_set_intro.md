@@ -1,9 +1,9 @@
 # Python Intro Wheaties
 
 Create two new files in your problem set skeleton. Name one file
-`intro_wheaties.py` and put it in the `src` folder (`src/intro_wheaties.py`).
-Name the other file `test_intro_wheaties.py` and put it in the `test` folder
-(`test/test_intro_wheaties.py`).
+`intro_wheaties.py` and put it in the `skeleton` folder
+(`src/skeleton/intro_wheaties.py`). Name the other file `test_intro_wheaties.py`
+and put it in the `test` folder (`test/test_intro_wheaties.py`).
 
 For each problem, create a new function in the `intro_wheaties.py` file and
 then write at **least** three unit tests is the `test_intro_wheaties.py` file.

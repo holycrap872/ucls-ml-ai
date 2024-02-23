@@ -1,9 +1,9 @@
 # Python String Wheaties
 
 Create two new files in your problem set skeleton. Name one file
-`string_wheaties.py` and put it in the `src` folder (`src/string_wheaties.py`).
-Name the other file `test_string_wheaties.py` and put it in the `test` folder
-(`test/test_string_wheaties.py`).
+`string_wheaties.py` and put it in the `skeleton` folder
+(`src/skeleton/string_wheaties.py`). Name the other file `test_string_wheaties.py`
+and put it in the `test` folder (`test/test_string_wheaties.py`).
 
 For each problem, create a new function in the `string_wheaties.py` file and
 then write at **least one unit test** in the `test_string_wheaties.py` file.

@@ -57,6 +57,6 @@ if __name__ == "__main__":
 6. Crate a function that takes a single string as an input and returns the
    score of the given string in a Scrabble game. Write enough unit tests such
    that you have 100% line coverage.
-7. Implement a basic linked list data struction with functions for `insert()`,
+7. Implement a basic linked list data structure with functions for `insert()`,
    `delete()`, and `contains()`. Write enough unit tests such that you have
    100% line coverage.

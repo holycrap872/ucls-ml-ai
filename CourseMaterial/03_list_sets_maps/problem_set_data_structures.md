@@ -1,8 +1,8 @@
 # Python Data Structure Wheaties
 
 Create two new files in your problem set skeleton. Name one file
-`data_structure_wheaties.py` and put it in the `src` folder
-(`src/data_structure_wheaties.py`). Name the other file
+`data_structure_wheaties.py` and put it in the `skeleton` folder
+(`src/skeleton/data_structure_wheaties.py`). Name the other file
 `test_data_structure_wheaties.py` and put it in the `test` folder
 (`test/test_data_structure_wheaties.py`).
 
@@ -71,7 +71,7 @@ and then write at **least two unit tests** in the
     list containing the reverse of each string.
     - For example: `["apple", "banana", "cherry"] -> ["elppa", "ananab", "yrrehc"]`
 20. Create a function that takes two sets of ints as an input and returns a
-    set of ints that is the intersetion of the two sets. Do **not** use the
+    set of ints that is the intersection of the two sets. Do **not** use the
     `intersection()` function.
 21. Create a function that takes a list of ints as an input and returns a set
     which is a version of the original list but without any duplicates.
