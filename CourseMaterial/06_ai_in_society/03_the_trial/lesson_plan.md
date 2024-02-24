@@ -15,6 +15,11 @@ WIP:
         - Article about judge's giving harsher sentences right before lunch
 
 Watch Orson Welles' version of the Trial
+- Start at 4:15 -> 17:07 "gibberish, babbling" as the officer walks away
+- Skip a bunch of stuff that has to do with a "woman of the night"
+    - Movie is intentionally disorienting
+- 34:00 -> 49.56
+- 1:09:45
 
 #### Homework
 
