@@ -22,13 +22,15 @@
 - Play single coin NIM
     - Pile of 9 coins
     - Each player can take either one or two coins
+    - Misere game
 - Debrief
-    - What's the trick?
     - Would you rather go first or second?
+    - What's the trick?
+        - Want to go FIRST if heap is multiple of 3, SECOND otherwise
 - Draw the game tree
     - Properties of game trees
         - Turn based
-        - Guarenteed win if every path leads to a win
+        - Guaranteed win if every path leads to a win
     - Tree traversal
         - DFS
         - BFS
