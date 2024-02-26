@@ -51,8 +51,10 @@ and then write at **least two unit tests** in the
 10. Create a function that analyzes flight data. Each flight record is a NamedTuple
     containing `flight_number` (int), and `departure_date` ("YYYY-MM-DD" string).
     The function should take a set of flight records, a start date, and an end
-    date as inputs and return a list of all the flight numbers that depart
+    date as inputs and return a list of all the flight numbers that departed
     within the given time period.
+    - Hint: The fact you're using a "YYYY-MM-DD" string means you can use `<=`
+      to easily compare dates.
 11. Create a function that takes a **list of lists of integers** as an input
     and returns a "flattened" version of the input (aka. no sub-lists).
     - For example `[[1, 3], [4, 100]] -> [1, 3, 4, 100]`
