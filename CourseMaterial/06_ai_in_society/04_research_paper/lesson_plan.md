@@ -16,8 +16,8 @@
     - You read the OpenAI founding document 
     - Answer the following prompt:
         - Explain why there was a power struggle between the board and the CEO and what the board should have done
-        - 1 page summary explaining each side's position
-        - 2 page document on what you would have done
+        - 1-page summary explaining each side's position
+        - 2-page document on what you would have done
             - Cite articles we've read or new ones your find
 - Two classes (including this one to work on it)
     - Due at the beginning of third class
