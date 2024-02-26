@@ -1,4 +1,4 @@
-# Course Overview (subject to change)
+# Artificial Intelligence Course Overview (subject to change)
 
 ## Unit 0 - Bayesian Classifiers
 

@@ -1,4 +1,4 @@
-# Course Overview (subject to change)
+# Machine Learning Course Overview (subject to change)
 
 ## Unit 0 - Hello World
 
