@@ -1,3 +1,8 @@
+- Review
+    - Recursion
+    - Do merge sort
+        - Thinking recursively makes problems easier
+
 Option 1:
 
 - Encode a decision tree of 4 Guess Who that I give you
