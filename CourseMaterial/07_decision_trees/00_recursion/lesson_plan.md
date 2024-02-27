@@ -9,6 +9,8 @@
 
 - `ml_ai_recursion_worksheet` pushed to Schoology
 - Youtube videos loaded and ready to go
+    - https://www.youtube.com/watch?v=Q83nN97LVOU
+    - https://www.youtube.com/watch?v=rf60MejMz3E
 
 ### Actual Lesson
 
@@ -45,6 +47,8 @@
     - Use debugger
     - Show various possible call stacks
 - Explain worksheet
+    - Check that everyone can use turtles
+    - If can't use turtles, have use Grok
 - Go!
 
 #### Day 2
