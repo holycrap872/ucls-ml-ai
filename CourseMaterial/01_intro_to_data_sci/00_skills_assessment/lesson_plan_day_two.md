@@ -17,6 +17,8 @@ types and tests) that will help each of them as they encounter a problem.
 
 - Reflection
     - What did we do last class?
+    - Why is being in a workspace important?
+    - How do you know that you are/are not in a workspace?
 - Run through someones example
 - Talk about worksheet
     - Explain progression of problems:

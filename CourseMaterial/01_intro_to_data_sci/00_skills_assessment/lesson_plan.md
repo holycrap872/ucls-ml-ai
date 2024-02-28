@@ -39,6 +39,9 @@ figure out where the students are along several dimensions.
     - Install necessary extensions and get running
     - Do simple program together
         - Take in numbers from user until they hit "q" and then sums then
+    - Importance of being in workspace
+        - Get bunch of advanced features
+        - Note to instructor: Check that people have proper setup repeatedly over coming days
 - Walk around prodding people to improve practices in various ways
     - types!!!
 

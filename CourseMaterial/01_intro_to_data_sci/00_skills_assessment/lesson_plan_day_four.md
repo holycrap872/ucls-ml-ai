@@ -16,7 +16,7 @@
     - Put question into bard and see what it says
 - Reflection sheet on learning
     - What is learning
-- Class dicussion on role of ChatGPT
+- Class discussion on role of ChatGPT
     - Come up with policy together
 - Possible questions:
     - What is considered appropriate in other classes?

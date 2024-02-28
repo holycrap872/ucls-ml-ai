@@ -6,6 +6,8 @@
 ## Lesson Plan
 
 - Reflection
+    - Why is being in a workspace important?
+    - What should you do when you can't run tests?
 - Show unit tests
     - Do problem together
         - Palindrome problem
