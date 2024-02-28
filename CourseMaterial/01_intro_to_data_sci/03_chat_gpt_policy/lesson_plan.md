@@ -11,7 +11,7 @@
     - Types
     - Assert
 - Questions from the previous nights homework?
-- Program question 4 of assessment together
+- Program question 2.4 of assessment together (list of pairs)
     - Need it for some of the graph stuff
     - Put question into bard and see what it says
 - Reflection sheet on learning

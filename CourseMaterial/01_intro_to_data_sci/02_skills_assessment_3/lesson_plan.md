@@ -5,6 +5,12 @@
 
 ## Lesson Plan
 
+### Setup
+
+- None
+
+### Actual Lesson
+
 - Reflection
     - Why is being in a workspace important?
     - What should you do when you can't run tests?
@@ -18,7 +24,7 @@
     - "I would rather lose all my code than all my tests"
 - Continue
 
-## Homework
+#### Homework
 
 - Finish the problem you were working on *plus one more* with the help of Bard
   or ChatGPT

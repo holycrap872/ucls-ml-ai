@@ -1,9 +1,16 @@
 # Python Skills Assessment
 
+## Explanation
+
 This skills assessment is intended to determine where you are as a programmer.
 You **will not** be graded for how many of these problems your get right. All
 that matters is that you approach this problem set with a problem solving
 attitude and try to apply your past learnings to get as far as you can.
+
+## Setup
+
+Create a new file in your problem set skeleton called `skills_assessment.py`
+and put it in the `skeleton` folder (`src/skeleton/skills_assessment.py`).
 
 For each problem, create a new function and then call that function from the
 `__main__` hook. Once you have completed the problem, comment it out out and
@@ -28,7 +35,7 @@ if __name__ == "__main__":
 
 # Problems
 
-### Problems using `input()` and `print()` functions
+### Section 1: Functions using `input()` and `print()`
 
 0. Create a function that asks for the user's name and then prints out a greeting.
 1. Create a function that take three numbers from the user and prints out the max.
@@ -36,7 +43,7 @@ if __name__ == "__main__":
 2. Create a function that takes a single number from the user and prints a
    "count down" from that number all the way to zero.
 
-### Problems using **parameters** for input and `return` for output
+### Section 2: Functions using **parameters** for input and `return` for output
 
 0. Create a function that takes a single number as input and returns a boolean
    of whether it is a prime or not.

@@ -11,7 +11,7 @@ types and tests) that will help each of them as they encounter a problem.
 
 ### Setup
 
-- None (worksheet should be on schoology)
+- None
 
 ### Actual Lesson
 
@@ -19,7 +19,7 @@ types and tests) that will help each of them as they encounter a problem.
     - What did we do last class?
     - Why is being in a workspace important?
     - How do you know that you are/are not in a workspace?
-- Run through someones example
+- Run through someone's example
 - Talk about worksheet
     - Explain progression of problems:
         - `Shows use of input`
@@ -37,7 +37,7 @@ types and tests) that will help each of them as they encounter a problem.
         - Assertions
 - Today going to just program as much as we can
     - If you work hard today, no homework
-- Continue working on problem set
+- Continue working on skills assessment
 
 ## Homework
 
