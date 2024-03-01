@@ -68,3 +68,10 @@
     - Good to have both techniques in tool belt
 - Continue with worksheet
     - Homework is to finish
+
+
+#### Day 3
+
+- Review
+    - Recursion
+    - Go over homework
