@@ -12,19 +12,19 @@ hook at the bottom of the file to make sure it works.
 
 # Problems
 
-0. Create a recursive function that "counts down" to `0` and then says
-   `blast off`. The recursive function should take an integer as an input and
-   return `None`.
+0. Create a recursive function that prints a "counts down" to `0` and then
+   prints `blast off`. The recursive function should take an integer as an
+   input and return `None`.
     - For example, with the initial input of 3, the program should print `3`
       then `2`, then `1`, then `blast off`. 
-1. Create a recursive function that calculates the number of characters in a
-   string. The recursive function should should take a string as an input and
-   return an integer.
-    - For example: `"hello -> 5`
-2. Create a recursive function that calculates factorials. The recursive
+1. Create a recursive function that calculates factorials. The recursive
    function should take an integer as an input and return an integer.
     - For example: `3 -> 6` (3 * 2 * 1)
     - For example: `5 -> 120` (5 * 4 * 3 * 2 * 1)
+2. Create a recursive function that calculates the number of characters in a
+   string. The recursive function should should take a string as an input and
+   return an integer.
+    - For example: `"hello -> 5`
 3. Create a recursive function that checks if a given string is a palindrome.
    The recursive function should take a string as an input and return a boolean.
     - For example: `elle -> True`
