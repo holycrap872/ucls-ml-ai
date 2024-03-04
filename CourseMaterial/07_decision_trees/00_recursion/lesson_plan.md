@@ -74,4 +74,12 @@
 
 - Review
     - Recursion
-    - Go over homework
+- Go over homework
+    - Trees with leaves (triangles at the end)
+    - Koch snowflake taking infinitely long
+- Homework preview
+    - Calculate factorial via recursion
+    - calculate sum of natural numbers
+    - Number of chars in a string
+- Watch Fractals video
+- Debrief
