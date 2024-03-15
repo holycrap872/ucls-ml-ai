@@ -1,4 +1,4 @@
-# Machine Learning and Artifical Intelligence
+# Machine Learning and Artificial Intelligence
 
 This repository attempts to capture a full year high school class that teaches
 Machine Learning and Artificial Intelligence. The students within the course
@@ -15,13 +15,13 @@ techniques in AI/ML.
 
 To understand the course, there are four places to look:
 
-- The [Course Syllabus](./CourseMaterial/course_documents/ai_syllabus.md) document for 
+- The [Course Syllabus](./CourseDocuments/ai_syllabus.md) document for 
   the general expectations of the course handed out at the beginning of the year.
-- The [AI Course Overview](./CourseMaterial/course_documents/ai_course_overview.md)
+- The [AI Course Overview](./CourseDocuments/ai_course_overview.md)
   document for and understanding of the units of covered in the first semester.
-- The [ML Course Overview](./CourseMaterial/course_documents/ml_course_overview.md)
+- The [ML Course Overview](./CourseDocuments/ml_course_overview.md)
   document for and understanding of the units of covered in the second semester.
-- The [Course Documents](./CourseMaterial/) folder for the full set of lesson plans
+- The [Course Material](./CourseMaterial/) folder for the full set of lesson plans
   and activities.
 
 ## Contributions
