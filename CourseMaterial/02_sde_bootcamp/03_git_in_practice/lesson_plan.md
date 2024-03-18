@@ -35,6 +35,7 @@
     - Create an ml-ai folder in Documents/workspace/2023-24/lab_school
     - Move all previous projects into this folder
         - TIL and Problem Skeleton
+        - Make me a `Maintainer`
     - Create an "initial commit" for your Problem Set Skeleton
         - `git init` and `git add`
         - Do not commit any hidden files/folders (leading “.”) 
