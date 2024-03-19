@@ -5,10 +5,8 @@ Create a new file in your problem set skeleton. Name the file
 (`src/skeleton/recursion_wheaties.py`).
 
 For each problem, create a new **recursive function** in the
-`recursion_wheaties.py` file and then call the function from the `__main__`
-hook at the bottom of the file to make sure it works.
-
-> Note: You do not need to create any unit tests for this worksheet.
+`recursion_wheaties.py` file and then write at **least two unit tests** in the
+`test_recursion_wheaties.py` file.
 
 # Problems
 
@@ -17,6 +15,7 @@ hook at the bottom of the file to make sure it works.
    input and return `None`.
     - For example, with the initial input of 3, the program should print `3`
       then `2`, then `1`, then `blast off`. 
+    - Note: Since this function doesn't return anything, you **don't need to create any unit tests**
 1. Create a recursive function that calculates factorials. The recursive
    function should take an integer as an input and return an integer.
     - For example: `3 -> 6` (3 * 2 * 1)
