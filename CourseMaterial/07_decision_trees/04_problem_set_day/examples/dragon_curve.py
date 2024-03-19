@@ -10,9 +10,9 @@ def generate_dragon_curve_sequence(n: int) -> str:
         prev_sequence = generate_dragon_curve_sequence(n - 1)
         # Step 1 & 2: Make a reversed copy of the sequence, replacing 'R' with 'L' and vice versa
         reverse_sequence = prev_sequence[::-1]
-        reverse_sequence = reverse_sequence.replace("L", "T")
+        reverse_sequence = reverse_sequence.replace("L", "temp")
         reverse_sequence = reverse_sequence.replace("R", "L")
-        reverse_sequence = reverse_sequence.replace("T", "R")
+        reverse_sequence = reverse_sequence.replace("temp", "R")
 
         # Step 3: Join original and modified copy with an 'R' in between
         return prev_sequence + "R" + reverse_sequence
