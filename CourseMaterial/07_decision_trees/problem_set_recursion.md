@@ -21,50 +21,52 @@ hook at the bottom of the file to make sure it works.
    function should take an integer as an input and return an integer.
     - For example: `3 -> 6` (3 * 2 * 1)
     - For example: `5 -> 120` (5 * 4 * 3 * 2 * 1)
-2. Create a recursive function that calculates the number of characters in a
-   string. The recursive function should should take a string as an input and
-   return an integer.
-    - For example: `"hello -> 5`
-3. Create a recursive function that calculates the sum of natural numbers. The
+2. Create a recursive function that calculates the sum of natural numbers. The
    recursive function should take an integer as an input and return an integer.
     - For example: `3 -> 6` (3 + 2 + 1)
     - For example: `5 -> 15` (5 + 4 + 3 + 2 + 1)
-4. Create a recursive function that calculates the sum of integers in a list.
+3. Create a recursive function that calculates the sum of integers in a list.
    The recursive function should take a list of integers as an input and return
    an integer.
     - For example: `[4] -> 4`
     - For example: `[3, 7, 1] -> 11`
-5. Create a recursive function that checks if a given string is a palindrome.
+    - Hint: When using recursion to process a list, you often remove the first element
+4. Create a recursive function that checks if a given string is a palindrome.
    The recursive function should take a string as an input and return a boolean.
     - For example: `elle -> True`
     - For example: `racecar -> True`
     - For example: `none -> False`
-6. Create a recursive function to calculate one number raised to the power of
+5. Create a recursive function to calculate one number raised to the power of
    another. The recursive function should take two integer inputs: `x` and `y`
    and return an integer representing `x**y`.
     - For example: `x=2, y=3 -> 8`
     - For example: `x=10, y=2 -> 100`
-7. Create a recursive function to find the minimum element in a list. The
+    - Hint: Exponents are just bunch of multiplications
+6. Create a recursive function to find the minimum element in a list. The
    recursive function should take a list of integers as an input and return
    an integer.
     - For example: `[1] -> 1`
     - For example: `[9, 4, 2, 7] -> 2`
-8. Create a recursive function to count the number of occurrences of a
+7. Create a recursive function to count the number of occurrences of a
    particular number in a list. The recursive function should take a list
    of integers and an integer as inputs and return an integer.
     - For example: `[1], 1 -> 1`
     - For example: `[2, 5, 5, 6, 7, 5], 5 -> 5`
     - For example: `[2, 5, 5, 6, 7, 5], 1 -> 0`
-9. Create a recursive function to calculate the value of two numbers multiplied
-   by each other. The recursive function should take two integer inputs and
-   return an integer representing `x * y`.
-    - For example: `3, 2 -> 6`
-    - Hint: Multiplication is a bunch of additions
-10. Create a recursive function to determine the whether a list is sorted.
+8. Create a recursive function that calculates the number of characters in a
+   string. The recursive function should should take a string as an input and
+   return an integer.
+    - For example: `"hello -> 5`
+9. Create a recursive function to determine the whether a list is sorted.
     The recursive function should take a list of integers as an input and
     return a boolean.
     - For example: `[1, 4, 7, 8] -> True`
     - For example: `[1, 4, 8, 7] -> False`
+10. Create a recursive function to calculate the value of two numbers multiplied
+   by each other. The recursive function should take two integer inputs and
+   return an integer representing `x * y`.
+    - For example: `3, 2 -> 6`
+    - Hint: Multiplication is a bunch of additions
 11. Create a recursive function to determine whether a string contains any
     vowels. The recursive function should take a string as an input and return
     a boolean.
