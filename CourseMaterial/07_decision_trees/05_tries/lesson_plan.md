@@ -1,0 +1,3 @@
+- Review
+    - Do merge sort together
+        - Thinking recursively makes difficult problems easier

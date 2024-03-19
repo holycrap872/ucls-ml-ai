@@ -8,13 +8,10 @@
 ### Setup
 
 - `ml_ai_recursion_worksheet` pushed to Schoology
-- Youtube videos loaded and ready to go
-    - https://www.youtube.com/watch?v=Q83nN97LVOU
-    - https://www.youtube.com/watch?v=rf60MejMz3E
+    - https://docs.google.com/document/d/1kDjMv1tvWSuSpfG1-dTXoKUD86CuAuNag1gjqcsvP0s
+
 
 ### Actual Lesson
-
-#### Day 1
 
 - AI in Society wrap up
     - Drake's Equation
@@ -34,7 +31,7 @@
 - Examples of recursion in nature
     - Ferns
     - Tree
-    - Brocolli
+    - Broccoli
 - How a function works
     - Pause higher level
     - Finish lower level
@@ -51,35 +48,6 @@
     - If can't use turtles, have use Grok
 - Go!
 
-#### Day 2
+#### Homework
 
-- Review
-    - Recursion
-    - Function pause
-- Watch videos
-    - https://www.youtube.com/watch?v=Q83nN97LVOU
-        - 0:00 - 3:14
-    - https://www.youtube.com/watch?v=rf60MejMz3E
-        - 0:00 - end
-- Remove elements from a list
-    - Do iteratively
-    - Do recursively
-    - Sometimes thinking recursively better, sometime iteratively better
-    - Good to have both techniques in tool belt
-- Continue with worksheet
-    - Homework is to finish
-
-
-#### Day 3
-
-- Review
-    - Recursion
-- Go over homework
-    - Trees with leaves (triangles at the end)
-    - Koch snowflake taking infinitely long
-- Homework preview
-    - Calculate factorial via recursion
-    - calculate sum of natural numbers
-    - Number of chars in a string
-- Watch Fractals video
-- Debrief
+- TIL Entry on recursion
