@@ -36,6 +36,15 @@
     - Move all previous projects into this folder
         - TIL and Problem Skeleton
         - Make me a `Maintainer`
+    - Make a "pipeline status badge"
+        - Badge Name: Build Status
+        - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
+        - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/pipeline.svg
+        - Note: I'm not sure why they make it so annoying
+    - Make a "coverage badge"
+        - Badge Name: Code Coverage
+        - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
+        - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/coverage.svg
     - Create an "initial commit" for your Problem Set Skeleton
         - `git init` and `git add`
         - Do not commit any hidden files/folders (leading “.”) 
