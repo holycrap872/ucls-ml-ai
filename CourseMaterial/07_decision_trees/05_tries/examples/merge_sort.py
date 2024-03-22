@@ -2,7 +2,7 @@
 import random
 
 
-def merge_sort(arr: list) -> list:
+def merge_sort(arr: list[int]) -> list[int]:
     if len(arr) <= 1:
         return arr
 
@@ -10,7 +10,7 @@ def merge_sort(arr: list) -> list:
     left = merge_sort(arr[:mid])
     right = merge_sort(arr[mid:])
 
-    result = []
+    result: list[int] = []
     while left and right:
         if left[0] < right[0]:
             result.append(left.pop(0))
