@@ -22,6 +22,12 @@
             - Making stuff functions makes them easier to test
     - Discuss why they are good
     - "I would rather lose all my code than all my tests"
+- Talk about day of expectations:
+    - Wheel to see who get's picked on
+        - https://www.bonus.com/spin/?spaces=Eric,Sarah
+    - MUST put ChatGPT prompt in block-quote above code
+    - If someone spots a bug in your code (hacker) they steal 5 points
+        - Hacking is someone understanding you code better than you
 - Continue
 
 #### Homework
