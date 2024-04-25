@@ -29,7 +29,7 @@
     - Formalize together
         - Start state
         - Graph
-        - Transistions
+        - Transitions
         - Accept state
 
 ##### Homework
@@ -49,7 +49,7 @@
         - Accepts anything that starts with 11
     - Create example FSM together
         - Rejects anything that starts with 11
-        - Accepts anything that ends wtih 11
+        - Accepts anything that ends with 11
 - Break into pairs:
     - Do `fsm_worksheet.docx`
 
@@ -76,7 +76,7 @@
     - Have them create the json version for a particular FSM
 - Walk through `broken_fsm.py`
     - Explain the exercise
-        - Intentionally seeded errors mimicing real-world
+        - Intentionally seeded errors mimicking real-world
     - What are ways we could find the bugs
 - Find the bugs!
     - What are techniques we can use to debug?
@@ -91,7 +91,7 @@
     - Have them come up with techniques and order them from easiest to hardest
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
-- Download from schoology
+- Download from Schoology
     - Make clear what types of fixes required
         - One addition of `_ = _`
         - One addition of `_ in _`
@@ -108,6 +108,6 @@
     - Make curved lines between states by making arrow and then pulling it up/down
 - https://www.csfieldguide.org.nz/en/chapters/formal-languages/finite-state-automata/
 - If someone misses
-    - https://www.youtube.com/watch?v=4rNYAvsSkwk
+    - https://docs.google.com/document/d/13RhuBjltPkjO7ycogdR0jUkt8bJAVTHLveIRUdhNmEU/edit
     - Do problems 1-5 of worksheet
 - Graph lesson: https://mathigon.org/course/graph-theory/map-colouring
