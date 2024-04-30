@@ -21,7 +21,7 @@ def ana_markov_sim() -> None:
     ana_location = BAYESVILLE
     for _ in range(0, 5):
         possible_stops = flights[ana_location]
-        next_stop = random.sample(possible_stops, 1)[0]
+        next_stop = random.sample(list(possible_stops), 1)[0]
         time.sleep(1)
         print(f"Ana is getting on a plane in {ana_location}")
         time.sleep(1)

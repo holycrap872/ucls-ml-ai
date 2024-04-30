@@ -16,7 +16,7 @@
         - https://www.youtube.com/watch?v=JHwyHIz6a8A
         - Have simple problem representing progression
             - `ana_markov.py`
-            - Note: there's an intentional bug
+            - Note: If want, seed bug by deleting `ana_location = next_stop` on line 32
     - "I like turtles" Markov chain
         - Have them come up with sample sentences using dice
         - Have them read sentences they come up with
