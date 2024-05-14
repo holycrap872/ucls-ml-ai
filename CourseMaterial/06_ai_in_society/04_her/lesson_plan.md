@@ -9,6 +9,7 @@
 
 ### Setup
 
+- Permission slip sent out to parents
 - `Her` rented and ready to go
 
 ### Actual Lesson
