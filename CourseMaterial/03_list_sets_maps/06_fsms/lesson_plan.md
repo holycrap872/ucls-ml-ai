@@ -75,6 +75,7 @@
     - Show me running it
     - Have them create the json version for a particular FSM
 - Walk through `broken_fsm.py`
+    - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
     - Explain the exercise
         - Intentionally seeded errors mimicking real-world
     - What are ways we could find the bugs
