@@ -25,7 +25,7 @@ ingest a book whose contents are: "Fish swim, fish jump; I swim, I fish".
     ```
 2. Using this model, what is a sentence that could be generated starting with "i"?
 
-## Model creation
+## Model Creation
 
 Now we're going to operate on real data. Choose _one_ of your books from your
 `data` folder. Make sure that and _any pre/post text_ that has to do with
@@ -79,7 +79,7 @@ how to use this to prevent the same word from being output more than once.
 
 ## True Markov Chain Generation
 
-Now we're going to get `random`. In this part of the exercise, the probability
+Now we're going to use `random`. In this part of the exercise, the probability
 that we follow a transition is proportional to the number of occurrences it has.
 
 1. For generating a "true Markov-chain generated sentence" of **a given length**:
