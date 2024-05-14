@@ -9,6 +9,7 @@
 2. What is the scariest thing you’ve heard about artificial intelligence?
 3. What is the most exciting thing you’ve heard about artificial intelligence?
 4. What is a thing you want to be able to do by the end of the class?
+5. What is a project you would like to eventually be able to build (e.g., website, app, game)
 
 # Personal
 1. Do you consider a future career in computer science a possibility? Why or why not?
