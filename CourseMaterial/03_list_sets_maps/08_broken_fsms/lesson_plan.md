@@ -6,59 +6,10 @@
 
 ### Setup
 
-- Manufactoria on computers in lab
-- `fsm_worksheet.docx` printed out
-- `broken_fsm.py` loaded up in Schoology
+- Broken FSM project ready for cloning
+    - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
 
 ### Actual Lesson
-
-#### Day 1
-
-- Reflection
-- Manufactoria
-    - Walk through rules
-    - Hint at FSMs being behind the scenes
-- Play!
-    - Play in pairs
-    - Pair programming theater?
-- Last 10 minutes before leave
-    - Show super simple FSM
-    - Show levels
-        - Stage: 2, Level: Candidate Picker
-        - Stage: 3, Level: Home delivery
-    - Formalize together
-        - Start state
-        - Graph
-        - Transitions
-        - Accept state
-
-##### Homework
-
-- Data structures problem set
-- TIL entry
-
-#### Day 2
-
-- Reflection
-    - What are FSMs
-    - Where are FSMs
-        - Turnstiles: http://csunplugged.mines.edu/Activities/FSA/FSA.pdf
-        - Automatic doors
-    - Do example FSM together
-        - Only accepts 101
-        - Accepts anything that starts with 11
-    - Create example FSM together
-        - Rejects anything that starts with 11
-        - Accepts anything that ends with 11
-- Break into pairs:
-    - Do `fsm_worksheet.docx`
-
-##### Homework
-
-- Finish worksheet (with partner?)
-- Data structures problem set
-
-#### Day 3
 
 - Reflection
     - Where are FSMs used?
@@ -92,23 +43,20 @@
     - Have them come up with techniques and order them from easiest to hardest
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
-- Download from Schoology
+- `git clone` from gitlab
     - Make clear what types of fixes required
         - One addition of `_ = _`
         - One addition of `_ in _`
     - Go!
 
-##### Homework
+#### Homework
 
 - Finish debugging and get program working
 - Data structures problem set
 
-### Resources
+#### Resources
 
 - https://www.madebyevan.com/fsm/
     - Make curved lines between states by making arrow and then pulling it up/down
 - https://www.csfieldguide.org.nz/en/chapters/formal-languages/finite-state-automata/
-- If someone misses
-    - https://docs.google.com/document/d/13RhuBjltPkjO7ycogdR0jUkt8bJAVTHLveIRUdhNmEU/edit
-    - Do problems 1-5 of worksheet
 - Graph lesson: https://mathigon.org/course/graph-theory/map-colouring

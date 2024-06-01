@@ -39,6 +39,7 @@
 - Guess size of various game trees
     - 2 pile nim
     - Wordle "analysis" bot
+        - https://www.3blue1brown.com/lessons/wordle
     - Chess
     - Checkers
     - go
