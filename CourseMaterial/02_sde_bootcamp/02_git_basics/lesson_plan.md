@@ -77,3 +77,5 @@ A few example git repositories to chew on.
     - Not sure how much git knowledge people have
 - https://www.youtube.com/watch?v=USjZcfj8yxE
     - 15m intro to git
+- https://ohmygit.org/press/
+    - Game about git
