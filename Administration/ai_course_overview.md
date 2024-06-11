@@ -2,9 +2,9 @@
 
 ## Unit 0 - Bayesian Classifiers
 
-- Understand conditional probability.
-- Implement a Bayesian classifier.
-- Use a Bayesian classifier to solve a variety of sample problems.
+- Understand conditional probability
+- Implement a Bayesian classifier
+- Use a Bayesian classifier to solve a variety of sample problems
 
 #### Essential Questions:
 - In what circumstances can we use the past to predict the future?
@@ -19,7 +19,7 @@
 
 - Programming projects
 
-## Unit 1 - Machines in Society
+## Unit 1 - AI in Society
 
 #### Texts:
 
@@ -29,12 +29,10 @@
 
 #### Objectives:
 
-- Understand where data comes from and how it is utilized within the modern world.
-- Identify entities that have a natural advantage in capturing data.
-- Articulate the value of data in isolation and in aggregate.
-- Identify areas where humans have turned over decision making to AI.
-- Discuss how data controls the quality of any learning process.
-- Explore datasets that are encoded with pre-existing biases and their effects on society.
+- Understand where data comes from and how it is utilized within the modern world
+- Articulate the value of data in isolation and in aggregate
+- Identify current and potential effects of humans turning over decision making to AI
+- Explore datasets that contain pre-existing biases and their effects on society
 
 #### Essential Questions:
 
@@ -51,22 +49,27 @@
 - In-class discussion
 - In-class presentation
 
-## Unit 2 - Forest for the Trees
+## Unit 2 - Evolutionary Algorithms
+
+#### Texts:
+
+- *The Gene,* by Siddhartha Mukherjee
+- *Darwin’s Cathedral,* by David Wilson
 
 #### Objectives:
 
-- Learn how to create and traverse a tree data structure.
-- Learn how to display a tree data structure so it is easily understood.
-- Represent simple games using a tree.
-- Create an implementation of the decision tree algorithm.
-- Analyze a series of data sets using a decision tree.
-- Create a lab report that is able to justify conclusions reached during exploration.
+- Appreciate how the evolutionary process can be applied to multiple domain
+- Create a generic skeleton for solving problems via an evolutionary algorithm
+- Understand what a metaheuristic is
+- Appreciate how simple rules can lead to complex behaviors
+- Learn to utilize a gaming library to visualize certain emergent behaviors
 
 #### Essential Questions:
 
-- How are trees useful for representing decisions?
-- What kind of data is best represented within a tree?
-- What techniques can be used to prevent over-fitting of data and why are they important?
+- What outcomes within our world can be attributed to an evolutionary process?
+- How can problems be modeled to take advantage of the evolutionary process?
+- What are the underlying properties of an emergent behavior?
+- Is consciousness an emergent system?
 
 #### Formative Assessments:
 
@@ -75,6 +78,7 @@
 
 #### Summative Assessments:
 
+- In-class discussion
 - Programming projects
 
 ## Unit 3 - Cognition and Computing
@@ -88,10 +92,10 @@
 
 #### Objectives:
 
-- Learn important historical moments in the attempts to understand cognition.
-- Analyze materialist, dualist, and panpsychist understandings of consciousness.
-- Create an argument for which model of consciousness you find most persuasive.
-- Identify areas of culture that have been affected by these debates.
+- Learn important historical moments in the attempts to understand cognition
+- Analyze various philosophical models of consciousness
+- Create an argument for which model of consciousness is most persuasive
+- Identify areas of culture that have been affected by these debates
 
 #### Essential Questions:
 
@@ -108,7 +112,36 @@
 - In-class discussion
 - In-class essay
 
-## Unit 4 - Application of Knowledge
+## Unit 4 - Neural Networks
+
+#### Texts:
+
+- *A Sociological Study of the Official History of the Perceptrons Controversy,*
+  by Mikel Olazaran
+
+#### Objectives:
+
+- Create a perceptron and visualize what it is capable of deciding
+- Use existing neural network libraries to create and train a multi-layered network
+- Use commercial ChatBots to accelerate pace of production
+- Discuss how to most effectively utilize ChatBots to learn
+
+#### Essential Questions:
+
+- Why have neural networks become the “go to” for the most ambitious AI projects?
+- What factors determine if an idea receives attention within the scientific community?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- In-class discussion
+- Programming projects
+
+## Unit 5 - Application of Knowledge
 
 #### Texts:
 
@@ -116,11 +149,11 @@
 
 #### Objectives:
 
-- Create a research question that is of interest to you.
-- Identify data sources that will best help answer research question.
-- Apply pre-existing knowledge to create tools to analyze data set.
-- Extract knowledge from data and present it.
-- Utilize best practices to implement a robust, well-engineered solution.
+- Create a research question that is of interest to you
+- Identify data sources that will best help answer research question
+- Apply pre-existing knowledge to create tools to analyze data set
+- Extract knowledge from data and present it
+- Utilize best practices to implement a robust, well-engineered solution
 
 #### Essential Questions:
 
