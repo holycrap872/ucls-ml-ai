@@ -19,6 +19,7 @@ suggest:
 
 
 
-- Discuss chatbot policy (if have time)
-    - Exploratory committee about what policy the school should have
+- Discuss eventual chatbot policy (if have time)
+    - Won't be allowed to use any until second term
+    - At that point, anything goes
     - Likely going to ask you folks to be involved in some way to get student's view
