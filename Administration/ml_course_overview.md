@@ -8,10 +8,10 @@
 
 #### Objectives:
 
-- Understand different techniques for search space exploration.
-- Learn to detect a computer impersonating a human.
-- Consider the difficulty of pinpointing the source of intelligence.
-- Discuss ways that ChatBots can help and hurt learning.
+- Understand historical underpinnings of search for AI
+- Create mental model of machine learning as a search for optimal solutions
+- Consider the difficulty of pinpointing the source of intelligence
+- Discuss ways that ChatBots can help and hurt learning
 
 #### Essential Questions:
 
@@ -36,12 +36,10 @@
 
 #### Objectives:
 
-- Refresh previously learned programming skills.
-- Understand how to run simple statistical experiments on a computer.
-- Learn how to utilize a simple data presentation library.
-- Practice pulling out knowledge from a dataset.
-- Experiment with different parameters to understand how they affect the problem.
-- Create a lab report that is able to justify conclusions reached during exploration.
+- Refresh previously learned programming skills
+- Understand how to run simple statistical experiments on a computer
+- Learn how to utilize a simple data presentation library
+- Practice working with a real-world dataset to generate knowledge
 
 #### Essential Questions:
 
@@ -66,10 +64,10 @@
 
 #### Objectives:
 
-- Develop debugging techniques to quickly identify issues.
-- Utilize git to save work and collaborate with classmates.
-- Learn the importance of unit testing for documentation and speed of development.
-- Appreciate the utility of using types to reduce errors.
+- Learn how to use terminal to enable complex interactions with computer
+- Utilize git to save work and collaborate with classmates
+- Develop debugging techniques to identify complex issues
+- Learn the importance of unit testing for documentation and speed of development
 
 #### Essential Questions:
 
@@ -88,9 +86,10 @@
 
 #### Objectives:
 
-- Learn about built in python data structures such as sets, maps, and lists.
-- Create a rudimentary text completion bot.
-- Experiment with the bot to understand the effect of different data sources.
+- Learn about built in python data structures such as sets, maps, and lists
+- Represent simplistic FSMs via the use of sets, maps, and lists
+- Create a rudimentary text completion bot
+- Experiment with the bot to understand the effect of different data sources
 
 #### Essential Questions:
 
@@ -114,11 +113,11 @@
 
 #### Objectives:
 
-- Identify which techniques are most useful for human learning.
-- Visualize ways that data can be grouped and classified.
-- Differentiate between the major techniques used in machine learning.
-- Draw analogies between the ways humans learn and the way machines learn.
-- Utilize techniques to prevent over-fitting of data.
+- Differentiate between the major techniques used in machine learning
+- Visualize ways that data can be grouped and classified
+- Utilize techniques to prevent overfitting of data
+- Draw analogies between the ways humans learn and the way machines learn
+- Understand what it feels like to learn and how to be intentional in acquiring knowledge
 
 #### Essential Questions:
 
@@ -139,11 +138,12 @@
 
 #### Objectives:
 
-- Understand conditional probability.
-- Implement a Bayesian classifier.
-- Use a Bayesian classifier to solve a variety of sample problems.
+- Understand conditional probability
+- Implement a Bayesian classifier
+- Utilize interfaces to smoothly switch between different learning strategies
 
 #### Essential Questions:
+
 - In what circumstances can we use the past to predict the future?
 - What types of data are amenable to machine learning?
 
@@ -155,4 +155,3 @@
 #### Summative Assessments:
 
 - Programming projects
-
