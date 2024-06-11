@@ -149,11 +149,10 @@
 
 #### Objectives:
 
-- Create a research question that is of interest to you
-- Identify data sources that will best help answer research question
-- Apply pre-existing knowledge to create tools to analyze data set
-- Extract knowledge from data and present it
+- Create a pitch for a project that is of interest you
+- Develop a plan for requirements and milestones to accomplish proposal
 - Utilize best practices to implement a robust, well-engineered solution
+- Operate within a team to maximize the abilities of everyone
 
 #### Essential Questions:
 
