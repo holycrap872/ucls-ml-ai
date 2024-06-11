@@ -52,3 +52,8 @@ points if you have a forumla for checking that the numbers are between 0 and 9.
 None (or finish if didn't)
 
 
+### Resources
+
+- Maybe do an experiment on the "hot hand"
+    - https://nautil.us/the-hot-hand-is-not-a-myth-643539
+- Maybe do an experiment on monty hall problem
