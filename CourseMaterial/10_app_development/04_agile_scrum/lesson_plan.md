@@ -1,0 +1,7 @@
+- Every two weeks we'll rotate "team lead"
+- Team lead meets with me to determine grades
+- Team lead also in charge of:
+    - Teaching things that are useful for the team
+    - Making decisions
+    - Running scrums
+    - Other management type stuff

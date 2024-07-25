@@ -1,0 +1,3 @@
+- What is it like to be a bat
+    - Other minds problem 
+    - Measuring/detecting conciousness in other people
