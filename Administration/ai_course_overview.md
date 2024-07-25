@@ -7,6 +7,7 @@
 - Use a Bayesian classifier to solve a variety of sample problems
 
 #### Essential Questions:
+
 - In what circumstances can we use the past to predict the future?
 - What types of data are amenable to machine learning?
 
