@@ -1,6 +1,7 @@
 ## Essential Questions
 
 - How can we use terminal to increase our effectiveness?
+- How much effort should I put into understanding the tools I'm using?
 
 ## Lesson Plan
 

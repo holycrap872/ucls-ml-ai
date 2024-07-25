@@ -12,10 +12,6 @@ figure out where the students are along several dimensions.
 2. How much do they remember about programming?
 3. What other things do I not know about?
 
-> This class will be split into multiple lessons. The first class just tries to
-  get everyone up and running with vscode installed. The second class starts to
-  add in best practices such as types and unit tests.
-
 ### Setup
 
 - `ProblemSetSkeleton` ready to go
@@ -37,17 +33,31 @@ figure out where the students are along several dimensions.
     - list
     - variables
     - primitives
+- IDE
+    - Brief history of IDE
+    - Show VIM
+    - Vim/Emacs fight... buncha nerds
+- Purpose of IDE
 - Walk through vscode setup
     - Install necessary extensions and get running
+        - Python Extension
+        - Pylance
+        - Vim!
     - Do simple program together
+        - Get everyone running a simple "hello world" program
         - Take in numbers from user until they hit "q" and then sums then
-    - Download and setup `ProblemSetSkeleton`
-        - Importance of being in workspace
-            - Get bunch of advanced features
-            - Note to instructor: Check that people have proper setup repeatedly over coming days
-- Walk around prodding people to improve practices in various ways
-    - types!!!
+- Download and setup `ProblemSetSkeleton`
+    - Importance of being in workspace
+        - Get bunch of advanced features
+        - Note to instructor: Check that people have proper setup repeatedly over coming days
+- Get started on `skills_assessment`
+    - Walk around prodding people to improve practices in various ways
 
 ## Homework
 
 - Finish the problem you are working on
+
+### Resources
+- https://youtu.be/B-s71n0dHUk
+    - First five minutes really good at building up to python
+- https://youtu.be/zulGMYg0v6U?si=E0a7t4FRSt3TjuS6&t=896
