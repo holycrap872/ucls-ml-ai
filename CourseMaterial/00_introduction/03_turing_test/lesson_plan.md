@@ -35,7 +35,7 @@ following question: ..."
     - Why he died prematurely
 - Read a snippet from the paper (`turing_paper_snippet.md`)
     - What is Turing trying to describe?
-    - Why? -> intelligence is hard to pin point?
+    - Why? -> intelligence is hard to pinpoint?
     - How could we do this today in class?
 - Rules:
     - Volunteer to ask questions and volunteer to answer
@@ -51,7 +51,7 @@ following question: ..."
     - Disallow that "type" of question and try again
         - Will eventually have list of types of questions that are disallowed
             - e.g., Doesn't know the name of the teacher -> no local context q's
-- Go over list of types of questions and try to descibe why AI struggles with each
+- Go over list of types of questions and try to describe why AI struggles with each
 
 ### Extensions (if have time)
 
@@ -68,7 +68,7 @@ following question: ..."
     - Come up with 5 different types of things that are clearly not intelligent.
     - Come up with 5 different types of things where it can get a little confusing.
     - Based on these, write your own definition of intelligence and compare it
-      with Turings.
+      with Turing's.
 - Possible
     - Read one of Turnings's response to the 9 objections of intelligence
     - intro of https://plato.stanford.edu/entries/turing-test/ and be prepared to discuss

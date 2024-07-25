@@ -72,7 +72,7 @@ This assignment has five parts:
 
 2. What is the objective function?
 
-3. What are 5 paramenters that are inputs to the objective function?
+3. What are 5 parameters that are inputs to the objective function?
 
 4. Describe in a few sentences what would likely be an input somewhere "near"
    the global maxima?

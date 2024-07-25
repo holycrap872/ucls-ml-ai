@@ -10,7 +10,7 @@ work with the data a little bit.
 ### Setup
 
 Have a google sheet ready to go with columns for `Name` and `Number`. Bonus
-points if you have a forumla for checking that the numbers are between 0 and 9.
+points if you have a formula for checking that the numbers are between 0 and 9.
 
 ### Actual Lesson
 
@@ -50,7 +50,6 @@ points if you have a forumla for checking that the numbers are between 0 and 9.
 ### Homework
 
 None (or finish if didn't)
-
 
 ### Resources
 

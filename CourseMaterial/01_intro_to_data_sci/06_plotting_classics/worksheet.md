@@ -22,7 +22,7 @@ with open(path_to_file, "r") as file_fp:
 assert len(text) != 0
 ```
 
-## Count Text Occurences
+## Count Text Occurrence
 
 ```python
 main_str = "I wonder how many 'on's"
@@ -99,7 +99,7 @@ Focus on the text of _The Great Gatsby_.
 
 ## Step 1
 
-Create a line graph that shows the number of occurences of "Tom", "Daisy", and
+Create a line graph that shows the number of occurrences of "Tom", "Daisy", and
 "Gatsby" within each chapter.
 
 **Q:** What do you think happens in Chapter 8 (it's ok to guess)? What led you
@@ -107,7 +107,7 @@ Create a line graph that shows the number of occurences of "Tom", "Daisy", and
 
 ## Step 2
 
-Create a line graph that shows the number of occurences of "Amy", "Beth", "Jo",
+Create a line graph that shows the number of occurrences of "Amy", "Beth", "Jo",
 "Meg", and "Laurie" within each chapter.
 
 **Q:** Who do you think is the main character of the book?
@@ -121,7 +121,7 @@ on the y-axis and the number of sentences in each chapter on the x-axis.
 
 ## Step 4 (bonus)
 
-Create a graph that shows the cumulative number of occurences of "Amy", "Beth",
+Create a graph that shows the cumulative number of occurrences of "Amy", "Beth",
 "Jo", "Meg", and "Laurie" throughout each chapter.
 
 **Q:** Based on the graph, which of the sisters do you think Laurie married?

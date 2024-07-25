@@ -1,4 +1,4 @@
-## EQ's
+## Essential Questions
 
 - What do we want to remember?
 - What do we actually remember?
@@ -50,6 +50,4 @@ figure out where the students are along several dimensions.
 
 ## Homework
 
-- Finish the problem you are working on using **any resource** you would like
-    - One caveat is you must be able to explain it tomorrow to me
-    - I'll be going around individually
+- Finish the problem you are working on
