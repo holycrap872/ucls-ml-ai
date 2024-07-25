@@ -58,13 +58,8 @@ A few example git repositories to chew on.
 
 ### Homework
 
-- Turn Problem Set Skeleton into git repo
-    1. `git init`
-    2. Add any and all useful files (nothing with a `.` in front of it)
-        - I very sneakily put a .gitignore file in the problem set skeleton
-    3. Create "initial commit"
-    4. Do a **single** problem from Wheaties
-    5. Create second commit
+- Schoology assessment on `git`
+    - Watch video first
 
 ### Resources
 

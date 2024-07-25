@@ -24,18 +24,17 @@
     - You're on the "main" branch... don't really want to get into branches
     - Push the branch you're on
     - Push and look at people's TIL
-- Last class, pulled down a repo gitlab created
-    - Now going to push up a repo we created in our local
-        - What's the difference between these two things?
+- Last class, created a remote repository for TIL
+    - Now going to create remote repository for ProblemSet
     - Create "New project" -> "Create blank project" in Gitlab
         - Make sure private
         - Make sure README is NOT checked
         - Give me access
 - Class work
     - Create an ml-ai folder in Documents/workspace/2023-24/lab_school
+        - Make me a `Maintainer`
     - Move all previous projects into this folder
         - TIL and Problem Skeleton
-        - Make me a `Maintainer`
     - Make a "pipeline status badge"
         - Badge Name: Build Status
         - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
@@ -47,10 +46,8 @@
         - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/coverage.svg
     - Create an "initial commit" for your Problem Set Skeleton
         - `git init` and `git add`
-        - Do not commit any hidden files/folders (leading “.”) 
+        - I very sneakily put a .gitignore file in the problem set skeleton
     - Push "initial commit" to your GitLab Problem Set repo
-    - Create a README.md for your Problem set and commit it
-        - Browser https://conventionalcomments.org/ to understand the type of feedback I'll leave
     - Start homework
 
 ### Homework

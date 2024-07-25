@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How do I best organize information so I can later retreive it?
+- How do I best organize information so I can later retrieve it?
 
 ## Lesson Plan
 
