@@ -1,4 +1,10 @@
-## 
+## Essential Questions
+
+## Lesson Plan
+
+### Setup
+
+### Actual Lesson
 
 Only do this if they're really interested in the philosophy of the mind stuff
 
