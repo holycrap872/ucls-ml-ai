@@ -35,15 +35,6 @@
         - Make me a `Maintainer`
     - Move all previous projects into this folder
         - TIL and Problem Skeleton
-    - Make a "pipeline status badge"
-        - Badge Name: Build Status
-        - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
-        - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/pipeline.svg
-        - Note: I'm not sure why they make it so annoying
-    - Make a "coverage badge"
-        - Badge Name: Code Coverage
-        - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
-        - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/coverage.svg
     - Create an "initial commit" for your Problem Set Skeleton
         - `git init` and `git add`
         - I very sneakily put a .gitignore file in the problem set skeleton
@@ -52,6 +43,6 @@
 
 ### Homework
 
-- Do problems 7-11 of Python String Wheaties
+- Do problems X-X of Python String Wheaties
 - For each problem, create a commit
 - Every time create a commit, push it to main so you don't lose your work
