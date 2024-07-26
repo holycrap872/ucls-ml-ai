@@ -1,9 +1,13 @@
 ## Essential Questions
 
-- Why are maps, sets, and lists such powerful datastructures?
-- What situations lend themselves to the use of these datastructures?
+- Why are maps, sets, and lists such powerful data structures?
+- What situations lend themselves to the use of these data structures?
 
 ## Lesson Plan
+
+### Setup
+
+### Actual Lesson
 
 - Refresher
     - What does "the perfect setup" look like
