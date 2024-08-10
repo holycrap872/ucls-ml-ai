@@ -1,14 +1,20 @@
 ## Essential Questions
 
+- What is a search space?
+- What techniques can find a solution in a large search space?
+
 ## Lesson Plan
 
 ### Setup
 
-- Bunch of sets of legos with green "baseplate" (32x32) to stick them to
-- Dividers
-- Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
-    - I took pictures of the board and will show them in class
-- Example board in case there's an odd number of students
+- Search Space Battleship pieces
+    - Bunch of sets of legos with green "baseplate" (32x32) to stick them to
+    - Dividers
+    - Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
+        - I took pictures of the board and will show them in class
+    - Example board in case there's an odd number of students
+- Youtube Videos loaded up
+    - https://youtu.be/IHZwWFHWa-w?t=420
 
 ### Actual Lesson
 
@@ -32,8 +38,8 @@
     - AL/ML is looking for a "global maxima"
         - Search "3d search space" in google for examples
         - Don't want to get stuck in a "local maxima"
-        - Bunch of alogrithms to do this, but lets see what you come up with
-    - 1 billion to 170 tillion parameters
+        - Bunch of algorithms to do this, but lets see what you come up with
+    - 1 billion to 170 trillion parameters
 - Rules
     - Play along one dimension
     - Board is 32 long (entire green lego baseplate)
