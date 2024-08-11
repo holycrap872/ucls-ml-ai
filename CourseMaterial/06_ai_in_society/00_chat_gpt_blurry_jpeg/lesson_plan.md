@@ -8,8 +8,8 @@
 ### Setup
 
 - `chat_gpt_is_a_blurry_jpeg` printed out
-- `discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4/edit?usp=sharing
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
 
 ### Actual Lesson
 

@@ -4,7 +4,8 @@
 
 ### Setup
 
-- `discussion_rubric.pdf` printed out
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
 - Extra copies of `positive_ai_short.docx` printed out
 
 ### AC

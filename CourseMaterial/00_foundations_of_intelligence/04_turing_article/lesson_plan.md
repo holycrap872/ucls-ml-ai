@@ -4,6 +4,9 @@
 
 ### Setup
 
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+
 ### Actual Lesson
 
 Only do this if they're really interested in the philosophy of the mind stuff
