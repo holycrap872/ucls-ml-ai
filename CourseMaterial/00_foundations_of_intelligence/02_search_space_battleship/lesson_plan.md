@@ -5,10 +5,19 @@
 
 ## Lesson Plan
 
+In this kickoff lesson, students are exposed to the concept of "search space".
+First they learn the requisite vocabulary and then they start to apply it to
+common problems (like baking a cake or running race). Finally, we start to talk
+about "search techniques" by playing Search Space Battleship and discuss what
+they learned.
+
+This lesson and the one that follows on the Turing Test form the basis of the
+class: technical mixed with philosophical.
+
 ### Setup
 
 - Search Space Battleship pieces
-    - Bunch of sets of legos with green "baseplate" (32x32) to stick them to
+    - Bunch of sets of LEGOs with green "baseplate" (32x32) to stick them to
     - Dividers
     - Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
         - I took pictures of the board and will show them in class
@@ -42,8 +51,8 @@
     - 1 billion to 170 trillion parameters
 - Rules
     - Play along one dimension
-    - Board is 32 long (entire green lego baseplate)
-    - Need to use between 35-40 legos
+    - Board is 32 long (entire green LEGO baseplate)
+    - Need to use between 35-40 LEGOs
     - Must have a global maxima between 4 and 7
     - Must have between 2 and 4 local maximas
     - Maximum slope of 1
