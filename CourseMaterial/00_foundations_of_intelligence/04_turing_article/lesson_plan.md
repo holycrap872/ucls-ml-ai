@@ -1,6 +1,17 @@
 ## Essential Questions
 
+- Where does consciousness lie?
+- How does search space exploration relate to intelligence?
+
 ## Lesson Plan
+
+In this class, students discuss the Turing paper and relate it to the previous
+lessons on "search space exploration" and "intelligence". Students should come
+in prepared to discuss the article and the EQ's provided the night before. Prior
+to the discussion starting, students will be given a few minutes to journal and
+prepare for the discussion. Then the discussion will happen with the teacher
+grading the overall flow. Finally, there will be a debrief (since it's the first
+discussion of the year) and reflection.
 
 ### Setup
 
@@ -9,26 +20,33 @@
 
 ### Actual Lesson
 
-Only do this if they're really interested in the philosophy of the mind stuff
+- Review
+    - Search space
+    - Turing Test
+    - This class is both technical and philosophical
+- Today going to have a discussion based on last nights reading
+    - Going to be a lot of discussions in the class, so lets go over expectations
+- What does a good discussion look like?
+    - DRT
+    - Balance
+    - Respect
+- Read through rubric
+    - What matches your expectations of a good discussion?
+    - What is different?
+- All discussions will follow this pattern:
+    - Rubric review
+    - Journal prep
+    - Discussion
+    - Debrief
+    - Self reflection
+- Any questions?
+- Journal on EQs
+- Circle up
+- Discuss
+- Reflect
+    - Reflect on class as a whole
+    - Reflect on self (on paper)
 
-> Note: I haven't actually done this.
+#### Homework
 
-Have them read "Computing Machinery and Intelligence" by Alan Turning and be
-prepared to discuss. It's a long article, so instead of reading everything I'd
-suggest:
-
-- Section 6, 6.1, and 6.2
-- Section 7 starting with the paragraph that starts with "In the process of
-  trying to imitate an adult human mind".
-
-
-- Take quick reading quiz
-    - TBD
-- Get ready for discussion
-
-
-
-- Discuss eventual chatbot policy (if have time)
-    - Won't be allowed to use any until second term
-    - At that point, anything goes
-    - Likely going to ask you folks to be involved in some way to get student's view
+- None

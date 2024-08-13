@@ -2,6 +2,12 @@
 
 By Alan Turing
 
+### Essential Questions
+
+1. How does the metaphor of a "child mind" relate to modern AI’s need for huge amounts of data?
+2. In what ways might the exploration of a search space be seen as a form of "learning" for a machine?
+3. In what ways does Turing's "imitation game" serve as a search problem for all of AI?
+
 #### 1. The Imitation Game
 
 I propose to consider the question, "Can machines think?" This should begin with
@@ -73,7 +79,7 @@ identifications
 
 One may hope, however, that this process will be more expeditious than evolution. The
 survival of the fittest is a slow method for measuring advantages. The experimenter, by
-the exercise of intelligence, should he able to speed it up. Equally important is the fact
+the exercise of intelligence, should be able to speed it up. Equally important is the fact
 that he is not restricted to random mutations. If he can trace a cause for some weakness
 he can probably think of the kind of mutation which will improve it.
 
@@ -150,4 +156,3 @@ follow the normal teaching of a child. Things would be pointed out and named, et
 Again I do not know what the right answer is, but I think both approaches should be tried.
 
 We can only see a short distance ahead, but we can see plenty there that needs to be done
-

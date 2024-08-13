@@ -1,7 +1,7 @@
 ## Essential Questions
 
+- Where does consciousness lie?
 - What signals do we use to determine intelligence?
-- Where does intelligence lie?
 
 ## Lesson Plan
 
