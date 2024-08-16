@@ -17,6 +17,8 @@ discussion of the year) and reflection.
 
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- Python/vscode installation homework loaded on Schoology
+    - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
 
 ### Actual Lesson
 
@@ -49,4 +51,4 @@ discussion of the year) and reflection.
 
 #### Homework
 
-- None
+- Install Python and VsCode
