@@ -15,8 +15,8 @@ figure out where the students are along several dimensions.
 ### Setup
 
 - `ProblemSetSkeleton` ready to go
-    - Git compatible
-- Skills assessment worksheet on Schoology
+    - https://gitlab.com/eric.rizzi/problem-set-skeleton
+- Skills assessment worksheet posted on Schoology
 
 ### Actual Lesson
 
@@ -29,35 +29,34 @@ figure out where the students are along several dimensions.
 - Setup skills assessment
     - Today going to see how far you can get programming stuff
     - No pressure at all
-- What do we remember about python?
+- What do we remember about Python?
     - list
     - variables
     - primitives
 - IDE
     - Brief history of IDE
-    - Show VIM
-    - Vim/Emacs fight... buncha nerds
-- Purpose of IDE
+    - Modern day IDE's are like a bento box
+    - All parts of development in one place
+        - Used to have to use multiple different programs
 - Walk through vscode setup
+    - Who was able to install everything?
     - Install necessary extensions and get running
         - Python Extension
+        - Black Formatter
+        - Isort
         - Pylance
         - Vim!
-    - Do simple program together
+    - Do simple programs as a class
         - Get everyone running a simple "hello world" program
         - Take in numbers from user until they hit "q" and then sums then
+    - Highlight what extensions are doing
 - Download and setup `ProblemSetSkeleton`
     - Importance of being in workspace
         - Get bunch of advanced features
         - Note to instructor: Check that people have proper setup repeatedly over coming days
-- Get started on `skills_assessment`
+- Get started on `skills_assessment.pdf`
     - Walk around prodding people to improve practices in various ways
 
 ## Homework
 
 - Finish the problem you are working on
-
-### Resources
-- https://youtu.be/B-s71n0dHUk
-    - First five minutes really good at building up to python
-- https://youtu.be/zulGMYg0v6U?si=E0a7t4FRSt3TjuS6&t=896

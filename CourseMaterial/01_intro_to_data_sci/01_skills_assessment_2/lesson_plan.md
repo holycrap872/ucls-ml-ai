@@ -22,7 +22,7 @@ types and tests) that will help each of them as they encounter a problem.
 - Run through someone's example
 - Talk about worksheet
     - Explain progression of problems:
-        - `Shows use of input`
+        - Shows use of `input`
         - Ability to run a program
         - Ability to create/use a function
         - Conditionals

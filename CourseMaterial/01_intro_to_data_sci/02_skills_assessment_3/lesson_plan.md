@@ -32,7 +32,4 @@
 
 #### Homework
 
-- Finish the problem you were working on *plus one more* with the help of Bard
-  or ChatGPT
-    - 30m max
-    - Be prepared to come in and discuss ChatBot policy
+- None
