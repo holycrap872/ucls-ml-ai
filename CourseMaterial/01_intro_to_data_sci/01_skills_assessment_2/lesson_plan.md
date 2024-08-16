@@ -5,9 +5,12 @@
 
 ## Lesson Plan
 
-The goal of this lesson is to pick up where we left off and get students doing
-a full day of programming. As I go around, I will suggest various things (e.g.,
-types and tests) that will help each of them as they encounter a problem.
+The goal of this lesson is to give students enough information that they can
+continue to independently work through the skills assessment. Prior to them
+going off on their own, we will do a quick review. After that, I will introduce
+unit tests and explain why their so important. Finally, as a class we will
+solve a simple problem - complete with unit tests - before the students finally
+strike out on their own.
 
 ### Setup
 
@@ -19,7 +22,13 @@ types and tests) that will help each of them as they encounter a problem.
     - What did we do last class?
     - Why is being in a workspace important?
     - How do you know that you are/are not in a workspace?
-- Run through someone's example
+- Unit Testing
+    - Show examples
+    - Why is this important?
+- Class program
+    - Create function that checks if word starts/ends with same letter
+    - Function returns a boolean
+    - Create three unit tests
 - Talk about worksheet
     - Explain progression of problems:
         - Shows use of `input`
@@ -37,7 +46,7 @@ types and tests) that will help each of them as they encounter a problem.
         - Assertions
 - Today going to just program as much as we can
     - If you work hard today, no homework
-- Continue working on skills assessment
+- Continue working on `skills_assessment.pdf`
 
 ## Homework
 

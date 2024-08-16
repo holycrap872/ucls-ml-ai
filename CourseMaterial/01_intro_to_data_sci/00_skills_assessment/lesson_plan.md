@@ -6,7 +6,7 @@
 ## Lesson Plan
 
 This is the first attempt at being technical in the class. The goal is to
-figure out where the students are along several dimensions.
+figure out where the students are along several dimensions:
 
 1. How well do they setup a project's environment?
 2. How much do they remember about programming?

@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
 # Problems
 
-### Section 1: Functions using `input()` and `print()`
+### Section 0: Functions using `input()` and `print()`
 
 0. Create a function that asks for the user's name and then prints out a greeting.
 1. Create a function that take three numbers from the user and prints out the max.
@@ -43,7 +43,7 @@ if __name__ == "__main__":
 2. Create a function that takes a single number from the user and prints a
    "count down" from that number all the way to zero.
 
-### Section 2: Functions using **parameters** for input and `return` for output
+### Section 1: Functions using **parameters** for input and `return` for output
 
 0. Create a function that takes a single number as input and returns a boolean
    of whether it is a prime or not.
