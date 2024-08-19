@@ -14,9 +14,9 @@ Project Euler account and to configure your Problem Set Skeleton.
 
 ## Problem Set Skeleton Configuration
 
-Create two new files in your problem set skeleton. Name one file
-`project_euler_wheaties.py` and put it in the `src` folder
-(`src/project_euler_wheaties.py`). Name the other file
+Create two new files in your `ProblemSetSkeleton` workspace. Name one file
+`project_euler_wheaties.py` and put it in the `src/skeleton` folder
+(`src/skeleton/project_euler_wheaties.py`). Name the other file
 `test_project_euler_wheaties.py` and put it in the `test` folder
 (`test/test_project_euler_wheaties.py`).
 

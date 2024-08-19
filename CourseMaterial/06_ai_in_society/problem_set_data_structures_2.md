@@ -1,7 +1,7 @@
 # Python Data Structure Wheaties 2
 
-Create two new files in your problem set skeleton. Name one file
-`data_structure_wheaties_2.py` and put it in the `skeleton` folder
+Create two new files in your `ProblemSetSkeleton` workspace. Name one file
+`data_structure_wheaties_2.py` and put it in the `src/skeleton` folder
 (`src/skeleton/data_structure_wheaties_2.py`). Name the other file
 `test_data_structure_wheaties_2.py` and put it in the `test` folder
 (`test/test_data_structure_wheaties_2.py`).
