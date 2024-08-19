@@ -66,4 +66,5 @@ def run_experiment(trials: int, graph_ites: int) -> None:
     plots.show()
 
 
-run_experiment(5000, 10)
+if __name__ == "__main__":
+    run_experiment(5000, 10)

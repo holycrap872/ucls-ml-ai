@@ -17,11 +17,11 @@ None
     - `get_random_point()`
     - `is_in_circle()`
 - Create program together (again)
-```
+```python
 num_in_circle = 0
 for trial_num in range(100):
     point = get_random_point()
-    if is_in_circle():
+    if is_in_circle(point):
         num_in_circle += 1
 
 print(num_in_circle)
