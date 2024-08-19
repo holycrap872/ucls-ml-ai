@@ -6,24 +6,49 @@
 
 ## Lesson Plan
 
-- Reflection
+This lesson sets the tone for ChatBot usage within the class. It also exposes
+students to the long term theme of "what is learning?" As such, the class will
+discuss how ChatBots should be used within different disciplines and how it
+should be approached as you're trying to learn. After all of this, students will
+start to work on the first of the long-running problems sets.
+
+### Setup
+
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- `problem_set_intro.pdf` loaded in Schoology
+
+### Actual Lesson
+
+- Review
     - Unit tests
     - Types
     - Assert
-- Questions from the previous nights homework?
-- Program question 2.4 of assessment together (list of pairs)
+- Questions from the previous night's homework?
+- Program question 1.4 of assessment together (list of pairs)
     - Need it for some of the graph stuff
-    - Put question into bard and see what it says
-- Reflection sheet on learning
-    - What is learning
+    - Put question into ChatBot and see what it says
+- Today going to discuss how ChatBots affect learning
+- Give 5m to think about discussion questions:
+    - What are appropriate ChatBot usages in other classes?
+    - How could a ChatBot help/hurt learning?
+    - How much control should each student have in their learning?
 - Class discussion on role of ChatGPT
     - Come up with policy together
-- Possible questions:
-    - What is considered appropriate in other classes?
-    - Why is humanities different from sciences?
-    - What is the difference between a student and a professional?
-    - Why are some people embracing and some people afraid?
+- Debrief
+    - How did as class?
+    - How did individually?
+- Introduce ProblemSet
+    - Purpose in light of ChatBots
+    - Expectations
+    - How graded
+        - Not graded on correctness
+        - No outside help
+        - Must exist
+        - Must have tests
+        - Must show effort
+- Get started on Problem Set
 
-## Homework
+### Homework
 
-- Skills wheaties
+- `problem_set_intro.pdf` problems 0 - 1
