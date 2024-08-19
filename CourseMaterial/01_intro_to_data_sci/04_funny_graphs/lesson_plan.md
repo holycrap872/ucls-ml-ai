@@ -1,8 +1,19 @@
+## Essential Questions
+
+- How can we best use outside tools to augment our learning?
+- How do we represent data in an effective way?
+
 ## Lesson Plan
+
+This lesson exposes students to `matplotlib` and gets them started writing
+their own code. It's a good lesson because students create their own "funny
+graphs" which can ameliorate some of the skill differences. By the end, students
+will have discussed how to interpret a cheat sheet, how to install a library,
+and why data interpretation is pivotal to ML/AI.
 
 ### Setup
 
-Distribute base python file for every one to experiment with / modify
+- `graph_cheatsheet.md` loaded into Schoology
 
 ### Actual Lesson
 
@@ -10,49 +21,36 @@ Distribute base python file for every one to experiment with / modify
     - What did we do last time?
         - What was hard about skills assessment?
         - What were things suddenly remembered?
-    - Discuss proposed chatbot policy
-        - 5m discussion
+    - Discuss proposed Chatbot policy
 - Today, going to work on graphing
-    - Funny graphs to show
-        - Bar Charts:
-            - Dangers
-                - "Died in a XXX accidents"
-                - https://xkcd.com/369/
-            - 11th Grade
-                - Perl joke
-                - https://xkcd.com/519/
-        - Scatter Plot
-            - Things you learn
-                - Growing up joke
-                - "https://xkcd.com/1775/"
-            - Real Estate Analysis
-                - Joke about walkability of planets
-                - https://xkcd.com/2796/
-        - Line Graph
-            - Conversations
-                - Joke about time spent on toilet over time
-                - https://xkcd.com/646/
-            - Escalators
-                - Joke about how much want to go up escalator
-                - https://xkcd.com/252/
-        - Overlapping Circles
-            - Set theory joke
-            - https://xkcd.com/2769/
+    - Bar Charts:
+        - https://xkcd.com/369/
+        - https://xkcd.com/519/
+    - Scatter Plot
+        - "https://xkcd.com/1775/"
+        - https://xkcd.com/2796/
+    - Line Graph
+        - https://xkcd.com/646/
+        - https://xkcd.com/252/
+    - Venn Diagrams
+        - https://xkcd.com/2769/
+- What are libraries?
+    - Code someone else has written?
+    - Super important to CS
 - Hand out cheat sheet
 - Show my code and discuss a bit
-    - see `funny_graphs.py`
-        - What is a library
+    - See `funny_graphs.py`
+        - `matplotlib` library
         - How to use pip install
         - Amount of "funniness" may vary
-    - Have them recreate my bar graph
-        - Bar graph
-        - Scatter plot
-    - Show common mistakes
-        - x/y arrays of different size
-        - misspelled colors
-        - Bad labels...
+- How to interpret cheat sheet?
+- Have them recreate "Supernatural Powers" graph
+- Show common mistakes
+    - x/y arrays of different size
+    - misspelled colors
+    - Bad labels...
 
 ### Homework
 
-- Create two joke graphs of two different types
+- Create two different types of "joke graphs"
     - Will show them at the beginning of next class

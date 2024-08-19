@@ -16,7 +16,7 @@ def funny_bar_chart() -> None:
 
     plots.bar(x=bar_names, height=bar_values)
 
-    plots.title("Claims of Super Natural Powers (xkcd)")
+    plots.title("Claims of Supernatural Powers")
     plots.grid(False)
     plots.yticks([1])
 
@@ -51,9 +51,10 @@ def is_day(hours_since_start: int) -> bool:
 def funny_line_graph() -> None:
     plots.figure(figsize=(15, 8))
 
-    hours = [x for x in range(0, 100)]
+    hours = []
     fondness = []
-    for hour in hours:
+    for hour in range(0, 100):
+        hours.append(hour)
         if is_day(hour):
             fondness.append(hour)
         else:
@@ -61,7 +62,7 @@ def funny_line_graph() -> None:
 
     plots.plot(hours, fondness)
 
-    plots.title("Absense Makes the Heart Grow Fond (except when I'm sleeping)")
+    plots.title("Absence Makes the Heart Grow Fond (except when I'm sleeping)")
     plots.ylabel("Amount of Fondness")
     plots.xlabel("Amount of Absence")
     plots.legend()
