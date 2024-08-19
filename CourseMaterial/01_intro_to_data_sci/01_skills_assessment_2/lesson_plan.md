@@ -1,14 +1,14 @@
 ## EQ's
 
-- What do we want to remember?
-- What do we actually remember?
+- Why are tests important?
+- What is the best kind of test?
 
 ## Lesson Plan
 
 The goal of this lesson is to give students enough information that they can
 continue to independently work through the skills assessment. Prior to them
 going off on their own, we will do a quick review. After that, I will introduce
-unit tests and explain why their so important. Finally, as a class we will
+unit tests and explain why they're so important. Finally, as a class we will
 solve a simple problem - complete with unit tests - before the students finally
 strike out on their own.
 
@@ -23,13 +23,14 @@ strike out on their own.
     - Why is being in a workspace important?
     - How do you know that you are/are not in a workspace?
 - Unit Testing
-    - Show examples
-    - Why is this important?
+    - Show simple piece of code
+    - What tests should be created?
+    - Why?
 - Class program
     - Create function that checks if word starts/ends with same letter
     - Function returns a boolean
     - Create three unit tests
-- Talk about worksheet
+- Talk about `skills_assessment.pdf`
     - Explain progression of problems:
         - Shows use of `input`
         - Ability to run a program

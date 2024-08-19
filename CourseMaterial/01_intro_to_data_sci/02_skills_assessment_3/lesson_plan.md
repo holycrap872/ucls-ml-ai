@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- Why are tests important?
-- What is the best kind of test?
+- How do we get feedback about our code?
+- How do we assess other people's code?
 
 ## Lesson Plan
 
@@ -33,7 +33,7 @@ each of them as they encounter a problem.
     - Rather than volunteer, wheel to see who get's picked on
         - https://www.bonus.com/spin/?spaces=Eric,Sarah
     - If someone spots a bug in your code (hacker) they steal 5 points
-        - Hacking is someone understanding you code better than you
+        - Hacking is someone understanding your code better than you
 - Continue
 
 #### Homework

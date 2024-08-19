@@ -14,8 +14,9 @@ figure out where the students are along several dimensions:
 
 ### Setup
 
-- `ProblemSetSkeleton` ready to go
+- `ProblemSetSkeleton` zipped and loaded into Schoology
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
+    - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
 - Skills assessment worksheet posted on Schoology
 
 ### Actual Lesson
@@ -54,6 +55,8 @@ figure out where the students are along several dimensions:
     - Importance of being in workspace
         - Get bunch of advanced features
         - Note to instructor: Check that people have proper setup repeatedly over coming days
+    - Ignore files you don't understand
+        - e.g., `.ci-cd`
 - Get started on `skills_assessment.pdf`
     - Walk around prodding people to improve practices in various ways
 
