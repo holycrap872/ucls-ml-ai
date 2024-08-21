@@ -53,7 +53,7 @@ def scatter_numbers(numbers: typing.List[int]) -> None:
 
 
 if __name__ == "__main__":
-    numbers = read_file("./CourseMaterial/01_intro_to_data_sci/03_class_randomness/random.csv")
+    numbers = read_file("./CourseMaterial/01_intro_to_data_sci/07_class_randomness/random.csv")
 
     count_list = []
     labels = []
