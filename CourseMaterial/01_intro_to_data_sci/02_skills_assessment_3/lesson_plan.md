@@ -34,7 +34,7 @@ each of them as they encounter a problem.
         - https://www.bonus.com/spin/?spaces=Eric,Sarah
     - If someone spots a bug in your code (hacker) they steal 5 points
         - Hacking is someone understanding your code better than you
-- Continue
+- Continue working on `Skills Assessment`
 
 #### Homework
 

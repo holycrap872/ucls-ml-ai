@@ -30,7 +30,7 @@ strike out on their own.
     - Create function that checks if word starts/ends with same letter
     - Function returns a boolean
     - Create three unit tests
-- Talk about `skills_assessment.pdf`
+- Talk about `Skills Assessment`
     - Explain progression of problems:
         - Shows use of `input`
         - Ability to run a program
@@ -47,7 +47,7 @@ strike out on their own.
         - Assertions
 - Today going to just program as much as we can
     - If you work hard today, no homework
-- Continue working on `skills_assessment.pdf`
+- Continue working on `Skills Assessment`
 
 ## Homework
 

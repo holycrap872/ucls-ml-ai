@@ -18,6 +18,7 @@ figure out where the students are along several dimensions:
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
     - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
 - Skills assessment worksheet posted on Schoology
+    - https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw
 
 ### Actual Lesson
 
@@ -57,7 +58,9 @@ figure out where the students are along several dimensions:
         - Note to instructor: Check that people have proper setup repeatedly over coming days
     - Ignore files you don't understand
         - e.g., `.ci-cd`
-- Get started on `skills_assessment.pdf`
+- Get started on Skills Assessment
+    - Walk through worksheet
+    - Break up into pairs based on skill level
     - Walk around prodding people to improve practices in various ways
 
 ## Homework
