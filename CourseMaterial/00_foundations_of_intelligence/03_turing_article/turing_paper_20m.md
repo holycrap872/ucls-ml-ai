@@ -155,4 +155,4 @@ money can buy, and then teach it to understand and speak English. This process c
 follow the normal teaching of a child. Things would be pointed out and named, etc.
 Again I do not know what the right answer is, but I think both approaches should be tried.
 
-We can only see a short distance ahead, but we can see plenty there that needs to be done
+We can only see a short distance ahead, but we can see plenty there that needs to be done.
