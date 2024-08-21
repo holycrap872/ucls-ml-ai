@@ -38,7 +38,7 @@ then write at **least two unit test** in the `test_string_wheaties.py` file.
 7. Create a function that takes a sentence (string) as an input and then returns
    the number of words in the input string.
    - For example: `"hello there" -> 2`
-   - Hint: `count() OR split()`
+   - Hint: `count()` OR `split()`
 8. Create a function that takes a sentence (string) as an input and then returns
    the longest word in the input string.
    - Hint: `split()`
