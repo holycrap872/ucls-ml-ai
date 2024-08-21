@@ -6,7 +6,7 @@
 ## Lesson Plan
 
 In this lesson, students are introduced to the Turing Test (along with some
-background information on Alan Turing). Students are given a short snipped of
+background information on Alan Turing). Students are given a short snippet of
 the Turing Test article and a brief discussion is had. Finally, the Turing Test
 is enacted with a real ChatBot to really drive the point home.
 
@@ -14,8 +14,8 @@ is enacted with a real ChatBot to really drive the point home.
 
 - Ear plugs/muffs to dampen sound
 - Readings printed out
-    - `turing_paper_snippet.md`
-    - `shortened_article_20m`
+    - `computing_machinery_short.docx`
+    - `computing_machinery_long.docx`
 - Connection to Claude.ai
     - **Clear our any old history** for both ChatGPT and Claude
     - Prompt for Claude.ai of the form:
@@ -58,7 +58,7 @@ following question: ..."
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely
-- Read a snippet from the paper (`turing_paper_snippet.md`)
+- Read a snippet from Computing Machinery and Intelligence paper (`computing_machinery_short.docx`)
     - What is Turing trying to describe?
     - Why? -> intelligence is hard to pinpoint?
     - How could we do this today in class?
@@ -88,4 +88,4 @@ following question: ..."
 
 ### Homework
 
-- Read `shortened_article_20m.md` and prepare to discuss
+- Read `computing_machinery_long.docx` and prepare to discuss
