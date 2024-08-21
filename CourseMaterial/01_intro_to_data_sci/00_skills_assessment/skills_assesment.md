@@ -13,8 +13,8 @@ Create a new file in your `ProblemSetSkeleton` workspace called `skills_assessme
 and put it in the `skeleton` folder (`src/skeleton/skills_assessment.py`).
 
 For each problem, create a new function and then call that function from the
-`__main__` hook. Once you have completed the problem, comment it out out and
-move onto the next one.
+`__main__` hook. Once you have completed the problem, comment it out and move
+onto the next one.
 
 For example:
 
@@ -60,7 +60,7 @@ if __name__ == "__main__":
    example: `[1, 5, 6] -> [(1, 5), (5, 6)]`. Create at least three unit tests.
 5. Create a function that takes two strings as inputs and returns a boolean
    of whether they are anagrams. Create at least three unit tests.
-6. Crate a function that takes a single string as an input and returns the
+6. Create a function that takes a single string as an input and returns the
    score of the given string in a Scrabble game. Create at least three unit
    tests.
 7. Implement a basic linked list data structure with functions for `insert()`,
