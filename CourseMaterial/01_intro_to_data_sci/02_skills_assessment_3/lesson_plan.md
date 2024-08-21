@@ -14,7 +14,8 @@ each of them as they encounter a problem.
 
 ### Setup
 
-- None
+- `colleges_ai.docx` printed out
+    - https://www.theatlantic.com/technology/archive/2024/08/another-year-ai-college-cheating/679502/
 
 ### Actual Lesson
 
@@ -35,7 +36,14 @@ each of them as they encounter a problem.
     - If someone spots a bug in your code (hacker) they steal 5 points
         - Hacking is someone understanding your code better than you
 - Continue working on `Skills Assessment`
+- Wrap up
+    - Tomorrow discussion on ChatBot policy for this class
+    - EQs:
+        - What are appropriate ChatBot usages in other classes?
+        - How could a ChatBot help/hurt learning?
+        - How much control should each student have in their learning?
+    - Be prepared
 
 #### Homework
 
-- Finish up to (and including) Problem 1.3
+- Read `colleges_ai.docx`

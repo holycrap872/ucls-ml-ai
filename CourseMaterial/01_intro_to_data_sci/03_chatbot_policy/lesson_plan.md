@@ -38,17 +38,7 @@ start to work on the first of the long-running problems sets.
 - Debrief
     - How did as class?
     - How did individually?
-- Introduce ProblemSet
-    - Purpose in light of ChatBots
-    - Expectations
-    - How graded
-        - Not graded on correctness
-        - No outside help
-        - Must exist
-        - Must have tests
-        - Must show effort
-- Get started on Problem Set
 
 ### Homework
 
-- `problem_set_intro.pdf` problems 0 - 1
+- None
