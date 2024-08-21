@@ -17,10 +17,13 @@ then write at **least three unit tests** in the `test_intro_wheaties.py` file.
 1. Create a function that takes a list of numbers as an input and returns the sum
    of all the numbers in the list. Do **not** use any outside helper functions
    (e.g., `sum()`). Create at least three unit tests.
-2. Create a function that takes two lists of numbers of the same size as inputs
+2. Create a function that takes a list of numbers as an input and returns the
+   largest number in the list. Do **not** use any outside helper functions
+   (e.g., `max()`). Create at least three unit tests.
+3. Create a function that takes two lists of numbers of the same size as inputs
    and returns a single list with each of the numbers in the same indices added
    together. For example `[1, 4], [3, 2] -> [4, 6]` Create at least three unit
    test.
-3. Create a function that takes a list of pairs as an input and returns a single
+4. Create a function that takes a list of pairs as an input and returns a single
    list with each of the pairs added together. For example
    `[(1, 4), (3, 10)] -> [5, 13]`. Create at least three unit tests.
