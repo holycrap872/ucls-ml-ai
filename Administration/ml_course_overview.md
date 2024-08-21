@@ -9,8 +9,8 @@
 #### Objectives:
 
 - Understand historical underpinnings of search for AI
-- Create mental model of machine learning as a search for optimal solutions
 - Consider the difficulty of pinpointing the source of intelligence
+- Refresh previously learned programming skills
 - Discuss ways that ChatBots can help and hurt learning
 
 #### Essential Questions:
@@ -36,7 +36,6 @@
 
 #### Objectives:
 
-- Refresh previously learned programming skills
 - Understand how to run simple statistical experiments on a computer
 - Learn how to utilize a simple data presentation library
 - Practice working with a real-world dataset to generate knowledge
