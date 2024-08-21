@@ -26,7 +26,7 @@ discussion of the year) and reflection.
     - Search space
     - Turing Test
     - This class is both technical and philosophical
-- Today going to have a discussion based on last nights reading
+- Today going to have a discussion based on last night's reading
     - Going to be a lot of discussions in the class, so lets go over expectations
 - What does a good discussion look like?
     - DRT
