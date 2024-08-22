@@ -18,6 +18,8 @@ lead to interesting/useful conclusions. Care will be taken to:
 - Paper and pencil so can simulate Monte Carlo method
 - Wikipedia page loaded so can see Monte Carlo simulation
     - https://en.wikipedia.org/wiki/Monte_Carlo_method
+- Monte Carlo Worksheet loaded up in Schoology
+    - https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g
 
 ### Actual Lesson
 
@@ -25,7 +27,7 @@ lead to interesting/useful conclusions. Care will be taken to:
     - Libraries
     - Installing libraries
     - Show documentation for libraries
-- Today going to graph the Monte Carlo method
+- Today going to learn about the Monte Carlo method
 - Anyone heard of Monte Carlo analysis?
     - Bunch of random points
     - Demonstrate by drawing a duck on a piece of paper and dropping pencil

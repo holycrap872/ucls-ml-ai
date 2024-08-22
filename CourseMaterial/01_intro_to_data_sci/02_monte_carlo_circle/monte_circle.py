@@ -53,10 +53,13 @@ def run_experiment(trials: int, graph_ites: int) -> None:
             print(running_best_guess[-1])
 
     plots.figure(figsize=(6, 6))
+    plots.title("Visualizing a Circle (erizzi)")
     plots.scatter(in_x_points, in_y_points, color="darkblue", label="Inside circle")
     plots.scatter(out_x_points, out_y_points, color="gold", label="Outside circle")
     plots.xlabel("X")
     plots.xlabel("Y")
+    plots.yticks([-1, 0, 1])
+    plots.xticks([-1, 0, 1])
     plots.show()
 
     plots.figure(figsize=(12, 6))
