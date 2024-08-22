@@ -16,9 +16,10 @@ def funny_bar_chart() -> None:
 
     plots.bar(x=bar_names, height=bar_values)
 
-    plots.title("Claims of Supernatural Powers")
+    # Make unique title for when students copy it
+    plots.title("Claims of Supernatural Powers (erizzi)")
     plots.grid(False)
-    plots.yticks([1])
+    plots.yticks([0, 25, 50, 75, 100])
 
     plots.show()
 

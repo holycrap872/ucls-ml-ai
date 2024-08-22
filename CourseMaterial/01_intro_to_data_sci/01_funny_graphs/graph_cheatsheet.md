@@ -54,6 +54,7 @@ plots.plot([0, 1, 2], [10, 11, 14], color="red", label="thing")
 - Add a ylabel: `plots.ylabel("Y Axis Text")`
 - Add a xlabel: `plots.xlabel("X Axis Text")`
 - Add a legend: `plots.legend()`
+- Add y "ticks": `plots.yticks([0, 100])`
 - Turn on/off grid on graph: `plots.grid(True)` | `plots.grid(False)`
 
 #### Full Example Scatter Plot
@@ -79,6 +80,7 @@ if __name__ == "__main__":
     plots.xlabel("This is the x axis")
     plots.legend()
     plots.grid(True)
+    plots.yticks([0, 5, 10, 15])
 
     plots.show()
 ```

@@ -14,14 +14,14 @@ and why data interpretation is pivotal to ML/AI.
 ### Setup
 
 - `graph_cheatsheet.md` loaded into Schoology
+- Funny Graphs Worksheet loaded into Schoology
+    - https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk
 
 ### Actual Lesson
 
 - Reflection
     - What did we do last time?
-        - What was hard about skills assessment?
-        - What were things suddenly remembered?
-    - Discuss proposed Chatbot policy
+    - Spin the wheel for `problem_set_intro`
 - Today, going to work on graphing
     - Bar Charts:
         - https://xkcd.com/369/
@@ -52,5 +52,4 @@ and why data interpretation is pivotal to ML/AI.
 
 ### Homework
 
-- Create two different types of "joke graphs"
-    - Will show them at the beginning of next class
+- Complete "Funny Graphs Worksheet" in Schoology
