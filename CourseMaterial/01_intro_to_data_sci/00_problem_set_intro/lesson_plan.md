@@ -18,6 +18,7 @@ the problem set.
 ### Actual Lesson
 
 - Review
+    - Discuss proposed ChatBot policy
     - ChatBots and learning
     - Lessons for various disciplines
 - Layout of the class
