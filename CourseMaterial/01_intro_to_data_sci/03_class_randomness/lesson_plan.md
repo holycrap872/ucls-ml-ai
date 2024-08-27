@@ -18,10 +18,13 @@ files.
 
 ### Setup
 
-- Youtube video loaded up
+- YouTube video loaded up
     - Monte Carlo method: https://youtu.be/7ESK5SaP-bc?si=HMfKcjuDAKW5swWD
 - Shared GoogleSheets document
-    - Columns with `Name` and `Number`
+    - Example: https://docs.google.com/spreadsheets/d/1rZF7eaJ3Np48jKJZtIz--8izfXJX9h4vAvajOEZcb4Y
+- "Class Randomness" worksheet loaded up on Schoology
+    - Structured: https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws
+    - Unstructured: https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI
 
 ### Actual Lesson
 
@@ -35,18 +38,30 @@ files.
         - https://youtu.be/7ESK5SaP-bc?si=HMfKcjuDAKW5swWD
         - How does this relate to what we just did?
 - Opening problem (as a class):
-    - Get out the first column of the following two-row data string: "1,2,3\n4,5,6"
+    - Newline character
+    - Parse/analyze two-row data string: "1,2,3\n4,5,6"
+        - Get out the first row
+        - Get out the second row
+        - Get out the first row, third column
 - Randomness talk
     - Random is hard
     - Humans are really bad at random
     - Random is important for things like Monte Carlo
 - Today going to see how hard randomness is
-    - Have everyone open a google sheet and put in 20 numbers between 0-10
+    - Have everyone open a google sheet and put in 50 numbers between 0-9 (inclusive)
     - Show everyone how to download that as a .csv file
     - Open the file and parse it
         1. Manually (parse on new lines and ",")
 - Graph:
     - Bar chart of even/odds
+- Split up into pairs
+    - Pick structured/unstructured
+    - Talk through worksheet
+- Go!
+
+#### Homework
+
+- None
 
 #### Day 2
 
@@ -55,15 +70,17 @@ files.
     - Why is it hard?
 - Go over previous problem
     - Pick person and discuss
-    - Edit code so don't use `num_even`/`num_odd` variables but instead use 2-element array
+    - Edit code so don't use `count_even`/`count_odd` variables but instead use 2-element array
+        - Counter map
 - Classwork:
     - Bar chart of total number of each number
     - Scatter plot of consecutive pairs of numbers
     - Bonus `s=` parameter to determine size of scatterplot
 - Reflection
     - What happens if used "random numbers" produced by humans instead of `random.random()`?
+    - Bonus: Go back and actually use them
 
-### Homework
+#### Homework
 
 - None (or finish if didn't)
 
