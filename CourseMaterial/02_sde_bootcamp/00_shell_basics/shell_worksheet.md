@@ -1,14 +1,14 @@
-# Shell Worksheet
+# Command Line Worksheet
 
-This worksheet will test your ability to use various basic commands in shell as
-well as your ability to move around the file system. The sheet involves two main
-parts: preparation and execution.
+This worksheet will test your ability to use various basic command line commands
+as well as your ability to move around the file system. The sheet involves two
+main parts: preparation and execution.
 
 # Preparation
 
 ## 1. Knowledge Transfer
 
-Watch the following video that explains a bunch (but by no means all) shell
+Watch the following video that explains a bunch (but by no means all) of the
 commands: https://youtu.be/gd7BXuUQ91w .
   - Watch the portions talking about `ls` -> `clear`
     - Look in "About Video" to find links to jump to the right part of the video
@@ -17,13 +17,13 @@ commands: https://youtu.be/gd7BXuUQ91w .
 
 ## 2. File System Setup
 
-Download the `shell_exercise.zip` folder from Schoology. Move it do your
+Download the `cmd_line_exercise.zip` folder from Schoology. Move it to your
 `Desktop` and `unzip` it.
 
 ## 3. Terminal Startup
 
-Open up the terminal (`Applications/Utilities/Terminal`) and navigate to your
-desktop (in unix: `cd ~/Desktop`). Then, go into the `shell_exercise` folder.
+Open up the terminal (`/Applications/Utilities/Terminal`) and navigate to your
+desktop (in unix: `cd ~/Desktop`). Then, go into the `cmd_line_exercise` folder.
 
 ## 4. Chat Model Setup
 
@@ -35,11 +35,11 @@ about shell/terminal into it.
 ## 1. Exploration
 
 In the figure below, fill in the blank spaces with what you observe in the
-`shell_exercise` folder tree.
+`cmd_line_exercise` folder tree.
 
 ```shell
 ~/Desktop
-    /shell_exercise
+    /cmd_line_exercise
 
         /__________________
 
@@ -72,11 +72,11 @@ In the figure below, fill in the blank spaces with what you observe in the
 
 ## 3. Action
 
-1. Make changes such that the `shell_exercise` folder structure now looks like:
+1. Make changes such that the `cmd_line_exercise` folder structure now looks like:
 
 ```shell
 ~/Desktop
-    /shell_exercise
+    /cmd_line_exercise
         /.hidden_folder
             /buncha_orig_files
                 /file_0.txt
