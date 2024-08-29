@@ -81,26 +81,6 @@ class: technical mixed with philosophical.
 ### Homework
 
 ```
-This assignment has five parts:
-
-1. Think of a problem where you "search" for the best solution. What is it?
-
-2. What is the objective function?
-
-3. What are 5 parameters that are inputs to the objective function?
-
-4. Describe in a few sentences what would likely be an input somewhere "near"
-   the global maxima?
-
-5. Describe in a few sentences what might be a local maxima and why it's a
-   local maxima?
-```
-
-### Other possible homeworks
-
-- Research "simulated annealing" and explain what its strategy would be
-
-```
 This assignment has three parts:
 
 1. Watch [Malcolm Gladwell's "On Spaghetti Sauce" talk](
@@ -113,3 +93,25 @@ This assignment has three parts:
    terms of their **objective function** when asking Howard to find the perfect
    spaghetti sauce"?
 ```
+
+### Other possible homeworks
+
+- Read https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder
+    - Answer the same questions as the Spaghetti Sauce talk
+- Research "simulated annealing" and explain what its strategy would be
+- Come up with own "search space"
+    ```
+    This assignment has five parts:
+
+    1. Think of a problem where you "search" for the best solution. What is it?
+
+    2. What is the objective function?
+
+    3. What are 5 parameters that are inputs to the objective function?
+
+    4. Describe in a few sentences what would likely be an input somewhere "near"
+    the global maxima?
+
+    5. Describe in a few sentences what might be a local maxima and why it's a
+    local maxima?
+    ```
