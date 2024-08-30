@@ -3,86 +3,110 @@
 - How can we use terminal to increase our effectiveness?
 - How much effort should I put into understanding the tools I'm using?
 
-## Lesson Plan
+## Day 1 Lesson Plan
+
+On the first day, we will discuss how powerful (and confusing) the command-line
+is and how it will pop up over and over again throughout the course. After the
+discussion/lecture, students will play "GameShell" to reinforce the concepts.
+Note that only enough information to get through "GameShell" is given to the
+students. Things like absolute/relative paths are avoided for debrief the
+following day.
 
 ### Setup
 
-A zipped folder structure that will serve as the testbed/example to work with.
-This is in `shell_exercise.zip`.
+- `GameShell` set up
+    - https://github.com/phyver/GameShell Docker image built and pushed to computers
+        - Enough docker images up and running
+        ```
+        docker pull erizzi/gameshell_tutorial
+        docker run -it erizzi/gameshell_tutorial
+        ```
+- An example folder on my desktop
+    - `terminal_example.zip`
 
 ### Actual Lesson
 
 - Refresher
-    - What is the turning test?
     - What are some signals of intelligence?
+    - What is machine learning?
     - What are the themes of the class?
 - Kicking off multi-week "boot camp" to get everyone up to speed
-    - Interns at AWS I've seen
-    - Going to keep doing some python on the side so skills do atrophy
-- Today going to learn shell
-    - Who has used shell before?
+    - Based on knowledge required to be a good intern at AWS
+    - Going to keep doing Python problem sets so skills don't atrophy
+- Today going to learn command-line
+    - Who has used the command-line before?
     - What can you do?
-    - How is it different from GUI
+    - How is it different from a GUI
         - Why better than a GUI? Why worse?
-- Open up shell and do some examples
-    - Where to find shell for various systems
+- Open up command-line and do some examples
+    - Where to find terminal for various systems
         - Mac is easy since based off Unix
         - Windows is harder... you might have to move to in-lab computer
     - Explore directory structure of computer
-        - Do it on desktop so you can see the changes
-        - `ls`
-        - `cd`
-        - `mkdir`
-        - `pwd`
-- Draw a tree structure and explain relative/absolute
-    - Show all the libraries
-    - Show that folder structure is the same in websites and in terminal
-        - https://github.com/dektar/command-line-treasure-hunt
-        - https://www.ucls.uchicago.edu/about-lab/maps-transportation-parking as example
-- Hidden folders
-- Do a bunch of random stuff. Make sure to hit:
-    - `touch`
-    - `cp`
-    - `mv`
-    - `cat`
-        - `cat` a random file (e.g., .pdf or .png to show the craziness)
-    - `python3` -> REPL
-    - `diff`
-    - `say`
-    - `cmatrix`
-    - `man`
-- Command line editors
-    - `vim` and `nano` and `emacs`
-- Story of ctrl-r
-- Hand out shell worksheet
-    - Read through the introduction together
-    - Reinforce section on ChatGPT/Bard
-        - "What if I want to know ...."
-- Go!
-
-## Day 2
-
-- Review
-    - Various commands
-    - Why shell is useful
-- Class exercise
-    - Create and move a bunch of stuff around
-- Reiterate that should have Bard/ChatGPT open
+        - Do it on Desktop so you can see the changes
+        - `ls`/`cd`/`mkdir`/`pwd`
+        - Draw file structure on board and explain going up/down
+        - **DO NOT** talk about absolute vs. relative
+    - Hidden folders
+- Quick review of important commands
+- Introduce `GameShell`
+    - Importance of `gsh check` and `gsh goal`
+    - Do first goal together
+- Find lab computer to work on
+    - Work in pairs
+    - Switch every time complete "mission"
 - Go!
 
 ### Homework
 
-None
+- Schoology Assessment
+    - What does `ls`/`mv`/`cp`/`cd` do?
+    - What are the parts of a command?
+    - What are the strengths/weakness of the command-line?
+    - Hidden folders/files
 
-### Resources / Random ideas
+## Day 2 Lesson Plan
+
+In this class, students formalize the knowledge they gained while playing
+`GameShell` the previous day. After the review/discussion students will start
+a command-line worksheet that will make the concepts more grounded.
+
+### Setup
+
+- Harry Potter Docker image ready to run
+    - https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial
+- Command-Line Worksheet posted to Schoology
+    - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
+- `cmd_line_exercise.zip` posted to Schoology
+
+### Actual Lesson
+
+- Review
+    - Why shell is useful
+    - GameShell commands
+    - GameShell file structure
+    - Real computer's file structure
+    - Harry Potter in MS
+        - Various commands/mnemonics
+- Mastering shell
+    - 100's of commands
+    - Command-line editors
+        - `vim` and `nano` and `emacs`
+    - Story of ctrl-r
+        - Trade off between doing what you know and learning new things
+- Draw a tree structure and explain relative/absolute of `GameShell`
+    - Show all the libraries
+    - Show that folder structure is the same in websites and in terminal
+        - https://github.com/phyver/GameShell
+- Hand out command-line worksheet
+    - Read through the introduction together
+- Go!
+
+### Homework
+
+- Finish worksheet
+
+## Resources / Random ideas
 
 - https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
-- Folders
-- Hacking
-- Hand out pocket protectors
-- netcat -> file sharing
-- sed / find
-- Big chat log, find mean things
-- Find a file
-    - Give them a weird directory structure (messy) of family photos
-    - Find a particular thing
+- http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
