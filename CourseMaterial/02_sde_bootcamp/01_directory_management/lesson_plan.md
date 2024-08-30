@@ -1,54 +1,45 @@
 ## Essential Questions
 
-- How do I best organize information so I can later retrieve it?
+- How can we use the command-line to increase our effectiveness?
+- How much effort should I put into understanding the tools I'm using?
 
 ## Lesson Plan
 
+In this class, students formalize the knowledge they gained while playing
+`GameShell` the previous day. After the review/discussion students will start
+a command-line worksheet that will make the concepts more grounded.
+
 ### Setup
 
-- Upload directory with ~50 files with single word to Schoology
+- Harry Potter Docker image ready to run
+    - https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial
+- Command-Line Worksheet posted to Schoology
+    - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
+- `cmd_line_exercise.zip` posted to Schoology
 
 ### Actual Lesson
 
 - Review
-    - `cd`, `ls`, `mv`, `mkdir`
-- Today going to talk about sorting, searching, and (not for the last time) trees
-- Binary Search Magic trick
-    - Ask class to give me a number between 1-1000
-    - What is going
-    - What is this similar to?
-        - 20 questions
-- 20 questions as a class
-    - Pair up
-    - Try to find each
-    - Who did it fastest?
-    - What was your strategy?
-- What do each of these show?
-    - Cutting things in half is important
-    - Ordering makes it easy to "cut"
-- Heart of the lesson is organization
-- Everyone's desktop is INSANE
-    - Ask for volunteer
-    - What could be improved?
-    - Show the way I set it up
-        - Everything in ~/Documents/workspace/year/class
-- Organization game
-    - Similar to "Connections"
-    - Download list of 50 files with random names from Schoology
-    - Rules
-        - Organize in any way you'd like
-        - Max four `cat` per round
-        - Seven minutes to organize
-        - Once organized, switch computers
-        - I'll show random words from the corpus
-        - Best organizer/finder pair wins
-    - Going to need `mkdir`, `cd`, `ls`, `cat`, and `grep`
-        - Explain grep
-- Debrief
-    - What does this show?
-    - What shape are we creating here
-        - Tree
-        - "Trees sprout up just about everywhere in computer science ~ Donald Knuth
-        - Discuss linux folder structure starting at root
-    - Future expectations of class
-        - Everything in a ~/Documents/workspace folder
+    - Why shell is useful
+    - GameShell commands
+    - GameShell file structure
+    - Real computer's file structure
+    - Harry Potter in MS
+        - Various commands/mnemonics
+- Mastering shell
+    - 100's of commands
+    - Command-line editors
+        - `vim` and `nano` and `emacs`
+    - Story of ctrl-r
+        - Trade off between doing what you know and learning new things
+- Draw a tree structure and explain relative/absolute of `GameShell`
+    - Show all the libraries
+    - Show that folder structure is the same in websites and in terminal
+        - https://github.com/phyver/GameShell
+- Hand out command-line worksheet
+    - Read through the introduction together
+- Go!
+
+### Homework
+
+- Finish worksheet
