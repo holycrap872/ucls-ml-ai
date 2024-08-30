@@ -13,7 +13,7 @@ a command-line worksheet that will make the concepts more grounded.
 
 - Harry Potter Docker image ready to run
     - https://hub.docker.com/repository/docker/erizzi/hp_terminal_tutorial
-- Command-Line Worksheet posted to Schoology
+- `Command-Line Worksheet` posted to Schoology
     - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
 - `cmd_line_exercise.zip` posted to Schoology
 
