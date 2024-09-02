@@ -14,8 +14,9 @@ that I can understand the skill levels of the class.
 
 - 2d-car game loaded and ready to go
     - https://gitlab.ucls.uchicago.edu/kkandula/2d_car_game
-- `00_onboarding_questionaire` GoogleDoc printed out
+- `00_onboarding_questionnaire` GoogleDoc printed out
     - https://docs.google.com/document/d/1FhSY2xrDpjQ0G5ZyzR-eA96IQ2-9Ol2QRWMjyKdmWlE
+- - Log into `console.aws.amazon.com`
 
 ### Actual Lesson
 
@@ -49,7 +50,7 @@ that I can understand the skill levels of the class.
     - Course not set in stone: what are you most interested in?
     - What made you choose this class?
 - Any questions?
-- Distribute `00_onboarding_questionaire` sheet
+- Distribute `00_onboarding_questionnaire` sheet
 
 ### Homework
 
