@@ -6,8 +6,8 @@ back and ask ourselves, what are the possible downsides"* - Emily Bender
 This half-year course allows students to build on the knowledge they gained in
 the previous semester and to utilize these new skills to build a project of
 their choosing. In particular, students will continue to be exposed to a
-variety of AI/ML techniques including decision trees and neural networks.
-Students will implement part or all of these techniques in python and then use
+variety of AI/ML techniques including evolutionary algorithms and neural networks.
+Students will implement part or all of these techniques in Python and then use
 the resulting functionality to draw conclusions about various datasets.
 Alongside each of these engineering tasks, students will also be exposed to
 readings that highlight the trade offs that come from asking machines to make
