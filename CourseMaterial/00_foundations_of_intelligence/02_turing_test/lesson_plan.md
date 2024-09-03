@@ -55,6 +55,7 @@ following question: ..."
     - We know Claude.ai is good at this kind of thing, so let's see what it says
         - Ask question on homework of Claude.ai
     - Today, going to see how smart Claude.ai is
+        - Actually have to use ChatGPT because Claude.ai is designed to be "more ethical"
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely
@@ -80,11 +81,8 @@ following question: ..."
 
 ### Extensions (if have time)
 
-- Talk about the performance of different chat bots over time
+- Talk about the performance of different ChatBots over time
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
-- Discuss chatbot policy (if have time)
-    - Exploratory committee about what policy the school should have
-    - Likely going to ask you folks to be involved in some way to get student's view
 
 ### Homework
 
