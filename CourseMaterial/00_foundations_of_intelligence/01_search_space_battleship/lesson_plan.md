@@ -7,9 +7,9 @@
 
 In this kickoff lesson, students are exposed to the concept of "search space".
 First they learn the requisite vocabulary and then they start to apply it to
-common problems (like baking a cake or running race). Finally, we start to talk
-about "search techniques" by playing Search Space Battleship and discuss what
-they learned.
+common problems (like baking a cake or running a race). Finally, we start to
+talk about "search techniques" by playing Search Space Battleship and discuss
+what they learned.
 
 This lesson and the one that follows on the Turing Test form the basis of the
 class: technical mixed with philosophical.
@@ -22,8 +22,10 @@ class: technical mixed with philosophical.
     - Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
         - I took pictures of the board and will show them in class
     - Example board in case there's an odd number of students
-- Youtube Videos loaded up
-    - https://youtu.be/IHZwWFHWa-w?t=420
+- YouTube Videos loaded up
+    - https://youtu.be/IHZwWFHWa-w?t=417
+- "Spaghetti Sauce Search" assignment posted to Schoology
+    - https://docs.google.com/document/d/13f8gNtaOgFA_MCKX1965QIzF8IzqR16F4kFNBemDca0
 
 ### Actual Lesson
 
@@ -48,7 +50,7 @@ class: technical mixed with philosophical.
         - Search "3d search space" in google for examples
         - Don't want to get stuck in a "local maxima"
         - Bunch of algorithms to do this, but lets see what you come up with
-    - 1 billion to 170 trillion parameters
+    - Size of "real problems": 1 billion to 170 trillion parameters
 - Rules
     - Play along one dimension
     - Board is 32 long (entire green LEGO baseplate)
@@ -67,8 +69,8 @@ class: technical mixed with philosophical.
     - Gradient descent (ascent) in our case
         - https://youtu.be/IHZwWFHWa-w?t=420
     - Explain all algorithms we're going to learn
-        - Simulated annealing
-        - Hill climbing
+        - Simulated annealing (don't actually code)
+        - Hill climbing (don't actually code)
         - Evolutionary
         - Bayesian
         - Neural Nets
@@ -80,19 +82,7 @@ class: technical mixed with philosophical.
 
 ### Homework
 
-```
-This assignment has three parts:
-
-1. Watch [Malcolm Gladwell's "On Spaghetti Sauce" talk](
-   https://ed.ted.com/lessons/malcolm-gladwell-on-spaghetti-sauce) up to 9m30s
-   (although feel free to watch the rest... it's funny)!
-
-2. List 5 **parameters** that can be altered to affect the taste of spaghetti sauce.
-
-3. Write one paragraph answering the question "what mistake did Prego make in
-   terms of their **objective function** when asking Howard to find the perfect
-   spaghetti sauce"?
-```
+- `Spaghetti Sauce Search`
 
 ### Other possible homeworks
 
