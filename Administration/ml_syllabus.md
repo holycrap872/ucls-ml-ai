@@ -5,9 +5,9 @@ back and ask ourselves, what are the possible downsides"* - Emily Bender
 
 This half-year course introduces students to both the technological and
 philosophical underpinnings of the current AI revolution. Throughout the term,
-students will be exposed to a variety of AI/ML techniques such as decision
-trees and bayesian classifiers. Students will implement part or all of these
-techniques in python and then use the resulting functionality to draw
+students will be exposed to a variety of AI/ML techniques such as markov
+chains and bayesian classifiers. Students will implement part or all of these
+techniques in Python and then use the resulting functionality to draw
 conclusions about various datasets. Alongside each of these engineering tasks,
 students will also be exposed to readings that highlight the various
 breakthroughs, false starts, and intellectual heritage of the quest to make a
