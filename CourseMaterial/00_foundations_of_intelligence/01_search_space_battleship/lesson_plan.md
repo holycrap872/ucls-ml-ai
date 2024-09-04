@@ -22,21 +22,15 @@ class: technical mixed with philosophical.
     - Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
         - I took pictures of the board and will show them in class
     - Example board in case there's an odd number of students
-- YouTube Videos loaded up
-    - https://youtu.be/IHZwWFHWa-w?t=417
 - "Spaghetti Sauce Search" assignment posted to Schoology
     - https://docs.google.com/document/d/13f8gNtaOgFA_MCKX1965QIzF8IzqR16F4kFNBemDca0
 
 ### Actual Lesson
 
-- Today going to play a game called "Search Space Battle Ship"
-    - Who's played Battle Ship?
-    - Explain Battle Ship
-        - 2 dimensions
-    - What are good strategies in Battle Ship?
-        - Link each thing they say to key terms for the day
-- Most of ML/AI is trying to find the best possible solution for a problem
-    - Put up key words on the board and define them
+- Review
+    - Any questions from yesterday?
+- Most of ML/AI is trying to find the best possible solution to a problem
+    - Put up keywords on the board and define them
         - Search Space
         - Objective Function
         - Parameters
@@ -46,11 +40,20 @@ class: technical mixed with philosophical.
         - What is the **objective function**?
         - What are some **parameters**?
         - Estimate of total number of parameters?
+    - What would "running a race" look like?
+        - What is the **objective function**?
+        - What are some **parameters**?
+        - Estimate of total number of parameters?
     - AL/ML is looking for a "global maxima"
-        - Search "3d search space" in google for examples
         - Don't want to get stuck in a "local maxima"
         - Bunch of algorithms to do this, but lets see what you come up with
     - Size of "real problems": 1 billion to 170 trillion parameters
+- Today going to play a game called "Search Space Battle Ship"
+    - Who's played Battle Ship?
+    - Explain Battle Ship
+        - 2 dimensions (parameters)
+    - What are good strategies in Battle Ship?
+        - Link each thing they say to keywords for the day
 - Rules
     - Play along one dimension
     - Board is 32 long (entire green LEGO baseplate)
@@ -66,19 +69,13 @@ class: technical mixed with philosophical.
 - Reset and replay against a new partner
 - Let play and debrief
     - How many **parameters** in each game?
-    - Gradient descent (ascent) in our case
-        - https://youtu.be/IHZwWFHWa-w?t=420
-    - Explain all algorithms we're going to learn
-        - Simulated annealing (don't actually code)
-        - Hill climbing (don't actually code)
-        - Evolutionary
-        - Bayesian
-        - Neural Nets
+    - What would a game with more parameters look like?
 - Do another example:
-    - Training for a marathon
+    - Tax Policy
         - What is the objective function?
         - What are possible parameters?
         - What is the search space?
+        - What do the local maximas represent?
 
 ### Homework
 
@@ -86,9 +83,6 @@ class: technical mixed with philosophical.
 
 ### Other possible homeworks
 
-- Read https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder
-    - Answer the same questions as the Spaghetti Sauce talk
-- Research "simulated annealing" and explain what its strategy would be
 - Come up with own "search space"
     ```
     This assignment has five parts:

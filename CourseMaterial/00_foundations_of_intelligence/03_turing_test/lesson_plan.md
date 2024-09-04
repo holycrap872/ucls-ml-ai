@@ -43,17 +43,15 @@ following question: ..."
 
 ### Actual Lesson
 
-- Refresher
+- Review
     - What did we do yesterday?
     - What do **parameters** mean?
     - What is an **object function** mean?
     - What is a local maxima?
     - What is max gradient ascent?
     - How does "growing the perfect sunflower" map onto this?
-- Claude.ai intro
-    - Look at the homework
-    - We know Claude.ai is good at this kind of thing, so let's see what it says
-        - Ask question on homework of Claude.ai
+- Claude.ai answers again
+    - Ask question on homework of Claude.ai
     - Today, going to see how smart Claude.ai is
         - Actually have to use ChatGPT because Claude.ai is designed to be "more ethical"
 - Who's heard of Alan Turing?
