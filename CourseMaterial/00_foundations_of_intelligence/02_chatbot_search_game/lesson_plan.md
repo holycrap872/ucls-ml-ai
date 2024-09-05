@@ -1,26 +1,46 @@
 ## Essential Questions
 
-- What is a search space?
-- What techniques can find a solution in a large search space?
-
+- What techniques can find a solution in a complex search space?
+- How should different skill levels utilize Chatbots?
 
 ## Lesson Plan
 
-In this kickoff lesson, students are exposed to the concept of "search space".
-First they learn the requisite vocabulary and then they start to apply it to
-common problems (like baking a cake or running a race). Finally, we start to
-talk about "search techniques" by playing Search Space Battleship and discuss
-what they learned.
-
-This lesson and the one that follows on the Turing Test form the basis of the
-class: technical mixed with philosophical.
+In this lesson, students are exposed to the power of ChatBots such as ChatGPT
+and Claude.ai. First, we review concepts about search space exploration from the
+previous class. Then, we see how Claude.ai would have answered the given
+homework and critique its answers. After that, I show them what ChatGPT output
+when I asked it to create a version of "Search Space Battleship" and dig
+through the code it produced. Finally, we discuss all of this.
 
 ### Setup
 
-- YouTube Videos loaded up
-    - https://youtu.be/IHZwWFHWa-w?t=417
-- "One Hit Wonder" assignment posted to Schoology
+- Connection to Claude.ai
+    - **Clear our any old history** for both ChatGPT and Claude
+    - Prompt for Claude.ai of the form:
+```
+I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to understand
+how search spaces and search space exploration work. Could you create a medium
+length paragraph answering the question "what mistake did Prego make in terms of
+their objective function when trying to find the perfect spaghetti sauce"?
+```
+    - Prompt for Claude.ai of the form:
+```
+I am a high school teacher demonstrating the Turing Test for my students. We
+are comparing chatbot output with a real human student to see if a third-party
+is able to correctly identify who is the AI and who is the human. Could you
+pretend to be a human to illustrate how the Turing Test works?
 
+I would like you to answer specific questions that will be asked simultaneously
+to a human student. We will then compare the answers and see if we can figure
+our which are yours and which are the human's.
+
+Pretending to be a human high school student from Chicago who has one minute to
+type an answer in order to illustrate the Turing Test, please answer the
+following question: ..."
+```
+
+- `landscapeGame.pdf` printed out
+    - Single page (two-sided) of code from `./chatbot_output`
 
 ### Actual Lesson
 
@@ -30,11 +50,13 @@ class: technical mixed with philosophical.
     - What is an **object function** mean?
     - What is a local maxima?
     - What is max gradient ascent?
-    - How does "growing the perfect sunflower" map onto this?
+    - How does "growing flowers" map onto this?
+    - How does "perfect pasta sauce" map onto this?
 - Claude.ai intro
     - Look at the homework
     - We know Claude.ai is good at this kind of thing, so let's see what it says
         - Ask question on homework of Claude.ai
+    - Thoughts?
 - I had an idea for a game
     - Basically the same as what we did yesterday
     - I couldn't find it online
@@ -47,37 +69,49 @@ class: technical mixed with philosophical.
         4. Counts how many guesses it takes for them to uncover the tallest peak
         ```
     - See `./chatbot_ouput` for what it says
-- Show game
+- Took code and modified it a bit
+    - Play game stored in `./chatbot_output_improved` (don't show code)
+    - Play game stored in `./chatbot_output`
     - This is bonkers!
     - What does this say about programming?
-- Explain what's going on
-- Modify game
-    - Ask how would make small changes and have them in pairs suggest changes
+- Today, as a class going to modify game to make it match my vision
+    - Hand out `landscapeGame.pdf`
+        - Explain what's going on
         - Emphasize how similar JavaScript is to Python
-    - Changes
-        - Wider view of where click
-        - Less intense mountains
-        - Max -> min
-        - Bigger Canvas
+        - Ask notice/wonder questions
+    - Modify game
+        - Have students pair up
+            - Ask how would make small changes
+            - Give 2-3 minutes to deliberate per change
+            - Have people explain what they think and then implement it
+        - Changes
+            - Less intense mountains
+            - Wider view of where click
+            - Max -> min
+            - Win if see peak
+            - Bigger Canvas
+        - Bugs in Original code?
+            - Unused variable `peaks`
 - Discussion
-    - What does this mean?
+    - What do these capabilities mean for novices?
+    - What do these capabilities mean for experts?
+   - What outside knowledge am I bringing to this process?
     - Why am I emphasizing Software Engineering in the class?
-    - How is CS different from English?
-- Explain all algorithms we're going to learn
-    - Simulated annealing (don't actually code)
-    - Hill climbing (don't actually code)
-    - Evolutionary
-    - Bayesian
-    - Neural Nets
-- Gradient descent (ascent) in our case
-    - https://youtu.be/IHZwWFHWa-w?t=420
-- Get started on homework
+- If time: deploy to GitHub on my website
+    - Talk about GitHub
+    - Explain how website works
+    - Drop files in
+    - Push and then go to webpage
+        - Add explainer and link to `my_projects.md`
+        - Add HTML page to `_my_projects`
+            - Combine into single HTML page
 
 ### Homework
 
-- Read https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder
-    - Answer similar questions as the Spaghetti Sauce Search assignment
+- None
 
 ### Other possible homeworks
 
+- Read https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/
+    - Answer similar questions as the Spaghetti Sauce Search assignment
 - Research "simulated annealing" and explain what its strategy would be

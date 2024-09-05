@@ -16,44 +16,14 @@ is enacted with a real ChatBot to really drive the point home.
 - Readings printed out
     - `computing_machinery_short.docx`
     - `computing_machinery_long.docx`
-- Connection to Claude.ai
-    - **Clear our any old history** for both ChatGPT and Claude
-    - Prompt for Claude.ai of the form:
-```
-I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to understand
-how search spaces and search space exploration work. Could you create a medium
-length paragraph answering the question "what mistake did Prego make in terms of
-their objective function when trying to find the perfect spaghetti sauce"?
-```
-    - Prompt for Claude.ai of the form:
-```
-I am a high school teacher demonstrating the Turing Test for my students. We
-are comparing chatbot output with a real human student to see if a third-party
-is able to correctly identify who is the AI and who is the human. Could you
-pretend to be a human to illustrate how the Turing Test works?
-
-I would like you to answer specific questions that will be asked simultaneously
-to a human student. We will then compare the answers and see if we can figure
-our which are yours and which are the human's.
-
-Pretending to be a human high school student from Chicago who has one minute to
-type an answer in order to illustrate the Turing Test, please answer the
-following question: ..."
-```
 
 ### Actual Lesson
 
 - Review
     - What did we do yesterday?
-    - What do **parameters** mean?
-    - What is an **object function** mean?
-    - What is a local maxima?
-    - What is max gradient ascent?
-    - How does "growing the perfect sunflower" map onto this?
-- Claude.ai answers again
-    - Ask question on homework of Claude.ai
-    - Today, going to see how smart Claude.ai is
-        - Actually have to use ChatGPT because Claude.ai is designed to be "more ethical"
+    - How do you think you might use ChatBots in other classes if your were allowed
+        - For good?
+        - For bad?
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely

@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - What is a search space?
-- What techniques can find a solution in a large search space?
+- What techniques can find a solution in a complex search space?
 
 ## Lesson Plan
 
@@ -11,7 +11,7 @@ common problems (like baking a cake or running a race). Finally, we start to
 talk about "search techniques" by playing Search Space Battleship and discuss
 what they learned.
 
-This lesson and the one that follows on the Turing Test form the basis of the
+This lesson and the two that follow on the Turing Test form the basis of the
 class: technical mixed with philosophical.
 
 ### Setup
