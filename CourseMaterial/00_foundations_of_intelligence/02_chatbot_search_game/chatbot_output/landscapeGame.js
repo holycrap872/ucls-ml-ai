@@ -13,7 +13,7 @@ let guesses = 0;
 function generateLandscape() {
     const peaks = 10; // Number of peaks in the landscape
     for (let i = 0; i < width; i++) {
-        // Create height with some random variation, simulating mountains and valleys
+        // Create height with random variation, simulating mountains and valleys
         landscape[i] = Math.sin(i * 0.02) * 100 + Math.random() * 50 + height / 2;
     }
     maxPeak = Math.max(...landscape); // Find the tallest peak
@@ -38,11 +38,8 @@ function revealSlice(x) {
 // Function to handle clicks on the canvas
 function handleClick(event) {
     const x = event.offsetX;
-
-    // Reveal the clicked slice
     revealSlice(x);
 
-    // Count the guess
     guesses += 1;
     guessCountElement.textContent = guesses;
 
