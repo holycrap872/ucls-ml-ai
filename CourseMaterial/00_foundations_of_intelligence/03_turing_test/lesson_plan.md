@@ -24,6 +24,7 @@ is enacted with a real ChatBot to really drive the point home.
     - How do you think you might use ChatBots in other classes if your were allowed
         - For good?
         - For bad?
+    - Show game on website and git commit that led to it being published
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely

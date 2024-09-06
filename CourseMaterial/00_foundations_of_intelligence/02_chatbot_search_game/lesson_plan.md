@@ -23,22 +23,6 @@ how search spaces and search space exploration work. Could you create a medium
 length paragraph answering the question "what mistake did Prego make in terms of
 their objective function when trying to find the perfect spaghetti sauce"?
 ```
-    - Prompt for Claude.ai of the form:
-```
-I am a high school teacher demonstrating the Turing Test for my students. We
-are comparing chatbot output with a real human student to see if a third-party
-is able to correctly identify who is the AI and who is the human. Could you
-pretend to be a human to illustrate how the Turing Test works?
-
-I would like you to answer specific questions that will be asked simultaneously
-to a human student. We will then compare the answers and see if we can figure
-our which are yours and which are the human's.
-
-Pretending to be a human high school student from Chicago who has one minute to
-type an answer in order to illustrate the Turing Test, please answer the
-following question: ..."
-```
-
 - `landscapeGame.pdf` printed out
     - Single page (two-sided) of code from `./chatbot_output`
 
