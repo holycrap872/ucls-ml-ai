@@ -16,7 +16,7 @@ discussion of the year) and reflection.
 ### Setup
 
 - `common_docs/discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+    - https://docs.google.com/document/d/1mMe37rZ7aaS4JuJQlMzTyrxczeBsSBhAXMMPuYuxO4A
 - Python/vscode installation homework loaded on Schoology
     - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
 
