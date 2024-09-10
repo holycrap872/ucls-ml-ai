@@ -45,6 +45,7 @@ discussion of the year) and reflection.
 - Journal on EQs
 - Circle up
 - Discuss
+    - While they're talking, I'm taking diligent notes so I can grade them
 - Reflect
     - Reflect on class as a whole
     - Reflect on self (on paper)

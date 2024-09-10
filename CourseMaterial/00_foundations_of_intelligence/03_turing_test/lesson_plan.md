@@ -68,15 +68,20 @@ following question: ..."
     - Make sure to pick a "fast typer" for person typing answers
     - While waiting for a human to finish response, let class ask other questions
 - Go over list of types of questions and try to describe why AI struggles with each
+    - Behaviorism: Watson and Pavlov
+    - Of a time to try and separate conciousness from measurement
 - Talk about the performance of different ChatBots over time
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
         - One of the original "chatter bots"
         - Reportedly designers own secretary asked him for privacy after short convo
         - Shows that flaw in Turing Test is the human
 - Tomorrow's discussion
-    - Expectations
+    - Expectations of a good discussion
+        - Direct Reference to Text
+        - Building and responding to others
     - EQs
-    - Direct Reference to Text
+        - Read through them
+        - Focus on these as read/annotate tonight
 
 ### Homework
 

@@ -14,6 +14,7 @@ figure out where the students are along several dimensions:
 
 ### Setup
 
+- Graded discussion rubrics ready to hand back
 - `ProblemSetSkeleton` zipped and loaded into Schoology
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
     - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
@@ -23,6 +24,8 @@ figure out where the students are along several dimensions:
 ### Actual Lesson
 
 - Reflection
+    - Discussion
+        - Hand back graded rubrics from discussion
     - Who was Turing?
     - What was his test?
     - What did we learn?
