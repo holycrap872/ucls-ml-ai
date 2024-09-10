@@ -53,3 +53,7 @@ discussion of the year) and reflection.
 #### Homework
 
 - Install Python and VsCode
+
+#### Resources
+
+- https://www.nature.com/articles/d41586-023-02361-7
