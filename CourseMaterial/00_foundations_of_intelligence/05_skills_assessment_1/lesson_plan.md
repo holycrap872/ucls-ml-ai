@@ -35,9 +35,9 @@ figure out where the students are along several dimensions:
     - Today going to see how far you can get programming stuff
     - No pressure at all
 - What do we remember about Python?
-    - list
-    - variables
     - primitives
+    - variables
+    - lists
 - IDE
     - Brief history of IDE
     - Modern day IDE's are like a bento box
@@ -68,4 +68,4 @@ figure out where the students are along several dimensions:
 
 ## Homework
 
-- Finish the problem you are working on
+- Finish problem 1 of Skills Assessment (aka the first two problems)

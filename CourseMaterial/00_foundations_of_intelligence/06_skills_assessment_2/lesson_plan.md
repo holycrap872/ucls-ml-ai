@@ -51,4 +51,4 @@ strike out on their own.
 
 ## Homework
 
-- None
+- Finish up to and including Problem 2.2
