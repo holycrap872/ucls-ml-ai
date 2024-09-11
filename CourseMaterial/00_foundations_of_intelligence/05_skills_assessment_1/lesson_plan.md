@@ -15,6 +15,7 @@ figure out where the students are along several dimensions:
 ### Setup
 
 - Graded discussion rubrics ready to hand back
+- `./chatbot_output_python/landscape_game.py` printed out
 - `ProblemSetSkeleton` zipped and loaded into Schoology
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
     - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
@@ -38,6 +39,10 @@ figure out where the students are along several dimensions:
     - primitives
     - variables
     - lists
+- Walk through `landscape_game.py` to futher job memory
+    - JavaScript and Python on similar
+    - What do you recognize/see from Python
+    - What is happening on lines x, y, z?
 - IDE
     - Brief history of IDE
     - Modern day IDE's are like a bento box
@@ -68,4 +73,4 @@ figure out where the students are along several dimensions:
 
 ## Homework
 
-- Finish problem 1 of Skills Assessment (aka the first two problems)
+- Finish problems 0 and 1 of Skills Assessment (aka the first two problems)
