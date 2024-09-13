@@ -21,6 +21,8 @@ figure out where the students are along several dimensions:
     - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
 - Skills assessment worksheet posted on Schoology
     - https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw
+- `problem_set_comprehensions.pdf` loaded into special folder for students who finish
+    - Make folder "individually assigned" for this students
 
 ### Actual Lesson
 

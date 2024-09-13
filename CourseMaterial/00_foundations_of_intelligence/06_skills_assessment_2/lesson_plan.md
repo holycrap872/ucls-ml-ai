@@ -1,16 +1,14 @@
 ## EQ's
 
-- Why are tests important?
-- What is the best kind of test?
+- What do we want to remember?
+- What do we actually remember?
 
 ## Lesson Plan
 
-The goal of this lesson is to give students enough information that they can
+The goal of this lesson is to give students enough information so that they can
 continue to independently work through the skills assessment. Prior to them
-going off on their own, we will do a quick review. After that, I will introduce
-unit tests and explain why they're so important. Finally, as a class we will
-solve a simple problem - complete with unit tests - before the students finally
-strike out on their own.
+going off on their own, we will do a quick review. Then, as a class we will
+solve a simple problem before the students finally strike out on their own.
 
 ### Setup
 
@@ -22,14 +20,10 @@ strike out on their own.
     - What did we do last class?
     - Why is being in a workspace important?
     - How do you know that you are/are not in a workspace?
-- Unit Testing
-    - Show simple piece of code
-    - What tests should be created?
-    - Why?
 - Class program
     - Create function that checks if word starts/ends with same letter
     - Function returns a boolean
-    - Create three unit tests
+    - After finish: what are three things you learned/now remember?
 - Talk about `Skills Assessment`
     - Explain progression of problems:
         - Shows use of `input`
@@ -46,7 +40,6 @@ strike out on their own.
         - Sorting
         - Assertions
 - Today going to just program as much as we can
-    - If you work hard today, no homework
 - Continue working on `Skills Assessment`
 
 ## Homework

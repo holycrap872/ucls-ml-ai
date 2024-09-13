@@ -1,49 +1,46 @@
-## Essential Questions
+## EQ's
 
-- How do we get feedback about our code?
-- How do we assess other people's code?
+- Why are tests important?
+- What is the best kind of test?
 
 ## Lesson Plan
 
-The goal of this lesson is to pick up where we left off and get students doing
-a full day of programming. First, we will do a code review with a volunteers
-code. After this, I will explain how future code reviews will go. Finally,
-students will pick back up with the skills assessment. While they're working, I
-wil go around and suggest various things (e.g., types and tests) that will help
-each of them as they encounter a problem.
+The goal of this lesson is to give students another chance to reflect and
+try and load up their "Python knowledge". First, we will do a quick review
+about what they ran into. After that, I will introduce unit tests and explain
+why they're so important. Finally, as a class we will solve a problem - complete
+with unit tests - before the students finally strike out on their own. While
+they're working, I will go around and suggest various things (e.g., types and
+tests) that will help each of them as they encounter a problem.
 
 ### Setup
 
-- `colleges_ai.docx` printed out
-    - https://www.theatlantic.com/technology/archive/2024/08/another-year-ai-college-cheating/679502/
+- None
 
 ### Actual Lesson
 
-- Reflection
-    - Why is being in a workspace important?
-    - What should you do when you can't run tests?
-- Code review
-    - Ask for volunteer
-    - Palindrome problem
-        - Very common "break loop" structures
-    - Max problem from earlier
-        - Making stuff functions makes them easier to test
-    - Discuss why they are good
-    - "I would rather lose all my code than all my tests"
-- Talk about "code review" expectations:
-    - Rather than volunteer, wheel to see who get's picked on
-        - https://www.bonus.com/spin/?spaces=Eric,Sarah
-    - If someone spots a bug in your code (hacker) they steal 5 points
-        - Hacking is someone understanding your code better than you
+- Review
+    - What did we do last class?
+    - How do you know that you are/are not in a workspace?
+    - Techniques for 
+- Unit Testing
+    - Show simple piece of code
+        ```python
+        def print_name(name: str) -> str:
+            lower_name = name.lower()
+            if lower_name.startswith("eric"):
+                return "Hello yourself"
+            else:
+                return "Hello " + name
+        ```
+    - What tests should be created?
+    - Why?
+- Class program
+    - Create function that finds minimum element in a list
+    - Create three unit tests
+- Today going to just program as much as we can
 - Continue working on `Skills Assessment`
-- Wrap up
-    - Tomorrow discussion on ChatBot policy for this class
-    - EQs:
-        - What are appropriate ChatBot usages in other classes?
-        - How could a ChatBot help/hurt learning?
-        - How much control should each student have in their learning?
-    - Be prepared
 
-#### Homework
+## Homework
 
-- Read `colleges_ai.docx`
+- Finish up to and including Problem 2.4
