@@ -63,4 +63,4 @@ that I can understand the skill levels of the class.
 
 ### Homework
 
-- None
+- 15m meeting with me within next seven days to set up computer/talk
