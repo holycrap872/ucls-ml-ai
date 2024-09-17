@@ -12,7 +12,7 @@ solve a simple problem before the students finally strike out on their own.
 
 ### Setup
 
-- None
+- Email to parents asking them if students can use Claude.ai / ChatGPT
 
 ### Actual Lesson
 
