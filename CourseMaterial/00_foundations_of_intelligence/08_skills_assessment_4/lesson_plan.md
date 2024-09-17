@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- How do we get feedback about our code?
-- How do we assess other people's code?
+- How do we utilize ChatBots in programing?
+- How does using ChatBots affect learning?
 
 ## Lesson Plan
 
@@ -15,7 +15,6 @@ used to it. While they're working, I wil go around and suggest various things
 
 ### Setup
 
-- Email to parents asking them if students can use Claude.ai / ChatGPT
 - `colleges_ai.docx` printed out
     - https://www.theatlantic.com/technology/archive/2024/08/another-year-ai-college-cheating/679502/
 
@@ -25,18 +24,13 @@ used to it. While they're working, I wil go around and suggest various things
     - Why is being in a workspace important?
     - What should you do when you can't run tests?
 - Code review
-    - Ask for volunteer
+    - Volunteer?
+        - Normally I'd "spin the wheel"
     - Palindrome problem
         - Very common "break loop" structures
-    - Max problem from earlier
-        - Making stuff functions makes them easier to test
-    - Discuss why they are good
-    - "I would rather lose all my code than all my tests"
-- Talk about "code review" expectations:
-    - Rather than volunteer, wheel to see who get's picked on
-        - https://www.bonus.com/spin/?spaces=Eric,Sarah
-    - If someone spots a bug in your code (hacker) they steal 5 points
-        - Hacking is someone understanding your code better than you
+    - Reinforce tests
+        - Discuss why they are good
+        - "I would rather lose all my code than all my tests"
 - Put palindrome question into ChatGPT
     - Ask for unit tests
     - Critique the code
@@ -48,7 +42,7 @@ used to it. While they're working, I wil go around and suggest various things
         - What are appropriate ChatBot usages in other classes?
         - How could a ChatBot help/hurt learning?
         - How much control should each student have in their learning?
-    - Be prepared
+    - Be prepared for discussion
 
 #### Homework
 

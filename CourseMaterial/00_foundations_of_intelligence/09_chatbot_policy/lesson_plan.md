@@ -25,8 +25,13 @@ start to work on the first of the long-running problems sets.
     - Types
     - Assert
 - Questions from the previous night's homework?
-- Program question 1.4 of assessment together (list of pairs)
-    - Need it for some of the graph stuff
+- Code review
+    - Spin the wheel
+    - Problem 2.7 (sorted list of integers problem)
+- Class coding
+    - Function that takes two lists as input and returns a single list of pairs
+        - Need it for some of the graph stuff
+        - [1, 5], [3, 9] -> [(1, 3), (5, 9)]
     - Put question into ChatBot and see what it says
 - Today going to discuss how ChatBots affect learning
 - Give 5m to think about discussion questions:

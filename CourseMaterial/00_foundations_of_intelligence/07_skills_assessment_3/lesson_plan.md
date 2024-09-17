@@ -22,21 +22,22 @@ tests) that will help each of them as they encounter a problem.
 - Review
     - What did we do last class?
     - How do you know that you are/are not in a workspace?
-    - Techniques for 
+    - Techniques for thinking about problems
+        - Accumulator pattern
 - Unit Testing
     - Show simple piece of code
         ```python
         def print_name(name: str) -> str:
             lower_name = name.lower()
             if lower_name.startswith("eric"):
-                return "Hello yourself"
+                return "Uhhhhh... you wrote this"
             else:
                 return "Hello " + name
         ```
     - What tests should be created?
     - Why?
 - Class program
-    - Create function that finds minimum element in a list
+    - Create function takes a list of ints and returns a list of all the even numbers in the input
     - Create three unit tests
 - Today going to just program as much as we can
 - Continue working on `Skills Assessment`
