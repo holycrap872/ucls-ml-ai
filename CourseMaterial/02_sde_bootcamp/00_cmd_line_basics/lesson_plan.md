@@ -12,6 +12,10 @@ Note that only enough information to get through "GameShell" is given to the
 students. Things like absolute/relative paths are avoided for debrief the
 following day.
 
+> Note: The GameShell game, while interesting, is too confusing on missions
+  three and six to allow students to just do it by themselves. Make sure to
+  bring the class together and discuss at these pain points.
+
 ### Setup
 
 - `GameShell` set up
@@ -40,32 +44,38 @@ following day.
         - Why better than a GUI? Why worse?
 - Open up command-line and do some examples
     - Where to find terminal for various systems
-        - Mac is easy since based off Unix
-        - Windows is harder... you might have to move to in-lab computer
     - Explore directory structure of computer
         - Do it on Desktop so you can see the changes
-        - `ls`/`cd`/`mkdir`/`pwd`
+        - `ls`/`cd`/`mkdir`/`pwd`/`mv`
+            - **Make sure** to do a `mv` since comes up in game
         - Draw file structure on board and explain going up/down
         - **DO NOT** talk about absolute vs. relative
-    - Hidden folders
+    - Computer is like one big tree
+        - Mac is easy since based off Unix
+        - Windows is harder...
+            - Story of powershell and the `/` vs. the `\`
 - Quick review of important commands
 - Introduce `GameShell`
     - Importance of `gsh check` and `gsh goal`
-    - Do first goal together
+    - Do first **THREE** goals together
+        - Third goal is stupid and confusing
+    - Come back and talk about mission 3 and mission 6 together
+        - Reconvene after hear complaint from ~second person
 - Find lab computer to work on
-    - Work in pairs
+    - **Work in pairs**
     - Switch every time complete "mission"
 - Go!
+- Reflection
+    - Show GameShell on GitHub
+    - Problems people had?
+    - Questions people had?
 
 ### Homework
 
-- Schoology Assessment
-    - What does `ls`/`mv`/`cp`/`cd` do?
-    - What are the parts of a command?
-    - What are the strengths/weakness of the command-line?
-    - Hidden folders/files
+- Schoology Assessment `assessment.md`
 
 ## Resources / Random ideas
 
 - https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
 - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+    - Seems buggy upon inspection

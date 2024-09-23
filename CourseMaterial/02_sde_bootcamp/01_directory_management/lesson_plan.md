@@ -24,6 +24,7 @@ a command-line worksheet that will make the concepts more grounded.
     - GameShell commands
     - GameShell file structure
     - Real computer's file structure
+        - Use attaching files to email from `ProblemSetSkeleton` as example
     - Harry Potter in MS
         - Various commands/mnemonics
 - Mastering shell
