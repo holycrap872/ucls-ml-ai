@@ -45,7 +45,7 @@ following day.
 - Open up command-line and do some examples
     - Where to find terminal for various systems
     - Explore directory structure of computer
-        - Do it on Desktop so you can see the changes
+        - Mirror changes in GUI so you can see the changes
         - `ls`/`cd`/`mkdir`/`pwd`/`mv`
             - **Make sure** to do a `mv` since comes up in game
         - Draw file structure on board and explain going up/down
@@ -57,9 +57,9 @@ following day.
 - Quick review of important commands
 - Introduce `GameShell`
     - Importance of `gsh check` and `gsh goal`
-    - Do first **THREE** goals together
-        - Third goal is stupid and confusing
+    - Do first goal together
     - Come back and talk about mission 3 and mission 6 together
+        - Third goal is stupid and confusing
         - Reconvene after hear complaint from ~second person
 - Find lab computer to work on
     - **Work in pairs**
