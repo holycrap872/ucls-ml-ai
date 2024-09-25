@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- How can we use the command-line to increase our effectiveness?
-- How much effort should I put into understanding the tools I'm using?
+- What are some basic things you can do on the command-line?
+- What can the command-line do that a regular GUI cannot?
 
 ## Lesson Plan
 

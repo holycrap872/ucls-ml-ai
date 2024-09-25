@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- How can we use the command-line to increase our effectiveness?
-- How much effort should I put into understanding the tools I'm using?
+- What are some basic things you can do on the command-line?
+- What can the command-line do that a regular GUI cannot?
 
 ## Lesson Plan
 
@@ -18,6 +18,8 @@ following day.
 
 ### Setup
 
+- **Previous night's HOMEWORK** --> video of terminal and some simple questions about it
+    - Will reduce lecture time and increase GameShell time
 - `GameShell` set up
     - https://github.com/phyver/GameShell Docker image built and pushed to computers
         - Enough docker images up and running
