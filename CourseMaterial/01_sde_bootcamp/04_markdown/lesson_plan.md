@@ -13,11 +13,9 @@ time.
 
 ### Setup
 
-- TIL skeleton zipped loaded onto Schoology
+- TIL skeleton zipped and loaded onto Schoology
     - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
     - `.git` folder removed
-- Maybe use a "class group"?
-- Maybe do this on school provided computers for some amount of sanity?
 
 ### Actual Lesson
 
@@ -40,7 +38,7 @@ time.
     - Look at commits to see what's going on
 - Have everyone create their own til project in git
     - GitLab > Create New Project
-        - Name: Today I learned
+        - Name: Today I Learned
         - Project slug: til
         - Visibility Level: Internal
         - Initialize with README: False

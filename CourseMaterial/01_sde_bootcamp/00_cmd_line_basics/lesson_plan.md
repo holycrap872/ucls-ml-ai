@@ -18,8 +18,6 @@ following day.
 
 ### Setup
 
-- **Previous night's HOMEWORK** --> video of terminal and some simple questions about it
-    - Will reduce lecture time and increase GameShell time
 - `GameShell` set up
     - https://github.com/phyver/GameShell Docker image built and pushed to computers
         - Enough docker images up and running
@@ -32,18 +30,15 @@ following day.
 
 ### Actual Lesson
 
-- Refresher
-    - What are some signals of intelligence?
-    - What is machine learning?
-    - What are the themes of the class?
+- Review homework
+    - What is the command-line?
+    - What can you do with it?
+    - Who has used it before?
+    - How is it different from a GUI
+        - Why better than a GUI? Why worse?
 - Kicking off multi-week "boot camp" to get everyone up to speed
     - Based on knowledge required to be a good intern at AWS
     - Going to keep doing Python problem sets so skills don't atrophy
-- Today going to learn command-line
-    - Who has used the command-line before?
-    - What can you do?
-    - How is it different from a GUI
-        - Why better than a GUI? Why worse?
 - Open up command-line and do some examples
     - Where to find terminal for various systems
     - Explore directory structure of computer

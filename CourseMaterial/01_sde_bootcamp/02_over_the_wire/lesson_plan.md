@@ -7,10 +7,11 @@
 
 ### Setup
 
-- Homework from previous night up
-    - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
 - Terminals open on Desktops in lab
     - Command `ssh -p 2220 bandit0@bandit.labs.overthewire.org` typed in
+- Homework loaded into Schoology
+    - `Git Kickoff`
+        - https://docs.google.com/document/d/1JKkWEULvgkRLH8VBuKTFchZi8yxuXm6Nm9RLyv2UeFI
 
 ### Actual Lesson
 
@@ -49,7 +50,7 @@
 
 ### Homework
 
-- ?
+- `Git Kickoff`
 
 ### Extension
 

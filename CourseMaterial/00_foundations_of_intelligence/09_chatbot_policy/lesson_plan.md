@@ -16,7 +16,10 @@ start to work on the first of the long-running problems sets.
 
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
-- `problem_set_intro.pdf` loaded in Schoology
+- Homework loaded into Schoology
+    - `Command-Line Kickoff`
+        - https://docs.google.com/document/d/1ylXJ3uF2FP3Ujd8N-tweOlr1Ap_LERqiZGzLcMdZPfk
+    - `problem_set_intro.pdf` loaded in Schoology
 
 ### Actual Lesson
 
@@ -46,4 +49,4 @@ start to work on the first of the long-running problems sets.
 
 ### Homework
 
-- None
+- `Command-Line Kickoff`

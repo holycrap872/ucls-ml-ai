@@ -16,7 +16,7 @@ are needed. In summary, as long as they understand the "graph" concept and the
 
 - `git_cheatsheet.docx` printed out for students to use
 - A few example git repositories to chew on.
-- Schoology Assessment published
+- Schoology Assessment on `git` published
 
 ### Actual Lesson
 
