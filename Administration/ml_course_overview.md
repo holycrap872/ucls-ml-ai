@@ -28,7 +28,33 @@
 
 - In-class discussion
 
-## Unit 1 - Introduction to Data Science
+## Unit 1 - SDE Bootcamp
+
+#### Texts:
+
+- *Conventional Comments,* by Paul Slaughter
+
+#### Objectives:
+
+- Learn how to use terminal to enable complex interactions with computer
+- Utilize git to save work and collaborate with classmates
+- Develop debugging techniques to identify complex issues
+- Learn the importance of unit testing for documentation and speed of development
+
+#### Essential Questions:
+
+- What are the best practices to use when working on a software project?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 2 - Introduction to Data Science
 
 #### Texts:
 
@@ -55,31 +81,6 @@
 
 - Programming projects
 
-## Unit 2 - SDE Bootcamp
-
-#### Texts:
-
-- *Conventional Comments,* by Paul Slaughter
-
-#### Objectives:
-
-- Learn how to use terminal to enable complex interactions with computer
-- Utilize git to save work and collaborate with classmates
-- Develop debugging techniques to identify complex issues
-- Learn the importance of unit testing for documentation and speed of development
-
-#### Essential Questions:
-
-- What are the best practices to use when working on a software project?
-
-#### Formative Assessments:
-
-- Programming problem sets
-- In-class group work
-
-#### Summative Assessments:
-
-- Programming projects
 
 ## Unit 3 - Lists and Sets and Maps Oh My!
 
