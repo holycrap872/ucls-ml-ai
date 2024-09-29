@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - What are the benefits of version controlling your software?
-- Why are diffs such a powerful primitive?
+- What are the basic `git` commands to setup and add to a repository?
 
 ## Lesson Plan
 
@@ -14,7 +14,9 @@ are needed. In summary, as long as they understand the "graph" concept and the
 
 ### Setup
 
-A few example git repositories to chew on.
+- `git_cheatsheet.docx` printed out for students to use
+- A few example git repositories to chew on.
+- Schoology Assessment published
 
 ### Actual Lesson
 
@@ -35,9 +37,9 @@ A few example git repositories to chew on.
     - Where have you seen a solution to this?
         - GoogleDocs version history
             - Show GoogleDocs version history
-            - Compare with Git
+            - Compare with `git`
 - What do we know about `git`?
-    - Git is version control for a whole project
+    - `git` is version control for a whole project
     - Why do you think so popular?
     - Show visual: http://git-school.github.io/visualizing-git/
         - Really can just do `git commit` for now
