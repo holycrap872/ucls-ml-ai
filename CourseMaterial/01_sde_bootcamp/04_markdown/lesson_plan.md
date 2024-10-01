@@ -13,9 +13,16 @@ time.
 
 ### Setup
 
+- TIL GoogleDoc loaded up into Schoology
+    - https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk
 - TIL skeleton zipped and loaded onto Schoology
     - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
     - `.git` folder removed
+- Websites loaded up
+    - http://git-school.github.io/visualizing-git/
+    - https://github.com/jbranchaud/til
+    - https://gitlab.ucls.uchicago.edu/vdangi/til
+    - https://markdownlivepreview.com/
 
 ### Actual Lesson
 
@@ -23,12 +30,14 @@ time.
     - `git` in comparison to GoogleDocs
     - `git` is just a bunch of diffs
     - Staged changes vs. unstaged changes
-    - Do a real world example of a project as a class
-        - Go SLOW!
-        - Have them again do changes along with me on their git worksheet
+    - Show them state of ML/AI repo
+        - `git diff` should show something
+        - Show them what it looks like in `vscode`
 - Today going to create long-running "knowledge tracker"
     - Uses git
     - Will push repository to cloud so can't be lost
+    - `git push` and `git pull`
+        - Caution that `git pull` is later
 - Show inspiration
     - https://github.com/jbranchaud/til
     - Walk through various things
@@ -36,45 +45,19 @@ time.
 - Show some examples in gitlab
     - https://gitlab.ucls.uchicago.edu/vdangi/til
     - Look at commits to see what's going on
-- Have everyone create their own til project in git
-    - GitLab > Create New Project
-        - Name: Today I Learned
-        - Project slug: til
-        - Visibility Level: Internal
-        - Initialize with README: False
-    - Download skeleton from Schoology
-    - Push
-- Every good project has a `README.md`
-    - `README.md` is in markdown
-        - Basically opposite of mark up
-        - Philosophy of markdown: Structure that's as readable as possible
-    - Show raw file vs. rendered file
-- Have them edit the existing README to include:
-    - List of categories covered (eventually)
-        - Python
-        - AI
-        - Git
-        - Shell
-    - Link to outside website
-    - A License Section
-- Get started
-    - Create content on markdown "viewer"
-        - https://markdownlivepreview.com/
-    - Open TIL skeleton
-    - Paste in entry
-    - Push
-- Goal today:
-    - Get started on homework
+- Markdown
+    - What is it
+    - How it works
+    - Show some small examples
+    - Raw vs. rendered
+- Goal today: Create your own TIL repo
+    - Walk through worksheet
+    - Explain things to be careful of
+- Go!
+    - After ~5m of them working independently, bring them back
+        - Discuss confusion
+        - Do first two problems as a class
 
 ### Homework
 
-```
-Create and push your first TIL entry. The entry must:
-
-1. Be inside its own "category" folder inside your til repository
-2. Have a title, a brief writeup, and an example
-3. Be linked to in the `README.md`
-
-This means that your commit will include changes to two files: the file that
-contains your new entry and a change to the `README.md` (to insert the link).
-```
+- Finish worksheet

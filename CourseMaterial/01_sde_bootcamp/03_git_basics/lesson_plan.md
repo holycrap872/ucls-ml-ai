@@ -15,7 +15,11 @@ are needed. In summary, as long as they understand the "graph" concept and the
 ### Setup
 
 - `git_cheatsheet.docx` printed out for students to use
+- Various `git` learning sites loaded up
+    - http://git-school.github.io/visualizing-git/ (requires Chrome)
+    - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ (for history)
 - A few example git repositories to chew on.
+    - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
 - Schoology Assessment on `git` published
 
 ### Actual Lesson
@@ -32,45 +36,42 @@ are needed. In summary, as long as they understand the "graph" concept and the
     - What's the problem?
         - Which version is the latest?
         - What changed?
-        - How do we Collaborate?
+        - How do we collaborate?
         - Who did what?
     - Where have you seen a solution to this?
         - GoogleDocs version history
             - Show GoogleDocs version history
+                - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
             - Compare with `git`
 - What do we know about `git`?
     - `git` is version control for a whole project
     - Why do you think so popular?
     - Show visual: http://git-school.github.io/visualizing-git/
         - Really can just do `git commit` for now
-- What do you notice about a real git repository?
-    - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
-    - Have click around for 3-5 minutes
-        - notice/wonder
+        - Show `git branch` but make clear don't need it until later
+            - Mostly to show difference between `git` and GoogleDocs
 - Essence of git
     - This is HARD... biggest lift all year
         - Real payoff in real world
     - Make small changes over time
         - Diffs!
-    - Show example diffs from shell exercise
-    - Draw as a network/graph
-    - Show equivalent in git: https://gitlab.ucls.uchicago.edu/ml-ai/git-example
-        - How is this similar to GoogleDocs?
-- Do super simple example
-    - Word ladder
+    - Boring/hard, so take 2 min to refocus ... chat with neighbor in interim
+- Do super simple example on board (drawing over `git_cheatsheet.docx` visual)
+    1. Create new repo
+    2. `touch new.py` and commit with message "first"
+    3. `touch other.py` and commit with message "second"
+    4. Edit both files and commit with message "done
+- Recreate what did on board on computer
     - **Have them follow on the sheet**
         - `git_cheatsheet.docx`
+    - Steps
     - Staging area -> makes for pretty commits
-- What do you think we're going to use git for?
-    - Problem sets
-    - TIL
-        - Show Josh's TIL: https://github.com/jbranchaud/til
-        - 11k stars
+- Can leave early
+    - DON'T DO ASSESSMENT right away b/c then information sets in brain better
 
 ### Homework
 
 - Schoology assessment on `git`
-    - Watch video first
 
 ### Resources
 
