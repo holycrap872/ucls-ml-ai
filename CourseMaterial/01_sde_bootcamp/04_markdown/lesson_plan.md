@@ -13,7 +13,7 @@ time.
 
 ### Setup
 
-- TIL GoogleDoc loaded up into Schoology
+- `Today I Learned Repo` GoogleDoc loaded up into Schoology
     - https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk
 - TIL skeleton zipped and loaded onto Schoology
     - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
