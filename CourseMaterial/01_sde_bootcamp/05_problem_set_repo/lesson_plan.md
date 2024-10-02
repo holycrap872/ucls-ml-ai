@@ -30,8 +30,10 @@
     - You're on the "main" branch... don't really want to get into branches
     - Push the branch you're on
     - Push and look at people's TIL
+        - What went good
+        - What went bad
 - Last class, created a remote repository for TIL
-    - Now going to create remote repository for ProblemSet
+    - Now going to create remote repository for ProblemSetSkeleton
 - Classwork
     - Walk through worksheet
     - Talk about similarities/differences with day before
@@ -39,6 +41,4 @@
 
 ### Homework
 
-- Do problems X-X of Python String Wheaties
-- For each problem, create a commit
-- Every time create a commit, push it so you don't lose your work
+- Finish `Problem Set Repo` worksheet
