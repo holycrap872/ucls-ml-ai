@@ -9,6 +9,9 @@
 
 - `Problem Set Repo` GoogleDoc posted to Schoology
     - https://docs.google.com/document/d/19h1ejv9kHlLr8VIXydBqVjqynR9JkC4UFSIr847d-4I
+- Websites loaded up
+    - https://github.com/jbranchaud/til
+    - https://markdownlivepreview.com/ 
 
 ### Actual Lesson
 
