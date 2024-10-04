@@ -1,4 +1,4 @@
-# Python String Wheaties
+# Python Comprehension Wheaties
 
 Create two new files in your `ProblemSetSkeleton` workspace. Name one file
 `comprehension_wheaties.py` and put it in the `src/skeleton` folder
