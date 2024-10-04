@@ -19,6 +19,11 @@ the CI/CD integration by writing tests and checking the results after they push.
     - git
     - remote vs. local
     - commits
+- TIL review
+    - Importance of TIL
+    - Show rubric
+    - Examine someone's entry
+        - Compare against rubric
 - Code review
     - First set up perms
         - Why "private"?
