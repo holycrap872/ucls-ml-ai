@@ -19,15 +19,8 @@ the CI/CD integration by writing tests and checking the results after they push.
     - git
     - remote vs. local
     - commits
-- TIL review
-    - Importance of TIL
-    - Show rubric
-    - Examine someone's entry
-        - Compare against rubric
 - Code review
-    - First set up perms
-        - Why "private"?
-        - Walk them through giving me access to their repo
+    - Spin the wheel
     - Examine someone's code
 - CI/CD
     - What is CI/CD?
@@ -43,9 +36,6 @@ the CI/CD integration by writing tests and checking the results after they push.
     - `Settings` -> `CI/CD` -> `General pipelines`
         - Add `.ci-cd/gitlab-ci.yml`
 - Make sure everyone is up and running
-- Setup classwork
-    - Why wheaties?
-    - Possibility of doing Grok if would like refresher
 - Reflection
     - Where are we?
     - What's next?
@@ -54,10 +44,11 @@ the CI/CD integration by writing tests and checking the results after they push.
 
 ### Homework
 
-- Do problems X-X of ???
-- For each problem, create a commit
-- Every time create a commit, push it to main so you don't lose your work
+- Do problems 5 - 7 of ???
+    - For each problem, create a commit
+    - Every time create a commit, push it to main so you don't lose your work
     - Every time you push, check that CI/CD stuff is there
+- TIL on CI/CD
 
 ### Resources
 
