@@ -11,7 +11,9 @@ the CI/CD integration by writing tests and checking the results after they push.
 
 ### Setup
 
-- None
+- Various CI/CD sites open
+    - https://github.com/angr/angr
+    - https://gitlab.com/eric.rizzi/aws-src-sample
 
 ### Actual Lesson
 
@@ -44,7 +46,7 @@ the CI/CD integration by writing tests and checking the results after they push.
 
 ### Homework
 
-- Do problems 5 - 7 of ???
+- Do problems 5 - 8 of Python String Wheaties
     - For each problem, create a commit
     - Every time create a commit, push it to main so you don't lose your work
     - Every time you push, check that CI/CD stuff is there
