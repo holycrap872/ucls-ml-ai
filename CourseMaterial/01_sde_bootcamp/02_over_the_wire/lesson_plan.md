@@ -51,26 +51,3 @@
 ### Homework
 
 - `Git Kickoff`
-
-### Extension
-
-- Docker
-    - Descartes: Cognito Ergo Sum
-    - Part of foundation of western thought
-    - Show argument for how knows exists
-
-Spicy
-
-See how far you can get in https://overthewire.org/wargames/bandit/. For each challenge you complete, you’ll get two bonus points.
-
-This is a difficult demo and requires careful reading, but you will learn A LOT. To get started, you will need to "ssh" into a demonstration computer by pasting the following command into your terminal. Read the level 0 instructions for the password.
-
-```
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
-```
-
-Paste the “code” of the highest level you were able to get to in the space below:
-
-	> 
-
-
