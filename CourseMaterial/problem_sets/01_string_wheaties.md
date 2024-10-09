@@ -63,7 +63,7 @@ then write at **least two unit test** in the `test_string_wheaties.py` file.
     - Hint: `split()` and `upper()`
 12. Create a function that takes **two** words (strings) as inputs and then
     returns their longest common prefix.
-    - For example: `"apple", "application" -> "app"`
+    - For example: `"apple", "application" -> "appl"`
     - Hint: accumulator pattern
 13. Create a function that takes a sentence (string) as an input and then returns
     a version of the input string where all uppercase letters are switched into
