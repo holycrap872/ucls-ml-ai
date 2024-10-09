@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How does CI/CD work?
+- How does CI/CD work under the hood?
 - How much can rationality tell us about our experience?
 
 ## Lesson Plan
