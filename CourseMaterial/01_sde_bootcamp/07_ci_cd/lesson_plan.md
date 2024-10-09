@@ -60,12 +60,18 @@ the CI/CD integration by writing tests and checking the results after they push.
 ### Extensions
 
 - Pipeline Badges
+    - Note: I'm not sure why they make the whole process so annoying
     - Make a "pipeline status badge"
+        - Go to `Settings` -> `General` -> `Badges`
         - Badge Name: Build Status
         - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
         - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/pipeline.svg
-        - Note: I'm not sure why they make it so annoying
+        - Insert into README:
+            - `![pipeline status](https://gitlab.ucls.uchicago.edu/ml-ai/problem-set-skeleton/badges/main/pipeline.svg)`
     - Make a "coverage badge"
+        - Go to `Settings` -> `General` -> `Badges`
         - Badge Name: Code Coverage
         - Badge Link: https://gitlab.ucls.uchicago.edu/%{project_path}/-/commits/%{default_branch}
         - Badge image URL: https://gitlab.ucls.uchicago.edu/%{project_path}/badges/%{default_branch}/coverage.svg
+        - Insert into README:
+            - `![coverage](https://gitlab.ucls.uchicago.edu/ml-ai/problem-set-skeleton/badges/main/coverage.svg)`
