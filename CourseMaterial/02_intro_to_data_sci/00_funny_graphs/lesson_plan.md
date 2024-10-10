@@ -14,7 +14,8 @@ and why data interpretation is pivotal to ML/AI.
 ### Setup
 
 - `graph_cheatsheet.md` loaded into Schoology
-- Funny Graphs Worksheet loaded into Schoology
+    - Print out a few copies as well
+- `Funny Graphs Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk
 
 ### Actual Lesson

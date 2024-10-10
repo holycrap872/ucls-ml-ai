@@ -1,11 +1,28 @@
 #!/usr/bin/env python3
-import typing
+import platform
 
 import matplotlib
 import matplotlib.pyplot as plots
 
 plots.style.use("fivethirtyeight")
-matplotlib.use("MacOSX")
+if platform.system() == "Darwin":
+    matplotlib.use("MacOSX")
+
+
+def funny_crypto_graph() -> None:
+    time = [0, 1, 2, 3, 4]
+    usefulness = [0.1, 0.1, 0.1, 0.1, 0.1]
+    price = [0.2, 3, 10, 15, 30]
+
+    plots.plot(time, usefulness, color="red", label="usefulness")
+    plots.plot(time, price, color="green", label="price")
+
+    plots.title("Crypto Wasting Time")
+    plots.ylabel("Magnitude")
+    plots.xlabel("Time")
+    plots.legend()
+
+    plots.show()
 
 
 def funny_bar_chart() -> None:
@@ -73,6 +90,7 @@ def funny_line_graph() -> None:
 
 
 if __name__ == "__main__":
+    funny_crypto_graph()
     funny_bar_chart()
     funny_scatter_plot()
     funny_line_graph()
