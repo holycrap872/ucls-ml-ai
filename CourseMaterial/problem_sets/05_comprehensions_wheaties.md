@@ -20,7 +20,7 @@ the `test_comprehension_wheaties.py` file.
 
 0. Create a function that takes a number as an input and then returns a new list
    with all the numbers from 0 up to the given number.
-   - For example: `3 -> [0, 1, 2, 3]`
+    - For example: `3 -> [0, 1, 2, 3]`
 1. Create a function that takes a list of strings as an input and then returns
    a new list containing the length of each string.
     - For example: `["hey", "there", "class"] -> [3, 5, 5]`
@@ -51,7 +51,7 @@ the `test_comprehension_wheaties.py` file.
 
 8. Create a function that takes a number as an input and then returns a new dictionary
    with all the numbers from 0 up to the given number mapped to their square.
-   - For example: `3 -> {0: 0, 1: 1, 2: 4, 3: 9}`
+    - For example: `3 -> {0: 0, 1: 1, 2: 4, 3: 9}`
 9. Create a function that takes a list of strings as an input and returns a
    dictionary where the keys are the strings and the values are the lengths of
    the strings.

@@ -15,23 +15,23 @@ and then write at **least two unit tests** in the
 ### Problems using **parameters** for input and `return` for output
 
 0. Create a function that takes a dictionary of ints mapped to ints as an
-   input and returns a list of all of the dictionary's keys. Do **not** use
-   the `.keys()` function.
+   input and returns a list of all of the dictionary's keys.
+    - **Do not** use the `.keys()` function.
 1. Create a function that takes a dictionary of ints mapped to ints as an
-   input and returns a list of all of the dictionary's values. Do **not** use
-   the `.values()` function.
+   input and returns a list of all of the dictionary's values.
+    - **Do not** use the `.values()` function.
 2. Create a function that takes a list of ints (even in length) and returns a
    dictionary where each even indexed element maps to the following, odd
    indexed element.
-   - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
+    - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
 3. Create a function that takes two lists of equal size as inputs and returns a
    dictionary where each element of the first list points to the corresponding
    element in the second list.
-   - For example: `[1, 2, 3], ["a", "b", "c"] -> {1: "a", 2: "b", 3: "c"}`
+    - For example: `[1, 2, 3], ["a", "b", "c"] -> {1: "a", 2: "b", 3: "c"}`
 4. Create a function that takes a sentence as an input and returns a set of all
    of the characters in the sentence.
 5. Create a function that takes a sentence as an input and returns a dictionary
-    storing the count of each character.
+   storing the count of each character.
     - For example: `"wow!" -> {"w": 2, "o":  1, "!": 1}`
 6. Create a function that takes dictionary of ints mapped to ints as an input and
    returns the largest key.
@@ -43,8 +43,8 @@ and then write at **least two unit tests** in the
 9. Create a function that takes a sentence as an input and returns a set of all
    of the words in the sentence.
 10. Create a function that takes two sets of ints as an input and returns a
-    boolean of whether the first set is a "subset" of the second set. Do
-    **not** use the `.issubset()` function.
+    boolean of whether the first set is a "subset" of the second set.
+    - **Do not** use the `.issubset()` function.
 11. Create a function that takes list of ints and returns a dictionary containing
     the even/odd count.
     - For example: `[1, 11, 10, 5] -> {"even": 1, "odd": 3}`
@@ -71,8 +71,8 @@ and then write at **least two unit tests** in the
     list containing the reverse of each string.
     - For example: `["apple", "banana", "cherry"] -> ["elppa", "ananab", "yrrehc"]`
 20. Create a function that takes two sets of ints as an input and returns a
-    set of ints that is the intersection of the two sets. Do **not** use the
-    `intersection()` function.
+    set of ints that is the intersection of the two sets.
+    - **Do not** use the `intersection()` function.
 21. Create a function that takes a list of ints as an input and returns a set
     which is a version of the original list but without any duplicates.
 22. Create a function that takes a list of ints as an input and returns a list
