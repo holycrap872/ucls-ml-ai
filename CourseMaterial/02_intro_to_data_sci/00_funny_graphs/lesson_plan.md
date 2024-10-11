@@ -13,7 +13,7 @@ and why data interpretation is pivotal to ML/AI.
 
 ### Setup
 
-- `graph_cheatsheet.md` loaded into Schoology
+- `matplotlib_cheat_sheet.md` loaded into Schoology
     - Print out a few copies as well
 - `Funny Graphs Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1obfWo5Phspuw9k_YHaiCtrZJnYGjbZFDaL3R8Z7DMrk
@@ -45,12 +45,14 @@ and why data interpretation is pivotal to ML/AI.
         - How to use pip install
         - Amount of "funniness" may vary
 - How to interpret cheat sheet?
-- Have them recreate "Supernatural Powers" graph
-- Show common mistakes
-    - x/y arrays of different size
-    - misspelled colors
-    - Bad labels...
+- Move to desktop computers in lab
+    - Avoid library issues?
+    - Log into account
+    - Setup project
+        - Good refresher on what each thing is doing
+- Start working `Funny Graphys Worksheet`
+    - Will complete graph next class
 
 ### Homework
 
-- Complete "Funny Graphs Worksheet" in Schoology
+- `Python List Wheaties` 0 - 3
