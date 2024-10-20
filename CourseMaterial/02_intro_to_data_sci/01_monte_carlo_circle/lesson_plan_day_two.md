@@ -34,5 +34,4 @@ print(num_in_circle)
 
 ### Homework
 
-- None
-
+- TIL entry on `random.random()`
