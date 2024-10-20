@@ -60,7 +60,34 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
    a single list that is the input list "flattened".
     - For example: `[[1, 6], [3], [7, 9]] -> [1, 6, 3, 7, 9]`
 13. Create a function that takes **two inputs**: a list of integers and a second
-   list of integers as inputs and then returns a single list such that they
+   list of integers as inputs and then returns a single list such that the
    elements are alternating from the two input lists.
     - **Do not** assume that the two lists are of the same length.
     - For example: `[1, 4, 10], [100, 3, 55, 66, 7] -> [1, 100, 4, 3, 10, 55, 66, 7]`
+14. Create a function that takes a string of words as an input and returns a
+   list of integers representing the length of each those word.
+    - For example: `"hey there friend" -> [3, 5, 6]`
+15. Create a function that takes a string of numbers separated by spaces as an
+   input and returns a list of integers such that each of the numbers in the
+   string incremented by one.
+    - For example: `"1 5 10 44" -> [2, 6, 11, 45]`
+    - Hint: `split()`
+16. Create a function that takes a list of integers as an input and returns the
+   longest sequence of **identical numbers** in the list.
+    - For example: `[1, 1, 6, 1, 5, 5, 6, 6, 6, 6, 8] -> [6, 6, 6, 6]`
+17. Create a function that takes a list of integers as an input and returns the
+   longest sequence of **consecutive numbers** in the list.
+    - For example: `[1, 2, 3, 5, 6, 7, 8, 10] -> [5, 6, 7, 8]`
+18. Create a function that takes a string containing comma-separated values
+   (CSV) data and returns a list of lists, where each inner list represents a
+   row of data.
+    - For example: `100,88\n1,2\n3,62" -> [[100, 88], [1, 2], [3, 62]]`
+    - Hint: use `split()` two times
+19. Create a function that takes a string of numbers separated by commas as an
+   input and returns a list of integers such that each of those numbers is
+   squared.
+    - For example: `"1,5,10,-9" -> [1, 25, 100, 81]`
+    - Hint: `split()`
+20. Create a function that takes a string of the words "one" or "zero" and
+   returns a matching list of those words as integers.
+    - For example: `"one one zero one" -> [1, 1, 0, 1]`
