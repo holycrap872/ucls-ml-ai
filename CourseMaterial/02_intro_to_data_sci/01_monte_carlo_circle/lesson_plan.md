@@ -9,7 +9,7 @@ In this lesson, students are introduced to randomness. This lesson really kicks
 off the "data science" unit in earnest. Students will see how good data can
 lead to interesting/useful conclusions. Care will be taken to: 
 1. Separate data generation from analysis
-2. Prepare students for working with pre-prepared data
+2. Prepare students for working with pre-generated data
 3. Appreciate how large quantities of data improve outcomes
 4. Appreciate how the speed/power of computers opens up new avenues for analysis
 
@@ -41,6 +41,9 @@ lead to interesting/useful conclusions. Care will be taken to:
         - Plan out/discuss together
     - Show code and run
     - That's calculus!
+- Have students draw a figure and estimate value
+    - What variables are you keeping track of
+    - What is the final calculation you're doing?
 - Today going to calculate the area of a circle using the Monte Carlo method
     - How would we do this?
         - Plan out/discuss together
