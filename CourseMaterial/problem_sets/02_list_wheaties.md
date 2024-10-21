@@ -42,11 +42,14 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
    integer. The function will the return True/False as to whether the single
    integer is in the list.
     - For example: `[1, 3, 5], 4 -> False`
-8. Create a function that takes a list of integers as an input and then returns
-   the second largest integer in the input list.
-9. Create a function that takes a list of strings as an input and then returns
-   whether the input list contains any duplicate elements.
-    - Hint: A loop in a loop
+8. Create a function that takes a list of **non-repeating** integers as an input
+   and then returns the second largest integer in the input list.
+    - For example: `[1, 3, 2, 5] -> 3`
+    - Hint: Sorting really helps
+9. Create a function that takes **two inputs**: a list of integers and a single
+   integer. The function will count the number of times that the given integer
+   appears in the input list.
+    - For example: `[1, 3, 5], 4 -> 0`
 10. Create a function that takes **two inputs**: a list of integers and a second
    list of integers as inputs and then returns a single list containing all
    elements that are in **only one** of the two input lists.
@@ -91,3 +94,6 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
 20. Create a function that takes a string of the words "one" or "zero" and
    returns a matching list of those words as integers.
     - For example: `"one one zero one" -> [1, 1, 0, 1]`
+21. Create a function that takes a list of strings as an input and then returns
+   whether the input list contains any duplicate elements.
+    - Hint: A loop in a loop
