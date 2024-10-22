@@ -19,9 +19,11 @@ files.
 ### Setup
 
 - YouTube video loaded up
-    - Monte Carlo method: https://youtu.be/7ESK5SaP-bc?si=HMfKcjuDAKW5swWD
-- Shared GoogleSheets document
+    - Monte Carlo method: https://youtu.be/7ESK5SaP-bc?si=UuuSXWkl5mz-Vm8K&t=62
+- `random_numbers` GoogleSheets loaded up on Schoology
     - Example: https://docs.google.com/spreadsheets/d/1rZF7eaJ3Np48jKJZtIz--8izfXJX9h4vAvajOEZcb4Y
+    - Make sure anyone at Lab can see it
+    - Make sure it's in Editor mode for all
 - "Class Randomness" worksheet loaded up on Schoology
     - Structured: https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws
     - Unstructured: https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI
@@ -34,34 +36,30 @@ files.
     - What was easy?
     - What was hard?
     - What did the lesson show?
+        - Importance of lots of data
     - Show YouTube video
-        - https://youtu.be/7ESK5SaP-bc?si=HMfKcjuDAKW5swWD
+        - https://youtu.be/7ESK5SaP-bc?si=UuuSXWkl5mz-Vm8K&t=62
         - How does this relate to what we just did?
-- Opening problem (as a class):
-    - Newline character
-    - Parse/analyze two-row data string: "1,2,3\n4,5,6"
-        - Get out the first row
-        - Get out the second row
-        - Get out the first row, third column
+- Code review
+    - Spin the wheel!
 - Randomness talk
     - Random is hard
     - Humans are really bad at random
     - Random is important for things like Monte Carlo
 - Today going to see how hard randomness is
-    - Have everyone open a google sheet and put in 50 numbers between 0-9 (inclusive)
+    - Have everyone open a google sheet and put in 40 numbers between 0-9 (inclusive)
     - Show everyone how to download that as a .csv file
     - Open the file and parse it
-        1. Manually (parse on new lines and ",")
-- Graph:
-    - Bar chart of even/odds
-- Split up into pairs
+        - What are the delimiters?
+        - Manually (parse on "\n" and ",")
+- "Pick the worksheet that works for you"
     - Pick structured/unstructured
     - Talk through worksheet
 - Go!
 
 #### Homework
 
-- None
+- Python List Wheaties 14 - 16
 
 #### Day 2
 
@@ -82,7 +80,7 @@ files.
 
 #### Homework
 
-- None (or finish if didn't)
+- Python List Wheaties 17 - 20
 
 ### Resources
 

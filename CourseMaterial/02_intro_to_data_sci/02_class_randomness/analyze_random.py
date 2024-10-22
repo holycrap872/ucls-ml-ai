@@ -48,12 +48,12 @@ def scatter_numbers(numbers: typing.List[int]) -> None:
         y_list.append(numbers[i + 1])
 
     plots.figure(figsize=(6, 6))
-    plots.scatter(x=x_list, y=y_list)
+    plots.scatter(x=x_list, y=y_list, alpha=1.0)
     plots.show()
 
 
 if __name__ == "__main__":
-    numbers = read_file("./CourseMaterial/01_intro_to_data_sci/07_class_randomness/random.csv")
+    numbers = read_file("./CourseMaterial/02_intro_to_data_sci/02_class_randomness/random.csv")
 
     count_list = []
     labels = []
