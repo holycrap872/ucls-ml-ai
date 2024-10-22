@@ -35,3 +35,4 @@ print(num_in_circle)
 ### Homework
 
 - TIL entry on `random.random()`
+- Python List Wheaties 11 - 13
