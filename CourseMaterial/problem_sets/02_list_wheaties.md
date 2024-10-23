@@ -81,10 +81,10 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
 17. Create a function that takes a list of integers as an input and returns the
    longest sequence of **consecutive numbers** in the list.
     - For example: `[1, 2, 3, 5, 6, 7, 8, 10] -> [5, 6, 7, 8]`
-18. Create a function that takes a string containing comma-separated values
-   (CSV) data and returns a list of lists, where each inner list represents a
+18. Create a function that takes a string containing tab-separated values
+   (TSV) data and returns a list of lists, where each inner list represents a
    row of data.
-    - For example: `"100,88\n1,2\n3,62" -> [[100, 88], [1, 2], [3, 62]]`
+    - For example: `"100\t88\n1,2\n3\t62" -> [[100, 88], [1, 2], [3, 62]]`
     - Hint: use `split()` two times
 19. Create a function that takes a string of numbers separated by commas as an
    input and returns a list of integers such that each of those numbers is
