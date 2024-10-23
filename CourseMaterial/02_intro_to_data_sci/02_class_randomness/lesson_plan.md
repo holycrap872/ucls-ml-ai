@@ -66,11 +66,13 @@ files.
 
 - Review
     - What is randomness?
+    - What is parsing?
     - Why is it hard?
-- Go over previous problem
-    - Pick person and discuss
-    - Edit code so don't use `count_even`/`count_odd` variables but instead use 2-element array
-        - Counter map
+- Class code (MUST DO!!!)
+    - Parsing CSV string
+        - Write tests first
+        - Why are types useful?
+        - Acculator in an accumulator
 - Classwork:
     - Bar chart of total number of each number
     - Scatter plot of consecutive pairs of numbers
@@ -82,6 +84,21 @@ files.
 #### Homework
 
 - Python List Wheaties 17 - 19
+
+#### Day 3
+
+- Review
+    - What was easy?
+    - What was hard?
+- Code Review
+    - Spin the wheel
+    - Doing code review because can talk about problem 18 (parsing .tsv)
+- Discuss various coding parts of worksheet
+- Go!
+
+#### Homework
+
+- TIL entry on `matplotlib.scatter`
 
 ### Extensions
 
