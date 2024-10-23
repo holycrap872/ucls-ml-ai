@@ -60,6 +60,7 @@ files.
 #### Homework
 
 - Python List Wheaties 14 - 16
+- TIL entry of "CSV" files
 
 #### Day 2
 
@@ -80,9 +81,9 @@ files.
 
 #### Homework
 
-- Python List Wheaties 17 - 20
+- Python List Wheaties 17 - 19
 
-### Resources
+### Extensions
 
 - Maybe do an experiment on the "hot hand"
     - https://nautil.us/the-hot-hand-is-not-a-myth-643539
