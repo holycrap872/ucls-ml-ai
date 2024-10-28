@@ -100,6 +100,24 @@ files.
 
 - TIL entry on `matplotlib.scatter`
 
+#### Day 4
+
+- Review
+- Class coding
+    - Create a function that:
+        - Each consecutive pair in the input is represented in the same index of the two return lists
+        - Takes a list of integers as an input
+            - [2, 6, 1, 8]
+        - Returns two list of integers
+            - [2, 6, 1]
+            - [6, 1, 8]
+- Finish class worksheet
+    - Due at beginning of next class
+
+#### Homework
+
+- Python List Wheaties 20 - 22
+
 ### Extensions
 
 - Maybe do an experiment on the "hot hand"

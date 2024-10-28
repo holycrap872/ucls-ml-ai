@@ -94,6 +94,9 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
 20. Create a function that takes a string of the words "one" or "zero" and
    returns a matching list of those words as integers.
     - For example: `"one one zero one" -> [1, 1, 0, 1]`
-21. Create a function that takes a list of strings as an input and then returns
+21. Create a function that takes a list of integers and returns the difference
+   between the smallest and the largest elements.
+    - For example: `[3, -2, 10, 7, 0, -1] -> 12`
+22. Create a function that takes a list of strings as an input and then returns
    whether the input list contains any duplicate elements.
     - Hint: A loop in a loop
