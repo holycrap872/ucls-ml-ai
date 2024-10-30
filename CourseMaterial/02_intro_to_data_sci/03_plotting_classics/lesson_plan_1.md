@@ -1,6 +1,7 @@
 ## Essential Questions
 
-- How can we create and display data from text?
+- How we capture and process data about text documents?
+- What are ways we can create knowledge about text documents?
 
 ## Lesson Plan
 
@@ -21,6 +22,7 @@ on the
 - `Plotting the Classics Worksheet` loaded up in Schoology
     - Structured: https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU
     - Unstructured: https://docs.google.com/document/d/1moe5tKclfZRDqqLJDJ15T6FumJchU9uUCZS8zAl1QhQ
+- `data_sci_template.py` loaded up
 
 ### Actual Lesson
 
@@ -29,21 +31,23 @@ on the
     - Randomness
     - Data quality
     - Parsing text
-- Data and AI
-    - Google Books
-    - Crawlers siphoning up all the data
-    - Data is the new oil
-- Text analysis
-    - Code normalization
-    - Newline character
-    - Helper functions
-- Coding as a data-analyst
+- Setup
+    - This worksheet will be analyzing books
+    - Trying to "extract knowledge" from them
+- Coding as a data-scientist
     - Answer question via print
     - Move onto next question
     - Show an example of:
         - creating a helper function to read in a the text of a book
         - creating a function to answer questions about the book
         - commenting out stuff as get answer
+- Show/discuss basic program template
+    - See `data_sci_template.py`
+    - Go through some sample questions from worksheet and answer them
+        - First character
+        - Last character
+    - How to use helper functions
+        - Code normalization
 - Today going to do an individual project
     - On Schoology
     - Emphasize mostly a review
