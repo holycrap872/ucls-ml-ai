@@ -18,7 +18,7 @@ lead to interesting/useful conclusions. Care will be taken to:
 - Paper and pencil so can simulate Monte Carlo method
 - Wikipedia page loaded so can see Monte Carlo simulation
     - https://en.wikipedia.org/wiki/Monte_Carlo_method
-- Monte Carlo Worksheet loaded up in Schoology
+- `Monte Carlo Worksheet` loaded up in Schoology
     - Structured: https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g
     - Unstructured: https://docs.google.com/document/d/1EEVFhbRojiaaFZse698KwxMyrZROzux8XKCbSIbfNRE
 
@@ -47,8 +47,12 @@ lead to interesting/useful conclusions. Care will be taken to:
 - Today going to calculate the area of a circle using the Monte Carlo method
     - How would we do this?
         - Plan out/discuss together
+        - Create pseudocode on the board for various functions
+            - `distance_from_origin()`
+            - `is_in_circle()`
 - Get started!
 
 ### Homework
 
-- None
+- TIL entry on `random.random()`
+- `Python List Wheaties` 8 - 10
