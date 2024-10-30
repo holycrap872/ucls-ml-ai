@@ -24,13 +24,11 @@ files.
     - Example: https://docs.google.com/spreadsheets/d/1rZF7eaJ3Np48jKJZtIz--8izfXJX9h4vAvajOEZcb4Y
     - Make sure anyone at Lab can see it
     - Make sure it's in Editor mode for all
-- "Class Randomness" worksheet loaded up on Schoology
+- `Class Randomness Worksheet` loaded up on Schoology
     - Structured: https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws
     - Unstructured: https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI
 
 ### Actual Lesson
-
-#### Day 1
 
 - Review
     - What was easy?
@@ -57,69 +55,7 @@ files.
     - Talk through worksheet
 - Go!
 
-#### Homework
+### Homework
 
-- Python List Wheaties 14 - 16
 - TIL entry of "CSV" files
-
-#### Day 2
-
-- Review
-    - What is randomness?
-    - What is parsing?
-    - Why is it hard?
-- Class code (MUST DO!!!)
-    - Parsing CSV string
-        - Write tests first
-        - Why are types useful?
-        - Acculator in an accumulator
-- Classwork:
-    - Bar chart of total number of each number
-    - Scatter plot of consecutive pairs of numbers
-    - Bonus `s=` parameter to determine size of scatterplot
-- Reflection
-    - What happens if used "random numbers" produced by humans instead of `random.random()`?
-    - Bonus: Go back and actually use them
-
-#### Homework
-
-- Python List Wheaties 17 - 19
-
-#### Day 3
-
-- Review
-    - What was easy?
-    - What was hard?
-- Code Review
-    - Spin the wheel
-    - Doing code review because can talk about problem 18 (parsing .tsv)
-- Discuss various coding parts of worksheet
-- Go!
-
-#### Homework
-
-- TIL entry on `matplotlib.scatter`
-
-#### Day 4
-
-- Review
-- Class coding
-    - Create a function that:
-        - Each consecutive pair in the input is represented in the same index of the two return lists
-        - Takes a list of integers as an input
-            - [2, 6, 1, 8]
-        - Returns two list of integers
-            - [2, 6, 1]
-            - [6, 1, 8]
-- Finish class worksheet
-    - Due at beginning of next class
-
-#### Homework
-
-- Python List Wheaties 20 - 22
-
-### Extensions
-
-- Maybe do an experiment on the "hot hand"
-    - https://nautil.us/the-hot-hand-is-not-a-myth-643539
-- Maybe do an experiment on monty hall problem
+- `Python List Wheaties` 14 - 16
