@@ -22,7 +22,7 @@ and why data interpretation is pivotal to ML/AI.
 
 - Reflection
     - What did we do last time?
-    - Spin the wheel for `problem_set_intro`
+    - What did people think about using the AI?
 - Today, going to work on graphing
     - Bar Charts:
         - https://xkcd.com/369/
@@ -39,20 +39,11 @@ and why data interpretation is pivotal to ML/AI.
     - Code someone else has written?
     - Super important to CS
 - Hand out cheat sheet
-- Show my code and discuss a bit
-    - See `funny_graphs.py`
-        - `matplotlib` library
-        - How to use pip install
-        - Amount of "funniness" may vary
-- How to interpret cheat sheet?
-- Move to desktop computers in lab
-    - Avoid library issues?
-    - Log into account
-    - Setup project
-        - Good refresher on what each thing is doing
-- Start working `Funny Graphys Worksheet`
+    - How to interpret cheat sheet?
+- Start working `Funny Graphy Worksheet`
     - Will complete graph next class
 
 ### Homework
 
 - `Python List Wheaties` 0 - 3
+- Two "Funny Graph" sketches on scratch paper
