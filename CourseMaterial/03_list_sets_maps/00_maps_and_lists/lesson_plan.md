@@ -7,6 +7,9 @@
 
 ### Setup
 
+- Schoology Assessment posted
+- `real_life_containers.docx` printed out
+
 ### Actual Lesson
 
 - Refresher
@@ -16,14 +19,21 @@
     - Discuss both the homework and git
 - New unit!
     - Data Structures: maps (dicts), sets, and lists
-- What do you remember about these?
-    - It's in Grok
+- What are data structures?
+    - Containers
+    - What do you remember about these?
+        - It's in Grok
 - Philosophy:
     - Only need these three data structures
     - Lists are ordered
     - Sets are existence
     - Dictionaries are relationships
     - All you need!
+- Syntax
+    - Lists
+    - Sets
+    - Maps
+    - Come up with example of each
 - Go through real life examples
     - School database -> dict
     - Birth order of family -> list
@@ -31,10 +41,13 @@
     - People waiting outside "da club" -> list
     - People inside "da club" -> set
     - Search engine -> dict
-- Do one example of each in Python
+    - Do one example of each in Python
 - Hand out worksheet and let do it for 10 minutes in pairs
     - Discuss when come back
+- Power of Dictionaries
+    - Can basically represent all the others
+    - Not _quite_ perfect (e.g., pop), but pretty good
 
 ## Homework
 
-- TIL entry about syntax/purpose of each data structure
+- Schoology Assessment on Sets/Lists/Maps

@@ -12,7 +12,8 @@ Cheat sheet printed out
 ### Actual Lesson
 
 - Reflection
-    - What is a datastructure?
+    - What is a data structure?
+        - container
     - Maps, sets, lists
     - Discuss worksheet
         - Presidents of the United States
@@ -55,6 +56,7 @@ Cheat sheet printed out
 ### Homework
 
 - Problems 0-5 of Python Data Structures Wheaties
+- TIL entry about syntax/purpose of each data structure
 
 ### Possible Extensions
 
