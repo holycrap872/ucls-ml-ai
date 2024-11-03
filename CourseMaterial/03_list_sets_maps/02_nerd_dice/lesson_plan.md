@@ -22,4 +22,4 @@
 
 ### Homework
 
-TIL entry on graphing
+- Problems 0-5 of Python Data Structures Wheaties

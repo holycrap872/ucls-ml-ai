@@ -55,7 +55,7 @@ Cheat sheet printed out
 
 ### Homework
 
-- Problems 0-5 of Python Data Structures Wheaties
+- Schoology Assessment
 - TIL entry about syntax/purpose of each data structure
 
 ### Possible Extensions
