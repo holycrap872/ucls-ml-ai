@@ -7,7 +7,8 @@
 
 ### Setup
 
-Cheat sheet printed out
+- Schoology Assessment posted
+- `data_structures_cheat_sheet.docx` printed out
 
 ### Actual Lesson
 
@@ -44,11 +45,11 @@ Cheat sheet printed out
             - `for _ in _`
             - `for _ in _.items()`
 - What do you see/notice about this?
-    - All containers are access pretty similarly
+    - All containers are accessed pretty similarly
 - Do problems together as if part of data structure wheaties:
     - Go to in git and make sure nothing is there
     - Find smallest key **without sort()**
-    - Function that takes a list of ints and returns a "count dict"
+    - Function that takes a list of integers and returns a "count dict"
         - Counting is incredibly common
         - Do words in a sentence together
 - Get started on homework
