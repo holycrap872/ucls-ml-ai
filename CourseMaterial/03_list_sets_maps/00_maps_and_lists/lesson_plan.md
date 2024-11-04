@@ -12,11 +12,11 @@
 
 ### Actual Lesson
 
-- Refresher
-    - What does "the perfect setup" look like
-        - shell, vscode, and ChatGPT open
-    - Show someone's homework on git
-    - Discuss both the homework and git
+- Review
+    - Graphing
+    - Data scientist way of programming
+    - Accumulators
+    - Any questions?
 - New unit!
     - Data Structures: maps (dicts), sets, and lists
 - What are data structures?
@@ -34,19 +34,23 @@
     - Sets
     - Maps
     - Come up with example of each
-- Go through real life examples
-    - School database -> dict
-    - Birth order of family -> list
-    - Books a library has -> set
-    - People waiting outside "da club" -> list
-    - People inside "da club" -> set
-    - Search engine -> dict
-    - Do one example of each in Python
-- Hand out worksheet and let do it for 10 minutes in pairs
+- Go through real life example to set up worksheet
+    - Library where tracking number of copies of books
+        - What type: dict[str, int]
+        - Example: books = {"Little Women": 5, "Great Gatsby": 3}
+    - People waiting outside "da club"
+        - list[str]
+    - People inside "da club"
+        - set[str]
+- Hand out worksheet and let do it for 15 minutes in pairs
+    - Stop half-way through and ask about what they tough decisions are
+        - Ordered?
+        - Duplicates?
+        - Relationship?
     - Discuss when come back
+        - Note: index of a book problem (dict[str, int]) from my first job interview
 - Power of Dictionaries
     - Can basically represent all the others
-    - Not _quite_ perfect (e.g., pop), but pretty good
 
 ## Homework
 

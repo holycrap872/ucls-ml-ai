@@ -33,7 +33,7 @@ Right:
 5. Which data structure would best represent the following situation: How often each student has been to class.
 - Same options as above
 
-6. Which data structure would best represent the following situation: The name of your siblings.
+6. Which data structure would best represent the following situation: The names of your siblings.
 - Same options as above
 
 7. Why can you create a set with elements in it using curly brackets (e.g., `x = {1, 2, 3}` ) but you can't create and empty set using curly brackets (e.g., `x = {}` )
