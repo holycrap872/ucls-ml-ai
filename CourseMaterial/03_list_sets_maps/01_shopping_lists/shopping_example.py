@@ -3,7 +3,7 @@
 
 def list_grocery_list() -> None:
     gl = ["apple", "pear", "ice cream"]
-    print("List grocery list" + str(gl))
+    print("List grocery list:", gl)
 
 
 def set_grocery_list() -> None:
@@ -16,5 +16,5 @@ def dict_grocery_list() -> None:
 
 if __name__ == "__main__":
     list_grocery_list()
-    set_grocery_list()
-    dict_grocery_list()
+    # set_grocery_list()
+    # dict_grocery_list()

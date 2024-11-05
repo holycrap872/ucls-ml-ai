@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Schoology Assessment posted
+- `Data Structure Basics` Schoology Assessment posted
 - `real_life_containers.docx` printed out
 
 ### Actual Lesson
@@ -38,10 +38,6 @@
     - Library where tracking number of copies of books
         - What type: dict[str, int]
         - Example: books = {"Little Women": 5, "Great Gatsby": 3}
-    - People waiting outside "da club"
-        - list[str]
-    - People inside "da club"
-        - set[str]
 - Hand out worksheet and let do it for 15 minutes in pairs
     - Stop half-way through and ask about what they tough decisions are
         - Ordered?
@@ -49,8 +45,6 @@
         - Relationship?
     - Discuss when come back
         - Note: index of a book problem (dict[str, int]) from my first job interview
-- Power of Dictionaries
-    - Can basically represent all the others
 
 ## Homework
 

@@ -17,9 +17,11 @@ confidence after a series of tough/intense classes.
 - Review
     - Lists, sets, maps
     - Have them read/talk about `javascript_sets` blog post
-    - Reinforce common "dictionary count" pattern
 - Critique a TIL
-- Talk about 9th grade class to see what they thought about it
+- Class coding
+    - "dictionary count" pattern
+- Power of Dictionaries
+    - Can basically represent all the others
 - Work on problems 0 - 7
 
 ## Homework
