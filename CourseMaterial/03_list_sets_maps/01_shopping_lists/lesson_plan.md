@@ -57,7 +57,7 @@
 ### Homework
 
 - Schoology Assessment
-- TIL entry about syntax/purpose of each data structure
+- TIL entry about five methods of the `dict` data structure
 
 ### Possible Extensions
 
