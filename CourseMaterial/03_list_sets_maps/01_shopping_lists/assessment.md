@@ -4,7 +4,7 @@
 - Iterating through the items via `for elem in list:`
 - Determining if the list has an element via `elem in list`
 - QUICKLY determining if the list has an element via `elem in list`
-- Getting the data associated with an element via `list[elem]`
+- Getting the data related to an element via `list[elem]`
 
 2. Select the **four** capabilities the `set` data structure has:
 - Same options as above

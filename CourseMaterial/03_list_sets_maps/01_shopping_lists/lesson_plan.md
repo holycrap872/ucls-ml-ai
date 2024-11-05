@@ -21,11 +21,9 @@
         - Presidents of the United States
         - Keywords in a book
         - "In da club" vs. "waiting to get in da club"
-- Power of dictionaries:
-    - Dictionaries as objects
-    - Do people as dictionaries
-        - `eric = {"profession": "teacher", "location": "chicago"}`
-    - Stress that's why they're so powerful
+- Today going to learn the basic operations of lists/sets/maps
+    - Important to pay close attention
+    - Because paying close attention, will get 5m break
 - Encode a shopping list as list, set, map
     - Hand out cheat sheet -> Have them fill out as they go
     - Do each container (see `list_set_map_ex.py`):
@@ -33,20 +31,25 @@
             - `append`
             - `pop(index)`
             - `in`
+            - `len`
             - `for _ in _`
         - Set
             - `add`
             - `remove(item)`
             - `in`
+            - `len`
             - `for _ in _`
         - Dict
             - `[]`
             - `.pop(key)`
             - `in`
+            - `len`
             - `for _ in _`
-            - `for _ in _.items()`
 - What do you see/notice about this?
     - All containers are accessed pretty similarly
+- Break
+    - Very boring
+    - 5m because of your attention
 - Do problems together as if part of data structure wheaties:
     - Go to in git and make sure nothing is there
     - Find smallest key **without sort()**
@@ -54,6 +57,7 @@
         - Counting is incredibly common
         - Do words in a sentence together
 - Get started on homework
+    - **DO FIRST PROBLEM** of assessment together to explain what each option means
 
 ### Homework
 

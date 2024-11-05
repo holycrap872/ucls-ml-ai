@@ -22,14 +22,14 @@ and then write at **least two unit tests** in the
    an input and returns a set of all of the dictionary's **values**.
     - **Do not** use the `.values()` function.
     - For example: `{1: 5, 6: 3} -> {5, 3}`
-2. Create a function that takes a list of integers (even in length) and returns
-   a dictionary where each even indexed element maps to the following, odd
-   indexed element.
-    - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
-3. Create a function that takes two lists of equal size as inputs and returns a
+2. Create a function that takes two lists of equal size as inputs and returns a
    dictionary where each element of the first list points to the corresponding
    element in the second list.
     - For example: `[1, 2, 3], ["a", "b", "c"] -> {1: "a", 2: "b", 3: "c"}`
+3. Create a function that takes a list of integers (even in length) and returns
+   a dictionary where each even indexed element maps to the following, odd
+   indexed element.
+    - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
 4. Create a function that takes a sentence as an input and returns a set of all
    of the characters in the sentence.
    - For example: `"hey there" -> {"h", "e", "y", "t", "h", "r"}`

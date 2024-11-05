@@ -22,4 +22,4 @@
 
 ### Homework
 
-- Problems 0-5 of Python Data Structures Wheaties
+- Problems 7 - 9 of Python Data Structures Wheaties

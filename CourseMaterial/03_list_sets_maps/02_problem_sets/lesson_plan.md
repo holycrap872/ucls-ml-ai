@@ -17,14 +17,20 @@ confidence after a series of tough/intense classes.
 - Review
     - Lists, sets, maps
     - Have them read/talk about `javascript_sets` blog post
+        - Languages are similar
+            - Remember from beginning of class
+        - Thoughts on syntax
 - Critique a TIL
 - Class coding
     - "dictionary count" pattern
-- Power of Dictionaries
-    - Can basically represent all the others
-- Work on problems 0 - 7
+- Power of dictionaries:
+    - Dictionaries as objects
+    - Do people as dictionaries
+        - `eric = {"profession": "teacher", "location": "chicago"}`
+    - Stress that's why they're so powerful
+- Work on problems 0 - 6
 
 ## Homework
 
 - TIL entry about five methods of the `set` data structure
-- Problems 0 - 7 of Data Structure Wheaties
+- Problems 0 - 6 of Data Structure Wheaties
