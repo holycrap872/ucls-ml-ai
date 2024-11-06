@@ -1,6 +1,7 @@
 ## Essential Questions
 
-- 
+- How do we interact with different data "built in" data structures?
+- How are lists, dictionaries, and sets useful abstractions?
 
 ### Lesson Plan
 
@@ -10,17 +11,14 @@ confidence after a series of tough/intense classes.
 ### Setup
 
 - Data Structure Wheaties published to Schoology
-- `javascript_sets.docx` printed out
 
 ### Actual Lesson Plan
 
 - Review
     - Lists, sets, maps
-    - Have them read/talk about `javascript_sets` blog post
-        - Languages are similar
-            - Remember from beginning of class
-        - Thoughts on syntax
+    - Speed of accessing various types of structures
 - Critique a TIL
+    - Spin the wheel!
 - Class coding
     - "dictionary count" pattern
 - Power of dictionaries:
@@ -32,5 +30,5 @@ confidence after a series of tough/intense classes.
 
 ## Homework
 
-- TIL entry about five methods of the `set` data structure
+- TIL entry about four methods of the `set` data structure
 - Problems 0 - 6 of Data Structure Wheaties
