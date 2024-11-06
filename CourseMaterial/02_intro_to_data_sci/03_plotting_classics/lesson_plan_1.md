@@ -17,7 +17,7 @@ on the
 - Two novels loaded up in Schoology
     - _The Great Gatsby_
     - _Little Women_
-    - Both novels having keywords "CHAPTER-ONE", "CHAPTER-TWO", ... replacing existing chapter delimiters
+    - Both novels having keyword "START_CHAPTER", ... replacing existing chapter delimiters
         - Allows students to more easily parse
 - `Plotting the Classics Worksheet` loaded up in Schoology
     - Structured: https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU
