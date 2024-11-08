@@ -31,4 +31,4 @@ confidence after a series of tough/intense classes.
 ## Homework
 
 - TIL entry about four methods of the `set` data structure
-- Problems 0 - 6 of Data Structure Wheaties
+- Problems 0 - 5 of Data Structure Wheaties

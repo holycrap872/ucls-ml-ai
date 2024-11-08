@@ -34,4 +34,4 @@
 
 ### Homework
 
-- Problems 7 - 9 of Python Data Structures Wheaties
+- Problems 6 - 8 of Python Data Structures Wheaties
