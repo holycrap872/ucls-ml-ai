@@ -7,9 +7,10 @@
 
 ### Setup
 
+- Bunch of dice of various "sided-ness"
 - `Nerd Dice Worksheet` posted to Schoology
     - Structured: https://docs.google.com/document/d/1lto9_vbNkReZaGUywDaO9YWiVxrXTeqs5PLshjJuYoo
-    - Unstructured: PENDING
+    - Unstructured: https://docs.google.com/document/d/1e9xWAlFcYCFBPapMjFKRzXOiDaptUdPo_Iq3KRK2y2w
 
 
 ### Actual Lesson
@@ -24,7 +25,11 @@
 - Code Review
     - Spin the wheel
 - Explain nerd dice
-    - Break down into pieces as a class
+    - Roll some dice and add them together
+    - Explain the problem
+    - Break down the pieces as a class
+        - Useful functions
+        - Important part of design is figuring out good "helper functions"
     - "Where can you look if you forget how graphing works?"
         - Previous examples
         - _Always_ look at previous examples
