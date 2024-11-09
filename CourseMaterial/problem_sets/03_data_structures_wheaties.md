@@ -52,6 +52,7 @@ and then write at **least two unit tests** in the
     - For example: `"my my well well" -> {"my", "well"}`
 10. Create a function that takes two sets of integers as an input and returns a
     boolean of whether the first set is a "subset" of the second set.
+    - Note: set `a` is subset of set `b` if every element in `a` is also in `b`.
     - **Do not** use the `.issubset()` function.
     - For example: `{1, 4}, {1, 4, 10} -> True`
 11. Create a function that takes list of integers and returns a dictionary
