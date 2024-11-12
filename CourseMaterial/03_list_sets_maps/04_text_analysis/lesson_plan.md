@@ -7,7 +7,9 @@
 
 ### Setup
 
-Print out text analysis sheet
+- `Text Analysis Worksheet` posted to Schoology
+    - Structured:
+    - Unstructured: https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I
 
 ### Actual Lesson
 
