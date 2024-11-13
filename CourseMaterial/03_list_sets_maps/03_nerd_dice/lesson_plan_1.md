@@ -24,7 +24,8 @@
     - Reflections on objects/dictionaries
 - Code Review
     - Spin the wheel
-- Explain nerd dice
+- Explain Nerd Dice
+    - See `nerd_dice_solution.py` for refresher
     - Roll some dice and add them together
     - Explain the problem
     - Break down the pieces as a class
@@ -33,7 +34,6 @@
     - "Where can you look if you forget how graphing works?"
         - Previous examples
         - _Always_ look at previous examples
-    - See `nerd_dice.py`
 - Give them time to read the worksheet
 - Go!
 
