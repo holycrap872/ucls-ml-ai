@@ -7,15 +7,22 @@
 
 ### Setup
 
+- Solution associated with "Nerd Dice" lesson printed out so students can analyze it
+    - `nerd_dice_solution.py`
 - `Text Analysis Worksheet` posted to Schoology
-    - Structured:
-    - Unstructured: https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I
+    - Structured: https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I
+    - Unstructured:
 
 ### Actual Lesson
 
 - Reflection
     - When to use sets/maps/lists?
     - What is a count dict?
+- Code discussion
+    - Hand out _my_ solution for "Nerd Dice" worksheet: `nerd_dice_solution.py`
+    - Discuss
+        - 2 things you're happy you did the same as me
+        - 2 things you wish you had done
 - Sets
     - intersection
     - union
