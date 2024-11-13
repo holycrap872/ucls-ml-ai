@@ -1,0 +1,5 @@
+- 8 roles AI can take on
+    - Get document from Brian Hewlett
+- Discuss how AI did on the problems
+- Come up with prompts to have it teacher (rather than answer)
+- Test out prompts
