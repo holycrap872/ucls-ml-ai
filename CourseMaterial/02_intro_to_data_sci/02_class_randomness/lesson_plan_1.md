@@ -20,6 +20,9 @@ files.
 
 - YouTube video loaded up
     - Monte Carlo method: https://youtu.be/7ESK5SaP-bc?si=UuuSXWkl5mz-Vm8K&t=62
+- Solution associated with "Monte Carlo Circle" lesson printed out so students can analyze it
+    - `monte_circle_1.py`
+    - TODO: Double check it's at the appropriate level of difficulty
 - `random_numbers` GoogleSheets loaded up on Schoology
     - Example: https://docs.google.com/spreadsheets/d/1rZF7eaJ3Np48jKJZtIz--8izfXJX9h4vAvajOEZcb4Y
     - Make sure anyone at Lab can see it
@@ -38,8 +41,9 @@ files.
     - Show YouTube video
         - https://youtu.be/7ESK5SaP-bc?si=UuuSXWkl5mz-Vm8K&t=62
         - How does this relate to what we just did?
-- Code review
-    - Spin the wheel!
+- Code discussion
+    - Hand out _my_ solution for "Monte Carlo Circle" worksheet: `monte_circle_1.py`
+    - Discuss
 - Randomness talk
     - Random is hard
     - Humans are really bad at random

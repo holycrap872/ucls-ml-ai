@@ -7,6 +7,9 @@
 
 ### Setup
 
+- Solution associated with Class Randomness lesson printed out so students can analyze it
+    - `plotting_classics_solution.py`
+    - TODO: Double check it's at the appropriate level of difficulty
 - `Data Structure Basics` Schoology Assessment posted
 - `real_life_containers.docx` printed out
 
@@ -17,6 +20,9 @@
     - Data scientist way of programming
     - Accumulators
     - Any questions?
+- Code discussion
+    - Hand out _my_ solution for "Class Randomness" worksheet: `plotting_classics_solution.py`
+    - Discuss
 - New unit!
     - Data Structures: maps (dicts), sets, and lists
 - What are data structures?
