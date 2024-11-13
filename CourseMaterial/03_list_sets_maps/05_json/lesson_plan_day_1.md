@@ -5,15 +5,24 @@
 
 ## Lesson Plan
 
-#### Day 1
+### Setup
+
+- Solution associated with "Text Analysis" lesson printed out so students can analyze it
+    - `text_analysis_solution.py`
+    - TODO: Double check it's at the appropriate level of difficulty
+
+### Actual Lesson
 
 - Reflection
     - Things that were easy/hard about the text analysis
-    - Show my Jaccardian analysis
     - Role of data in the text analysis
         - What if you didn't remove the Project Gutenberg header/footer?
         - What if you didn't use different authors?
         - How could we make it more accurate?
+- Code discussion
+    - Hand out _my_ solution for "Text Analysis" worksheet: `text_analysis_solution.py`
+    - Discuss
+    - Show my Jaccardian analysis
 - Today going to talk about JSON
     - In many ways the communication language of the internet
 - Show grok: 
@@ -54,45 +63,6 @@
 - Go!
     - `color_outputter.py`
 
-#### Day 2
-
-- Review
-    - JSON
-    - Show someone's TIL entry and discuss
-- JSON serialization/deserialization
-    - How would I output json another thing can use
-    - Show can't just print out a dictionary
-    - Dumps
-    - Verify correct using a json formatter
-        - What language is json formatter in?
-        - Doesn't matter... language agnostic
-- Emoji Outputter
-    - Review
-    - Come up with key functions
-    - Return type is `typing.Dict[str, typing.List[str]]`
-- Go!
-
-#### Day 3
-
-- Review
-    - Getting pytest to run on your computer
-        - pwd
-        - export PYTHONPATH
-        - pytest
-        - ctrl-r
-    - JSON serialize/deserialize
-- Emoji Deserializer
-    - Review
-- Emoji Serializer task
-    - Read text file
-    - Convert to dictionary
-    - Print JSON
-- As a class, come up with key functions
-    - Have them think and write down two useful functions first
-- Classwork
-    - Design your own EmojiPic
-    - Encode it and dump it
-
 ### Homework
 
 - Data structures 13-14 (only b/c I don't see them until Monday)
@@ -104,3 +74,4 @@
     - JSON of scrabble words
 - Pydantic validator
     - Starting to edge towards objects
+- JSON Bingo cards
