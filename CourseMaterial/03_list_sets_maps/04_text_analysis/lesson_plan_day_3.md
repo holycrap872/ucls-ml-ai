@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- When are lists, sets, or maps most effective?
+- Why are sets such a powerful mathematical concept?
 - How can we use data to make predictions?
 
 ## Lesson Plan
