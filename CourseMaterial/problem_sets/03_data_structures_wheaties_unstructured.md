@@ -22,13 +22,13 @@ and then write at **least two unit tests** in the
    an input and returns a set of all of the dictionary's **values**.
     - **Do not** use the `.values()` function.
     - For example: `{1: 5, 6: 3} -> {5, 3}`
-2. Create a function that takes two lists of equal size as inputs and returns a
-   dictionary where each element of the first list points to the corresponding
+2. Create a function that takes two lists of **equal size** as inputs and returns
+   a dictionary where each element of the first list points to the corresponding
    element in the second list.
     - For example: `[1, 2, 3], ["a", "b", "c"] -> {1: "a", 2: "b", 3: "c"}`
-3. Create a function that takes a list of integers (even in length) and returns
-   a dictionary where each even indexed element maps to the following, odd
-   indexed element.
+3. Create a function that takes an **even-length** list of integers and returns
+   a dictionary where each even-indexed element maps to the following,
+   odd-indexed element.
     - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
 4. Create a function that takes a sentence as an input and returns a set of all
    of the characters in the sentence.
@@ -80,8 +80,8 @@ and then write at **least two unit tests** in the
     non-repeated character in the string.
     - Hint: use a function you created for an earlier problem in this sheet
     - For example: `"good gosh" -> "d"`
-18. Create a function that takes a list as an input and then returns a boolean
-    of whether there are duplicates in the list.
+18. Create a function that takes a list of integers as an input and then returns
+    a boolean of whether there are duplicates in the list.
     - For example: `[5, 6, 7, 4, 5] -> True`
 19. Create a function that takes a list of strings as an input and returns a
     list containing the reverse of each string.
@@ -90,7 +90,7 @@ and then write at **least two unit tests** in the
     set of integers that is the intersection of the two sets.
     - **Do not** use the `intersection()` function.
 21. Create a function that takes a list of integers as an input and returns a
-    list which is a version of the original list but without any duplicates. The
+    list that is a version of the original list, but without any duplicates. The
     order or the elements from the original list should be preserved.
     - For example: `[4, 5, 4, 4, 1, 2, 5] -> [4, 5, 1, 2]`
 22. Create a function that takes two lists of integers as inputs and returns the
@@ -100,3 +100,4 @@ and then write at **least two unit tests** in the
     as an input and then returns the value for the nested key. If the complex key
     doesn't lead to anything, have it return the empty string.
     - For example: `{"a": {"b": {"c": "d"}}}, "a/b/c" -> "d"`
+    - For example: `{"a": {"b": {"c": "d"}}}, "a/h/i" -> ""`
