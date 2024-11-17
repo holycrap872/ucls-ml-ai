@@ -59,5 +59,5 @@
 
 ### Homework
 
-- TIL on set operations
+- TIL on set operations for comparing/analyzing **multiple** sets
 - Data Structure Wheaties 14 - 15
