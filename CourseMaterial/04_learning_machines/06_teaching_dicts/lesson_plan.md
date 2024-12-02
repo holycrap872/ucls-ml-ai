@@ -8,7 +8,9 @@
 ### Setup
 
 - `teaching_unit_rubric.docx` printed out
+    - **FIXME**: Switch to new format: 20m lecture followed by 1.5 day worksheet
 - `teaching_unit_classwork` loaded into a GoogleDoc so can be used by Schoology
+    - **FIXME**: Switch to new format: 20m lecture followed by 1.5 day worksheet
     - See docs.google.com/document/d/1QN2ZzzF7a1FtWHp7fPDfVh6ILfU1IY8j9WwwOpyVf8I
 
 ### Actual Lesson
@@ -21,12 +23,23 @@
     - Similarities
     - Differences
 - Setup up:
-    - The way Grok teaches dictionaries stinks
-    - Come up with a three day unit on topic of your choice for 9th grade
+    - The way `groklearning.com` teaches dictionaries stinks
+    - Come up with a two day unit on topic of your choice for 9th grade
         - Should be something you wished you had learned/spent more time on
+        - Create ~20m intro slides/activity and 1.5 day worksheet
+            - Short intro time because 9th graders lose interest quickly
+                - Give them the information they need and get out
+            - Worksheets to me are very creative
+                - Like a puzzle
+                - Trying to keep students interested/engaged throughout
+                    - Identify goal: memorization, excitement, appreciation
+            - Walk them through one of my worksheets as an example
+                - Scaffolding, blah blah blah
+                - Differentiation
+                - Reflection
+                - ... all the other stuff that I think is goo
     - Teaching progression and explain purpose of each element
     - Work in pairs
-    - Create worksheets/slides/whatever you need
 - Go over templates:
     - docs.google.com/document/d/1QN2ZzzF7a1FtWHp7fPDfVh6ILfU1IY8j9WwwOpyVf8I/edit
 - Go over rubric
@@ -37,4 +50,4 @@
 
 #### Homework
 
-Work on project
+- Work on project
