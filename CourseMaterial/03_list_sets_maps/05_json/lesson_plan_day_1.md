@@ -31,7 +31,7 @@
         - How could we make it more accurate?
 - Code discussion
     - Discuss
-        - What was easy hard
+        - What was easy/hard
         - Overall structure
         - Importance of helper functions
     - Build off my version (`text_analysis_partial.py`) in class

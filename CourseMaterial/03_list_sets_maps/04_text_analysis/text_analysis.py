@@ -57,7 +57,7 @@ def jaccard_similarity(base_book_paths: list[str], compare_book_path: str) -> fl
     return len(common_words.intersection(compare_book_words)) / len(common_words.union(compare_book_words))
 
 
-if __name__ == "__main__":
+def run_analysis() -> None:
     rb_word_list = normalize(open_file("CourseMaterial/data/robert_frost.txt"))
     print(f"Words in Robert Frost: {len(rb_word_list)}")
 
@@ -91,3 +91,7 @@ if __name__ == "__main__":
         "CourseMaterial/data/great_gatsby.txt",
     )
     print("Similarity to drama:", similarity_drama)
+
+
+if __name__ == "__main__":
+    run_analysis()
