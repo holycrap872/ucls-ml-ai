@@ -5,13 +5,21 @@
 
 ## Lesson Plan
 
+### Setup
+
+- Logged into AWS console so can create simple Lambda
+
 ### Actual Lesson
 
 - Review
     - JSON
     - Show someone's TIL entry and discuss
+- JSON in AWS
+    - Create simple Lambda
+        - Talk very high level about what's going on
+    - Create function that says `f"Hi there {name} from {location}"`
 - JSON serialization/deserialization
-    - How would I output json another thing can use
+    - How would I output JSON another thing can use
     - Show can't just print out a dictionary
     - Dumps
     - Verify correct using a json formatter

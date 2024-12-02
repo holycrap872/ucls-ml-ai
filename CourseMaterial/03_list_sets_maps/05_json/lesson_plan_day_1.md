@@ -1,38 +1,59 @@
 ## Essential Questions
 
-- What is json and why is it so prevalent?
-- How can json help us write more flexible programs?
+- What is JSON and why is it so prevalent?
+- How can JSON help us write more flexible programs?
 
 ## Lesson Plan
 
 ### Setup
 
-- Solution associated with "Text Analysis" lesson printed out so students can analyze it
-    - `text_analysis_solution.py`
-    - TODO: Double check it's at the appropriate level of difficulty
+- Solution associated with `Text Analysis Worksheet` printed out so students can analyze it
+    - `text_analysis_partial.py`
+- `groklearning.com` open on "student progress" tab
+    - `Web Developer Tools` open
+    - Student names hidden by making window small
+- `emoji_pics.zip` loaded up in Schoology
+    - `pic_0.json`: `color_flag.json`
+    - `pic_1.json`: `color_mario.json`
+    - `pic_2.json`: `color_turkey.json`
+    - `pic_3.json`: `color_whale.json`
 
 ### Actual Lesson
 
 - Reflection
-    - Things that were easy/hard about the text analysis
-    - Role of data in the text analysis
+    - Things that were easy/hard about `Text Analysis Worksheet`?
+    - Role of data in the analysis
         - What if you didn't remove the Project Gutenberg header/footer?
         - What if you didn't use different authors?
         - How could we make it more accurate?
 - Code discussion
-    - Hand out _my_ solution for "Text Analysis" worksheet: `text_analysis_solution.py`
     - Discuss
-    - Show my Jaccardian analysis
+        - What was easy hard
+        - Overall structure
+        - Importance of helper functions
+    - Build off my version (`text_analysis_partial.py`) in class
 - Today going to talk about JSON
     - In many ways the communication language of the internet
-- Show grok: 
+    - Way to send data structures between computers
+        - 1/0 -> Numbers (via binary)
+        - Numbers -> Letters (via ASCII)
+        - Letters -> Data structures (via JSON)
+- Show Grok: 
     - Go to URL: https://groklearning.com/dashboard/99895/students/#/assignments/?group=59221
         - Look in network for `student-data-batched` for student "objects"
         - Look in network for `student-assignment-data-batched/` for student progress "objects"
-    - Put in json formatter
+    - Put `student-assignment-data-batched/` in JSON formatter
+        - No identifiable information
         - What do you notice/wonder?
+        - Serialization and deserialization
+- Theory of JSON:
+    - Why is it so prevalent?
+        - Allows computers to share complex information
+    - Where are the sets?
 - JSON Demo
     ```python
+    import json
+
     def json_demo() -> None:
         received_json_dict_via_internet = '{"name": "eric", "job": "teacher"}'
 
@@ -51,27 +72,39 @@
     if __name__ == "__main__":
         json_demo()
     ```
-- Theory of JSON:
-    - Why is it so prevelent?
-    - Where are the sets?
-- Talk through emoji pics:
+- Today going to use JSON to share pictures (EmojiPics)
+    - Show EmojiPic flag and discuss what's going on
+        - Need to represent 8 colors
+    - Have them come up with their own file format
+        - Pros and cons
+        - How encode height/width?
+        - What do you remember from 9th grade about this?
+- Talk through my implementation of EmojiPics:
     - Talk through file format
-        - Have flag.json and pic side by side
-    - Key Functions
+        - Have `color_flag.json` and `color_flag.txt` side by side
+- Today going to create an EmojiPic printer
+    - Input: JSON
+    - Output: EmojiPic
+    - Key Functions?
+        - Advanced students can skip this part
         - encoding_to_emoji()
         - load_dict_from_file()
+    - Where to start?
+        - Advanced students can skip this part
+        - What should file look like?
 - Go!
-    - `color_outputter.py`
+    - My version at `emoji_pics/emoji_outputter.py`
 
 ### Homework
 
-- Data structures 13-14 (only b/c I don't see them until Monday)
+- Data structures 19 - 20
 - TIL on JSON
 
 ### Potential Extensions
 
-- Do JSON encode/decode together on screen
+- Do JSON serialize/deserialize together on screen
     - JSON of scrabble words
-- Pydantic validator
-    - Starting to edge towards objects
-- JSON Bingo cards
+- JSON Bingo
+    - Hand out bingo cards of the form `{"B": [5, 3, 6], ...}`
+    - Play manually for a round or two
+    - Create a program that takes in a JSON bingo card and allows user to play
