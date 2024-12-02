@@ -35,7 +35,7 @@ def load_picture(path: str) -> typing.Dict:
 
 
 def emoji_outputter() -> None:
-    encoded_picture = load_picture("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/flag.json")
+    encoded_picture = load_picture("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/color_turkey.json")
     output_picture(encoded_picture)
 
 

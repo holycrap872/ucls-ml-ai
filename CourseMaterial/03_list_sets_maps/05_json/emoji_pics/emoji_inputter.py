@@ -35,4 +35,4 @@ def emoji_inputter(emoji_pic_path: str) -> None:
 
 
 if __name__ == "__main__":
-    emoji_inputter("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/whale.txt")
+    emoji_inputter("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/color_mario.txt")
