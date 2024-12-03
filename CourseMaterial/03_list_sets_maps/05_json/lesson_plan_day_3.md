@@ -1,31 +1,33 @@
 ## Essential Questions
 
-- What is json and why is it so prevalent?
-- How can json help us write more flexible programs?
+- What is JSON and why is it so prevalent?
+- How can JSON help us write more flexible programs?
 
 ## Lesson Plan
+
+### Setup
+
+- `Python EmojiPics Worksheet` loaded up for discussion
+    - https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
 
 ### Actual Lesson
 
 - Review
-    - Getting pytest to run on your computer
-        - pwd
-        - export PYTHONPATH
-        - pytest
-        - ctrl-r
-    - JSON serialize/deserialize
-- Emoji Deserializer
-    - Review
-- Emoji Serializer task
-    - Read text file
-    - Convert to dictionary
-    - Print JSON
-- As a class, come up with key functions
-    - Have them think and write down two useful functions first
-- Classwork
-    - Design your own EmojiPic
-    - Encode it and dump it
+    - JSON
+    - EmojiPics
+- New things learned during worksheet?
+    - Bunch of different ways to solve the problem
+        - `print("", end="")`
+        - ...
+    - Perfect topics for TIL
+- Show 9th grade EmojiPics worksheet
+    - Similarities and differences
+    - Goal of the sheet
+    - Why I think it's a good worksheet
+- Continue with classwork
+    - If finish early, start homework
 
 ### Homework
 
-- 
+- TIL on topic of your choice
+- Finish `EmojiPics Worksheet`

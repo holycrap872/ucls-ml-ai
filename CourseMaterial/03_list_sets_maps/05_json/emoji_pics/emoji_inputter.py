@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 import json
-import typing
 
 
-def emoji_to_encoding(emoji: str) -> str:
+def emoji_to_bits(emoji: str) -> str:
     MAP = {
         "⬛": "000",
         "🟥": "100",
@@ -20,19 +19,24 @@ def emoji_to_encoding(emoji: str) -> str:
     return MAP[emoji]
 
 
-def emoji_inputter(emoji_pic_path: str) -> None:
-    ret = {}
-    with open(emoji_pic_path) as fp:
-        for line_num, line in enumerate(fp):
-            row = []
-            for emoji in line:
-                encoding = emoji_to_encoding(emoji)
-                if encoding:
-                    row.append(encoding)
-            ret[str(line_num)] = row
+def load_data_from_file(path: str) -> str:
+    with open(path, "r") as fp:
+        return fp.read()
+
+
+def output_json(data: str) -> None:
+    ret: dict[str, list[str]] = {}
+    for line_num, line in enumerate(data.split("\n")):
+        row: list[str] = []
+        for emoji in line:
+            encoding = emoji_to_bits(emoji)
+            if encoding:
+                row.append(encoding)
+        ret[str(line_num)] = row
 
     print(json.dumps(ret))
 
 
 if __name__ == "__main__":
-    emoji_inputter("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/color_mario.txt")
+    data = load_data_from_file("CourseMaterial/03_list_sets_maps/05_json/emoji_pics/color_mario.txt")
+    output_json(data)

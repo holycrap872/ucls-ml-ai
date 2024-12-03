@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- What is json and why is it so prevalent?
-- How can json help us write more flexible programs?
+- What is JSON and why is it so prevalent?
+- How can JSON help us write more flexible programs?
 
 ## Lesson Plan
 
@@ -14,23 +14,25 @@
 - Review
     - JSON
     - Show someone's TIL entry and discuss
+- Way to send data structures between computers
+    - 1/0 -> Numbers (via binary)
+    - Numbers -> Letters (via ASCII)
+    - Letters -> Data structures (via JSON)
 - JSON in AWS
     - Create simple Lambda
         - Talk very high level about what's going on
     - Create function that says `f"Hi there {name} from {location}"`
-- JSON serialization/deserialization
-    - How would I output JSON another thing can use
-    - Show can't just print out a dictionary
-    - Dumps
-    - Verify correct using a json formatter
-        - What language is json formatter in?
-        - Doesn't matter... language agnostic
+- Theory of JSON:
+    - Why is it so prevalent?
+        - Allows computers to share complex information
+    - Where are the sets?
 - Emoji Outputter
     - Review
     - Come up with key functions
-    - Return type is `dict[str, list[str]]`
+        - `bits_to_emoji()`
+        - `load_dict_from_file()`
 - Go!
 
 ### Homework
 
-- 
+- TIL on topic of your choice
