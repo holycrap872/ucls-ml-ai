@@ -18,7 +18,12 @@ figure out where the students are along several dimensions:
 - `./chatbot_output_python/landscape_game.py` printed out
 - `ProblemSetSkeleton` zipped and loaded into Schoology
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
-    - Remove `.git`, `.pytest_cache`, `.coverage`, `coverage.xml`
+    - Make sure `data/text/great_gatsby.txt` and `data/text/little_women.txt` present
+    - Make sure no other untracked files present
+    - Cleanup:
+        - `rm -rf .git && rm -rf .venv && rm -rf .pytest_cache && rm coverage.xml && rm .coverage`
+        - `find . -name "__pycache__" -exec rm -r {} \;`
+        - `find . -name ".DS_Store" -exec rm -r {} \;`
 - Skills assessment worksheet posted on Schoology
     - https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw
 - `problem_set_comprehensions.pdf` loaded into special folder for students who finish
