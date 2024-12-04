@@ -24,6 +24,11 @@
     - Similarities and differences
     - Goal of the sheet
     - Why I think it's a good worksheet
+    - Talk passionately about why like worksheets
+        - Puzzle
+        - Scaffolds
+        - Reflection
+    - Show how can see EmojiPics if resize it properly
 - Continue with classwork
     - If finish early, start homework
 

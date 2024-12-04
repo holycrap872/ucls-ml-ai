@@ -11,6 +11,8 @@
 ### Actual Lesson
 
 - Reflection
+    - JSON
+    - EmojiPics
 - Manufactoria
     - Walk through rules
     - Hint at FSMs being behind the scenes

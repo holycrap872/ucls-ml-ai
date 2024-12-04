@@ -12,14 +12,10 @@
 - `groklearning.com` open on "student progress" tab
     - `Web Developer Tools` open
     - Student names hidden by making window small
-- `emoji_pics.zip` loaded up in Schoology
-    - `pic_0.json`: `color_flag.json`
-    - `pic_1.json`: `color_mario.json`
-    - `pic_2.json`: `color_turkey.json`
-    - `pic_3.json`: `color_whale.json`
 - `EmojiPic Worksheet` posted to Schoology
     - Structured: https://docs.google.com/document/d/1nuOUKBjcMtZB4cs4miADyMmzVowSWINpeCWuurLt1sw
     - Structured: https://docs.google.com/document/d/1rEZU8kaY4DA9z7RObT1ZmhdPCIjQHulyetspzzGl2P0
+    - Note: emoji_pics are already in `ProblemSetSkeleton`
 
 ### Actual Lesson
 
