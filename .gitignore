@@ -27,3 +27,4 @@ __pycache__/
 *.html
 data/
 *.jpg
+CourseMaterial/03_list_sets_maps/05_json/emoji_pics/*.json

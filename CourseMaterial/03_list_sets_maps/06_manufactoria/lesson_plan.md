@@ -1,24 +1,40 @@
 ## Essential Questions
 
 - What are FSMs and where are they useful?
+- How can we use FSMs to represent real-life situations?
 
 ## Lesson Plan
 
 ### Setup
 
+- My version of `emoji_outputter.py` open
 - Manufactoria on computers in lab
+- Manufactoria open on my computer
+    - New profile loaded up _for me_
 
 ### Actual Lesson
 
 - Reflection
     - JSON
     - EmojiPics
+    - Code discussion
+        - Discuss
+            - What was easy/hard
+            - Overall structure
+            - Importance of helper functions
+        - Talk through my version of `emoji_outputter.py`
+- Going to do FSMs
+    - Show simple example
+    - FSMs require graphs
+    - FSMs enable our next project: ChatBot
 - Manufactoria
-    - Walk through rules
     - Hint at FSMs being behind the scenes
+    - Walk through rules
+        - Do first _3_ things together
+            - Nothingbots, Stampbots, AmazeBots
+            - AmazeBots because shows how conveyor belt can go from any direction
 - Play!
-    - Play in pairs
-    - Pair programming theater?
+    - Work in pairs?
 - Last 10 minutes before leave
     - Show super simple FSM
     - Show levels
@@ -29,6 +45,7 @@
         - Graph
         - Transitions
         - Accept state
+    - Completing the first few sections of this => 1/3 of a grad class in CS Theory
 
 #### Homework
 

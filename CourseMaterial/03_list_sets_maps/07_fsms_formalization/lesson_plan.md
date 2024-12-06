@@ -1,6 +1,7 @@
 ## Essential Questions
 
 - What are FSMs and where are they useful?
+- How can we use FSMs to represent real-life situations?
 
 ## Lesson Plan
 
