@@ -6,12 +6,15 @@
 
 ### Setup
 
-- Broken FSM project ready for cloning
-    - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
+- `broken_fsm_structured.zip` and `broken_fsm_unstructured.zip` posted to Schoology
+    - TODO: Broken FSM project ready for cloning
+        - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
 
 ### Actual Lesson
 
 - Reflection
+    - FSMs:
+        - Do simple, quick problem
     - Where are FSMs used?
     - FSM formalizations
         - Example: Accept/reject various strings on simple FSM
@@ -52,7 +55,7 @@
 #### Homework
 
 - Finish debugging and get program working
-- Data structures problem set
+- TIL on debugging technique of your choice
 
 #### Resources
 

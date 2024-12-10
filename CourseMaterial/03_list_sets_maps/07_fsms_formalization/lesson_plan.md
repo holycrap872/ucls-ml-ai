@@ -39,6 +39,9 @@
     - Lots of simple machines you interact with
 - Break into pairs:
     - Do `fsm_worksheet.docx`
+- With 5m left reconvene:
+    - Formalization
+    - Important! because reduces amount of time I'm talking next class
 
 #### Homework
 
