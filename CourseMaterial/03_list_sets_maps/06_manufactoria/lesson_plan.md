@@ -35,17 +35,12 @@
             - AmazeBots because shows how conveyor belt can go from any direction
 - Play!
     - Work in pairs?
-- Last 10 minutes before leave
+- Last 5 minutes before leave
     - Show super simple FSM
     - Show levels
         - Stage: 2, Level: Candidate Picker
         - Stage: 3, Level: Home delivery
-    - Formalize together
-        - Start state
-        - Graph
-        - Transitions
-        - Accept state
-    - Completing the first few sections of this => 1/3 of a grad class in CS Theory
+    - Completing first few sections of Manufactoria => 1/3 of a grad class in CS Theory
 
 #### Homework
 
