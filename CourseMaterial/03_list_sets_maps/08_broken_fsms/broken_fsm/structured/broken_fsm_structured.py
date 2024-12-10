@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import argparse
 import json
 
 # Schema
@@ -67,7 +66,7 @@ def analyze_fsm(json_fsm_path, input_string):
     """
     The main logic function that determines whether a given input string is
     accepted/rejected by a particular FSM. It works by starting at the start
-    state and transistioning through the machine until the given input string
+    state and transitioning through the machine until the given input string
     is exhausted. It then returns whether the machine ended in an accept state
     or not.
 
@@ -82,20 +81,18 @@ def analyze_fsm(json_fsm_path, input_string):
     cur_state = start_state
     for n in input_string:
         if n not in fsm_graph[cur_state]:
-            print(f"Missing transistion: ({cur_state}) -- {n} -> (reject)")
+            print(f"Missing transition: ({cur_state}) -- {n} -> (reject)")
             return False
 
         next_state = fsm_graph[cur_state][int(n)]
-        print(f"Transistion: ({cur_state}) -- {n} -> ({next_state})")
+        print(f"Transition: ({cur_state}) -- {n} -> ({next_state})")
 
     return accept_states
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--json_fsm", help="Path to FSM representing JSON", type=str, required=True)
-    parser.add_argument("--input_str", help="Input string to check if accepted", type=str, required=True)
-    args = parser.parse_args()
+    json_path = "json_path"
+    input_str = "111000"
 
-    ret = analyze_fsm(args.inpu_str, args.json_fsm)
+    ret = analyze_fsm(input_str, json_path)
     print(f"Input string accepted by graph: {bool(ret)}")

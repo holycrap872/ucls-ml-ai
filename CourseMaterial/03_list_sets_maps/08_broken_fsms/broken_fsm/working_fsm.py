@@ -102,7 +102,7 @@ def analyze_fsm(json_fsm_path: str, input_string: str) -> bool:
     """
     The main logic function that determines whether a given input string is
     accepted/rejected by a particular FSM. It works by starting at the start
-    state and transistioning through the machine until the given input string
+    state and transitioning through the machine until the given input string
     is exhausted. It then returns whether the machine ended in an accept state
     or not.
 
@@ -121,7 +121,7 @@ def analyze_fsm(json_fsm_path: str, input_string: str) -> bool:
     cur_state = start_state
     for c in input_string:
         next_state = fsm_graph[cur_state][c]
-        print(f"Transistioning {cur_state} -> {next_state}")
+        print(f"Transitioning {cur_state} -> {next_state}")
         cur_state = next_state
 
     return cur_state in accept_states
