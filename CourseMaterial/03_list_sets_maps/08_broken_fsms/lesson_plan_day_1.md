@@ -1,6 +1,7 @@
 ## Essential Questions
 
-- What are FSMs and where are they useful?
+- How can we use FSMs to represent real-life situations?
+- How do we approach a complex system we didn’t write?
 
 ## Lesson Plan
 
@@ -37,25 +38,25 @@
     - What are techniques we can use to debug?
         - Linter
         - Read closely
+        - Improve variable names
+        - Write documentation
         - Type checker
-        - Good test cases
+        - Informative input
         - `print()` statements
             - Often the most useful
-        - Guarded breakpoints
+        - Breakpoints
         - Unit tests
     - Have them come up with techniques and order them from easiest to hardest
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
-- `git clone` from gitlab
-    - Make clear what types of fixes required
-        - One addition of `_ = _`
-        - One addition of `_ in _`
-    - Go!
+- Go!
+    - Split up into pairs
+    - Switch who's on the keyboard every 5 minutes
 
 #### Homework
 
-- Finish debugging and get program working
 - TIL on debugging technique of your choice
+- Data Structure Wheaties 22
 
 #### Resources
 
