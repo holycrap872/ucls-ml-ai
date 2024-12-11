@@ -48,9 +48,9 @@ and then write at **least two unit tests** in the
 6. Create a function that takes a dictionary of integers mapped to integers as an
    input and returns the largest **key**.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 6`
+    - **Do not** use the `max()` function.
     - Hint: Have an accumulator called `largest_key`
     - Hint: To iterate through a dictionary's keys, you do `for key in d:`
-    - **Do not** use the `max()` function.
 7. Create a function that takes dictionary of integers mapped to integers as an
    input and returns the smallest **value**.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 2`
@@ -112,6 +112,7 @@ and then write at **least two unit tests** in the
     - Hint: Creating a helper function called `reverse_string()` will be useful
 20. Create a function that takes two sets of integers as an input and returns a
     set of integers that is the intersection of the two sets.
+    - For example: `{6, 9, 12}, {1, 5, 6, 8, 12, 13} -> {6, 12}`
     - **Do not** use the `intersection()` function.
     - Hint: To check if an element is in a set you do `if elem in s:`
 21. Create a function that takes a list of integers as an input and returns a
@@ -123,9 +124,58 @@ and then write at **least two unit tests** in the
     set of integers that are in only one of the lists.
     - For example: `[4, 5, 4, 3], [3, 1, 5] -> {4, 1}`
     - Hint: To check if an element is in a set you do `if elem in l:`
-23. Create a function that takes a nested dictionary of strings and a complex key
+23. Create a function that takes a set of integers and a number as an input and
+    then returns a new set of integers containing numbers from the input set
+    that are **less than** the given number.
+    - For example: `{1, 4, 6, 3, 7, 2}, 5 -> {1, 4, 3, 2}`
+    - Hint: Create an empty set and add to it using the accumulator pattern
+24. Create a function that takes a list of integers and returns a dictionary
+    where the keys are the integers and the values are lists of their indices.
+    - For example: `[1, 2, 1, 3, 2] -> {1: [0, 2], 2: [1, 4], 3: [3]}`
+    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: In the loop, check if the number has ever been seen before
+25. Create a function that takes a list of integers and returns their average.
+    - For example: `[4, 9, 11, 5] -> 5.8`
+26. Create a function that takes a list of strings and a minimum length, then
+    returns a set of all strings that are at least that length.
+    - For example: `["cat", "dog", "mouse", "rat"], 4 -> {"mouse"}`
+    - Hint: `len()`
+27. Create a function that takes a string and returns a dictionary where the
+    keys are vowels and the values are how many times each vowel appears.
+    - For example: `"hello there" -> {"e": 2, "o": 1, "a": 0, "i": 0, "u": 0}`
+    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
+28. Create a function that takes a list of strings and returns a set of all
+    characters that appear in every string.
+    - For example: `["hello", "help", "whole"] -> {"h", "e", "l"}`
+    - Hint: `.intersection()`
+29. Create a function that takes a list of lists of integers and returns the
+    of each sub-list.
+    - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [5.8, 4.0, 1]`
+    - Hint: A recent previous problem will be very helpful
+    - Hint: Create an empty list and add to it using the accumulator pattern
+30. Create a function that takes a dictionary of student grades (lists of
+    integers) and returns a dictionary with the same keys but values replaced
+    with the letter grade (A >= 90, B >= 80, C >= 70, D >= 60, F < 60).
+    - For example: `{"Alice": [92, 87], "Bob": [75, 77]} -> {"Alice": "B", "Bob": "C"}`
+    - Hint: Create a helper function to convert the average to letter grade
+31. Create a function that takes a string and returns a dictionary where keys
+    are characters and values are lists of indices where they appear.
+    - For example: `"hello" -> {"h": [0], "e": [1], "l": [2, 3], "o": [4]}`
+    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: In the loop, check if the letter has ever been seen before
+32. Create a function that takes a list of integers and returns a set of all
+    numbers that are multiples of both 2 and 3.
+    - For example: `[9, 12, 2, 3, 5, 10, 6, 7, 8] -> {6, 12}`
+    - Hint: Use the modulo (`%`) operator
+33. Create a function that takes a nested dictionary of strings and a complex key
     as an input and then returns the value for the nested key. If the complex key
     doesn't lead to anything, have it return the empty string.
     - For example: `{"a": {"b": {"c": "d"}}}, "a/b/c" -> "d"`
     - For example: `{"a": {"b": {"c": "d"}}}, "a/h/i" -> ""`
     - Hint: Use `.split("/")`
+34. Create a function that takes a list of strings and returns a dictionary
+    where the keys are the first characters and the values are sets of words
+    that start with that character.
+    - For example: `["hat", "cat", "hi"] -> {"h": {"hat", "hi"}, "c": {"cat"}}`
+    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: In the loop, check if the letter has ever been seen before
