@@ -149,8 +149,8 @@ and then write at **least two unit tests** in the
     - For example: `["hello", "help", "whole"] -> {"h", "e", "l"}`
     - Hint: `.intersection()`
 29. Create a function that takes a list of lists of integers and returns the
-    of each sub-list.
-    - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [5.8, 4.0, 1]`
+    average of each sub-list.
+    - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [7.25, 4.0, 1.0]`
     - Hint: A recent previous problem will be very helpful
     - Hint: Create an empty list and add to it using the accumulator pattern
 30. Create a function that takes a dictionary of student grades (lists of
