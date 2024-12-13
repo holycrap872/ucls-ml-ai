@@ -3,7 +3,7 @@ import argparse
 import json
 
 # Seeded bugs:
-# 0. Misspelled `START_STATE_KET`
+# 0. Misspelled `START_STATE_KEY`
 #    - Difficulty: trivial
 #    - Expected time: 1m
 # 1. Misspelled `args.input_str`
