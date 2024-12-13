@@ -16,8 +16,13 @@
     - FSM formalizations
         - Example: Accept/reject various strings on simple FSM
         - Example: Create and FSM
+    - Why represent FSMs as graphs?
     - Have create FSM on paper as opening problem
-    - Why to represent FSMs as graphs
+        - Have one student do it on the board
+    - Have serialize FSM into JSON
+        - Have one student do it on the board
+    - Run through algorithm to determine if FSM accepts/rejects a string
+        - Setting them up to understand what's going on in code they're debugging
 - Debugging
     - What are useful techniques
         - Linter
@@ -35,11 +40,9 @@
         - Whenever approaching someone else's code, will always feel stupid
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
-- Explain how FSM stuff works
-    - Loop through using schema as example
-    - Don't use actual code, but make sure they understand the concept
 - Go!
     - If finish early, can start homework
+    - Shorten homework if takes too long to finish debugging exercise
 
 #### Homework
 
