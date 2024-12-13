@@ -13,7 +13,6 @@
     - Turtles kid: https://youtu.be/CMNry4PE93Y?feature=shared&t=8
     - Markov music: https://youtu.be/OLNA40LpHWE?si=_p25RbPek4gKELWh&t=27
 - `ana_markov_sim.py`
-    - Possibly seeded with error where `ana_location = next_stop` is missing
 
 ### Actual Lesson
 
@@ -23,14 +22,17 @@
     - Show `working_fsm.py`
         - Talk through it
         - Use debugger on it
+        - "The main loop is like the accumulator pattern"
 - Today theory of ChatBots
     - Next four classes: creating ChatBots
 - Markov Chains
     - Discuss theory
-        - https://www.youtube.com/watch?v=JHwyHIz6a8A
+        - Ana Markov https://www.youtube.com/watch?v=JHwyHIz6a8A
         - Have simple problem representing progression
             - `ana_markov.py`
-            - Note: If want, seed bug by deleting `ana_location = next_stop` on line 32
+    - Markov chain definitions
+        - Nodes, edges, probabilities
+        - Sun/Rain FSM
     - "I like turtles" Markov chain
         - Have them come up with sample sentences using dice
         - Have them read sentences they come up with
@@ -41,22 +43,15 @@
     - Markov of name
     - Markov of letters in a simple sentence
         - What to do about spaces
+            - Ignore for now
         - Create a graph representing simple sentence
-        - Use dice to roll 
-- Class work
-    - Create function that creates graph representing Markov of input sentence
-    - Design together
-    - Easy
-        - Dictionary to set
-    - Hard
-        - Dictionary to counting dictionary
-    - Test function with unit tests
+        - Once done, can leave
 
-##### Homework
+### Homework
 
-- Finish class work
+- Data Structure Wheaties 25 - 26
 
-##### Missed class resource
+### Missed class resource
 
 - https://www.youtube.com/watch?v=MGVdu39gT6k
     - 0:00 - 6:37
