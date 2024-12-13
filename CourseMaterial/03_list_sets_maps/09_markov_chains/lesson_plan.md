@@ -1,16 +1,30 @@
 ## Essential Questions
 
+- What is a Markov chain?
+- How can we represent a Markov chain?
+- How can we use Markov chains to create a simple ChatBot?
+
 ## Lesson Plan
 
 ### Setup
 
-`ana_markov_sim.py` seeded with intentional error where `ana_location = next_stop` is missing
+- YouTube videos loaded up
+    - Markov chains: https://www.youtube.com/watch?v=JHwyHIz6a8A
+    - Turtles kid: https://youtu.be/CMNry4PE93Y?feature=shared&t=8
+    - Markov music: https://youtu.be/OLNA40LpHWE?si=_p25RbPek4gKELWh&t=27
+- `ana_markov_sim.py`
+    - Possibly seeded with error where `ana_location = next_stop` is missing
 
 ### Actual Lesson
 
 - Review
-    - TIL of debugging
-- Today theory or chatbots, M-W chat bots
+    - FSMs
+    - Debugging
+    - Show `working_fsm.py`
+        - Talk through it
+        - Use debugger on it
+- Today theory of ChatBots
+    - Next four classes: creating ChatBots
 - Markov Chains
     - Discuss theory
         - https://www.youtube.com/watch?v=JHwyHIz6a8A
@@ -20,7 +34,7 @@
     - "I like turtles" Markov chain
         - Have them come up with sample sentences using dice
         - Have them read sentences they come up with
-        - First person that get's "I like turtles": https://youtu.be/CMNry4PE93Y?feature=shared&t=8
+        - First person that gets "I like turtles": https://youtu.be/CMNry4PE93Y?feature=shared&t=8
     - Markov Music
         - https://spranesh.github.io/mcmg/
         - https://youtu.be/OLNA40LpHWE?si=_p25RbPek4gKELWh&t=27
@@ -30,7 +44,7 @@
         - Create a graph representing simple sentence
         - Use dice to roll 
 - Class work
-    - Create function that creates graph representing markov of input sentence
+    - Create function that creates graph representing Markov of input sentence
     - Design together
     - Easy
         - Dictionary to set
