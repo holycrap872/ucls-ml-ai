@@ -47,7 +47,7 @@
 #### Homework
 
 - Finish debugging and get program working
-- Data Structure Wheaties 23 - 26
+- Data Structure Wheaties 23 - 25
 
 #### Resources
 

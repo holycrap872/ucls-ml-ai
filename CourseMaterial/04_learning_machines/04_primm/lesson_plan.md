@@ -15,6 +15,7 @@ AP yet.
 ### Setup
 
 - Recursion worksheet printed out
+    - FIXME: Figure out which worksheet I'm using
 - Recursion code posted to Schoology
 
 ### Actual Lesson
