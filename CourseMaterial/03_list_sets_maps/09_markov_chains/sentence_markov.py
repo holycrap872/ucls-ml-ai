@@ -21,10 +21,10 @@ def create_markov_graph(sentence: str) -> dict[str, set[str]]:
 
 
 def produce_string(markov_dict: dict[str, set[str]], str_len: int) -> None:
-    cur_char = "e"
-    new_string = "e"
+    cur_char = "^"
+    new_string = ""
     while cur_char != "$" and len(new_string) < str_len:
-        cur_char = random.sample(list(markov_dict[cur_char]), 1)[0]
+        cur_char = random.choice(list(markov_dict[cur_char]))
         new_string += cur_char
 
     print(new_string)
