@@ -148,21 +148,21 @@ and then write at **least two unit tests** in the
     characters that appear in every string.
     - For example: `["hello", "help", "whole"] -> {"h", "e", "l"}`
     - Hint: `.intersection()`
-29. Create a function that takes a list of lists of integers and returns the
-    average of each sub-list.
-    - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [7.25, 4.0, 1.0]`
-    - Hint: A recent previous problem will be very helpful
-    - Hint: Create an empty list and add to it using the accumulator pattern
-30. Create a function that takes a dictionary of student grades (lists of
-    integers) and returns a dictionary with the same keys but values replaced
-    with the letter grade (A >= 90, B >= 80, C >= 70, D >= 60, F < 60).
-    - For example: `{"Alice": [92, 87], "Bob": [75, 77]} -> {"Alice": "B", "Bob": "C"}`
-    - Hint: Create a helper function to convert the average to letter grade
-31. Create a function that takes a string and returns a dictionary where keys
+29. Create a function that takes a string and returns a dictionary where keys
     are characters and values are lists of indices where they appear.
     - For example: `"hello" -> {"h": [0], "e": [1], "l": [2, 3], "o": [4]}`
     - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
     - Hint: In the loop, check if the letter has ever been seen before
+30. Create a function that takes a list of lists of integers and returns the
+    average of each sub-list.
+    - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [7.25, 4.0, 1.0]`
+    - Hint: A recent previous problem will be very helpful
+    - Hint: Create an empty list and add to it using the accumulator pattern
+31. Create a function that takes a dictionary of student grades (lists of
+    integers) and returns a dictionary with the same keys but values replaced
+    with the letter grade (A >= 90, B >= 80, C >= 70, D >= 60, F < 60).
+    - For example: `{"Alice": [92, 87], "Bob": [75, 77]} -> {"Alice": "B", "Bob": "C"}`
+    - Hint: Create a helper function to convert the average to letter grade
 32. Create a function that takes a list of integers and returns a set of all
     numbers that are multiples of both 2 and 3.
     - For example: `[9, 12, 2, 3, 5, 10, 6, 7, 8] -> {6, 12}`
