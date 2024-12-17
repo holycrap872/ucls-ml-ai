@@ -8,25 +8,33 @@
 
 ### Setup
 
-- `Markov Chain Worksheet` loaded into Schoology
+- `Markov Model Worksheet` loaded into Schoology
 
 ### Actual Lesson
 
 - Review
     - FSMs
-    - Markov chains
-    - Show `ana_markov_sim.py` again
-        - Talk through it
-        - Use debugger on it
+    - Markov models
+- Show "I like turtles" Markov model
+    - Discuss
+        - Model creation
+        - Model traversal
+    - How related to modern AI?
+        - Lots of data
+- Code review
+    - Focus on pertinent problem from Data Structures
+        - `dict[str, list[int]]`
+    - How like model creation?
+- Show `ana_markov_sim.py` again
+    - Talk through it
+    - Use debugger on it
+    - How is it like generating random sentence?
 - Class work
-    - Create function that creates graph representing Markov of input sentence
-    - Design together
-    - Easy
-        - Dictionary to set
-    - Hard
-        - Dictionary to counting dictionary
-    - Test function with unit tests
+    - Emphasize two parts:
+        - Model creation
+        - Model traversal
+- Start worksheet
 
 ##### Homework
 
-- Finish class work
+- None (if in week before winter break)
