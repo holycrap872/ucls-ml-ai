@@ -121,6 +121,9 @@ def visualize() -> None:
     nx.draw_networkx_edge_labels(graph, pos, edge_labels=nx.get_edge_attributes(graph, "prob"))
 
     plt.show()
+
+
+visualize()
 ```
 
 Use this example to create a function that outputs a visualization of the

@@ -21,6 +21,7 @@
         - In goes data
         - Out comes sentence
     - How do pieces I've show you relate to this?
+    - How like the "suggested words" that pop up when you're texting
 - Class work
     - Emphasize two parts:
         - Model creation

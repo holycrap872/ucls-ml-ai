@@ -31,7 +31,7 @@ Sufficient copies of `predict_text.md` printed out
     - Before starting, come up with possible functions
 
 Extensions:
-- Formally define the behvaior in terms of probability
+- Formally define the behavior in terms of probability
     - Bayes
 
 #### Extensions
