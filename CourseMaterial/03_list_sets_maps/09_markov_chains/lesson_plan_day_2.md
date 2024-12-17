@@ -9,6 +9,8 @@
 ### Setup
 
 - `Markov Model Worksheet` loaded into Schoology
+    - Structured: https://docs.google.com/document/d/1a3iA1kl9uoAaWwEdl-4M0CnYFe0J2CbwdzDhdQSIodE
+    - Unstructured: https://docs.google.com/document/d/1EyZ5RL_CCch0ViK4T89vF9MAiG2jSskfZcLFEN0VlnM
 
 ### Actual Lesson
 
