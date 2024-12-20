@@ -1,15 +1,15 @@
 ## Essential Questions
 
-- What is a Markov chain?
-- How can we represent a Markov chain?
-- How can we use Markov chains to create a simple ChatBot?
+- What is a Markov model?
+- How can we represent a Markov model?
+- How can we use Markov models to create a simple ChatBot?
 
 ## Lesson Plan
 
 ### Setup
 
 - YouTube videos loaded up
-    - Markov chains: https://www.youtube.com/watch?v=JHwyHIz6a8A
+    - Markov models: https://www.youtube.com/watch?v=JHwyHIz6a8A
     - Turtles kid: https://youtu.be/CMNry4PE93Y?feature=shared&t=8
     - Markov music: https://youtu.be/OLNA40LpHWE?si=_p25RbPek4gKELWh&t=27
 - `ana_markov_sim.py`
@@ -30,10 +30,10 @@
         - Ana Markov https://www.youtube.com/watch?v=JHwyHIz6a8A
         - Have simple problem representing progression
             - `ana_markov.py`
-    - Markov chain definitions
+    - Markov model definitions
         - Nodes, edges, probabilities
         - Sun/Rain FSM
-    - "I like turtles" Markov chain
+    - "I like turtles" Markov model
         - Have them come up with sample sentences using dice
         - Have them read sentences they come up with
         - First person that gets "I like turtles": https://youtu.be/CMNry4PE93Y?feature=shared&t=8

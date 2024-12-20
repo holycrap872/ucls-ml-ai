@@ -1,8 +1,8 @@
 ## Essential Questions
 
-- What is a Markov chain?
-- How can we represent a Markov chain?
-- How can we use Markov chains to create a simple ChatBot?
+- What is a Markov model?
+- How can we represent a Markov model?
+- How can we use Markov models to create a simple ChatBot?
 
 ## Lesson Plan
 
