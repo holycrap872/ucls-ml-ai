@@ -48,7 +48,7 @@ know without having to constantly check in with me.
     - Have two other class periods to work on it
     - Encourage you to use ChatBots since probably too ambitious w/o them
 
-#### Homework
+### Homework
 
 - Work on blackjack
     - Assignment in Schoology:
@@ -70,7 +70,7 @@ know without having to constantly check in with me.
         ```
 - Come in ready to talk about at least one query you made
 
-#### Extension
+### Extension
 
 - Multiple players against one dealer
 - Implement `split`

@@ -46,7 +46,7 @@
         - Scale: meter maid vs. new police cars that auto-run plates
     - Initial thoughts?
 
-#### Homework
+### Homework
 
 Read next day's discussion article
 

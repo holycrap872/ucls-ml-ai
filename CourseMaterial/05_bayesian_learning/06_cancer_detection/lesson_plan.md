@@ -33,6 +33,6 @@
     - Come up with functions
     - Create!
 
-#### Homework
+### Homework
 
 - None

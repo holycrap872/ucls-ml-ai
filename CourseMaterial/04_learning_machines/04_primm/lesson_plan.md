@@ -57,7 +57,7 @@ AP yet.
     - What's bad?
     - What matches best practice?
 
-#### Homework
+### Homework
 
 - Finish worksheet
 

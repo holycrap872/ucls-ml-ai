@@ -61,9 +61,9 @@
     - What is a decision tree?
     - How is a decision tree a classifier?
     - Why is a test set necessary?
-    - Overall point that cancer is "abberant"
+    - Overall point that cancer is "aberrant"
 
-#### Homework
+### Homework
 
 - None
 

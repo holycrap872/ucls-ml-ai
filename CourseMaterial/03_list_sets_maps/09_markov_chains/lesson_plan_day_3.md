@@ -6,6 +6,12 @@
 
 ## Lesson Plan
 
+This class is basically a workday where students continue to work on the
+creation of their simple ChatBot. To help students be effective, in the
+beginning of the lesson, we examine a demo site and use it to seed discussions
+about how the Markov ChatBot works, what's the difference between model
+creation and traversal, and how data is used.
+
 ### Setup
 
 - Markov Model site loaded up
@@ -29,6 +35,6 @@
         - Model traversal
 - Start worksheet
 
-##### Homework
+### Homework
 
 - Finish class work

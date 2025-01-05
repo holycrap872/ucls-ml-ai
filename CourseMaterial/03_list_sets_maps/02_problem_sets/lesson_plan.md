@@ -28,7 +28,7 @@ confidence after a series of tough/intense classes.
     - Stress that's why they're so powerful
 - Work on problems 0 - 6
 
-## Homework
+### Homework
 
 - TIL entry about four methods of the `set` data structure
 - Problems 0 - 5 of Data Structure Wheaties

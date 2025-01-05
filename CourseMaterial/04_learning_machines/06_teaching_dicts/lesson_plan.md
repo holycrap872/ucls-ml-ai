@@ -48,6 +48,6 @@
     - Five minute check-in with every group at end of each day for feedback from me
 - Go!
 
-#### Homework
+### Homework
 
 - Work on project

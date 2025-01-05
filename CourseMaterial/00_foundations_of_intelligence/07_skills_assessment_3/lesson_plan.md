@@ -42,6 +42,6 @@ tests) that will help each of them as they encounter a problem.
 - Today going to just program as much as we can
 - Continue working on `Skills Assessment`
 
-## Homework
+### Homework
 
 - Finish up to and including Problem 2.4

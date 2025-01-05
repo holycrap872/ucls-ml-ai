@@ -21,6 +21,6 @@ Watch Orson Welles' version of the Trial
 - 34:00 -> 49.56
 - 1:09:45
 
-#### Homework
+### Homework
 
 - Read OpenAI founding document

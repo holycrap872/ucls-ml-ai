@@ -45,7 +45,7 @@
     - Discussion about economics of data
     - Initial thoughts?
 
-#### Homework
+### Homework
 
 - Read next day's discussion article
 

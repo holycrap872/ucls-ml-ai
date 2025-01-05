@@ -43,13 +43,13 @@
     - Formalization
     - Important! because reduces amount of time I'm talking next class
 
-#### Homework
+### Homework
 
 - Finish worksheet (with partner?)
     - Note: Students who are focused finish with ~10m of class left
 - Data structures problem set
 
-#### Resources
+### Resources
 
 - If someone misses
     - https://docs.google.com/document/d/13RhuBjltPkjO7ycogdR0jUkt8bJAVTHLveIRUdhNmEU/edit

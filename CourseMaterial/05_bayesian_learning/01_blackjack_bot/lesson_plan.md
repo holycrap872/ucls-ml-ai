@@ -54,7 +54,7 @@ process) and then graph which value is the "best" value to stand on.
     - Hint: Functions are your friend
 - Go!
 
-#### Homework
+### Homework
 
 - Finish assignment
 - Prepare for bayesian statistics
@@ -65,7 +65,7 @@ process) and then graph which value is the "best" value to stand on.
             - https://www.youtube.com/watch?v=NOOMC_rc-8Q
     - Complete probability worksheet
 
-#### Extension
+### Extension
 
 - Create more complex "rule bot" or your own
 - Compare more complex rule bot to other, existing bots

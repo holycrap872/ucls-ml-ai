@@ -41,6 +41,6 @@ None
     - Update functions to use NamedTuples
     - Tests
 
-#### Homework
+### Homework
 
 - Finish refactor/tests

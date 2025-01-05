@@ -71,7 +71,7 @@ following day.
 
 - Schoology Assessment `assessment.md`
 
-## Resources / Random ideas
+### Resources / Random ideas
 
 - https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
 - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html

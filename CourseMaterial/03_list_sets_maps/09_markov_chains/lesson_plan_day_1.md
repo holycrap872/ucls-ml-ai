@@ -6,6 +6,13 @@
 
 ## Lesson Plan
 
+In this class, students build on their experience working with FSMs to start
+to understand Markov Models. In particular, this lesson introduces them to
+both creating Markov Models of data and then using that model to generate
+"example sequences". Students work with Markov Models for works, music, and
+letters, setting them up for the creation of a Markov ChatBot in the next
+lesson.
+
 ### Setup
 
 - YouTube videos loaded up

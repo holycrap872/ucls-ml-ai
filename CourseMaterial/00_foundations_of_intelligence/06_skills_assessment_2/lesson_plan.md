@@ -42,6 +42,6 @@ solve a simple problem before the students finally strike out on their own.
 - Today going to just program as much as we can
 - Continue working on `Skills Assessment`
 
-## Homework
+### Homework
 
 - Finish up to and including Problem 2.2

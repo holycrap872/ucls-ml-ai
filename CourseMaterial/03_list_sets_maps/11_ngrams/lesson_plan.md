@@ -15,13 +15,13 @@ None
     - Graphs
     - Markov chains
     - Tokens
-    - Transistions
+    - Transitions
 - Markov chain implementation
     - Where did we leave off
     - Difficult / easy parts
     - Show volunteer's code as of now
-- Markov strengths/weakenesses
-    - Strenths
+- Markov strengths/weaknesses
+    - Strengths
         - Somewhat mimic the voice of a book
         - Fast/cheap compared to ChatGPT
         - Intuitive
@@ -49,7 +49,7 @@ None
         - Which part of what we did is the "Child Programme"
         - Which part is the "education process"?
 
-#### Homework
+### Homework
 
 - Finish worksheet on 1-grams and commit if didn't
 - Data structures problem set

@@ -59,7 +59,7 @@ Progression:
     - Create graph showing % chance of winning under particular situations
         - e.g., Dealer showing a 9
 
-#### Extensions
+### Extensions
 
 - Amount to bet (expected value)
 - How do things change w/ dealing from 1 deck vs 6 decks?

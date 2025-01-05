@@ -74,6 +74,6 @@ learn to create decision trees and what features lead to the best tree
         - Optimum strategy is finding properties that split sets in half
     - Show example code in `guess_who_code.py` of "classes"
 
-#### Homework
+### Homework
 
 - Read `science_of_learning.docx` and prepare for discussion

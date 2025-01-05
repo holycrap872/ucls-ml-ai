@@ -44,12 +44,12 @@
     - If finish early, can start homework
     - Shorten homework if takes too long to finish debugging exercise
 
-#### Homework
+### Homework
 
 - Finish debugging and get program working
 - Data Structure Wheaties 23 - 25
 
-#### Resources
+### Resources
 
 - https://www.madebyevan.com/fsm/
     - Make curved lines between states by making arrow and then pulling it up/down

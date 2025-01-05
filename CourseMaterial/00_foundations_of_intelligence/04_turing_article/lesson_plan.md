@@ -50,10 +50,10 @@ discussion of the year) and reflection.
     - Reflect on class as a whole
     - Reflect on self (on paper)
 
-#### Homework
+### Homework
 
 - Install Python and VsCode
 
-#### Resources
+### Resources
 
 - https://www.nature.com/articles/d41586-023-02361-7

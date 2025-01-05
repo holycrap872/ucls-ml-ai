@@ -6,6 +6,12 @@
 
 ## Lesson Plan
 
+In this lesson, students take their theoretical understanding of Markov Models
+and use it to create software that acts as a (very) simple ChatBot. First, we
+review how models are created and traversed. Then, students start to work in
+pairs to create their own simple Bot that consumes real world data, builds a
+model, and then traverses the model.
+
 ### Setup
 
 - `Markov Model Worksheet` loaded into Schoology
@@ -25,7 +31,7 @@
         - Lots of data
 - Code review
     - Focus on pertinent problem from Data Structures
-        - `dict[str, list[int]]`
+        - `dict[str, set[int]]`
     - How like model creation?
 - Show `ana_markov_sim.py` again
     - Talk through it
@@ -37,6 +43,6 @@
         - Model traversal
 - Start worksheet
 
-##### Homework
+### Homework
 
 - None (if in week before winter break)

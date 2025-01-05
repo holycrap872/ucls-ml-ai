@@ -42,7 +42,7 @@
         - Stage: 3, Level: Home delivery
     - Completing first few sections of Manufactoria => 1/3 of a grad class in CS Theory
 
-#### Homework
+### Homework
 
 - Data structures problem set
 - TIL entry

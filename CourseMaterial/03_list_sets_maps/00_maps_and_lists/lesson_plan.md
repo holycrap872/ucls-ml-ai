@@ -52,6 +52,6 @@
     - Discuss when come back
         - Note: index of a book problem (dict[str, int]) from my first job interview
 
-## Homework
+### Homework
 
 - Schoology Assessment on Sets/Lists/Maps

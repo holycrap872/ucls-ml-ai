@@ -32,6 +32,6 @@
     - Thought experiment about the way the world could end b/c of paper clips
     - Initial thoughts?
 
-#### Homework
+### Homework
 
 - Read article about how paper-clip production could destroy the world

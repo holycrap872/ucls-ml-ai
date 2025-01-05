@@ -35,6 +35,6 @@
     - Self-assess on the rubric
     - Answer questions on the back
 
-#### Homework
+### Homework
 
 - Problem Set Wheaties

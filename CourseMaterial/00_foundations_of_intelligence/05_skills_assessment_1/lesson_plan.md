@@ -78,6 +78,6 @@ figure out where the students are along several dimensions:
     - Break up into pairs based on skill level
     - Walk around prodding people to improve practices in various ways
 
-## Homework
+### Homework
 
 - Finish problems 0 and 1 of Skills Assessment (aka the first two problems)

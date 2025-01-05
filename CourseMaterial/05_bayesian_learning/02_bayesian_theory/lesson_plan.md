@@ -54,14 +54,14 @@ nights homework).
         - Updating probabilities (denominator) based on what you know
 - Do Bayesian worksheet in pairs
 
-#### Homework
+### Homework
 
 - Finish bayesian worksheet
 - Watch 3 blue - 1 brown
     - Watch https://www.youtube.com/watch?v=HZGCoVF3YvM
     - 0m0s to 13m20s
 
-#### Resources
+### Resources
 
 - https://www.skobelevs.ie/BayesTheorem/
     - Have them represent a particular problem with the sliders
@@ -69,7 +69,7 @@ nights homework).
     - Explain what it means
 - https://calcworkshop.com/probability/bayes-theorem/
 
-#### Extensions
+### Extensions
 
 - Rock paper scissors
     - https://archive.nytimes.com/www.nytimes.com/interactive/science/rock-paper-scissors.html

@@ -69,7 +69,7 @@
     - Training Set
     - Test Set
 
-#### Homework
+### Homework
 
 - Read "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete"
 

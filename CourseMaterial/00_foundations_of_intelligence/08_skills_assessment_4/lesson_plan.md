@@ -44,6 +44,6 @@ used to it. While they're working, I wil go around and suggest various things
         - How much control should each student have in their learning?
     - Be prepared for discussion
 
-#### Homework
+### Homework
 
 - Read `colleges_ai.docx`
