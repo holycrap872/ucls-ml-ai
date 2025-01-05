@@ -7,39 +7,44 @@
 
 ### Setup
 
-Sufficient copies of `predict_text.md` printed out
+
 
 ### Actual Lesson
 
 - Review
-    - Review graph
-    - Review Markov model homework
+    - FSMs
+    - Markov models
+        - Purpose
+        - Creation
+        - Traversal
     - Go through someone's example
-- How to derive random strings from this?
-    - Do as class together
-    - Do a few examples and discuss
-- Deficiencies
-    - Wasn't recording probability
-    - How to include probability
-    - Alter code to capture it together
-    - Stress types
-- ChatBot
-    - Words instead of letters
-    - Back to "I like turtles" example
-- Worksheet
-    - Read through worksheet
-    - Before starting, come up with possible functions
+- Reflection
+    - How is this ChatBot similar to real ChatBots?
+    - What was hard about programming it?
+    - What are deficiencies from our example and real Markov Model?
+        - Wasn't recording probability
+        - Not much "context"
+        - How might overcome these problems?
+- Setup for the day
+    - Have another "broken" bit of software
+    - Your could is to get it working
+- Quick debugging refresher using breakpoints
+- Go!
+    - Split up **into pairs**
+    - Switch who's on the keyboard every 5 minutes
 
-Extensions:
+### Homework
+
+- Data Structure Wheaties 22
+
+### Extensions
+
 - Formally define the behavior in terms of probability
     - Bayes
-
-#### Extensions
-
 - https://towardsdatascience.com/text-generation-using-n-gram-model-8d12d9802aa0
 - https://www.cs.cmu.edu/~dst/MarkovChainDemo/
 
-#### Missed class
+### Missed class
 
 - https://www.youtube.com/watch?v=MGVdu39gT6k
     - 6:37 - end
