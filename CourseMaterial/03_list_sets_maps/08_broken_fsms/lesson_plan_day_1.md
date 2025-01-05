@@ -5,6 +5,19 @@
 
 ## Lesson Plan
 
+In this lesson, students are asked to use their theoretical understanding of
+Finite State Machines to debug and fix a broken software representation of them.
+The point of the lesson is two-fold:
+1. Acknowledge that at least half the students would struggle to write the FSM
+   software from scratch.
+2. Allow students to use debugging skills to marry their theoretical
+   understanding with real practice.
+As such, students talk through different debugging techniques and then use them
+to try and get the program running.
+
+> Note: one complaint from students is this lesson was "too fast", so be sure
+  to take time and show them what a working version of the software should do.
+
 ### Setup
 
 - `broken_fsm_structured.zip` and `broken_fsm_unstructured.zip` posted to Schoology
@@ -28,7 +41,7 @@
 - Walk through `working_fsm.py`
     - Show schema
     - Show me running it
-    - Have them create the json version for a particular FSM
+    - Talk through the output and what is going on
 - Walk through `broken_fsm.py`
     - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
     - Explain the exercise
@@ -50,15 +63,15 @@
 - Quick debugging example using breakpoints
     - see `debugging_examples.py`
 - Go!
-    - Split up into pairs
+    - Split up **into pairs**
     - Switch who's on the keyboard every 5 minutes
 
-#### Homework
+### Homework
 
 - TIL on debugging technique of your choice
 - Data Structure Wheaties 22
 
-#### Resources
+### Resources
 
 - https://www.madebyevan.com/fsm/
     - Make curved lines between states by making arrow and then pulling it up/down
