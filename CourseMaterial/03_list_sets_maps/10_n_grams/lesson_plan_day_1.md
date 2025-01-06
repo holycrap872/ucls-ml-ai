@@ -21,6 +21,7 @@
         - Creation
         - Traversal
     - Go through someone's example
+        - If no one is done, look at `../09_markov_chain/markov_predict_text.py`
 - Reflection
     - How is this ChatBot similar to real ChatBots?
     - What was hard about programming it?

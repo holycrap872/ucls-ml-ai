@@ -7,7 +7,7 @@
 
 ### Setup
 
-None
+- None
 
 ### Actual Lesson
 
@@ -15,30 +15,13 @@ None
     - Graphs
     - Markov chains
     - Tokens
-    - Transitions
+    - n-grams
 - Markov chain implementation
-    - Where did we leave off
+    - Where did we leave off?
     - Difficult / easy parts
     - Show volunteer's code as of now
-- Markov strengths/weaknesses
-    - Strengths
-        - Somewhat mimic the voice of a book
-        - Fast/cheap compared to ChatGPT
-        - Intuitive
-    - Weaknesses
-        - Text is confusing
-        - How could we improve it?
-- N-grams
-    - Previously did 1-grams
-    - What do you think a 2-gram would look like?
-    - Two-grams add a small amount of context
-    - 2-gram demo of a sentence
-        - "Bright stars light dark skies, dark skies hide"
-        - How would resulting 2-gram differ from 1-gram?
-    - Show them my two-gram code and the actual code
-        - Run it
-        - Highlight that sometimes can start to repeat part of book verbatim
-            - Why?
+- Finish debugging activity
+    - Work in pairs
 - Discussion
     - Think/write for 5-10 minutes then discuss
     - EQ's:
@@ -51,7 +34,6 @@ None
 
 ### Homework
 
-- Finish worksheet on 1-grams and commit if didn't
 - Data structures problem set
 
 ### Extensions

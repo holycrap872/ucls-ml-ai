@@ -47,7 +47,7 @@ def create_markov_graph(text_words: list[str]) -> dict[str, dict[str, int]]:
     return markov_graph
 
 
-def get_most_frequest_word(hit_map: dict[str, int]) -> str:
+def get_most_frequent_word(hit_map: dict[str, int]) -> str:
     max_hit = None
     max_word = None
     for word, ite in hit_map.items():
@@ -59,7 +59,7 @@ def get_most_frequest_word(hit_map: dict[str, int]) -> str:
     return max_word
 
 
-def get_most_frequest_unsaid_word(hit_map: dict[str, int]) -> str:
+def get_most_frequent_unsaid_word(hit_map: dict[str, int]) -> str:
     max_hit = None
     max_word = None
     for word, ite in hit_map.items():
