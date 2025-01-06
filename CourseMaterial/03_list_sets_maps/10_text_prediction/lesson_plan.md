@@ -7,7 +7,10 @@
 
 ### Setup
 
-
+- `broken_mm_structured.zip` and `broken_mm_unstructured.zip` posted to Schoology
+    - TODO: Broken MM project ready for cloning
+- Markov Model site loaded up
+    - https://www.cs.cmu.edu/~dst/MarkovChainDemo/
 
 ### Actual Lesson
 
@@ -25,6 +28,15 @@
         - Wasn't recording probability
         - Not much "context"
         - How might overcome these problems?
+- N-grams
+    - How they work
+    - Work through simple example:
+        - "i like dogs i like cats i don't like fish"
+        - 1-gram
+        - 2-gram
+        - Graphs start to hold context
+    - Show https://www.cs.cmu.edu/~dst/MarkovChainDemo/
+        - Do for various grams
 - Setup for the day
     - Have another "broken" bit of software
     - Your could is to get it working
