@@ -1,13 +1,15 @@
 ## Essential Questions
 
-- How do we mathematically represent a Markov chain?
-- How can we add some amount of context to Markov chains?
+- How can we add some amount of context to Markov models?
+- How can we use our code to produce something of value?
 
 ## Lesson Plan
 
 ### Setup
 
-- None
+- Copy of `Ouroboros` from Maja Teref
+- `Ouroboros Submission` GoogleDoc posted to Schoology
+    - https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk
 
 ### Actual Lesson
 
@@ -16,21 +18,20 @@
     - Markov chains
     - Tokens
     - n-grams
-- Markov chain implementation
+- Debugging activity
     - Where did we leave off?
     - Difficult / easy parts
-    - Show volunteer's code as of now
+    - Show first few errors found and discuss
+    - Who used a breakpoint and why?
+- Ouroboros activity
+    - Goal: to create a submission for the Ouroboros magazine
+    - Artifacts:
+        - Interesting poem produced by Markov Model
+            - You add the spacing
+        - One paragraph artsy explanation of how Markov Models work
 - Finish debugging activity
     - Work in pairs
-- Discussion
-    - Think/write for 5-10 minutes then discuss
-    - EQ's:
-        - How does this compare with your experience of how ChatBots programmed?
-        - How does this compare with your experience of how ChatBots trained?
-        - How does this compare to your experience using ChatBots?
-    - Show quote from Turing's Computer Intelligence article
-        - Which part of what we did is the "Child Programme"
-        - Which part is the "education process"?
+    - If finish early, can start on the Ouroboros activity
 
 ### Homework
 
@@ -38,14 +39,19 @@
 
 ### Extensions
 
+- Discussion
+    - Reread portion of Turing article
+        - Which part of what we did is the "Child Programme"
+        - Which part is the "education process"?
+    - Think/write for 5-10 minutes then discuss
+    - EQ's:
+        - How does this compare with your experience of how ChatBots programmed?
+        - How does this compare with your experience of how ChatBots trained?
+        - How does this compare to your experience using ChatBots?
+
 - Markov chain formalization
     - Conditional Probability
     - Markov Property:
         - "knowledge of the previous state is all that's necessary to find probability distribution of the current state"
         - https://brilliant.org/wiki/markov-chains/
 - Add a special "stop" character to identify the end of a sentence.
-- Use topic modeling to identify the main topics in a conversation and steer the
-  chatbot's responses in a direction more aligned with the current topic of discussion.
-- Develop a back-off model where if an n-gram isn't found, the model backs off
-  to a (n-1)-gram model for predictions, and so on.
-- "LaPlace smoothing"
