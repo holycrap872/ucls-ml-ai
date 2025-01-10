@@ -10,16 +10,23 @@
 
 - YouTube videos loaded
     - Reinforcement learning: https://youtu.be/DcYLT37ImBY?si=PUazEpIJsm2kLfhU
-- Weka installed
-- Weka's `userClassifer` plugin installed
-- `segment-test.arff` and `segment-challenge.arff` in Schoology
+    - Unsupervised learning: https://www.youtube.com/watch?v=yR7k19YBqiw
+- Schoology assessment on ML vocab
+    - See `assessment.md`
 
 ### Actual Lesson
 
+- Review
+    - Ouroboros submissions
+    - ChatBots and learning
+- Ouroboros submissions
+    - Spin the wheel and critique
 - Going to enter section on "Philosophy of Learning"
-- Learning unit will be two parts:
-    - Given a specific type of problem, how do we best teach machines?
-    - Given a specific type of problem, how do we best teach humans?
+    - Learning unit will be two parts:
+        - Given a specific type of problem, how do we best teach machines?
+        - Given a specific type of problem, how do we best teach humans?
+    - Using ML for a metaphor for how _you_ learn
+        - Much more interesting of a question
 - What do we know about machine learning?
     - Data and stats
 - Three basic types of learning:
@@ -27,26 +34,34 @@
     - Reinforcement
     - Unsupervised
 - Supervised:
-    - https://studio.code.org/s/oceans/lessons/1/levels/2
+    - Play classification game
+        - https://studio.code.org/s/oceans/lessons/1/levels/2
     - Go through lesson 6
     - Silly, but gets the point across
-- Debrief supervised
-    - Labeled/Tagged data
+    - Debrief supervised
+        - Labeled/Tagged data
 - Reinforcement
     - Pokemon game:
         - https://youtu.be/DcYLT37ImBY?si=PUazEpIJsm2kLfhU
         - 0:00 - 3:30
-    - Tons of videos on youtube like this
-- Debrief reinforcement
-    - Formula/function
-    - Akin to evolution
+    - Tons of videos on YouTube like this
+    - Debrief reinforcement
+        - Formula/function
+        - Akin to evolution
 - Unsupervised
     - K-means clustering
     - Somethings here... up to the expert
-- Continuum of effort:
-    - Supervised high human effort, unsupervised low effort
-- Handling data
-    - Overfitting
+    - Computerphile video 
+        - https://www.youtube.com/watch?v=yR7k19YBqiw
+            - Watch up to 3:52
+        - More technical, but an algorithm to split data
+- Overview
+    - All produce a PROGRAM as an output
+        - Programs producing programs is a bit meta
+    - Continuum of effort:
+        - Supervised high human effort, unsupervised low effort
+    - Handling data
+        - Overfitting
 - Name that learning style:
     - Weather prediction -> Supervised
     - Evolution -> Reinforcement
@@ -72,10 +87,7 @@
 ### Homework
 
 - Adv. Data Structure Wheaties 0 - 3
-
-### Extensions
-
-- Read "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete"
+- Schoology assessment on ML vocab
 
 ### Resources:
 

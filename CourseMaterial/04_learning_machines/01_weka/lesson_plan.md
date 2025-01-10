@@ -8,7 +8,9 @@
 ### Setup
 
 - Weka installed on necessary computers
-- `wisconsin_breast_cancer` data loaded onto necessary computers
+    - `wisconsin_breast_cancer` data loaded onto necessary computers
+    - `segment-test.arff` and `segment-challenge.arff` in Schoology
+- "The End of Theory" article printed out
 
 ### Actual Lesson
 
@@ -65,9 +67,11 @@
 
 ### Homework
 
-- None
+- Read "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete"
+    - Prepare for discussion
+- Adv. Data Structure Wheaties 4 - 5
 
-#### Resources
+### Resources
 
 - https://storm.cis.fordham.edu/~gweiss/data-mining/datasets.html
 - https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
