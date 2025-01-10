@@ -8,13 +8,13 @@
 
 ### Setup
 
+- YouTube videos loaded
+    - Reinforcement learning: https://youtu.be/DcYLT37ImBY?si=PUazEpIJsm2kLfhU
 - Weka installed
 - Weka's `userClassifer` plugin installed
 - `segment-test.arff` and `segment-challenge.arff` in Schoology
 
 ### Actual Lesson
-
-#### Day 1
 
 - Going to enter section on "Philosophy of Learning"
 - Learning unit will be two parts:
@@ -70,6 +70,10 @@
     - Test Set
 
 ### Homework
+
+- Adv. Data Structure Wheaties 0 - 3
+
+### Extensions
 
 - Read "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete"
 
