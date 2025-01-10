@@ -5,6 +5,11 @@
 
 ## Lesson Plan
 
+In this lesson, students put the terminology/vocab they learned in the previous
+lesson to use. In particular, they build their own "classifiers" for breast
+cancer detection. They then reflect on each step of the building process and
+apply the correct concept/vocab.
+
 ### Setup
 
 - Weka installed on necessary computers
@@ -25,7 +30,7 @@
     - Give simple data and see if can come up with classifier
     - Draw decision tree for it
     - This is an example of a "classifier program"
-    - Could easily implement this in python with simple if/else
+    - Could easily implement this in Python with simple if/else
 - Give more complex data
     - How could we approach this
     - Graph in different ways and try and find different splits
@@ -58,6 +63,8 @@
         - Explain what classifier is doing
             - Iterating through data
             - Looking for cleanest "cut"
+    - Look at the output: classifier
+        - Just a simple Python program
 - Reflection
     - What was your resulting classifier performance?
     - What is a decision tree?

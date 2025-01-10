@@ -6,6 +6,11 @@
 
 ## Lesson Plan
 
+In this class, we switch to a new unit: ML and human learning. In it, students
+are given the vocab words and concepts that will come up throughout the rest of
+unit. In future classes, students will then use this ML terminology they learn
+to be able to accurately discuss and critique their own learning process.
+
 ### Setup
 
 - YouTube videos loaded
