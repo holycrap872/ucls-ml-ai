@@ -14,8 +14,8 @@ apply the correct concept/vocab.
 ### Setup
 
 - Weka installed on necessary computers
-    - `wisconsin_breast_cancer` data loaded onto necessary computers
-    - `segment-test.arff` and `segment-challenge.arff` in Schoology
+    - `UserClassifier` installed via `Explorer` -> `Tools` -> `PackageManager`
+- `wisconsin_breast_cancer` data loaded onto necessary computers
 - `end_of_theory.docx` article printed out
 
 ### Actual Lesson
@@ -29,12 +29,12 @@ apply the correct concept/vocab.
     - Give simple data and see if can come up with classifier
         - Dog vs. Cat
             - lbs, temperament, label
-            - if > 20 lbs -> dog, elif < 10 lbs and grumpy -> dog, else cat
+            - if > 20 lbs -> dog, elif < 10 lbs and grumpy -> dog, else -> cat
     - Draw decision tree for it
     - This is an example of a "classifier program"
     - Could easily implement this in Python with simple if/else
 - Give more complex data
-    - Show `cancer-challenge.csv` in Excel
+    - Show `cancer-training.csv` in Excel
         - Famous data set
         - Lots of measurements of various features of biopsies
     - How could we approach this?
@@ -75,10 +75,11 @@ apply the correct concept/vocab.
         - Just a simple Python program
 - Reflection
     - What was your resulting classifier performance?
-    - What is a decision tree?
-    - How is a decision tree a classifier?
+    - What does over-fitting look like?
     - Why is a test set necessary?
-    - Overall point that cancer is "aberrant"
+- Set up `end_of_theory.docx` discussion
+    - You didn't understand anything about cancer as making this classifier
+    - What does it mean if can do things without understanding because have good data?
 
 ### Homework
 
