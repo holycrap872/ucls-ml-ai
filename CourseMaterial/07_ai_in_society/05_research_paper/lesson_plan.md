@@ -4,6 +4,10 @@
 
 ## Lesson Plan
 
+### Setup
+
+### Actual Lesson
+
 - Review
     - Talked about data, power, and ethics of AI
     - How has your p-doom changed over the last year?
@@ -24,3 +28,8 @@
     - I'll leave feedback before end of day of each class
     - Explain rubric
 - Go!
+
+### Resources
+
+- https://www.bloomberg.com/opinion/articles/2025-01-08/sam-altman-s-ai-doublespeak-paints-openai-as-safe
+- https://www.vox.com/future-perfect/394336/artificial-intelligence-openai-o3-benchmarks-agi
