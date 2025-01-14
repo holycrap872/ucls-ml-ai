@@ -37,7 +37,7 @@ start to work on the first of the long-running problems sets.
         - [1, 5], [3, 9] -> [(1, 3), (5, 9)]
     - Put question into ChatBot and see what it says
 - Today going to discuss how ChatBots affect learning
-- Give 5m to think about discussion questions:
+- Give 5m to journal about discussion questions:
     - What are appropriate ChatBot usages in other classes?
     - How could a ChatBot help/hurt learning?
     - How much control should each student have in their learning?
