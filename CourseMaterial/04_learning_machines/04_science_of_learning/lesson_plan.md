@@ -7,7 +7,8 @@
 
 ### Setup
 
-Printed out discussion rubrics
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1mMe37rZ7aaS4JuJQlMzTyrxczeBsSBhAXMMPuYuxO4A
 
 ### Actual Lesson
 
@@ -39,4 +40,5 @@ Printed out discussion rubrics
 
 ### Homework
 
-Start thinking about/working on teaching unit
+- Start thinking about/working on teaching unit
+- Adv. Data Structures 15 - XXX
