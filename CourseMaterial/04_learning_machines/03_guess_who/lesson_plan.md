@@ -14,21 +14,23 @@ learn to create decision trees and what features lead to the best tree
 
 - Enough games of "Guess Who" for every student in the class
 - Paper for them to draw their decision trees
-- Up to date ata in `guess_who_data*.csv` that represents game
+- Up to date data in `guess_who_data_*.csv` that represents game
+- `science_of_learning.docx` printed out
 
 ### Actual Lesson
 
 - Review
-    - Supervised
-    - Reinforcement
-    - Unsupervised
+    - Supervised/reinforcement/unsupervised learning
     - Classifier
     - Over-fitting
-    - Human vs. Machine learning
-- Guess Who is very hot right now
-    - Who's played Guess Who?
-    - https://www.youtube.com/watch?v=vl4dQrGaOcU
-        - 0:00 - 1:30
+    - NamedTuples
+- Code review
+    - Spin the wheel
+- Who's played Guess Who?
+    - Have student explain it
+    - Play mini-game of Guess Who
+- Today going to play "decision tree" Guess Who
+    - Explain that have to ask same questions every time (when following same "path")
 - Play a game of Guess Who
     - Draw a decision tree as they go
     - Ask winner:
@@ -36,7 +38,6 @@ learn to create decision trees and what features lead to the best tree
         - What questions did you ask?
 - Have them play two more times and continue to fill in their decision tree
     - Root node/existing nodes should not change
-    - If change, shows asked a bad question to begin with
 - What's going on here?
     - What is everyone's first question?
         - Who's is best and why?
@@ -46,12 +47,12 @@ learn to create decision trees and what features lead to the best tree
         - Brief aside about how gender is a construct
         - Brief aside about how I did my best, but open to revisions
     - Open `Weka` and select `Explorer`
-    - Load up data in `guess_who_data.csv`
+    - Load up data in `guess_who_data_test.csv`
         - Click through data
         - Show that `gender` is the _likely_ the best first split
             - Initially starts out balanced
     - Select `Classify`
-    - Select `trees` -> `J48`
+    - Select Classifier: `Choose` -> `trees` -> `J48`
     - Modify parameters of `J48` by clicking on the `2` after the `-M` option
         - `binarySplits` -> True
         - `minNumObj` -> `1`

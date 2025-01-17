@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-import dataclasses
 import typing
 
 
-@dataclasses.dataclass
-class DecisionNode:
+class DecisionNode(typing.NamedTuple):
     property: str
     property_true: typing.Optional[typing.Self]
     property_false: typing.Optional[typing.Self]
