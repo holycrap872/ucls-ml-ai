@@ -74,21 +74,23 @@ and then write at **least two unit tests** in the
     - For example: `"compu" -> ["co", "om", "mp", "pu"]`
 14. Create a function that analyzes flight data. Each flight record is a
     NamedTuple containing `flight_number` (int), and `departure_date` (a
-    "YYYY-MM-DD" string). The function should take a set of flight records,
+    `"YYYY-MM-DD"` string). The function should take a set of flight records,
     a start date, and an end date as inputs and return a list of all the
     flight numbers that departed within the given time period.
     - Hint: The fact you're using a "YYYY-MM-DD" string means you can use `<=`
       to easily compare dates.
 15. Create a function that takes a **list of lists of integers** as an input
     and returns a "flattened" version of the input (aka. no sub-lists).
-    - For example `[[1, 3], [4, 100]] -> [1, 3, 4, 100]`
-16. Create a function that finds the largest number in a list and returns a
-    tuple: the number and the list without the number.
+    - For example `[[1, 3], [4, 3, 100]] -> [1, 3, 4, 3, 100]`
+16. Create a function that takes a list of integers as an input and returns a
+    NamedTuple. The NamedTuple should have the properties `largest_int` (int)
+    and `rest` (the original list without the `largest_int`).
     - For example: `[5, 7, 4] -> (7, [5, 4])`
+    - Note: You **cannot** use `sorted()` or `sort()`
 17. Create a function that takes a list of integers as an input and returns
     a sorted version of the list.
     - For example: `[5, 7, 4, 3] -> [3, 4, 5, 7]`
-    - Hint: Use the function your created for the previous problem
+    - Note: You **must use** the function your created for the previous problem
 18. Implement a system to track employee hours. Employee hours should be tracked
     via a NamedTuple that includes `employee_id` (int) and `hours_worked` (int).
     Create a function that takes a list of the employee records and a list of
