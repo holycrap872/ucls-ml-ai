@@ -5,8 +5,8 @@ back and ask ourselves, what are the possible downsides"* - Emily Bender
 
 This half-year course introduces students to both the technological and
 philosophical underpinnings of the current AI revolution. Throughout the term,
-students will be exposed to a variety of AI/ML techniques such as markov
-chains and bayesian classifiers. Students will implement part or all of these
+students will be exposed to a variety of AI/ML techniques such as Markov
+chains and Bayesian classifiers. Students will implement part or all of these
 techniques in Python and then use the resulting functionality to draw
 conclusions about various datasets. Alongside each of these engineering tasks,
 students will also be exposed to readings that highlight the various
@@ -100,14 +100,13 @@ typically involve:
   outside of class time.
 - Homework (after class): Standard assignments (done individually) to practice
   and develop mastery of the material covered in class.
+- Discussions (during class): Whole class discussions centered around a
+  particular reading or idea previously covered in class.
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
   your understanding of the terminology and the application of the concepts of
   the course.
-- Projects: Sometimes classwork and homework will be part of a continuing
-  group project. In this case, you will have to schedule time outside of class
-  to work with your partner. This could be done using Zoom or Google Meet.
 
-Late or revised homework, projects and quizzes will be accepted with a
+Late or revised homework, projects, and quizzes will be accepted with a
 letter-grade penalty up until the end of a unit. Once we move on to the next
 unit, no late or revised work from the prior units will be accepted. In practice,
 though, you will want to complete any missing assignments as soon as possible as
@@ -118,10 +117,10 @@ future work will build on previously covered concepts.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 50%
+- Classwork: 55%
 - Homework: 30%
 - Discussions: 10%
-- Quizzes: 10%
+- Quizzes: 5%
 
 Grades for assignments will be posted on Schoology within one week of their due
 date.

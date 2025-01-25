@@ -10,14 +10,14 @@ variety of AI/ML techniques including evolutionary algorithms and neural network
 Students will implement part or all of these techniques in Python and then use
 the resulting functionality to draw conclusions about various datasets.
 Alongside each of these engineering tasks, students will also be exposed to
-readings that highlight the trade offs that come from asking machines to make
+readings that highlight the tradeoffs that come from asking machines to make
 important decisions and the difficulty of determining the root of consciousness.
 
 The goal of this course is for students to emerge as capable engineers and as
 critical creators of technology. In terms of engineering, students will become
-schooled in best practices such as CI/CD, virtual machines, and git. In terms
+schooled in best practices such as CI/CD, virtual machines, and git. In terms of
 critical thinking, students will be forced to explain how different
-philosophical ideas map onto different technical ideas and how they might be
+philosophical ideas map onto different technologies, and how they might be
 utilized in the future. Students will continually come back to questioning how
 to accomplish a particular task, what the costs and benefits of their decisions
 are, and what the hidden downstream effects of their decisions might be.
@@ -31,8 +31,8 @@ are, and what the hidden downstream effects of their decisions might be.
   systems we interact with on a daily basis?
 - How can we create systems that avoid our personal biases and the limits of
   our knowledge?
-- How can we utilize outside resources to increase our own capabilities?
 - How can data be used to produce just outcomes?
+- How can we utilize outside resources to increase our own capabilities?
 
 ## Learning Objectives
 
@@ -103,14 +103,15 @@ typically involve:
   outside of class time.
 - Homework (after class): Standard assignments (done individually) to practice
   and develop mastery of the material covered in class.
-- Quizzes: Straightforward programming and multiple-choice questions to ensure
-  your understanding of the terminology and the application of the concepts of
-  the course.
 - Projects: Sometimes classwork and homework will be part of a continuing
   group project. In this case, you will have to schedule time outside of class
   to work with your partner. This could be done using Zoom or Google Meet.
-
-Late or revised homework, projects and quizzes will be accepted with a
+- Discussions (during class): Whole class discussions centered around a
+  particular reading or idea previously covered in class.
+- Quizzes: Straightforward programming and multiple-choice questions to ensure
+  your understanding of the terminology and the application of the concepts of
+  the course.
+Late or revised homework, projects, and quizzes will be accepted with a
 letter-grade penalty up until the end of a unit. Once we move on to the next
 unit, no late or revised work from the prior units will be accepted. In practice,
 though, you will want to complete any missing assignments as soon as possible as
@@ -121,11 +122,11 @@ future work will build on previously covered concepts.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 20%
+- Classwork: 25%
 - Homework: 20%
-- Discussions: 10%
-- Quizzes: 10%
 - Projects: 40%
+- Discussions: 10%
+- Quizzes: 5%
 
 Grades for assignments will be posted on Schoology within one week of their due
 date.
