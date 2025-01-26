@@ -15,6 +15,8 @@
     - Types of learning for humans
     - Types of learning for machines
     - PRIMM
+    - Primitives vs. Containers
+    - Memory as a big excel spreadsheet
 - Reiterate thoughts on PRIMM (soap box)
     - Assumption that some people are just good at software... not true!
     - Way to be good is to approach problems with a structured approach

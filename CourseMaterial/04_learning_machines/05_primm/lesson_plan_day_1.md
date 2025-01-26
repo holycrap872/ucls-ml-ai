@@ -50,6 +50,7 @@ immutability.
     - Walk through worksheet
         - Label types of learning as you encounter them
         - Find one place to improve
+    - Going to work in pairs... just like MS/HS
     - Go!
 - Reflection
     - What's good?
