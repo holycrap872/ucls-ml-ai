@@ -108,7 +108,7 @@ and then write at **least two unit tests** in the
     - For example: `[5, 7, 4] -> 0`
     - For example: `[5, 5, 6, 3, 4, 4] -> 3`
     - Hint: Nested loops of `for i in range(len(list))` and `for j in range(i + 1, len(list))`
-10. Create a function that takes a list of integers as an input and returns
+20. Create a function that takes a list of integers as an input and returns
     a NamedTuple that contains information on which number has the longest
     consecutive elements sequence and what the length of the sequence was.
     - For example: `[1, 5, 5, 6, 6, 6, 5, 5, 2] -> NamedTuple(val=6, length=3)`
