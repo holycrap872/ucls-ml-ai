@@ -25,11 +25,11 @@
 - Code Review
     - Spin the wheel
 - Worksheet on NamedTuples
-    - Goal of worksheet is to understand "pass by reference" and importance of immutability
+    - Goal of worksheet is to understand importance of immutability
     - Meta goal of you to assess how you're learning
     - Walk through worksheet
-        - Label types of learning as you encounter them
-        - Find one place to improve
+        - After finish each problem, leave a comment reflection on worksheet
+        - Either about PRIMM or some other learning technique
     - Go!
 - Reflection
     - What's good?
