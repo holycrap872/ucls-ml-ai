@@ -1,13 +1,13 @@
 ## Essential Questions
 
+- What techniques help humans learn best?
 - What is the best way to approach new software?
-- What is recursion and why is it useful?
 
 ## Lesson Plan
 
 ### Setup
 
-- `purpose_of_grades.docx` printed out
+- None
 
 ### Actual Lesson
 
@@ -35,9 +35,7 @@
     - What's good?
     - What's bad?
     - What matches best practice?
-- Discussion prep
-    - The purpose of grades
 
 ### Homework
 
-- Read "The Purpose of Grades" and annotate
+- Adv. Data Structures 21 - 22
