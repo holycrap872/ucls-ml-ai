@@ -124,11 +124,13 @@ and then write at **least two unit tests** in the
 23. Create a function that takes a list of integers as an input and then returns
     the maximum sum of **non-adjacent** numbers.
     - For example: `[17, 100, 101, 5, 8] -> 118`
+    - Hint: A `for` loop in a `for` loop
 24. Create a function that takes a string as an input and returns a boolean of
     whether the string has balanced parentheses.
     - For example: `"((1 + 2) * 4) + (4 * 5) -> True`
     - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
     - For example: `"((1 + 2))) * 4 + ((4 * 5) -> False`
+    - Hint: An accumulator that should end at 0
 25. Create a function that takes a string as an input and returns the longest
     substring without repeating characters.
     - For example: `"hellothere" -> "lother"`
