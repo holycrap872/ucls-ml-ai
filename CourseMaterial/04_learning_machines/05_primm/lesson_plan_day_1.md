@@ -36,7 +36,6 @@ immutability.
     - In past classes?
     - In the way you learn to code?
     - In your interactions with ChatBots?
-    - In debugging?
 - Thoughts on PRIMM (soap box)
     - Assumption that some people are just good at software... not true!
     - Way to be good is to approach problems with a structured approach
