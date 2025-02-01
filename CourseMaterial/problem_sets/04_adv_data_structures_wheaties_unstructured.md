@@ -111,12 +111,15 @@ and then write at **least two unit tests** in the
     point that includes `date` ("YYYY-MM-DD" string), `location` (string), and
     `vehicle_count` (int). Create a function that takes a list of data points
     as an input and returns the busiest location (str) in one day.
+    - Note: There can be two or more NamedTuples about the same location
 23. Create a function that takes a list of integers as an input and then returns
     the maximum sum of **non-adjacent** numbers.
     - For example: `[17, 100, 101, 5, 8] -> 118`
 24. Create a function that takes a string as an input and returns a boolean of
     whether the string has balanced parentheses.
     - For example: `"((1 + 2) * 4) + (4 * 5) -> True`
+    - For example: `"))(( -> False`
+    - For example: `"(()) -> True`
     - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
     - For example: `"((1 + 2))) * 4 + ((4 * 5) -> False`
 25. Create a function that takes a string as an input and returns the longest
