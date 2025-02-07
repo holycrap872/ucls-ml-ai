@@ -22,6 +22,7 @@
         - Depends on stage of expertise/age
 - Project setup:
     - Come up with a two day unit on topic of your choice for 9th graders
+        - One 50m class, one 75m class (in any order)
         - Should be something you wished you had learned/spent more time on
             - e.g., functions, accumulator pattern, lists
     - Create ~20m intro slides/activity and 1.5 day worksheet
@@ -33,10 +34,9 @@
             - Scaffolding
             - Reflection
             - ... all the other stuff that I think is good
-        - Assessment
+        - Assessment for homework on second day
             - Captures knowledge
             - Rubric to grade student's understanding
-
     - Teaching progression and explain purpose of each element
     - Work in pairs
 - Go over `Teaching Unit Worksheet`:
@@ -44,6 +44,11 @@
 - Go over rubric
     - See `teaching_unit_rubic.docx`
 - Have three and a half days
+    - Give basic checkpoints based on day
+        - Beginning of day 2: Agree on unit and complete "Unit Lesson Plan"
+        - Beginning of day 3: Create assessment and slides
+        - Beginning of day 4: 1/2 way through worksheet
+        - Beginning of day 5: Done worksheet and annotations... ready to present
     - Lots to do, so use ChatBot as aid
         - **Must** document ChatBot usage
     - Five minute check-in with every group at end of each day for feedback from me
