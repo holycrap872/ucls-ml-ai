@@ -23,9 +23,9 @@ then write at **least two unit tests** in the `test_quiz_1_wheaties.py` file.
     - For example: `[5, 2, 1], ["b", "bye", "hi"] -> ["bbbbb", "byebye", "hi"]`
     - Hint: `3 * "hi" -> "hihihi"`
 0. Create a function that takes a list of strings as input and returns a
-   dictionary where the keys are single letters and the values are lists of
+   dictionary where the keys are single letters and the values are sets of
    strings with that first letter.
-    - For example: `{"apple", "bad", "am"} -> {"a": ["apple", "am"], "b": ["bad"]}`
+    - For example: `["apple", "bad", "am"] -> {"a": {"apple", "am"}, "b": {"bad"}}`
     - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
 0. Create a tool for calculating which internal combustion cars can travel a
    particular distance on a single tank of gas. Cars should be NamedTuples that
