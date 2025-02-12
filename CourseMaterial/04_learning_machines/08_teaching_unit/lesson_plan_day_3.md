@@ -20,10 +20,11 @@
 - Review
     - What are we doing?
     - Why?
-- Presentation
+- Explain presentation expectations
     - Doesn't need to be practiced because you're not being assessed on it
     - About showing the materials you created and explaining decisions
     - Give presentation example using functions
+        - See slides and links above
     - Show AI query of my asking for feedback on the worksheet
 - Reflection
     - Questions:
@@ -37,15 +38,15 @@
     - Create ~20m intro slides/activity and 1.5 day worksheet
         - PRIMM worksheet
         - Assessment
-- Have one and a half days left
+- Have three days left (including today)
+    - **AI ALLOWED**
     - Give basic checkpoints based on day
-        - Beginning of day 2: Agree on unit and complete "Unit Lesson Plan"
-        - Beginning of day 3: Create assessment and slides
-        - Beginning of day 4: 1/2 way through worksheet
-        - Beginning of day 5: Done worksheet and annotations... ready to present
+        - Day 3 Homework: 1/2 way through worksheet
+        - Day 4 Homework: Complete worksheet (peer review next day)
+        - Day 5 Homework: Integrate comments, annotations... ready to present
     - Five minute check-in with every group at end of each day for feedback from me
 - Go!
 
 ### Homework
 
-- Work on project
+- 1/2 way through worksheet

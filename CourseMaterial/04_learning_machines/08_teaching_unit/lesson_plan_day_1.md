@@ -43,12 +43,13 @@
     -  https://docs.google.com/document/d/19wi7dZ0e7rToo3LFZgKIK9hPGyWPnhlkPbCnl5Trqak
 - Go over rubric
     - See `teaching_unit_rubic.docx`
-- Have three and a half days
+- Have four days plus rest of this class
     - Give basic checkpoints based on day
-        - Beginning of day 2: Agree on unit and complete "Unit Lesson Plan"
-        - Beginning of day 3: Create assessment and slides
-        - Beginning of day 4: 1/2 way through worksheet
-        - Beginning of day 5: Done worksheet and annotations... ready to present
+        - Day 1 Homework: Agree on unit and complete "Unit Lesson Plan"
+        - Day 2 Homework: Create assessment and slides
+        - Day 3 Homework: 1/2 way through worksheet
+        - Day 4 Homework: Complete worksheet (peer review next day)
+        - Day 5 Homework: Integrate comments, annotations... ready to present
     - Lots to do, so use ChatBot as aid
         - **Must** document ChatBot usage
     - Five minute check-in with every group at end of each day for feedback from me
@@ -56,4 +57,4 @@
 
 ### Homework
 
-- Work on project
+- Agree on unit and complete "Unit Lesson Plan"
