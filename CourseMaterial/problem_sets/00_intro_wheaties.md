@@ -14,16 +14,19 @@ then write at **least three unit tests** in the `test_intro_wheaties.py` file.
 
 0. Create a function that takes three numbers as inputs and returns the smallest
    number. Do **not** use any outside helper functions (e.g., `min()`).
+    - For example: `5, 4, 11 -> 4`
 0. Create a function that takes a list of numbers as an input and returns the sum
    of all the numbers in the list. Do **not** use any outside helper functions
-   (e.g., `sum()`). Create at least three unit tests.
+   (e.g., `sum()`).
+    - For example: `[1, 5, 1, 2] -> 9`
 0. Create a function that takes a list of numbers as an input and returns the
    largest number in the list. Do **not** use any outside helper functions
-   (e.g., `max()`). Create at least three unit tests.
+   (e.g., `max()`).
+    - For example: `[1, 5, 1, 2] -> 5`
 0. Create a function that takes two lists of numbers of the same size as inputs
    and returns a single list with each of the numbers in the same indices added
-   together. For example `[1, 4], [3, 2] -> [4, 6]` Create at least three unit
-   test.
-0. Create a function that takes a list of pairs as an input and returns a single
-   list with each of the pairs added together. For example
-   `[(1, 4), (3, 10)] -> [5, 13]`. Create at least three unit tests.
+   together.
+    - For example `[1, 4, 11], [3, 2, 20] -> [4, 6, 31]`
+0. Create a function that takes a list of tuples as an input and returns a single
+   list with each of the tuples added together.
+    - For example `[(1, 4), (3, 10), (18, 1)] -> [5, 13, 19]`
