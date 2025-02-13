@@ -28,32 +28,44 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
 0. Create a function that takes a list of strings as an input and then returns
    a string that is all of the strings in the input list concatenated.
     - For example: `["for", "da", "win"] -> "fordawin"`
+    - Hint: accumulator pattern
+0. Create a function that takes a list of strings as an input and then returns
+   the same list of strings with words rotated one position left.
+    - For example: `["hello", "there", "world"] -> ["there", "world", "hello"]`
+    - Hint: `pop()` and `append()`
 0. Create a function that takes a list of strings as an input and then returns
    a list containing all elements that were at **even indices** from the input
    list.
     - For example: `["for", "da", "big", "win" "!"] -> ["for", "big", "!"]`
+    - Hint: accumulator pattern combined with using `range()` with step
 0. Create a function that takes a list of integers as an input and then, using
    a loop, returns the reverse of the input list.
     - **Do not** use something like `[::-1]`.
+    - For example: `[1, 5, 8, 10] -> [10, 8, 5, 1]`
 0. Create a function that takes a list of strings as an input and then returns
    a list of all of the strings that **start with** a `"w"` or `"W"`.
     - For example: `["What", "awe", "wonderful", "world"] -> ["What", "wonderful", "world"]`
+0. Create a function that takes a list of integers as input and returns the sum
+   of all positive numbers.
+    - For example: `[1, -4, 6, -2, 3] -> 10`
+    - Hint: accumulator pattern
 0. Create a function that takes **two inputs**: a list of integers and a single
-   integer. The function will the return True/False as to whether the single
+   integer. The function will then return True/False as to whether the single
    integer is in the list.
     - For example: `[1, 3, 5], 4 -> False`
+    - For example: `[1, 3, 5], 3 -> True`
 0. Create a function that takes a list of **non-repeating** integers as an input
    and then returns the second largest integer in the input list.
     - For example: `[1, 3, 2, 5] -> 3`
-    - Hint: Sorting really helps
+    - Hint: `sorted()`
 0. Create a function that takes **two inputs**: a list of integers and a single
    integer. The function will count the number of times that the given integer
    appears in the input list.
-    - For example: `[1, 3, 5], 4 -> 0`
+    - For example: `[1, 3, 5, 4, 11, 4], 4 -> 2`
 0. Create a function that takes **two inputs**: a list of integers and a second
    list of integers as inputs and then returns a single list containing all
-   elements that are in **only one** of the two input lists.
-    - For example: `[1, 2, 3], [2, 3, 4, 5] -> [1, 4, 5]`
+   elements that are in **both** of the two input lists.
+    - For example: `[1, 2, 3, 5], [2, 3, 4, 5] -> [2, 3, 5]`
 0. Create a function that takes **two inputs**: a list of strings and a second
    list of strings as inputs and then returns a single list which is the strings
    at each index concatenated.
@@ -91,12 +103,23 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
    squared.
     - For example: `"1,5,10,-9" -> [1, 25, 100, 81]`
     - Hint: `split()`
+0. Create a function that takes a list of integers as input and returns a new
+   list where each element is the sum of all previous elements.
+    - For example: `[1, 2, 3, 11] -> [1, 3, 6, 17]`
 0. Create a function that takes a string of the words "one" or "zero" and
    returns a matching list of those words as integers.
     - For example: `"one one zero one" -> [1, 1, 0, 1]`
 0. Create a function that takes a list of integers and returns the difference
    between the smallest and the largest elements.
     - For example: `[3, -2, 10, 7, 0, -1] -> 12`
+0. Create a function that takes a list of numbers as input and returns the
+   average (float).
+    - For example: `[1, 2, 3, 4] -> 2.5`
+0. Create a function that takes **two inputs**: a list of integers and a second
+   list of integers as inputs and then returns a single list containing all
+   elements that are in **only one** of the two input lists.
+    - For example: `[1, 2, 3], [2, 3, 4, 5] -> [1, 4, 5]`
+    - Hint: use two separate loops
 0. Create a function that takes a list of strings as an input and then returns
    whether the input list contains any duplicate elements.
-    - Hint: A loop in a loop
+    - Hint: use a loop in a loop
