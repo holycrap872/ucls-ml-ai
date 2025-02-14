@@ -17,23 +17,23 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a list of integers as an input and returns a new
    list of all of the integers that are **odd** in the original list.
     - For example: `[3, 1, 7, 6, 6, 10] -> [3, 1, 7]`
-    - Hint: The "modulo" operator (`%`) will be helpful here
+    - Hint: the "modulo" operator (`%`) will be helpful here
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a new dictionary that contains all of the key/value
    pairs from the input dictionary where: the keys are even and the values are odd.
     - For example: `{2: 5, 3: 6, 7: 7, 4: 11} -> {2: 5, 4: 11}`
-    - Hint: Create an empty dict and add to it using the accumulator pattern
+    - Hint: create an empty dict and add to it using the accumulator pattern
 0. Create a function that takes a list of integers as an input and returns a new
    list of all of the integers in the original list that have exactly two zeroes.
     - For example: `[101, 500, 2031, 2030, 9000] -> [500, 2030]`
-    - Hint: Convert the integers to strings
+    - Hint: convert the integers to strings
     - Hint: `.count()`
 0. Create a function that takes an integer and a list of integers as inputs and
    returns a boolean of whether the integer is divisible by ALL of the integers
    in the list.
     - For example: `12, [1, 2, 3, 4, 6] -> True`
     - For example: `9, [1, 3, 4] -> False`
-    - Hint: Use a loop with `return False` inside and `return True` outside the loop
+    - Hint: use a loop with `return False` inside and `return True` outside the loop
 0. Create a function that takes an integer as an input and returns a boolean of
    whether that number is a prime or not.
     - For example: `12 -> False`
@@ -46,12 +46,16 @@ and then write at **least two unit tests** in the
    (float). The function should take a list of student records and a major as
    inputs and return a float that is the average GPA of students in the specified
    major.
-    - For example: `[SR("eric", "cs", 3.3), SR("jen", "bio", 3.7)], "cs" -> 3.3`
+    - For example: `[SR("eric", "cs", 3.3), SR("jenn", "bio", 3.7)], "cs" -> 3.3`
+0. Create a function that processes a list of the student records from the
+   previous problem. The function should take a list of student records as an
+   input and return a dictionary mapping student names to their grade.
+    - For example: `[SR("eric", "cs", 3.3), SR("jenn", "bio", 3.7)] -> {"eric": 3.3, "jenn": 3.7}`
 0. Create a function that takes a list of integers as an input and returns the
    maximum sum of two **different** numbers in the list.
     - For example: `[4, 8, 2, 3] -> 12`
-    - Hint: There is an easy way to do this using `sorted()`
-    - Hint: Return `None` if you don't have all the necessary information
+    - Hint: there is an easy way to do this using `sorted()`
+    - Hint: return `None` if you don't have all the necessary information
 0. Create a function that takes a list of integers as an input and returns the
    number of times duplicates appear in the list.
     - For example: `[1, 1, 5, 1, 5, 6] -> 3`
@@ -62,19 +66,18 @@ and then write at **least two unit tests** in the
    list of weather records, a start date (a "YYYY-MM-DD" string), and an end
    date (a "YYYY-MM-DD" string). It should then return both the average
    temperature (float) and the total precipitation over a given period (float).
-    - Hint: The fact you're using a "YYYY-MM-DD" string means you can use `<=`
-      to easily compare dates.
+    - Hint: using a "YYYY-MM-DD" string means you can use `<=` to compare dates
 0. Create a function that takes a dictionary as an input and returns a
    dictionary where the keys and values have been reversed.
     - For example: `{"a": 1, "b": 2} -> {1: "a", 2: "b"}`
-    - Note: It's ok if duplicate values result in some things being "dropped"
+    - Note: it's ok if duplicate values result in some things being "dropped"
 0. Create a function that takes a dictionary as an input and returns the
    **value** with the highest frequency in a dictionary.
     - For example: `{"a": 1, "b": 2, "c": 1} -> 1`
 0. Create a function that takes an integer as an input and returns a list
    containing all of the primes less than or equal to the given number.
     - For example: `11 -> [2, 3, 5, 7, 11]`
-    - Hint: Use a function from a previous problem
+    - Hint: use a function from a previous problem
 0. Create a function that takes a string as an input and returns a list of all
    two-length substrings.
     - For example: `"compu" -> ["co", "om", "mp", "pu"]`
@@ -84,21 +87,20 @@ and then write at **least two unit tests** in the
     `"YYYY-MM-DD"` string). The function should take a set of flight records,
     a start date, and an end date as inputs and return a list of all the
     flight numbers that departed within the given time period.
-    - Hint: The fact you're using a "YYYY-MM-DD" string means you can use `<=`
-      to easily compare dates.
+    - Hint: using a "YYYY-MM-DD" string means you can use `<=` easily compare dates
 0. Create a function that takes a **list of lists of integers** as an input
    and returns a "flattened" version of the input (aka. no sub-lists).
     - For example `[[1, 3], [4, 3, 100]] -> [1, 3, 4, 3, 100]`
-    - Hint: Create an empty list and add to it using the accumulator pattern
+    - Hint: create an empty list and add to it using the accumulator pattern
 0. Create a function that takes a list of integers as an input and returns a
    NamedTuple. The NamedTuple should have the properties `largest_int` (int)
    and `rest` (the original list without the `largest_int`).
     - For example: `[5, 7, 4] -> (7, [5, 4])`
-    - Note: You **cannot** use `sorted()` or `sort()`
+    - **Do not** use `sorted()` or `sort()`
 0. Create a function that takes a list of integers as an input and returns
    a sorted version of the list.
     - For example: `[5, 7, 4, 3] -> [3, 4, 5, 7]`
-    - Note: You **must use** the function your created for the previous problem
+    - **You must** use the function your created for the previous problem
 0. Implement a system to track employee hours. Employee hours should be tracked
    via a NamedTuple that includes `employee_id` (int) and `hours_worked` (int).
    Create a function that takes a list of the employee records and a list of
@@ -107,7 +109,7 @@ and then write at **least two unit tests** in the
    numbers add up to 10.
     - For example: `[5, 7, 4] -> 0`
     - For example: `[5, 5, 6, 3, 4, 4] -> 3`
-    - Hint: Nested loops of `for i in range(len(list))` and `for j in range(i + 1, len(list))`
+    - Hint: nested loops of `for i in range(len(list))` and `for j in range(i + 1, len(list))`
 0. Create a function that takes a list of integers as an input and returns
    a NamedTuple that contains information on which number has the longest
    consecutive elements sequence and what the length of the sequence was.
@@ -116,7 +118,7 @@ and then write at **least two unit tests** in the
    a new dictionary containing all of the key/value pairs that are in **both**
    dictionaries.
     - For example: `{1: 5, 3: 7}, {3: 4, 1: 5, 9: 10} -> {1: 5}`
-    - Hint: Create an empty dict and add to it using the accumulator pattern
+    - Hint: create an empty dict and add to it using the accumulator pattern
 0. Create a tool for analyzing traffic data. Use a NamedTuple for each data
    point that includes `date` ("YYYY-MM-DD" string), `location` (string), and
    `vehicle_count` (int). Create a function that takes a list of data points
@@ -125,7 +127,7 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a list of integers as an input and then returns
    the maximum sum of **non-adjacent** numbers.
     - For example: `[17, 100, 101, 5, 8] -> 118`
-    - Hint: A `for` loop in a `for` loop
+    - Hint: a `for` loop in a `for` loop
 0. Create a function that takes a string as an input and returns a boolean of
    whether the string has balanced parentheses.
     - For example: `"((1 + 2) * 4) + (4 * 5) -> True`
@@ -133,7 +135,20 @@ and then write at **least two unit tests** in the
     - For example: `"(()) -> True`
     - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
     - For example: `"((1 + 2))) * 4 + ((4 * 5) -> False`
-    - Hint: An accumulator that should end at 0
+    - Hint: an accumulator that should end at 0
+0. Create a function that takes a list of sets of integers as an input and
+   returns the set of elements that appear in an odd number of sets.
+    - For example: `[{1, 2, 8}, {2, 3}, {2, 3, 4, 8}] -> {1, 2, 4}`
+    - Hint: use a dictionary to count
+0. Create a function that takes a list of products and returns the set of items
+   that are less than `10.0` dollars. Use a NamedTuple for each product
+   that includes `name` (str), `price` (float), and `category` (str).
+    - For example: `[PR("pen", 2.0, "office"), PR("desk", 150.0, "office")] -> {"pen"}`
+0. Create a function that takes a list of products from the previous problem and
+   returns the set of the most expensive product in each category.
+    - For example: `[PR("pen", 2.0, "office"), PR("desk", 150.0, "office")] -> {"office": "desk"}`
+    - Hint: use a dictionary to track each category's most expensive item
 0. Create a function that takes a string as an input and returns the longest
    substring without repeating characters.
     - For example: `"hellothere" -> "lother"`
+    - Hint: a `for` loop in a `for` loop

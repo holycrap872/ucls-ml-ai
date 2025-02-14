@@ -16,12 +16,12 @@ and then write at **least two unit tests** in the
 
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a set of all of the dictionary's **keys**.
-    - **Do not** use the `.keys()` function.
     - For example: `{1: 5, 6: 3} -> {1, 6}`
+    - **Do not** use the `.keys()` function
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a set of all of the dictionary's **values**.
-    - **Do not** use the `.values()` function.
     - For example: `{1: 5, 6: 3} -> {5, 3}`
+    - **Do not** use the `.values()` function
 0. Create a function that takes two lists of **equal size** as inputs and returns
    a dictionary where each element of the first list points to the corresponding
    element in the second list.
@@ -38,12 +38,12 @@ and then write at **least two unit tests** in the
     - For example: `"wow!" -> {"w": 2, "o":  1, "!": 1}`
 0. Create a function that takes dictionary of integers mapped to integers as an
    input and returns the largest **key**.
-    - **Do not** use the `max()` function.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 6`
+    - **Do not** use the `max()` function
 0. Create a function that takes dictionary of integers mapped to integers as an
    input and returns the smallest **value**.
-    - **Do not** use the `min()` function.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 2`
+    - **Do not** use the `min()` function
 0. Create a function that takes a list of pairs as an input and returns those
    pairs as keys/values in a dictionary.
     - For example: `[(1, "a"), (2, "b"), (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
@@ -52,9 +52,9 @@ and then write at **least two unit tests** in the
     - For example: `"my my well well" -> {"my", "well"}`
 0. Create a function that takes two sets of integers as an input and returns a
     boolean of whether the first set is a "subset" of the second set.
-    - Note: set `a` is subset of set `b` if every element in `a` is also in `b`.
     - For example: `{1, 4}, {1, 4, 10} -> True`
-    - **Do not** use the `.issubset()` function.
+    - **Do not** use the `.issubset()` function
+    - Note: set `a` is subset of set `b` if every element in `a` is also in `b`
 0. Create a function that takes list of integers and returns a dictionary
    containing the even/odd count.
     - For example: `[1, 11, 10, 5] -> {"even": 1, "odd": 3}`
@@ -64,8 +64,8 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a list of all of the **values** in the dictionary in
    sorted order.
-    - Hint: use the `sorted()` function
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> [2, 6, 7, 9]`
+    - Hint: use the `sorted()` function
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a list of all of the values **ordered by their keys**
    (different from the previous question).
@@ -78,8 +78,8 @@ and then write at **least two unit tests** in the
     - For example: `"hey you hey there hey" -> {"hey": 3, "you": 1, "there": 1}`
 0. Create a function that takes a string as an input and returns the first,
    non-repeated character in the string.
-    - Hint: use a function you created for an earlier problem in this sheet
     - For example: `"good gosh" -> "d"`
+    - Hint: use a function you created for an earlier problem in this sheet
 0. Create a function that takes a list of integers as an input and then returns
    a boolean of whether there are duplicates in the list.
     - For example: `[5, 6, 7, 4, 5] -> True`
@@ -89,7 +89,7 @@ and then write at **least two unit tests** in the
 0. Create a function that takes two sets of integers as an input and returns a
    set of integers that is the intersection of the two sets.
     - For example: `{6, 9, 12}, {1, 5, 6, 8, 12, 13} -> {6, 12}`
-    - **Do not** use the `intersection()` function.
+    - **Do not** use the `intersection()` function
 0. Create a function that takes a list of integers as an input and returns a
    list that is a version of the original list, but without any duplicates. The
    order or the elements from the original list should be preserved.

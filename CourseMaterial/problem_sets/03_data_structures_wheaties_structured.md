@@ -18,124 +18,141 @@ and then write at **least two unit tests** in the
    an input and returns a set of all of the dictionary's **keys**.
     - For example: `{1: 5, 6: 3} -> {1, 6}`
     - **Do not** use the `.keys()` function
-    - Hint: To iterate through a dictionary's keys, you do `for key in d:`
-    - Hint: To create an empty accumulator set, you do `acc_set = set()`
+    - Hint: to iterate through a dictionary's keys, you do `for key in d:`
+    - Hint: to create an empty accumulator set, you do `acc_set = set()`
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a set of all of the dictionary's **values**.
     - For example: `{1: 5, 6: 3} -> {5, 3}`
     - **Do not** use the `.values()` function
-    - Hint: To use a key to get a dictionary's value, you do `d[key]`
+    - Hint: to use a key to get a dictionary's value, you do `d[key]`
 0. Create a function that takes two lists of **equal size** as inputs and returns
    a dictionary where each element of the first list points to the corresponding
    element in the second list.
     - For example: `[1, 2, 3], ["a", "b", "c"] -> {1: "a", 2: "b", 3: "c"}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
-    - Hint: To add a value in a dictionary, you do `d[key] = value`
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: to add a value in a dictionary, you do `d[key] = value`
+0. Create a function that takes a dictionary of integers mapped to integers and
+   returns True if any key equals its value.
+    - For example: `{1: 2, 3: 3, 4: 2} -> True`
+    - Hint: `return True` somewhere inside a loop
 0. Create a function that takes an **even-length** list of integers and returns
    a dictionary where each even-indexed element maps to the following,
    odd-indexed element.
     - For example: `[1, 10, 2, 7, 8, 3] -> {1: 10, 2: 7, 8: 3}`
-    - Hint: Use a `for i in range(0, len(l), 2):` loop
+    - Hint: use a `for i in range(0, len(l), 2):` loop
 0. Create a function that takes a sentence as an input and returns a set of all
    of the characters in the sentence.
    - For example: `"hey there" -> {"h", "e", "y", "t", "h", "r"}`
-   - Hint: To create an empty accumulator set, you do `acc_set = set()`
+   - Hint: to create an empty accumulator set, you do `acc_set = set()`
 0. Create a function that takes a sentence as an input and returns a dictionary
    storing the count of each character.
     - For example: `"wow!" -> {"w": 2, "o":  1, "!": 1}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
-    - Hint: You need an `if letter not in d:` check somewhere in the loop
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: you need an `if letter not in d:` check somewhere in the loop
+0. Create a function that takes two sets of integers as input and returns a set
+   containing all elements from either set.
+    - For example: `{1, 2}, {2, 3, 4} -> {1, 2, 3, 4}`
+    - **Do not** use the `union()` function
+    - Hint: to create an empty accumulator set, you do `acc_set = set()`
 0. Create a function that takes a dictionary of integers mapped to integers as an
    input and returns the largest **key**.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 6`
-    - **Do not** use the `max()` function.
-    - Hint: Have an accumulator called `largest_key`
-    - Hint: To iterate through a dictionary's keys, you do `for key in d:`
+    - **Do not** use the `max()` function
+    - Hint: have an accumulator called `largest_key`
+    - Hint: to iterate through a dictionary's keys, you do `for key in d:`
 0. Create a function that takes dictionary of integers mapped to integers as an
    input and returns the smallest **value**.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> 2`
-    - **Do not** use the `min()` function.
-    - Hint: To use a key to get it's corresponding value, you do `d[key]`
+    - **Do not** use the `min()` function
+    - Hint: to use a key to get its corresponding value, you do `d[key]`
+0. Create a function that takes a dictionary of sets and returns a dictionary
+   with the same keys but values replaced with their sizes.
+    - For example: `{"a": {1, 2, 3}, "b": {4, 5}} -> {"a": 3, "b": 2}`
+    - Hint: use `len()` to get the side of the sets
 0. Create a function that takes a list of pairs as an input and returns those
    pairs as keys/values in a dictionary.
     - For example: `[(1, "a"), (2, "b"), (3, "c")] -> {1: "a", 2: "b", 3: "c"}`
-    - Hint: To iterate through a list of pairs, you do `for first, second in l:`
+    - Hint: to iterate through a list of pairs, you do `for first, second in l:`
 0. Create a function that takes a sentence as an input and returns a set of all
    of the words in the sentence.
     - For example: `"my my well well" -> {"my", "well"}`
-    - Hint: Use `.split(" ")`
-    - Hint: To create an empty accumulator set, you do `acc_set = set()`
+    - Hint: use `.split(" ")`
+    - Hint: to create an empty accumulator set, you do `acc_set = set()`
 0. Create a function that takes two sets of integers as an input and returns a
    boolean of whether the first set is a "subset" of the second set.
     - Note: set `a` is subset of set `b` if every element in `a` is also in `b`
     - For example: `{1, 4}, {1, 4, 10} -> True`
-    - Hint: To iterate through a set, you do `for elem in s:`
-    - Hint: To check whether an element is in a set, you do `if elem in s:`
+    - Hint: to iterate through a set, you do `for elem in s:`
+    - Hint: to check whether an element is in a set, you do `if elem in s:`
 0. Create a function that takes list of integers and returns a dictionary
    containing the even/odd count.
     - For example: `[1, 11, 10, 5] -> {"even": 1, "odd": 3}`
-    - Hint: Have an initial accumulator dict of `d = {"even": 0, "odd": 0}`
+    - Hint: have an initial accumulator dict of `d = {"even": 0, "odd": 0}`
 0. Create a function that takes a sentence as an input and returns the number
    of unique words in the sentence.
     - For example: `"hey you hey there hey" -> 3`
-    - Hint: This is just like a previous problem, but then you use `len()`
+    - Hint: this is just like a previous problem, but then you use `len()`
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a list of all of the **values** in the dictionary in
    sorted order.
     - For example: `{1: 9, 4: 2, 6: 6, 3: 7} -> [2, 6, 7, 9]`
-    - Hint: To get a sorted list of integers you do `sorted_l = sorted(l)`
+    - Hint: to get a sorted list of integers you do `sorted_l = sorted(l)`
 0. Create a function that takes a dictionary of integers mapped to integers as
    an input and returns a list of all of the values **ordered by their keys**
    (different from the previous question).
     - For example: `{1: 100, 3: 55, 2: 8} -> [100, 8, 55]`
-    - Hint: To get the keys of a dict in sorted order, you do `for k in sorted(d):`
+    - Hint: to get the keys of a dict in sorted order, you do `for k in sorted(d):`
 0. Create a function that takes two lists of integers as inputs and returns the
    set of integers that are in both.
     - For example: `[6, 6, 8, 1], [1, 8, 3] -> {1, 8}`
-    - Hint: To check if an element is in a list you do `if elem in l:`
+    - Hint: to check if an element is in a list you do `if elem in l:`
 0. Create a function that takes a sentence and counts the number of times each
    word in the sentence appears.
     - For example: `"hey you hey there hey" -> {"hey": 3, "you": 1, "there": 1}`
-    - Hint: Use `split(" ")`
-    - Hint: This is similar to a previous "counting dict" problem
+    - Hint: use `split(" ")`
+    - Hint: this is similar to a previous "counting dict" problem
 0. Create a function that takes a string as an input and returns the first,
    non-repeated character in the string.
     - For example: `"good gosh" -> "d"`
-    - Hint: First create and then use a counting dict of all of the letters
+    - Hint: first create and then use a counting dict of all of the letters
 0. Create a function that takes a list of integers as an input and then returns
    a boolean of whether there are duplicates in the list.
     - For example: `[5, 6, 7, 4, 5] -> True`
-    - Hint: Create a counting dict of all of the elements
+    - Hint: create a counting dict of all of the elements
 0. Create a function that takes a list of strings as an input and returns a
    list containing the reverse of each string.
     - For example: `["apple", "banana", "cherry"] -> ["elppa", "ananab", "yrrehc"]`
-    - Hint: Creating a helper function called `reverse_string()` will be useful
+    - Hint: creating a helper function called `reverse_string()` will be useful
 0. Create a function that takes two sets of integers as an input and returns a
    set of integers that is the intersection of the two sets.
     - For example: `{6, 9, 12}, {1, 5, 6, 8, 12, 13} -> {6, 12}`
-    - **Do not** use the `intersection()` function.
-    - Hint: To check if an element is in a set you do `if elem in s:`
+    - **Do not** use the `intersection()` function
+    - Hint: to check if an element is in a set you do `if elem in s:`
 0. Create a function that takes a list of integers as an input and returns a
    list that is a version of the original list, but without any duplicates. The
    order or the elements from the original list should be preserved.
     - For example: `[4, 5, 4, 4, 1, 2, 5] -> [4, 5, 1, 2]`
-    - Hint: First create and then use a counting dict of all of the numbers
+    - Hint: first create and then use a counting dict of all of the numbers
 0. Create a function that takes two lists of integers as inputs and returns the
    set of integers that are in only one of the lists.
     - For example: `[4, 5, 4, 3], [3, 1, 5] -> {4, 1}`
-    - Hint: To check if an element is in a set you do `if elem in l:`
+    - Hint: to check if an element is in a set you do `if elem in l:`
+0. Create a function that takes a list of strings and returns a dictionary where
+   keys are string lengths and values are lists of strings of that length.
+    - For example: `["cat", "dog", "mouse"] -> {3: ["cat", "dog"], 5: ["mouse"]}`
+    - Hint: similar to a counting dictionary, but use `[]` instead of `0`
 0. Create a function that takes a set of integers and a number as an input and
    then returns a new set of integers containing numbers from the input set
    that are **less than** the given number.
     - For example: `{1, 4, 6, 3, 7, 2}, 5 -> {1, 4, 3, 2}`
-    - Hint: Create an empty set and add to it using the accumulator pattern
+    - Hint: create an empty set and add to it using the accumulator pattern
 0. Create a function that takes a list of integers and returns a dictionary
    where the keys are the integers and the values are lists of their indices.
     - For example: `[1, 2, 1, 3, 2] -> {1: [0, 2], 2: [1, 4], 3: [3]}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
-    - Hint: In the loop, check if the number has ever been seen before
-0. Create a function that takes a list of integers and returns their average.
-    - For example: `[4, 9, 11, 5] -> 5.8`
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: in the loop, check if the number has ever been seen before
+0. Create a function that takes a set of integers and returns their average.
+    - For example: `{4, 9, 11, 5} -> 5.8`
 0. Create a function that takes a list of strings and a minimum length, then
    returns a set of all strings that are at least that length.
     - For example: `["cat", "dog", "mouse", "rat"], 4 -> {"mouse"}`
@@ -143,7 +160,7 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a string and returns a dictionary where the
    keys are vowels and the values are how many times each vowel appears.
     - For example: `"hello there" -> {"e": 2, "o": 1, "a": 0, "i": 0, "u": 0}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
 0. Create a function that takes a list of strings and returns a set of all
    characters that appear in every string.
     - For example: `["hello", "help", "whole"] -> {"h", "e", "l"}`
@@ -151,31 +168,36 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a string and returns a dictionary where keys
    are characters and values are lists of indices where they appear.
     - For example: `"hello" -> {"h": [0], "e": [1], "l": [2, 3], "o": [4]}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
-    - Hint: In the loop, check if the letter has ever been seen before
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: in the loop, check if the letter has ever been seen before
 0. Create a function that takes a list of lists of integers and returns the
    average of each sub-list.
     - For example: `[[4, 9, 11, 5], [3, 5], [1, 1, 1]] -> [7.25, 4.0, 1.0]`
-    - Hint: A recent previous problem will be very helpful
-    - Hint: Create an empty list and add to it using the accumulator pattern
+    - Hint: a recent previous problem will be very helpful
+    - Hint: create an empty list and add to it using the accumulator pattern
 0. Create a function that takes a dictionary of student grades (lists of
    integers) and returns a dictionary with the same keys but values replaced
    with the letter grade (A >= 90, B >= 80, C >= 70, D >= 60, F < 60).
     - For example: `{"Alice": [92, 87], "Bob": [75, 77]} -> {"Alice": "B", "Bob": "C"}`
-    - Hint: Create a helper function to convert the average to letter grade
+    - Hint: create a helper function to convert the average to letter grade
 0. Create a function that takes a list of integers and returns a set of all
    numbers that are multiples of both 2 and 3.
     - For example: `[9, 12, 2, 3, 5, 10, 6, 7, 8] -> {6, 12}`
-    - Hint: Use the modulo (`%`) operator
+    - Hint: use the modulo (`%`) operator
+0. Create a function that takes a string and a dictionary of letters to
+   letters, then returns the string with letters replaced according to the
+   dictionary.
+    - For example: `"hello", {"h": "j", "l": "w"} -> "jewwo"`
+    - Hint: accumulator pattern that starts with an empty string
 0. Create a function that takes a nested dictionary of strings and a complex key
    as an input and then returns the value for the nested key. If the complex key
    doesn't lead to anything, have it return the empty string.
     - For example: `{"a": {"b": {"c": "d"}}}, "a/b/c" -> "d"`
     - For example: `{"a": {"b": {"c": "d"}}}, "a/h/i" -> ""`
-    - Hint: Use `.split("/")`
+    - Hint: use `.split("/")`
 0. Create a function that takes a list of strings and returns a dictionary
    where the keys are the first characters and the values are sets of words
    that start with that character.
     - For example: `["hat", "cat", "hi"] -> {"h": {"hat", "hi"}, "c": {"cat"}}`
-    - Hint: To create an empty accumulator dict, you do `acc_dict = dict()`
-    - Hint: In the loop, check if the letter has ever been seen before
+    - Hint: to create an empty accumulator dict, you do `acc_dict = dict()`
+    - Hint: in the loop, check if the letter has ever been seen before

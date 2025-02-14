@@ -37,7 +37,8 @@ then write at **least two unit test** in the `test_string_wheaties.py` file.
     - Hint: `count()` OR `split()`
 0. Create a function that takes a sentence (string) as an input and then, using
    a loop, returns the reverse of the input string.
-    - **Do not** use something like `[::-1]`.
+    - For example: `"hello" -> "olleh"`
+    - **Do not** use something like `[::-1]`
     - Hint: accumulator pattern
 0. Create a function that takes a sentence (string) as an input and then returns
    the input string repeated 4 times.

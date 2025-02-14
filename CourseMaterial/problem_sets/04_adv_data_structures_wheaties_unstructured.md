@@ -24,7 +24,7 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a list of integers as an input and returns a new
    list of all of the integers in the original list that have exactly two zeroes.
     - For example: `[101, 500, 2031, 2030, 9000] -> [500, 2030]`
-    - Hint: Convert the integers to strings
+    - Hint: convert the integers to strings
 0. Create a function that takes an integer and a list of integers as inputs and
    returns a boolean of whether the integer is divisible by ALL of the integers
    in the list.
@@ -43,10 +43,14 @@ and then write at **least two unit tests** in the
    a major as inputs and return a float that is the average GPA of students in
    the specified major.
     - For example: `[SR("eric", "cs", 3.3), SR("jen", "bio", 3.7)], "cs" -> 3.3`
+0. Create a function that processes a list of the student records from the
+   previous problem. The function should take a list of student records as an
+   input and return a dictionary mapping student names to their grade.
+    - For example: `[SR("eric", "cs", 3.3), SR("jenn", "bio", 3.7)] -> {"eric": 3.3, "jenn": 3.7}`
 0. Create a function that takes a list of integers as an input and returns the
    maximum sum of two **different** numbers in the list.
     - For example: `[4, 8, 2, 3] -> 12`
-    - Hint: Return `None` if you don't have all the necessary information
+    - Hint: return `None` if you don't have all the necessary information
 0. Create a function that takes a list of integers as an input and returns the
    number of times duplicates appear in the list.
     - For example: `[1, 1, 5, 1, 5, 6] -> 3`
@@ -57,8 +61,7 @@ and then write at **least two unit tests** in the
    list of weather records, a start date (a "YYYY-MM-DD" string), and an end
    date (a "YYYY-MM-DD" string). It should then return both the average
    temperature (float) and the total precipitation over a given period (float).
-    - Hint: The fact you're using a "YYYY-MM-DD" string means you can use `<=`
-      to easily compare dates.
+    - Hint: using a "YYYY-MM-DD" string means you can use `<=` to compare dates
 0. Create a function that takes a dictionary as an input and returns a
    dictionary where the keys and values have been reversed.
     - For example: `{"a": 1, "b": 2} -> {1: "a", 2: "b"}`
@@ -86,11 +89,11 @@ and then write at **least two unit tests** in the
    NamedTuple. The NamedTuple should have the properties `largest_int` (int)
    and `rest` (the original list without the `largest_int`).
     - For example: `[5, 7, 4] -> (7, [5, 4])`
-    - Note: You **cannot** use `sorted()` or `sort()`
+   - **Do not** use `sorted()` or `sort()`
 0. Create a function that takes a list of integers as an input and returns
    a sorted version of the list.
     - For example: `[5, 7, 4, 3] -> [3, 4, 5, 7]`
-    - Note: You **must use** the function your created for the previous problem
+    - **You must** use the function your created for the previous problem
 0. Implement a system to track employee hours. Employee hours should be tracked
    via a NamedTuple that includes `employee_id` (int) and `hours_worked` (int).
    Create a function that takes a list of the employee records and a list of
@@ -122,6 +125,16 @@ and then write at **least two unit tests** in the
     - For example: `"(()) -> True`
     - For example: `"((1 + 2) * 4 + (4 * 5) -> False`
     - For example: `"((1 + 2))) * 4 + ((4 * 5) -> False`
+0. Create a function that takes a list of sets of integers as an input and
+   returns the set of elements that appear in an odd number of sets.
+    - For example: `[{1, 2, 8}, {2, 3}, {2, 3, 4, 8}] -> {1, 2, 4}`
+0. Create a function that takes a list of products and returns the set of items
+   that are less than `10.0` dollars. Use a NamedTuple for each product
+   that includes `name` (str), `price` (float), and `category` (str).
+    - For example: `[PR("pen", 2.0, "office"), PR("desk", 150.0, "office")] -> {"pen"}`
+0. Create a function that takes a list of products from the previous problem and
+   returns the set of the most expensive product in each category.
+    - For example: `[PR("pen", 2.0, "office"), PR("desk", 150.0, "office")] -> {"office": "desk"}`
 0. Create a function that takes a string as an input and returns the longest
    substring without repeating characters.
     - For example: `"hellothere" -> "lother"`

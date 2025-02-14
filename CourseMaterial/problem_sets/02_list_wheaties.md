@@ -40,8 +40,8 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
     - Hint: accumulator pattern combined with using `range()` with step
 0. Create a function that takes a list of integers as an input and then, using
    a loop, returns the reverse of the input list.
-    - **Do not** use something like `[::-1]`.
     - For example: `[1, 5, 8, 10] -> [10, 8, 5, 1]`
+    - **Do not** use something like `[::-1]`
 0. Create a function that takes a list of strings as an input and then returns
    a list of all of the strings that **start with** a `"w"` or `"W"`.
     - For example: `["What", "awe", "wonderful", "world"] -> ["What", "wonderful", "world"]`
@@ -69,16 +69,16 @@ then write at **least two unit tests** in the `test_list_wheaties.py` file.
 0. Create a function that takes **two inputs**: a list of strings and a second
    list of strings as inputs and then returns a single list which is the strings
    at each index concatenated.
-    - Assume that the two lists are of the same length.
     - For example: `["a", "hi"], ["b", "bye] -> ["ab", "hibye"]`
+    - Note: assume that the two lists are of the same length
 0. Create a function that takes a list of lists of integers and then returns
    a single list that is the input list "flattened".
     - For example: `[[1, 6], [3], [7, 9]] -> [1, 6, 3, 7, 9]`
 0. Create a function that takes **two inputs**: a list of integers and a second
    list of integers as inputs and then returns a single list such that the
    elements are alternating from the two input lists.
-    - **Do not** assume that the two lists are of the same length.
     - For example: `[1, 4, 10], [100, 3, 55, 66, 7] -> [1, 100, 4, 3, 10, 55, 66, 7]`
+    - **Do not** assume that the two lists are of the same length
 0. Create a function that takes a string of words as an input and returns a
    list of integers representing the length of each those word.
     - For example: `"hey there friend" -> [3, 5, 6]`
