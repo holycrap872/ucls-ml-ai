@@ -16,7 +16,7 @@ the `test_comprehension_wheaties.py` file.
 
 # Problems
 
-### List Comprehension Problems using **parameters** for input and `return` for output
+### List Comprehension Problems
 
 0. Create a function that takes a number as an input and then returns a new list
    with all the numbers from 0 up to the given number.
@@ -47,7 +47,7 @@ the `test_comprehension_wheaties.py` file.
    squares.
     - For example: `[1, 2, 3, 4, 5] -> [1, 4]`
 
-### Dict Comprehension Problems using **parameters** for input and `return` for output
+### Dict Comprehension Problems
 
 0. Create a function that takes a number as an input and then returns a new dictionary
    with all the numbers from 0 up to the given number mapped to their square.
