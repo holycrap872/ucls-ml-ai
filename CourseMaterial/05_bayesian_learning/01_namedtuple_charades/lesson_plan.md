@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- What did we learn during the teaching unit?
 - How can we use the past to predict the future?
+- How do we design programs so they are easy to reason about?
 
 ## Lesson Plan
 
