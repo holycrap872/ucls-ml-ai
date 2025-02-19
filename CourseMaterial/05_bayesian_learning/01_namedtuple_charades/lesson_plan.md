@@ -5,9 +5,12 @@
 
 ## Lesson Plan
 
+- None
+
 ### Setup
 
 - Review
+    - Skull
     - Bayesian statistics
     - Measure humans vs deterministic processes
 - Code review
@@ -23,7 +26,10 @@
     - What data structures?
     - What functions?
 - NamedTuple Charades
-    - Come up with two "objects" and create properties for it
+    - Give examples of how to play
+        - See `./examples.py`
+    - In groups: come up with two "objects" and create properties for it
+        - 3-5 properties per object
     - Go around room and say properties
     - Students raise hand as soon as know what it is
 - NamedTuples are philosophical
