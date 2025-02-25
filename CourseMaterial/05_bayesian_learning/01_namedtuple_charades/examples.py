@@ -39,3 +39,8 @@ class Thing5(typing.NamedTuple):
     seat_capacity: int
     has_imax: bool
     popcorn_price: float
+
+
+cine_ten_theater = Thing5(10, 1050, False, 8.5)
+artsy_films_theater = Thing5(2, 30, False, 2.5)
+mall_imax = Thing5(2, 2000, True, 10.25)
