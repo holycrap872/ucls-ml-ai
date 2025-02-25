@@ -15,23 +15,24 @@
 
 - Review
     - Blackjack rules
-    - Difficulties from first day
+    - Difficulties from third day
+    - Concerns about finishing in time
 - Essentials of design
     - Blackjack design
         - NamedTuples: `Card`, `RoundResult`
         - Data Structures: `deck: list[Card]`, `user_hand: list[Card]`, `dealer_hand: list[Card]`
         - Functions: `get_shuffled_deck()`, `get_hand_value()`
-    - Bottom up approach to programming
-    - Note: this is the first _big_ program for many people
-        - People get lost
-        - Importance of functions
-        - Call me over when not sure what "next thing" is
+- Move code into `play_round() -> RoundResult:` function
+    - Shows how slowly add features to build a piece of software
+- Any questions?
 - Go!
-    - Go around paying particular attention to new students
-    - 1/2 way through, call non-AP students up and show have can use function
-        - Humans think in stories
-        - Good functions allow you to tell a story
 
 ### Homework
 
-- Grab Bag Wheaties 9 - 10
+- Finish blackjack
+
+### Extension
+
+- Multiple players against one dealer
+- Implement `split`
+- Pick deck size at beginning (so can practice counting cards)

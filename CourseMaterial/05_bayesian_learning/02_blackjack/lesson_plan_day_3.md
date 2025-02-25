@@ -16,7 +16,7 @@
 
 - Review
     - Blackjack rules
-    - Difficulties from first day
+    - Difficulties from second day
 - Essentials of design
     - Blackjack design
         - NamedTuples: `Card`, `RoundResult`
@@ -34,10 +34,4 @@
 
 ### Homework
 
-- Finish blackjack (maybe... likely need one more day for non-AP students)
-
-### Extension
-
-- Multiple players against one dealer
-- Implement `split`
-- Pick deck size at beginning (so can practice counting cards)
+- Grab Bag Wheaties 11 - 12
