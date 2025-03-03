@@ -31,7 +31,7 @@
 
 - Finish blackjack
 
-### Extension
+### Possible Extensions
 
 - Multiple players against one dealer
 - Implement `split`
