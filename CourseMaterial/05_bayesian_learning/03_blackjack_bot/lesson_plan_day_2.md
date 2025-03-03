@@ -14,8 +14,18 @@
 
 - Review
     - Refactoring
-    - Interfaces
+        - Measure of software engineer is how well code can handle change
     - Blackjack bots
+- Interfaces
+    - Definition: A shared boundary across which two or more separate components of a computer system exchange information
+    - Real life examples:
+        - Wall sockets
+        - Ask class to come up with one
+    - Programming languages:
+        - Java: whole formalization behind it
+        - Python: Basically just make sure functions have the same "shape"
+            - show `socket_interface_example.py`
+            - show `operation_interface_example.py`
 - Goals for today:
     - Finish creating "rule bots"
     - Rule bots:

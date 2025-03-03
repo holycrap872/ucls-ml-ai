@@ -26,21 +26,14 @@ process) and then graph which value is the "best" value to stand on.
     - What is your totally your code and what was inspired by ChatBot?
 - Today going to make some changes to program
     - Going to "swap out" out the user's decisions
-    - Making something easy to "swap out" implies the use of interfaces
-- Interfaces
-    - Definition: A shared boundary across which two or more separate components of a computer system exchange information
-    - Real life examples:
-        - Wall sockets
-        - Ask class to come up with one
-    - Programming languages:
-        - Java: whole formalization behind it
-        - Python: Basically just make sure functions have the same "shape"
-            - show `socket_interface_example.py`
-            - show `operation_interface_example.py`
+    - Called refactoring
+        - Refactoring is incredibly common
+        - Add a feature and keep going
+        - Measure of software engineer is how well your code can adapt
+    - Good refactoring puts stuff into functions
+        - Easy to then reorder and create stuff
 - Today we're basically going to do same thing
     - Instead of a new person playing, we're going to have a "rule bot"
-    - How is this like an interface?
-        - Talk through someone's blackjack code
 - Goals for today:
     - Replace user with "rule bots"
     - Rule bots:
@@ -54,19 +47,9 @@ process) and then graph which value is the "best" value to stand on.
     - Hint: Only need one rule bot that takes a given value
     - Hint: Functions are your friend
 - Go!
+- Reflection
+    - Where ever commenting out chucks of code -> function
 
 ### Homework
 
-- Finish assignment
-- Prepare for bayesian statistics
-    - If don't know probability trees, watch:
-        - Independent:
-            - https://www.youtube.com/watch?v=mkDzmI7YOx0
-        - Dependent:
-            - https://www.youtube.com/watch?v=NOOMC_rc-8Q
-    - Complete probability worksheet
-
-### Extension
-
-- Create more complex "rule bot" or your own
-- Compare more complex rule bot to other, existing bots
+- None
