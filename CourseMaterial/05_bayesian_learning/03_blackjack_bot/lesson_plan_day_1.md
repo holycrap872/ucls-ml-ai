@@ -12,7 +12,8 @@ process) and then graph which value is the "best" value to stand on.
 
 ### Setup
 
-- One deck of cards for every two students
+- `Blackjack Bot Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1lurIZi_SWNf56cJHxNf0FcXbpbzKZZOucENvi6wU1JQ
 
 ### Actual Lesson
 
@@ -41,7 +42,7 @@ process) and then graph which value is the "best" value to stand on.
     - How is this like an interface?
         - Talk through someone's blackjack code
 - Goals for today:
-    - Replace user with “rule bots”
+    - Replace user with "rule bots"
     - Rule bots:
         - Always hit when below a certain number
         - Always stay when above or equal to a certain number
