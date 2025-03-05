@@ -28,9 +28,7 @@ To understand the course, there are four places to look:
 
 Overall, this course is a work in progress and I am open to any/all suggestions.
 
-# Thoughts (Do not commit)
+## License
 
-1. Do evolutionary algorithms instead of decision trees because can do games
-    - Games scale better as projects
-2. Do "summative quizzes" of everything learned at the end of every week
-    - 5-6 multiple choice questions, can take as many times as want
+This project is licensed under the GNU General Public License v3.0 - see the
+[LICENSE](LICENSE) file for details.
