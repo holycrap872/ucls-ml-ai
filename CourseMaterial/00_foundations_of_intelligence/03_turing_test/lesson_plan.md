@@ -41,7 +41,7 @@ following question: ..."
         - For good?
         - For bad?
     - Show game on website and git commit that led to it being published
-        - https://github.com/holycrap872/teaching
+        - https://github.com/eric-rizzi/teaching
 - Who's heard of Alan Turing?
     - Why he's famous...
     - Why he died prematurely
