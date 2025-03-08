@@ -14,30 +14,24 @@
 
 - Review
     - Refactoring
-        - Measure of software engineer is how well code can handle change
+        - One indicator of SDE's technical skills is how well code can handle change
     - Blackjack bots
-- Interfaces
-    - Definition: A shared boundary across which two or more separate components of a computer system exchange information
-    - Real life examples:
-        - Wall sockets
-        - Ask class to come up with one
-    - Programming languages:
-        - Java: whole formalization behind it
-        - Python: Basically just make sure functions have the same "shape"
-            - show `socket_interface_example.py`
-            - show `operation_interface_example.py`
+- Refactoring
+    - Thoughts as go back into code
+    - Large comment chunks mean could probably be turned into function
 - Goals for today:
     - Finish creating "rule bots"
     - Rule bots:
         - Always hit when below a certain number
         - Always stay when above or equal to a certain number
-    - Run 1000 games for 12 different rule bots (stand on 10 - 21)
+    - Run 10_000 games for 12 different rule bots (stand on 10 - 21)
     - Capture win % for each rule bot
     - Create a bar graph for the win % using `matplotlib`
 - Discuss goals:
     - Hint: Use a loop
     - Hint: Only need one rule bot that takes a given value
     - Hint: Functions are your friend
+    - Should have TIL on `matplotlib`
 - Go!
 
 ### Homework
