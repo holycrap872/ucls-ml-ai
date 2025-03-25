@@ -2,10 +2,6 @@
 import random
 import typing
 
-from matplotlib import pyplot as plots
-
-MAX_GAMES = 1000
-
 
 class Card(typing.NamedTuple):
     value: int
@@ -159,26 +155,3 @@ if __name__ == "__main__":
         print(
             f"User final: {rounds[round_index].user_hand}, Dealer final: {rounds[round_index].dealer_hand}, Result: {rounds[round_index].result}"
         )
-
-
-# def plot_win_percentage(graph_x: list[int], graph_y: list[float]) -> None:
-#     plots.figure(figsize=(6, 6))
-#     plots.bar(x=graph_x, height=graph_y, color="red")
-#     plots.grid(True)
-#     plots.show()
-
-
-# if __name__ == "__main__":
-#     values_measured = []
-#     win_percentage = []
-
-#     for max_hit_val in range(12, 22):
-#         wins = 0
-#         for _ in range(MAX_GAMES):
-#             if play_blackjack(max_value=max_hit_val) == "win":
-#                 wins += 1
-
-#         values_measured += [max_hit_val]
-#         win_percentage += [wins / MAX_GAMES]
-
-#     plot_win_percentage(values_measured, win_percentage)

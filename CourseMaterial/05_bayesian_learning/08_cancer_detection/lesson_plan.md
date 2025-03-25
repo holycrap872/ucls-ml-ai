@@ -29,6 +29,9 @@
     - I just do the copy/replace stuff
 - Cancer decider
     - Walk through data
+        - I simplified it, but basically correct
+    - How to use:
+        - Split data into training set and test set
     - Come up with core data structures
     - Come up with functions
     - Create!
