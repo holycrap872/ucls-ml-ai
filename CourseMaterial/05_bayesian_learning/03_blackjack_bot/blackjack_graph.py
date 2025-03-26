@@ -29,26 +29,6 @@ def create_shuffled_deck() -> list[Card]:
     return cards
 
 
-def get_card_str(card: Card) -> str:
-    if card.value == 1:
-        return f"Ace of {card.suite}"
-    elif card.value == 13:
-        return f"King of {card.suite}"
-    elif card.value == 12:
-        return f"Queen of {card.suite}"
-    elif card.value == 11:
-        return f"Jack of {card.suite}"
-    else:
-        return f"{card.value} of {card.suite}"
-
-
-def get_hand_str(hand: list[Card]) -> str:
-    ret = ""
-    for card in hand:
-        ret += get_card_str(card) + ", "
-    return ret.strip().strip(",")
-
-
 def calculate_hand_value(hand: list[Card]) -> int:
     assert len(hand) >= 2
     value = 0
@@ -71,31 +51,6 @@ def calculate_hand_value(hand: list[Card]) -> int:
     return value
 
 
-def is_yes_to_question(question: str) -> bool:
-    assert question.endswith("?")
-
-    while True:
-        ans = input(question + " ")
-        if ans.lower() == "n":
-            return False
-        elif ans.lower() == "y":
-            return True
-        else:
-            print('''Sorry, I didn't get that, please answer with "y" or "n"''')
-
-
-def play_user(deck: list[Card], hand: list[Card]) -> int:
-    while calculate_hand_value(hand) < 21:
-        is_hit = is_yes_to_question("Would you like to hit?")
-        if not is_hit:
-            break
-        else:
-            hand.append(deck.pop())
-
-    hand_val = calculate_hand_value(hand)
-    return hand_val
-
-
 def play_bot(deck: list[Card], hand: list[Card], max_value: int) -> int:
     while calculate_hand_value(hand) < max_value:
         hand.append(deck.pop())
@@ -104,34 +59,31 @@ def play_bot(deck: list[Card], hand: list[Card], max_value: int) -> int:
     return hand_val
 
 
-def play_blackjack(*, max_value: typing.Optional[int] = None) -> RoundResult:
+def play_blackjack(*, max_value: int) -> RoundResult:
     deck = create_shuffled_deck()
 
     user_hand = [deck.pop(), deck.pop()]
     dealer_hand = [deck.pop(), deck.pop()]
 
-    if max_value == None:
-        user_val = play_user(deck, user_hand)
-    else:
-        user_val = play_bot(deck, user_hand, max_value)
+    bot_val = play_bot(deck, user_hand, max_value)
 
-    if user_val <= 21:
+    if bot_val <= 21:
         dealer_val = play_bot(deck, dealer_hand, 17)
     else:
         dealer_val = calculate_hand_value(dealer_hand)
 
-    if user_val > 21:
+    if bot_val > 21:
         ret = "lose"
     elif dealer_val > 21:
         ret = "win"
-    elif user_val == dealer_val:
+    elif bot_val == dealer_val:
         ret = "tie"
-    elif user_val > dealer_val:
+    elif bot_val > dealer_val:
         ret = "win"
     else:
         ret = "lose"
 
-    return RoundResult(user_val, dealer_val, ret)
+    return RoundResult(bot_val, dealer_val, ret)
 
 
 def plot_win_percentage(graph_x: list[int], graph_y: list[float]) -> None:
