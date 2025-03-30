@@ -6,17 +6,16 @@
 ## Lesson Plan
 
 One assumption of this lesson is that we played a board game/card game with
-some sort of Bayesian flare in the past. One example is the black-jack game.
+some sort of Bayesian flare in the past. One example is the blackjack game.
 Another example is Skull where the students kept track the actions each
-person made (winter break filler activity).
-
-Another assumption is that the students have a passing familiarity with
-probability tree diagrams (either from a previous class or from the previous
+person made. Another assumption is that the students have a passing familiarity
+with probability tree diagrams (either from a previous class or from the previous
 nights homework).
 
 ### Setup
 
-- Print out Bayesian Worksheet
+- Print out `Bayesian Probability Worksheet`
+    - https://docs.google.com/document/d/1MqtmRg79Z4fb0xBvIxxB_wFwJX6cBlNoawjJvqBCnQY
 
 ### Actual Lesson
 
@@ -24,8 +23,6 @@ nights homework).
     - What games have we played?
     - How did we make them bayesian?
     - Probability tree diagrams
-- Markov models
-    - Markov models look a heck of a lot like probability tree diagrams
 - Independent events
     - Draw probability trees
         - Two coin flips
@@ -43,7 +40,6 @@ nights homework).
     - Build on dependent events
         - P(Blue 2nd | Blue 1st)
         - P(Blue 1st | Blue 2nd)
-- Bayesian formula
 - Using data
     - Create a "batter" example where trying to predict chance of hit
     - Chance of a hit
@@ -52,11 +48,14 @@ nights homework).
 - What is going on here?
     - Big idea of Bayesian Probability
         - Updating probabilities (denominator) based on what you know
-- Do Bayesian worksheet in pairs
+- Bayesian formula
+- Markov models
+    - Markov models look a heck of a lot like probability tree diagrams
+- Do `Bayesian Probability Worksheet` in pairs
 
 ### Homework
 
-- Finish bayesian worksheet
+- Finish `Bayesian Probability Worksheet`
 - Watch 3 blue - 1 brown
     - Watch https://www.youtube.com/watch?v=HZGCoVF3YvM
     - 0m0s to 13m20s
@@ -74,4 +73,3 @@ nights homework).
 - Rock paper scissors
     - https://archive.nytimes.com/www.nytimes.com/interactive/science/rock-paper-scissors.html
     - https://youtu.be/WfdnbYFPzeA?si=hA-1N9OMTezWTkw8
-- Game of Skull where you record the past
