@@ -9,6 +9,7 @@
 
 - Skull
 - Bayesian Skull worksheet printed out
+- `Probability Worksheet` printed out
 
 ### Actual Lesson
 
@@ -26,10 +27,16 @@
             - "lull into a false sense of security"
         - Is database useful when playing against thing that doesn't know it's being measured?
 - Previous upcoming unit
-    - Blackjack: deterministic rules
     - Bayesian theory
+    - Blackjack: deterministic rules
     - Cancer: deterministic rules
 
 ### Homework
 
-- Grab Bag Wheaties 0 - 2
+- Prepare for bayesian statistics
+    - If don't know probability trees, watch:
+        - Independent:
+            - https://www.youtube.com/watch?v=mkDzmI7YOx0
+        - Dependent:
+            - https://www.youtube.com/watch?v=NOOMC_rc-8Q
+    - Complete probability worksheet

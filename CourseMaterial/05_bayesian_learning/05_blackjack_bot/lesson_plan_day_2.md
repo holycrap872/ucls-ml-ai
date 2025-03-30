@@ -37,13 +37,6 @@
 ### Homework
 
 - Finish assignment
-- Prepare for bayesian statistics
-    - If don't know probability trees, watch:
-        - Independent:
-            - https://www.youtube.com/watch?v=mkDzmI7YOx0
-        - Dependent:
-            - https://www.youtube.com/watch?v=NOOMC_rc-8Q
-    - Complete probability worksheet
 
 ### Extension
 
