@@ -8,6 +8,8 @@
 ### Setup
 
 - `cancer.csv` pushed to Schoology
+- `Cancer Decider Worksheet` loaded in Schoology
+    - https://docs.google.com/document/d/1M_g0or7qh1u5OhJAJoa3Y4hqlwjvn2UgN8ODPxc-nB0
 
 ### Actual Lesson
 
