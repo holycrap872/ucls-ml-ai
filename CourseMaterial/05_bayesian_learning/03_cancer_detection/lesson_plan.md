@@ -14,28 +14,35 @@
 - Review
     - NamedTuples
     - Bayes Theorem
-- NamedTuples Detective
-    - I give properties and you guess the name of the tuple
-    - e.g., `name: str, age: int, weight: int, has_hair: bool` -> `Person`
-- Essentials of Programming
-    - Identify data structures
-        - Variable size: lists/dicts/sets
-        - Set size: NamedTuples
-    - Identify functions
-    - Create tests
-    - Profit
-- Use `NamedTuple` to make more realistic cards in my simple blackjack game
-    - Have them come up with Tuple
-    - I just do the copy/replace stuff
+- 3Blue1Brown Discussion
+    - "Reading Quiz":
+        - Linda is 31 years old, single, outspoken, and very bright. She majored
+          in philosophy. As a student, she was deeply concerned with issues of
+          discrimination and social justice, and also participated in
+          anti-nuclear demonstrations.
+        - What is more likely:
+            - Linda is a bank teller
+            - Linda is a bank teller and is active in the feminist movement
+        - Steve is very shy and withdrawn, invariably helpful but with very
+          little interest in people or in the world of reality. A meek and tidy
+          soul, he has a need for order and structure, and a passion for detail.
+        - What is more likely:
+            - Steve is a librarian
+            - Steve is a farmer
+    - Represent "Steve" as a probability tree
+    - Discuss
+    - How does it relate to previous work
 - Cancer decider
     - Walk through data
         - I simplified it, but basically correct
     - How to use:
         - Split data into training set and test set
+            - First 400 -> training
+            - Remaining 99 -> test
     - Come up with core data structures
     - Come up with functions
     - Create!
 
 ### Homework
 
-- None
+- Grab Bag Wheaties X - X

@@ -44,15 +44,10 @@ def find_matches(data: list[CancerData], smoothness: int, area: int, radius: int
 
 
 if __name__ == "__main__":
-    data = parse_data("CourseMaterial/05_bayesian_learning/06_cancer_detection/cancer.csv")
+    data = parse_data("CourseMaterial/05_bayesian_learning/03_cancer_detection/cancer.csv")
 
-    training_list: list[CancerData] = []
-    test_list: list[CancerData] = []
-    for d in data:
-        if random.randint(1, 4) == 1:
-            test_list += [d]
-        else:
-            training_list += [d]
+    training_list: list[CancerData] = data[0:400]
+    test_list: list[CancerData] = data[400:]
 
     correct = 0
     wrong = 0
