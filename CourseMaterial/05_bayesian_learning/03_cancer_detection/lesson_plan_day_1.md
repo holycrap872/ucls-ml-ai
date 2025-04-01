@@ -37,13 +37,17 @@
 - Cancer decider
     - Walk through data
         - I simplified it, but basically correct
-    - How to use:
-        - Split data into training set and test set
-            - First 400 -> training
-            - Remaining 99 -> test
+    - How to create bayesian decider?
+        - Training data
+    - How to determine how effective bayesian decider is?
+        - Test data
+    - Split data into training set and test set
+        - First 400 -> training
+        - Remaining 99 -> test
+- Design as class
     - Come up with core data structures
     - Come up with functions
-    - Create!
+- Create!
 
 ### Homework
 

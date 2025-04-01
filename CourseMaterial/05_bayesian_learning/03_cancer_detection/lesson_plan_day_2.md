@@ -7,7 +7,7 @@
 
 ### Setup
 
-- `cancer.csv` pushed to Schoology
+- None
 
 ### Actual Lesson
 
@@ -24,7 +24,10 @@
             - Remaining 99 -> test
     - Review up with core data structures/functions
 - Go!
+    - They _will_ run into division by zero error
+        - Once hit it, go and talk about what to do with no data
+        - In case of cancer, probably right then to treat as malignant
 
 ### Homework
 
-- Finish Cancer Decider
+- Grab Bag Wheaties 16
