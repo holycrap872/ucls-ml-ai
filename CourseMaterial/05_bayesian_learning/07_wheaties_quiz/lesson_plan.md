@@ -29,6 +29,7 @@
     - ONLY have vscode open (no outside help, but may use previous problems)
     - NO Copilot/outside resources
     - 35m for normal time, 52m for extended time
+        - Reflection on back due by end of day
 - Once done, you make leave
     - Make sure to `git push` solutions
 
