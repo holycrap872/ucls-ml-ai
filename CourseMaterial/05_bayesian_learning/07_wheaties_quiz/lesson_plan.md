@@ -12,15 +12,15 @@
     - See `assessment.md` for format
     - Note: **DO NOT** use the same questions from last year
         - Once done quiz put questions into proper wheaties worksheet
-- `purpose_of_grades.docx` printed out
+- `blurry_jpeg.docx` printed out
 
 ### Actual Lesson
 
 - Review
-    - PRIMM
+    - Bayesian Decider
     - Primitives vs. Containers
 - Discussion prep
-    - The purpose of grades
+    - Blurry JPEG article
     - Show EQs
 - Quiz
     - Ground purpose of quiz
@@ -34,5 +34,5 @@
 
 ### Homework
 
-- Read "The Purpose of Grades" and annotate
+- Read "ChatGPT Is a Blurry JPEG of the Web" and annotate
     - Will check annotations
