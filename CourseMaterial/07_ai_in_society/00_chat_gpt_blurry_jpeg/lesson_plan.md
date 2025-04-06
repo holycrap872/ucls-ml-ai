@@ -10,15 +10,17 @@
 - `chat_gpt_is_a_blurry_jpeg` printed out
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- `ethical_issues_in_ai.docx` printed out
 
 ### Actual Lesson
 
 - Reflection
     - Bayes
+    - How felt on quiz
     - All lessons so far
 - New unit
     - Role of data and AI in society
-    - Series of discussions based on readings the night before
+        - Series of discussions based on readings the night before
     - Reemphasize rubric
 - Today going to have discussion on previous night's reading
     - Hand out discussion rubric
@@ -29,11 +31,12 @@
         - How important is originality for individuals and society?
         - How is ChatGPT different from the technologies that preceded it?
     - Use timer to make clear
+    - Check annotations while waiting
 - Ground rules
     - Think of positive examples
     - Listen
 - Begin discussion
-    - Should last ~20 - 25m
+    - Should last ~20-25m
     - Discuss
 - Wrap up
     - Ask someone to summarize
@@ -47,7 +50,8 @@
 
 ### Homework
 
-- Read next day's discussion article
+- Read "Ethical Issues in Advanced AI" and annotate
+    - Will check annotations
 
 ### Extensions
 
