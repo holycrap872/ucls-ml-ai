@@ -7,7 +7,7 @@
 
 ### Setup
 
-- `ethical_issues_in_ai.dovx` printed out
+- Extra copies of `ethical_issues_in_ai.dovx` printed out
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
 - `paperclip_maximizer.docx` printed out
@@ -36,7 +36,6 @@
 - Wrap up
     - Ask someone to summarize
     - Ask if there's anything that wasn't said
-    - What is your p-doom?
 - P-doom review
     - Quiz: what do you think the p-doom for various famous people are
         - Temporary OpenAI CEO
