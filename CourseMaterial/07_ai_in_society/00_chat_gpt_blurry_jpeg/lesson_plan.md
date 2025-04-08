@@ -7,7 +7,7 @@
 
 ### Setup
 
-- `chat_gpt_is_a_blurry_jpeg` printed out
+- `blurry_jpeg.docx` printed out
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
 - `ethical_issues_in_ai.docx` printed out
@@ -45,7 +45,7 @@
     - Self-assess on the rubric
     - Answer questions on the back
 - Ground homework reading
-    - Discussion about economics of data
+    - Discussion about how to handle/prepare for super-intelligence
     - Initial thoughts?
 
 ### Homework
