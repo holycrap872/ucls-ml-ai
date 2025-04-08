@@ -1,25 +1,43 @@
 ## Essential Questions
 
-- What level of risk is acceptable when pursing a better world?
-- What are capabilities that AI should not have?
+- What is the proper role of AI in society?
+- What are necessary guards on a super-intelligence?
 
 ## Lesson Plan
 
 ### Setup
 
-- Paper clip -> end of the world article
-    - https://nickbostrom.com/ethics/ai
-- Section from US government's AI document
+- `ethical_issues_in_ai.dovx` printed out
+- `common_docs/discussion_rubric.pdf` printed out
+    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- `paperclip_maximizer.docx` printed out
 
 ### Actual Lesson
 
 - Review
-    - Economics of data
-    - Debrief about quality of discussion and expectations
+    - Key points from discussion last class
     - Any new thoughts?
-- P-doom review
-    - What was the article trying to say?
+- Today going to have discussion on previous night's reading
+    - Hand out discussion rubric
+    - Have read through it and ask any questions
+- Write for 5m answering one of the essential questions:
+    - Questions:
+        - Are the potential benefits of a super-intelligence worth the risk?
+        - What are necessary guards on a super-intelligence?
+        - Are you an accelerationist or a doomer?
+    - Use timer to make clear
+    - Check annotations while waiting
+- Ground rules
+    - Think of positive examples
+    - Listen
+- Begin discussion
+    - Should last ~20-25m
+    - Discuss
+- Wrap up
+    - Ask someone to summarize
+    - Ask if there's anything that wasn't said
     - What is your p-doom?
+- P-doom review
     - Quiz: what do you think the p-doom for various famous people are
         - Temporary OpenAI CEO
             - 50% on a bad day
@@ -27,30 +45,16 @@
             - 10-25%
         - Elon Musk
             - Allegedly 20-30 (https://www.fastcompany.com/90994526)
-- Today, going to create own "rube goldberg for destruction"
-    - In pairs
-    - The more complex the better
-    - Go!
-- Go through everyone's ten step plan for the end of the world
-    - Which seems to be the most likely?
-    - Any common themes?
-- Show OpenAI red team chart
-    - Find your favorite
-        - Discuss
-    - Find 2-3 tests that would neuter your scenario
-    - More discussion
 - Ground homework reading
-    - Discussion about ethical use of AI in society
-        - Predictive algorithms
-        - Identification algorithms
-        - Scale: meter maid vs. new police cars that auto-run plates
-    - Initial thoughts?
+    - AI gone rogue
+    - Will play game to simulate this and discuss next class
 
 ### Homework
 
-Read next day's discussion article
+- Read "The Paperclip Maximizer" and annotate
+    - Will check annotations
 
-#### Resources
+### Resources
 
 - https://www.decisionproblem.com/paperclips/index2.html
     - Use neural resonant frequencies to influence shoppers
