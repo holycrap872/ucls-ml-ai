@@ -32,4 +32,7 @@
 
 ### Homework
 
-- Grab Bag Wheaties X - X
+- Listen to "GPT-4 is here + The Group Chat Bank Run"
+    - 11:50 - 25:40
+    - Prepare for one question "reading quiz"
+- Grab Bag Wheaties 18
