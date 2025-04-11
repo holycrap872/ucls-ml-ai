@@ -14,20 +14,16 @@ figure out where the students are along several dimensions:
 
 ### Setup
 
-- Graded discussion rubrics ready to hand back
 - `./chatbot_output_python/landscape_game.py` printed out
 - `ProblemSetSkeleton` zipped and loaded into Schoology
     - https://gitlab.com/eric.rizzi/problem-set-skeleton
     - Make sure `data/text/great_gatsby.txt` and `data/text/little_women.txt` present
-    - Make sure no other untracked files present
     - Cleanup:
         - `rm -rf .git && rm -rf .venv && rm -rf .pytest_cache && rm coverage.xml && rm .coverage`
         - `find . -name "__pycache__" -exec rm -r {} \;`
         - `find . -name ".DS_Store" -exec rm -r {} \;`
-- Skills assessment worksheet posted on Schoology
+- `Skills Assessment Worksheet` posted on Schoology
     - https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw
-- `problem_set_comprehensions.pdf` loaded into special folder for students who finish
-    - Make folder "individually assigned" for this students
 
 ### Actual Lesson
 
@@ -46,7 +42,7 @@ figure out where the students are along several dimensions:
     - primitives
     - variables
     - lists
-- Walk through `landscape_game.py` to futher job memory
+- Walk through `landscape_game.py` to further jog memory
     - JavaScript and Python on similar
     - What do you recognize/see from Python
     - What is happening on lines x, y, z?
@@ -62,7 +58,6 @@ figure out where the students are along several dimensions:
         - Black Formatter
         - Isort
         - Pylance
-        - Vim!
     - Do simple programs as a class
         - Get everyone running a simple "hello world" program
         - Take in numbers from user until they hit "q" and then sums then

@@ -15,11 +15,9 @@ that I can understand the skill levels of the class.
 
 ### Setup
 
-- 2d-car game loaded and ready to go
-    - 2d_car_game saved on GitLab
-- `00_onboarding_questionnaire` GoogleDoc printed out
+- `Getting to Know You` GoogleDoc printed out
     - https://docs.google.com/document/d/1FhSY2xrDpjQ0G5ZyzR-eA96IQ2-9Ol2QRWMjyKdmWlE
-- - Log into `console.aws.amazon.com`
+- Logged into `console.aws.amazon.com`
 
 ### Actual Lesson
 
@@ -36,11 +34,11 @@ that I can understand the skill levels of the class.
         - People who haven't taken AP: will crush AP
         - People who have taken AP: will be at least at sophomore CS level
         - Everyone will learn more about how to learn
-- Go through Syllabus
+- Go through syllabus
     - Highlight ChatBot usage
         - Not in the beginning b/c need to learn fundamentals
         - Eventually use because a VERY powerful tool
-- Course Description
+- Course description
     - Walk through each unit and what it is doing
     - Overall goal is to build up skills
 - Final project
@@ -48,8 +46,6 @@ that I can understand the skill levels of the class.
     - Will have to use engineering/collaboration tools learned earlier
     - Can do anything you'd like, so start thinking now
     - I'll filter a bit
-    - Show final project as example
-        - 2d_car_game saved on GitLab
 - Question time:
     - P-Doom: probability of doom from AI
         - Snap reaction, what's yours and why?
@@ -58,9 +54,11 @@ that I can understand the skill levels of the class.
     - Exponential growth vs. Linear Growth
     - We'll record these and talk about them later
 - Any questions?
-- Distribute `00_onboarding_questionnaire` sheet
+- Distribute `Getting to Know You` sheet
     - Collect before class ends
 
 ### Homework
 
-- 15m meeting with me within next seven days to set up computer/talk
+- Book 15m meeting with me within next seven days
+    - Check that computer is set up properly
+    - Connect and understand goals within class

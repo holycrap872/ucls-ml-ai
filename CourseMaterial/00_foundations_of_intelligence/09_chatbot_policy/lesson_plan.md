@@ -17,9 +17,9 @@ start to work on the first of the long-running problems sets.
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
 - Homework loaded into Schoology
-    - `Command-Line Kickoff`
+    - `Command-Line Kickoff Worksheet`
         - https://docs.google.com/document/d/1ylXJ3uF2FP3Ujd8N-tweOlr1Ap_LERqiZGzLcMdZPfk
-    - `problem_set_intro.pdf` loaded in Schoology
+    - `Python Intro Wheaties` loaded in Schoology
 
 ### Actual Lesson
 
@@ -34,7 +34,7 @@ start to work on the first of the long-running problems sets.
 - Class coding
     - Function that takes two lists as input and returns a single list of pairs
         - Need it for some of the graph stuff
-        - [1, 5], [3, 9] -> [(1, 3), (5, 9)]
+        - `[1, 5], [3, 9] -> [(1, 3), (5, 9)]`
     - Put question into ChatBot and see what it says
 - Today going to discuss how ChatBots affect learning
 - Give 5m to journal about discussion questions:
@@ -49,4 +49,4 @@ start to work on the first of the long-running problems sets.
 
 ### Homework
 
-- `Command-Line Kickoff`
+- `Command-Line Kickoff Worksheet`

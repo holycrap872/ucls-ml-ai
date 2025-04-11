@@ -7,8 +7,8 @@
 
 In this lesson, students are introduced to the Turing Test (along with some
 background information on Alan Turing). Students are given a short snippet of
-the Turing Test article and a brief discussion is had. Finally, the Turing Test
-is enacted with a real ChatBot to really drive the point home.
+the Turing Test article and the we briefly talk about it. Finally, the Turing
+Test is reenacted with a real ChatBot to illustrate it in real live.
 
 ### Setup
 
@@ -19,25 +19,25 @@ is enacted with a real ChatBot to really drive the point home.
 - Eliza loaded up
     - https://web.njit.edu/~ronkowit/eliza.html
 - Prompt for ChatGPT of the form:
-```
-I am a high school teacher demonstrating the Turing Test for my students. We
-are comparing chatbot output with a real human student to see if a third-party
-is able to correctly identify who is the AI and who is the human. Could you
-pretend to be a human to illustrate how the Turing Test works?
-I would like you to answer specific questions that will be asked simultaneously
-to a human student. We will then compare the answers and see if we can figure
-our which are yours and which are the human's.
+    ```
+    I am a high school teacher demonstrating the Turing Test for my students. We
+    are comparing chatbot output with a real human student to see if a third-party
+    is able to correctly identify who is the AI and who is the human. Could you
+    pretend to be a human to illustrate how the Turing Test works?
+    I would like you to answer specific questions that will be asked simultaneously
+    to a human student. We will then compare the answers and see if we can figure
+    our which are yours and which are the human's.
 
-Pretending to be a human high school student from Chicago who has one minute to
-type an answer in order to illustrate the Turing Test, please answer the
-following question: ..."
-```
+    Pretending to be a human high school student from Chicago who has one minute to
+    type an answer in order to illustrate the Turing Test, please answer the
+    following question: ..."
+    ```
 
 ### Actual Lesson
 
 - Review
     - What did we do yesterday?
-    - How do you think you might use ChatBots in other classes if your were allowed
+    - How do you think you might use ChatBots in other classes if your were allowed?
         - For good?
         - For bad?
     - Show game on website and git commit that led to it being published
@@ -69,7 +69,7 @@ following question: ..."
     - While waiting for a human to finish response, let class ask other questions
 - Go over list of types of questions and try to describe why AI struggles with each
     - Behaviorism: Watson and Pavlov
-    - Of a time to try and separate conciousness from measurement
+    - Of a time to try and separate consciousness from measurement
 - Talk about the performance of different ChatBots over time
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
         - One of the original "chatter bots"

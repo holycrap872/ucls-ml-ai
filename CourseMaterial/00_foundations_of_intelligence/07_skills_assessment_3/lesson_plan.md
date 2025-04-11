@@ -40,7 +40,7 @@ tests) that will help each of them as they encounter a problem.
     - Create function takes a list of ints and returns a list of all the even numbers in the input
     - Create three unit tests
 - Today going to just program as much as we can
-- Continue working on `Skills Assessment`
+- Continue working on `Skills Assessment Worksheet`
 
 ### Homework
 

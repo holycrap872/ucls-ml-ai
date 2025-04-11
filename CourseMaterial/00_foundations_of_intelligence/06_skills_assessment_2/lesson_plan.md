@@ -13,6 +13,7 @@ solve a simple problem before the students finally strike out on their own.
 ### Setup
 
 - Email to parents asking them if students can use Claude.ai / ChatGPT
+- `Python Comprehension Wheaties` loaded into Schoology students who finish
 
 ### Actual Lesson
 
@@ -24,7 +25,7 @@ solve a simple problem before the students finally strike out on their own.
     - Create function that checks if word starts/ends with same letter
     - Function returns a boolean
     - After finish: what are three things you learned/now remember?
-- Talk about `Skills Assessment`
+- Talk about `Skills Assessment Worksheet`
     - Explain progression of problems:
         - Shows use of `input`
         - Ability to run a program

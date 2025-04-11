@@ -11,18 +11,18 @@ common problems (like baking a cake or running a race). Finally, we start to
 talk about "search techniques" by playing Search Space Battleship and discuss
 what they learned.
 
-This lesson and the two that follow on the Turing Test form the basis of the
-class: technical mixed with philosophical.
+This lesson and the two that follow (on the Turing Test) form the basis of
+the class: technical mixed with philosophical.
 
 ### Setup
 
 - Search Space Battleship pieces
     - Bunch of sets of LEGOs with green "baseplate" (32x32) to stick them to
     - Dividers
-    - Pre-created "example boards" (both 1d and 2d) to make clear what I'm talking about
+    - Pre-created "example boards" to make clear what I'm talking about
         - I took pictures of the board and will show them in class
     - Example board in case there's an odd number of students
-- "Spaghetti Sauce Search" assignment posted to Schoology
+- `Spaghetti Sauce Search` assignment posted to Schoology
     - https://docs.google.com/document/d/13f8gNtaOgFA_MCKX1965QIzF8IzqR16F4kFNBemDca0
 
 ### Actual Lesson
@@ -38,11 +38,15 @@ class: technical mixed with philosophical.
         - Local Maxima
     - What would "baking the perfect cake" look like?
         - What is the **objective function**?
+            - Taste
         - What are some **parameters**?
+            - Amount of sugar, baking time, amount of butter
         - Estimate of total number of parameters?
     - What would "running a race" look like?
         - What is the **objective function**?
+            - Finishing time
         - What are some **parameters**?
+            - Type of shoes, days training, carbo-loaded
         - Estimate of total number of parameters?
     - AL/ML is looking for a "global maxima"
         - Don't want to get stuck in a "local maxima"
@@ -51,7 +55,7 @@ class: technical mixed with philosophical.
 - Today going to play a game called "Search Space Battle Ship"
     - Who's played Battle Ship?
     - Explain Battle Ship
-        - 2 dimensions (parameters)
+        - 2 dimensions (parameters: x, y)
     - What are good strategies in Battle Ship?
         - Link each thing they say to keywords for the day
 - Rules

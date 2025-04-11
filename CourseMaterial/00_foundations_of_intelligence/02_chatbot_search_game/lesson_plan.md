@@ -1,14 +1,14 @@
 ## Essential Questions
 
 - What techniques can find a solution in a complex search space?
-- How should different skill levels utilize Chatbots?
+- How should different skill levels utilize ChatBots?
 
 ## Lesson Plan
 
 In this lesson, students are exposed to the power of ChatBots such as ChatGPT
 and Claude.ai. First, we review concepts about search space exploration from the
 previous class. Then, we see how Claude.ai would have answered the given
-homework and critique its answers. After that, I show them what ChatGPT output
+homework and critique its answers. After that, I show them what Claud.ai wrote
 when I asked it to create a version of "Search Space Battleship" and dig
 through the code it produced. Finally, we discuss all of this.
 
@@ -17,12 +17,13 @@ through the code it produced. Finally, we discuss all of this.
 - Connection to Claude.ai
     - **Clear our any old history** for both ChatGPT and Claude
     - Prompt for Claude.ai of the form:
-```
-I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to understand
-how search spaces and search space exploration work. Could you create a medium
-length paragraph answering the question "what mistake did Prego make in terms of
-their objective function when trying to find the perfect spaghetti sauce"?
-```
+        ```
+        I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to
+        understand how search spaces and search space exploration work. Could
+        you create a medium length paragraph answering the question "what
+        mistake did Prego make in terms of their objective function when trying
+        to find the perfect spaghetti sauce"?
+        ```
 - `landscapeGame.pdf` printed out
     - Single page (two-sided) of code from `./chatbot_output`
 
@@ -62,7 +63,8 @@ their objective function when trying to find the perfect spaghetti sauce"?
     - Hand out `landscapeGame.pdf`
         - Explain what's going on
         - Emphasize how similar JavaScript is to Python
-        - Ask notice/wonder questions
+        - In pairs, come up with 2 "notice" and 2 "wonders"
+        - Go around room answering/affirming questions
     - Modify game
         - Have students pair up
             - Ask how would make small changes
@@ -79,7 +81,7 @@ their objective function when trying to find the perfect spaghetti sauce"?
 - Discussion
     - What do these capabilities mean for novices?
     - What do these capabilities mean for experts?
-   - What outside knowledge am I bringing to this process?
+    - What outside knowledge am I bringing to this process?
     - Why am I emphasizing Software Engineering in the class?
 - If time: deploy to GitHub on my website
     - Talk about GitHub

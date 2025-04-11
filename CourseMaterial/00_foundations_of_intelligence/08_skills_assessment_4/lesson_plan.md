@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How do we utilize ChatBots in programing?
+- How do we utilize ChatBots in programming?
 - How does using ChatBots affect learning?
 
 ## Lesson Plan
@@ -34,7 +34,7 @@ used to it. While they're working, I wil go around and suggest various things
 - Put palindrome question into ChatGPT
     - Ask for unit tests
     - Critique the code
-- Continue working on `Skills Assessment`
+- Continue working on `Skills Assessment Worksheet`
     - Now allowed to use ChatGPT
 - Wrap up
     - Tomorrow discussion on ChatBot policy for this class
@@ -46,4 +46,5 @@ used to it. While they're working, I wil go around and suggest various things
 
 ### Homework
 
-- Read `colleges_ai.docx`
+- Read `colleges_ai.docx` and prepare for discussion
+    - Annotations will be checked
