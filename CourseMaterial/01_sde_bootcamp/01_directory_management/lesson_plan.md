@@ -7,12 +7,19 @@
 
 In this class, students formalize the knowledge they gained while playing
 `GameShell` the previous day. After the review/discussion students will start
-a command-line worksheet that will make the concepts more grounded.
+a command-line worksheet that will make the concepts more grounded by making
+changes on their own computers.
 
 ### Setup
 
-- GameShell docker image ready to run
-- `Command-Line Worksheet` posted to Schoology
+- `GameShell` set up
+    - https://github.com/phyver/GameShell Docker image built and pushed to computers
+        - Enough docker images up and running
+        ```
+        docker pull erizzi/gameshell_tutorial
+        docker run -it erizzi/gameshell_tutorial
+        ```
+- `Command-Line Exercises Worksheet` posted to Schoology
     - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
 - `cmd_line_exercise.zip` posted to Schoology
 
@@ -27,7 +34,7 @@ a command-line worksheet that will make the concepts more grounded.
     - Shell commands
         - `ls`, `cd`, `pwd`, `mkdir`, `touch`, `rm`, `cp`
     - Shell concepts
-        - Directories, Files, Pathes, `~`, Hidden files, Up arrow
+        - Directories, files, paths, `~`, hidden files, up arrow
     - Shell demo
         - Explore my `/Users` folder
         - Show files (hidden) associated with a particular user
@@ -36,15 +43,15 @@ a command-line worksheet that will make the concepts more grounded.
     - The games you were playing was a computer in a computer
     - Like "the Matrix"
     - Philosophical concept that we will return to
-- Why shell
+- Why knowing how to use the terminal is so important
     - ChatBots good at writing code
     - Knowing how to use what it spits out is more difficult
     - This gives you a tool to use the output
     - `ssh` as an example: can connect to every computer
-- Hand out command-line worksheet
+- Talk through `Command-Line Exercises Worksheet`
     - Read through the introduction together
 - Go!
 
 ### Homework
 
-- Finish worksheet
+- Finish `Command-Line Exercises Worksheet`

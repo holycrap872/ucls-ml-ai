@@ -5,11 +5,18 @@
 
 ## Lesson Plan
 
+In this class, students will basically repeat what they did in the previous
+class, but this time for the `ProblemSetSkeleton`. First, students will review.
+Then, they will be guided by a worksheet towards the creation of a source code
+repository and create a few sample functions/tests in. Finally, the worksheet
+will prompt them to create a TIL entry solidifying their knowledge of `git init`.
+
 ### Setup
 
-- `Problem Set Repo` GoogleDoc posted to Schoology
+- `Problem Set Repo Worksheet` GoogleDoc posted to Schoology
     - https://docs.google.com/document/d/19h1ejv9kHlLr8VIXydBqVjqynR9JkC4UFSIr847d-4I
-- Websites loaded up
+- `Python Intro Wheaties` loaded up in Schoology
+- Demo websites loaded up
     - https://github.com/jbranchaud/til
     - https://markdownlivepreview.com/ 
 
@@ -28,20 +35,21 @@
             - Commits are where you "clip in"
             - Git lets you make leaps without a worry
     - What is your mental model of programmer?
-        - Code changes in `vscode`, Saving and moving in `command line`
+        - Edit text in `vscode`
+        - Saving, moving, and committing files in command-line
 - Magic of `git push`
     - You're on the "main" branch... don't really want to get into branches
     - Push the branch you're on
     - Push and look at people's TIL
         - What went good
         - What went bad
-- Last class, created a remote repository for TIL
-    - Now going to create remote repository for ProblemSetSkeleton
+- Last class, created a remote repository for `TILSkeleton`
+    - Now going to create remote repository for `ProblemSetSkeleton`
 - Classwork
     - Walk through worksheet
     - Talk about similarities/differences with day before
-    - Go!
+- Go!
 
 ### Homework
 
-- Finish `Problem Set Repo` worksheet
+- Finish `Problem Set Repo Worksheet`

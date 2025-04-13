@@ -41,4 +41,4 @@ to work on their homework.
 
 ### Homework
 
-- Problems 8 - 10 of Python String Wheaties
+- Problems 8 - 10 of `Python String Wheaties`

@@ -9,8 +9,8 @@ The goal of this lesson is to introduce students to git. I _do not_ want them to
 be git experts coming out of this. Instead, I would like them to know why git is
 important and to understand in general how git is a chain of diffs. With that
 foundation, we can emphasize certain aspects of git in future lessons as they
-are needed. In summary, as long as they understand the "graph" concept and the
-`git log` concept, then I'm happy.
+are needed. In summary, as long as they understand the to think of `git ` as a
+"graph" of changes and what `git log` shows, then that's enough
 
 ### Setup
 
@@ -21,6 +21,8 @@ are needed. In summary, as long as they understand the "graph" concept and the
 - A few example git repositories to chew on.
     - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
 - Schoology Assessment on `git` published
+    - See `assessment.md`
+    - Can take it up to **three times**
 
 ### Actual Lesson
 
@@ -67,7 +69,8 @@ are needed. In summary, as long as they understand the "graph" concept and the
     - Steps
     - Staging area -> makes for pretty commits
 - Can leave early
-    - DON'T DO ASSESSMENT right away b/c then information sets in brain better
+    - **DO NOT** do assessment right away b/c then information sets in brain better
+    - Spaced learning!
 
 ### Homework
 

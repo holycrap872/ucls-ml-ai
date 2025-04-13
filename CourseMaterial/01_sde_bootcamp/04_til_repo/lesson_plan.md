@@ -1,24 +1,25 @@
 ## Essential Questions
 
+- How we utilize git remote repositories?
 - What practices can I adopt to make my knowledge easily viewable and sharable?
 
 ## Lesson Plan
 
-The goal here is to show students how git can go from a "local" repository to a
-"remote" repository. To do this, students will build on (and push) a "Today I
-Learned" skeleton. This project will then be something that they add to over
-time.
+The goal here is to show students how `git` can go from a "local" repository to
+a "remote" repository. To do this, students will build on (and push) a "Today I
+Learned" skeleton. This project will then be something that they to throughout
+the entire class and is designed to solidify their knowledge on tricky subjects.
 
-> Student's normal creds work (LDAP) automatically work with GitLab
+> Note: Student's creds (LDAP) _should_ work with `gitlab.ucls.uchicago.edu`
 
 ### Setup
 
-- `Today I Learned Repo` GoogleDoc loaded up into Schoology
+- `Today I Learned Repo Worksheet` GoogleDoc loaded up into Schoology
     - https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk
-- TIL skeleton zipped and loaded onto Schoology
+- `TILSkeleton` zipped and loaded onto Schoology
     - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
     - `.git` folder removed
-- Websites loaded up
+- Demo websites loaded up
     - http://git-school.github.io/visualizing-git/
     - https://github.com/jbranchaud/til
     - https://gitlab.ucls.uchicago.edu/vdangi/til
@@ -40,6 +41,8 @@ time.
         - Caution that `git pull` is later
 - Show inspiration
     - https://github.com/jbranchaud/til
+        - Great long term learning technique
+        - Useful whether you go into CS or not
     - Walk through various things
     - How is GitLab similar to GitHub?
 - Show some examples in gitlab
@@ -50,8 +53,9 @@ time.
     - How it works
     - Show some small examples
     - Raw vs. rendered
+        - https://markdownlivepreview.com
 - Goal today: Create your own TIL repo
-    - Walk through worksheet
+    - Walk through `Today I Learned Repo Worksheet`
     - Explain things to be careful of
 - Go!
     - After ~5m of them working independently, bring them back
@@ -60,4 +64,4 @@ time.
 
 ### Homework
 
-- Finish worksheet
+- Finish `Today I Learned Repo Worksheet`

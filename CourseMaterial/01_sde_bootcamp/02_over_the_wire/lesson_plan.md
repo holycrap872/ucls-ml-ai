@@ -7,36 +7,39 @@
 
 ### Setup
 
-- Terminals open on Desktops in lab
+- Terminals open on desktop computers in lab
     - Command `ssh -p 2220 bandit0@bandit.labs.overthewire.org` typed in
-- Homework loaded into Schoology
-    - `Git Kickoff`
-        - https://docs.google.com/document/d/1JKkWEULvgkRLH8VBuKTFchZi8yxuXm6Nm9RLyv2UeFI
+- `Git Kickoff Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/1JKkWEULvgkRLH8VBuKTFchZi8yxuXm6Nm9RLyv2UeFI
 
 ### Actual Lesson
 
 - Review
     - Commands
+        - `ls`, `cat`, `cd`, `touch`, etc.
     - Paths
-        - mkdir hey && touch hey/file.txt vs. mkdir hey && cd hey && touch file.txt
+        - `mkdir hey && touch hey/file.txt vs. mkdir hey && cd hey && touch file.txt`
         - Hacking websites via path traversal
             - https://finance.yahoo.com/screener/..
-- Homework
-    - Repeat basically how it's done on the computer
-    - Have `terminal` up in the foreground of hw so can be seen
-- Why shell
+- Review homework
+    - Do problem 4 as a class
+        - Go around room asking "what next"
+    - Have terminal in front of GoogleDoc so easy to see what needs to be done next
+- Why terminal?
     - Stress that important if ever going to do CS
         - One of 2-3 fundamental tools
     - Show xkcd comic: https://xkcd.com/519/
-- VSCode now that know terminal
-    - Create file in `ProblemSetSkeleton` -> `touch`
-    - Run program `python3 ....`
-    - Compare commands with how `vscode` GUI works
+- Can understand VSCode better now that know terminal
+    - Create file via GUI
+        - Equivalent to: `ProblemSetSkeleton` -> `touch`
+    - Run program via GUI
+        - Equivalent to: `python3 ....`
+    - Overall point: many VSCode commands actually running terminal commands
 - `ssh`
     - Foundation of internet
     - Allows you to connect to another person's computer
     - Draw two computers connecting
-- `overtherwire.org`
+- `overthewire.org`
     - Today going to do one final shell activity
     - Show `ssh -p 2220 bandit0@bandit.labs.overthewire.org`
         - Explain what each part means
@@ -47,7 +50,15 @@
         - the `./-` in level 1 is ANNOYING
 - Break up in to pairs
     - Go!
+- Setup homework
+    - Going to be about a tool called `git`
+    - It's a way to save changes in project
+    - Very similar to version history in GoogleDocs
+    - Will build on initial understanding from worksheet in class tomorrow
 
 ### Homework
 
-- `Git Kickoff`
+- `Git Kickoff Worksheet`
+    - Note: I haven't actually done this in a real class yet
+        - The goal is to expose them to `git` and have them thinking about it
+        - Honestly not sure if this is the best way to prep them

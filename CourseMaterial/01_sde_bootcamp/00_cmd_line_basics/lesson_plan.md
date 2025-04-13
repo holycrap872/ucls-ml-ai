@@ -19,7 +19,7 @@ following day.
 ### Setup
 
 - `GameShell` set up
-    - https://github.com/phyver/GameShell Docker image built and pushed to computers
+    - https://github.com/phyver/GameShell Docker image built and pushed to lab computers
         - Enough docker images up and running
         ```
         docker pull erizzi/gameshell_tutorial
@@ -27,19 +27,19 @@ following day.
         ```
 - An example folder on my desktop
     - `terminal_example.zip`
+- Schoology assessment on Command-Line Basics
+    - See `assessment.md`
+    - Can take it up to **three times**
 
 ### Actual Lesson
 
 - Review homework
-    - What is the command-line?
-    - What can you do with it?
-    - Who has used it before?
-    - How is it different from a GUI
-        - Why better than a GUI? Why worse?
+    - What is proper role of AI in this class?
+    - How do you know if you're learning or not?
 - Kicking off multi-week "boot camp" to get everyone up to speed
     - Based on knowledge required to be a good intern at AWS
     - Going to keep doing Python problem sets so skills don't atrophy
-- Open up command-line and do some examples
+- Open up terminal and do some examples
     - Where to find terminal for various systems
     - Explore directory structure of computer
         - Mirror changes in GUI so you can see the changes
@@ -63,13 +63,15 @@ following day.
     - Switch every time complete "mission"
 - Go!
 - Reflection
-    - Show GameShell on GitHub
+    - Show [GameShell on GitHub](https://github.com/phyver/GameShell)
+        - Poke around project a bit to show collaboration
+        - Show commits to prepare them for git in a few days
     - Problems people had?
     - Questions people had?
 
 ### Homework
 
-- Schoology Assessment `assessment.md`
+- Schoology Assessment on Command-Line Basics
 
 ### Resources / Random ideas
 
