@@ -16,7 +16,7 @@ casino blackjack and run various simulations for rule changes.
 
 ### Setup
 
-None
+- None
 
 ### Actual Lesson
 

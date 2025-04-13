@@ -151,4 +151,5 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a string as an input and returns the longest
    substring without repeating characters.
     - For example: `"hellothere" -> "lother"`
-    - Hint: a `for` loop in a `for` loop
+    - Hint: Create a helper function that takes a string and returns how many
+      non-repeating characters it starts with

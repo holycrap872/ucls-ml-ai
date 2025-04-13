@@ -138,3 +138,4 @@ and then write at **least two unit tests** in the
 0. Create a function that takes a string as an input and returns the longest
    substring without repeating characters.
     - For example: `"hellothere" -> "lother"`
+    - Hint: Create a helper function
