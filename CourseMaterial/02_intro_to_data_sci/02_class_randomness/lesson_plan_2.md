@@ -19,7 +19,7 @@
     - Parsing CSV string
         - Write tests first
         - Why are types useful?
-        - Acculator in an accumulator
+        - Accumulator in an accumulator
 - Classwork:
     - Bar chart of total number of each number
     - Scatter plot of consecutive pairs of numbers

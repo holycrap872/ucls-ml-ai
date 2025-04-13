@@ -33,5 +33,5 @@ and why data interpretation is pivotal to ML/AI.
 
 ### Homework
 
-- `Python List Wheaties` 4 - 7
+- `Python List Wheaties` 7 - 8
 - Finish `Funny Graph Worksheet`

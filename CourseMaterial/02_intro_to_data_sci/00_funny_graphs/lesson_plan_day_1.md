@@ -9,7 +9,7 @@ This lesson exposes students to `matplotlib` and gets them started writing
 their own code. It's a good lesson because students create their own "funny
 graphs" which can ameliorate some of the skill differences. By the end, students
 will have discussed how to interpret a cheat sheet, how to install a library,
-and why data interpretation is pivotal to ML/AI.
+and why data processing is pivotal to ML/AI.
 
 ### Setup
 
@@ -45,5 +45,5 @@ and why data interpretation is pivotal to ML/AI.
 
 ### Homework
 
-- `Python List Wheaties` 0 - 3
+- `Python List Wheaties` 5 - 6
 - Two "Funny Graph" sketches on scratch paper
