@@ -14,7 +14,7 @@ on the
 
 ### Setup
 
-- Solution associated with "Plotting Classics" lesson printed out so students can analyze it
+- Solution associated with "Class Randomness" lesson printed out so students can analyze it
     - `class_randomness_solution.py`
     - TODO: Double check it's at the appropriate level of difficulty
 - Two novels loaded up in Schoology
@@ -35,7 +35,8 @@ on the
     - Data quality
     - Parsing text
 - Code discussion
-    - Hand out _my_ solution for "Plotting Classics" worksheet: `class_randomness_solution.py`
+    - Hand out _my_ solution for "Class Randomness" worksheet
+        - `class_randomness_solution.py`
     - Discuss
 - Setup
     - This worksheet will be analyzing books

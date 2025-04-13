@@ -8,6 +8,7 @@
 ### Setup
 
 - `Data Structure Usage` Schoology Assessment posted
+    - See `assessment.md`
 - `data_structures_cheat_sheet.docx` printed out
 - `shopping_example.py` open and ready to go
 
