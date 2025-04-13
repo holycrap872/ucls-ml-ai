@@ -11,7 +11,7 @@ the learning process. The article is then compared with the assignment from the
 previous night and students are asked to compare their experience with the ideal
 presented in teh article.
 
-> NOTE: This lesson plan is only ~3/4 done
+> Note: This lesson plan is only ~3/4 done
 
 ### Setup
 
@@ -41,6 +41,6 @@ presented in teh article.
 
 ### Homework
 
-- Problem x - x of `Python _ Wheaties`
+- Problem 0 - 4 of `Python List Wheaties`
 - Create two different threads in Claude (tutor and cheater) and use both to solve tonight's homework
     - Send me a printout of both
