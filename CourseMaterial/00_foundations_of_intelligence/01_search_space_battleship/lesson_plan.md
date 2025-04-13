@@ -8,11 +8,11 @@
 In this kickoff lesson, students are exposed to the concept of "search space".
 First they learn the requisite vocabulary and then they start to apply it to
 common problems (like baking a cake or running a race). Finally, we start to
-talk about "search techniques" by playing Search Space Battleship and discuss
+talk about "search techniques" by playing "Search Space Battleship" and discuss
 what they learned.
 
-This lesson and the two that follow (on the Turing Test) form the basis of
-the class: technical mixed with philosophical.
+This lesson and the two that follow (on the Turing test) show the flow of the
+class: technical mixed with philosophical.
 
 ### Setup
 
@@ -52,21 +52,25 @@ the class: technical mixed with philosophical.
         - Don't want to get stuck in a "local maxima"
         - Bunch of algorithms to do this, but lets see what you come up with
     - Size of "real problems": 1 billion to 170 trillion parameters
-- Today going to play a game called "Search Space Battle Ship"
-    - Who's played Battle Ship?
-    - Explain Battle Ship
+- Today going to play a game called "Search Space Battleship"
+    - Who's played Battleship?
+    - Explain Battleship
         - 2 dimensions (parameters: x, y)
     - What are good strategies in Battle Ship?
         - Link each thing they say to keywords for the day
 - Rules
     - Play along one dimension
-    - Board is 32 long (entire green LEGO baseplate)
-    - Need to use between 35-40 LEGOs
-    - Must have a global maxima between 4 and 7
-    - Must have between 2 and 4 local maximas
-    - Maximum slope of 1
-    - Each get 12 guesses. At the end you guess the other person's global max
+    - Create problem:
+        - Board is 32 long (entire green LEGO baseplate)
+        - Need to use between 35-40 LEGOs
+        - Must have a global maxima between 4 and 7
+        - Must have between 2 and 4 local maximas
+        - Maximum slope of 1
+    - Solve problem:
+        - Each get 12 guesses
+        - At the end you guess the other person's global max
 - Show them my example boards and ask what's good/bad about them
+    - Helps reinforce the "rules" and specifications
 - Let play and debrief
     - What were people's strategies?
     - What was the hardest solution to find?

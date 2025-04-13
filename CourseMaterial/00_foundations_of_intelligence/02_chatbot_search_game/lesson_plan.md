@@ -9,13 +9,13 @@ In this lesson, students are exposed to the power of ChatBots such as ChatGPT
 and Claude.ai. First, we review concepts about search space exploration from the
 previous class. Then, we see how Claude.ai would have answered the given
 homework and critique its answers. After that, I show them what Claud.ai wrote
-when I asked it to create a version of "Search Space Battleship" and dig
-through the code it produced. Finally, we discuss all of this.
+when I asked it to create a JavaScript version of "Search Space Battleship" and
+dig through the code it produced. Finally, we discuss all of this.
 
 ### Setup
 
 - Connection to Claude.ai
-    - **Clear our any old history** for both ChatGPT and Claude
+    - **Create new discussion** for both ChatGPT and Claude
     - Prompt for Claude.ai of the form:
         ```
         I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to
@@ -31,11 +31,13 @@ through the code it produced. Finally, we discuss all of this.
 
 - Review
     - What did we do yesterday?
-    - What do **parameters** mean?
-    - What is an **object function** mean?
+    - What are parameters?
+    - What is an objective function?
     - What is a local maxima?
     - What is max gradient ascent?
     - How does "growing flowers" map onto this?
+        - Have them come up with objective function and parameters
+        - objective function: prettiness, parameters: amt water, amt sun
     - How does "perfect pasta sauce" map onto this?
 - Claude.ai intro
     - Look at the homework
@@ -45,7 +47,7 @@ through the code it produced. Finally, we discuss all of this.
 - I had an idea for a game
     - Basically the same as what we did yesterday
     - I couldn't find it online
-    - I asked ChatGPT:
+    - I asked Claude.ai:
         ```
         Could you give me some sample JavaScript code that does the following:
         1. Randomly creates a 2d landscape (with mountains and valleys)
@@ -76,7 +78,7 @@ through the code it produced. Finally, we discuss all of this.
             - Max -> min
             - Win if see peak
             - Bigger Canvas
-        - Bugs in Original code?
+        - Bugs in original code?
             - Unused variable `peaks`
 - Discussion
     - What do these capabilities mean for novices?

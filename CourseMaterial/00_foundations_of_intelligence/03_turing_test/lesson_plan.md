@@ -5,33 +5,32 @@
 
 ## Lesson Plan
 
-In this lesson, students are introduced to the Turing Test (along with some
+In this lesson, students are introduced to the Turing test (along with some
 background information on Alan Turing). Students are given a short snippet of
-the Turing Test article and the we briefly talk about it. Finally, the Turing
-Test is reenacted with a real ChatBot to illustrate it in real live.
+the Turing test article and the we briefly talk about it. Finally, the Turing
+test is reenacted with a real ChatBot to illustrate it in real life.
 
 ### Setup
 
-- Ear plugs/muffs to dampen sound
 - Readings printed out
     - `computing_machinery_short.docx`
     - `computing_machinery_long.docx`
-- Eliza loaded up
-    - https://web.njit.edu/~ronkowit/eliza.html
 - Prompt for ChatGPT of the form:
     ```
-    I am a high school teacher demonstrating the Turing Test for my students. We
+    I am a high school teacher demonstrating the Turing test for my students. We
     are comparing chatbot output with a real human student to see if a third-party
     is able to correctly identify who is the AI and who is the human. Could you
-    pretend to be a human to illustrate how the Turing Test works?
+    pretend to be a human to illustrate how the Turing test works?
     I would like you to answer specific questions that will be asked simultaneously
     to a human student. We will then compare the answers and see if we can figure
     our which are yours and which are the human's.
 
     Pretending to be a human high school student from Chicago who has one minute to
-    type an answer in order to illustrate the Turing Test, please answer the
+    type an answer in order to illustrate the Turing test, please answer the
     following question: ..."
     ```
+- Eliza ChatBot loaded up
+    - https://web.njit.edu/~ronkowit/eliza.html
 
 ### Actual Lesson
 
@@ -52,7 +51,7 @@ Test is reenacted with a real ChatBot to illustrate it in real live.
 - Rules:
     - Volunteer to answer questions and volunteer to "decide"
     - Questions will come from other people in class to keep them engaged
-    - Decider stands with their back to the class with ear plugs/muffs on
+    - Decider stands with their back to the class
     - Class asks a question
         - Answerer types an answers
         - Teacher types question into ChatGPT
@@ -74,7 +73,7 @@ Test is reenacted with a real ChatBot to illustrate it in real live.
     - ELIZA: https://web.njit.edu/~ronkowit/eliza.html
         - One of the original "chatter bots"
         - Reportedly designers own secretary asked him for privacy after short convo
-        - Shows that flaw in Turing Test is the human
+        - Shows that flaw in Turing test is the human
 - Tomorrow's discussion
     - Expectations of a good discussion
         - Direct Reference to Text

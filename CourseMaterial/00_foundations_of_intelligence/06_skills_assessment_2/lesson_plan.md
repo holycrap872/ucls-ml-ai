@@ -8,11 +8,12 @@
 The goal of this lesson is to give students enough information so that they can
 continue to independently work through the skills assessment. Prior to them
 going off on their own, we will do a quick review. Then, as a class we will
-solve a simple problem before the students finally strike out on their own.
+solve a simple problem. Finally, the students will strike out on their own.
 
 ### Setup
 
 - Email to parents asking them if students can use Claude.ai / ChatGPT
+- 
 - `Python Comprehension Wheaties` loaded into Schoology students who finish
 
 ### Actual Lesson
@@ -41,7 +42,7 @@ solve a simple problem before the students finally strike out on their own.
         - Sorting
         - Assertions
 - Today going to just program as much as we can
-- Continue working on `Skills Assessment`
+- Continue working on `Skills Assessment Worksheet`
 
 ### Homework
 

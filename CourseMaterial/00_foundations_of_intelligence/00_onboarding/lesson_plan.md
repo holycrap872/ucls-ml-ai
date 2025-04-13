@@ -6,9 +6,9 @@
 ## Lesson Plan
 
 In this class, students are introduced to the content and expectations of the
-course. Right before the end, projects from the previous year are shown to
-provide some grounding of what's possible. Finally, there's a questionnaire so
-that I can understand the skill levels of the class.
+course. Then, projects from the previous year are shown to provide some
+grounding of what's possible. Finally, there's a questionnaire so that I can
+understand the skill level/expectations of the class.
  
 > Note: The class has to fill 40m (and previously ended ~35m) so I added a
   few "mini discussion" questions to fill the time.
@@ -25,14 +25,15 @@ that I can understand the skill levels of the class.
     - Degrees in Philosophy and CS with a minor in AI
     - Last worked at AWS where led web-scanning team
     - Excited about this class in particular, so left to teach
-    - Passionate about teaching... money is a tool to find purpose
+    - Passionate about teaching
 - Get everyone's name
 - Explain goal of course
     - 1/3 philosophy, 1/3 CS, 1/3 software engineering
     - Note: discussion heavy
+        - Best way to wrestle with philosophical implications of AI
     - Lots of different skill levels
-        - People who haven't taken AP: will crush AP
-        - People who have taken AP: will be at least at sophomore CS level
+        - People who haven't taken AP
+        - People who have taken AP
         - Everyone will learn more about how to learn
 - Go through syllabus
     - Highlight ChatBot usage
@@ -42,7 +43,7 @@ that I can understand the skill levels of the class.
     - Walk through each unit and what it is doing
     - Overall goal is to build up skills
 - Final project
-    - Will be able to use ChatGPT
+    - Will be able to use ChatBot
     - Will have to use engineering/collaboration tools learned earlier
     - Can do anything you'd like, so start thinking now
     - I'll filter a bit

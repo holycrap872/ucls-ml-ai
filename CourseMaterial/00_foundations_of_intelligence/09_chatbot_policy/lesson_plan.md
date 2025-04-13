@@ -10,16 +10,12 @@ This lesson sets the tone for ChatBot usage within the class. It also exposes
 students to the long term theme of "what is learning?" As such, the class will
 discuss how ChatBots should be used within different disciplines and how it
 should be approached as you're trying to learn. After all of this, students will
-start to work on the first of the long-running problems sets.
+work on getting 
 
 ### Setup
 
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
-- Homework loaded into Schoology
-    - `Command-Line Kickoff Worksheet`
-        - https://docs.google.com/document/d/1ylXJ3uF2FP3Ujd8N-tweOlr1Ap_LERqiZGzLcMdZPfk
-    - `Python Intro Wheaties` loaded in Schoology
 
 ### Actual Lesson
 
@@ -28,14 +24,6 @@ start to work on the first of the long-running problems sets.
     - Types
     - Assert
 - Questions from the previous night's homework?
-- Code review
-    - Spin the wheel
-    - Problem 2.7 (sorted list of integers problem)
-- Class coding
-    - Function that takes two lists as input and returns a single list of pairs
-        - Need it for some of the graph stuff
-        - `[1, 5], [3, 9] -> [(1, 3), (5, 9)]`
-    - Put question into ChatBot and see what it says
 - Today going to discuss how ChatBots affect learning
 - Give 5m to journal about discussion questions:
     - What are appropriate ChatBot usages in other classes?
@@ -46,7 +34,13 @@ start to work on the first of the long-running problems sets.
 - Debrief
     - How did as class?
     - How did individually?
+- Class coding
+    - Function that takes a list of ins and return all of the evens in the list
+        - Create 3 unit tests
+    - Put question into ChatBot and see what it says
+        - Ask question in the way decided that matches newly created policy
+        - Critique the output
 
 ### Homework
 
-- `Command-Line Kickoff Worksheet`
+- Do one more problem in `Skills Assessment Worksheet`

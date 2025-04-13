@@ -7,24 +7,27 @@
 
 In this class, students discuss the Turing paper and relate it to the previous
 lessons on "search space exploration" and "intelligence". Students should come
-in prepared to discuss the article and the EQ's provided the night before. Prior
-to the discussion starting, students will be given a few minutes to journal and
-prepare for the discussion. Then, the discussion will happen with the teacher
-grading the overall flow. Finally, there will be a debrief (since it's the first
-discussion of the year) and reflection.
+prepared to discuss the article and the EQ's provided the night before. Prior to
+the discussion, students will be given a few minutes to journal and prepare.
+Then, the discussion will happen with the teacher grading the overall flow.
+Finally, there will be a debrief (since it's the first discussion of the year)
+and reflection.
+
+> Note: If it's your first time running a discussion like this, it's worth
+  talking to an English teacher to get some hints.
 
 ### Setup
 
 - `common_docs/discussion_rubric.pdf` printed out
     - https://docs.google.com/document/d/1mMe37rZ7aaS4JuJQlMzTyrxczeBsSBhAXMMPuYuxO4A
-- `Requirements for Python Development` loaded on Schoology
+- `Requirements for Python Development Worksheet` loaded on Schoology
     - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
 
 ### Actual Lesson
 
 - Review
     - Search space
-    - Turing Test
+    - Turing test
     - This class is both technical and philosophical
 - Today going to have a discussion based on last night's reading
     - Going to be a lot of discussions in the class, so lets go over expectations
@@ -45,15 +48,16 @@ discussion of the year) and reflection.
 - Journal on EQs
 - Circle up
 - Discuss
-    - While they're talking, I'm taking diligent notes so I can grade them
+    - While they're talking, take diligent notes so can grade them
 - Reflect
     - Reflect on class as a whole
     - Reflect on self (on paper)
 
 ### Homework
 
-- Install Python and VsCode
+- Complete `Requirements for Python Development Worksheet`
 
 ### Resources
 
-- https://www.nature.com/articles/d41586-023-02361-7
+- "ChatGPT broke the Turing test
+    - https://www.nature.com/articles/d41586-023-02361-7
