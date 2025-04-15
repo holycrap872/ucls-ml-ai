@@ -7,15 +7,27 @@
 
 ### Setup
 
+- YouTube videos loaded up
+    - Paperclip Maximizer Review
+        - https://youtu.be/oca8BnDMin4?si=qC0qNx1cAqVq2xo-&t=432
+    - Paperclip MAximizer Speedrun
+        - https://www.youtube.com/watch?v=nDi-n8ikKog
+- OpenAI System Card
+    - https://cdn.openai.com/papers/gpt-4-system-card.pdf
 - `positive_ai_short.docx` printed out
 
 ### Actual Lesson
 
 - Review
+    - "Reading quiz" on Podcast
     - Paper clip maximizer
+        - Show stages from the video game
+            - https://youtu.be/oca8BnDMin4?si=qC0qNx1cAqVq2xo-&t=432
+            - https://www.youtube.com/watch?v=nDi-n8ikKog
+        - Were you persuaded?
     - What is your p-doom?
-- Code review
-    - Spin the wheel
+- How does paperclip maximizer relate to Podcast?
+    - Discussion
 - Today, going to create own "rube goldberg for destruction"
     - In pairs
     - The more complex the better
@@ -36,6 +48,9 @@
         - Identification algorithms
         - Scale: meter maid vs. new police cars that auto-run plates
     - Initial thoughts?
+- Give 5-10 minutes to start reading
+    - Last discussion for a while
+    - After this, start on personal project
 
 ### Homework
 
