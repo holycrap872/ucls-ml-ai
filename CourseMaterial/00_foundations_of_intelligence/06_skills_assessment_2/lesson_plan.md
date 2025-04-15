@@ -1,4 +1,4 @@
-## EQ's
+## Essential Questions
 
 - What do we want to remember?
 - What do we actually remember?

@@ -71,7 +71,7 @@
 - Data structures 19 - 20
 - TIL on JSON
 
-### Potential Extensions
+### Possible Extensions
 
 - Do JSON serialize/deserialize together on screen
     - JSON of scrabble words

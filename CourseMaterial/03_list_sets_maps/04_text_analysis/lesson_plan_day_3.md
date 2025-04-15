@@ -37,7 +37,7 @@
 
 - Finish Text Analysis Worksheet
 
-### Possible extensions
+### Possible Extensions
 
 - Book to book comparison
     - GrammaTech Index generator

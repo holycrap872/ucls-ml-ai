@@ -12,7 +12,7 @@ confidence after a series of tough/intense classes.
 
 - Data Structure Wheaties published to Schoology
 
-### Actual Lesson Plan
+### Actual Lesson
 
 - Review
     - Lists, sets, maps

@@ -1,4 +1,4 @@
-## Essential Question
+## Essential Questions
 
 - How would you balance the potential benefits and dangers of AI
 

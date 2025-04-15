@@ -1,4 +1,4 @@
-## EQ's
+## Essential Questions
 
 - Why are tests important?
 - What is the best kind of test?
