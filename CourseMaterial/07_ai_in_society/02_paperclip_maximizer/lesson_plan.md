@@ -29,6 +29,7 @@
     - How does it relate to the article?
     - Other thoughts you might have had?
     - How does it relate to our "Ethics in Advanced AI" discussion?
+- Fermi Paradox
 
 ### Homework
 

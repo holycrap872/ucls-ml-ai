@@ -10,47 +10,50 @@
 - YouTube videos loaded up
     - Paperclip Maximizer Review
         - https://youtu.be/oca8BnDMin4?si=qC0qNx1cAqVq2xo-&t=432
-    - Paperclip MAximizer Speedrun
+    - Paperclip Maximizer Speedrun
         - https://www.youtube.com/watch?v=nDi-n8ikKog
 - OpenAI System Card
     - https://cdn.openai.com/papers/gpt-4-system-card.pdf
-- `positive_ai_short.docx` printed out
+- Documents printed out
+    - `openai_system_card.docx` printed out
+    - `positive_ai_short.docx` printed out
 
 ### Actual Lesson
 
 - Review
     - "Reading quiz" on Podcast
+        - What did ChatGPT try and have a TaskRabbit do?
+    - What remember from Podcast
     - Paper clip maximizer
         - Show stages from the video game
             - https://youtu.be/oca8BnDMin4?si=qC0qNx1cAqVq2xo-&t=432
             - https://www.youtube.com/watch?v=nDi-n8ikKog
         - Were you persuaded?
     - What is your p-doom?
-- How does paperclip maximizer relate to Podcast?
-    - Discussion
-- Today, going to create own "rube goldberg for destruction"
+- Going to look at actual system scenario they were describing
+    - Read
+    - Discuss
+    - What were you struck by
+- Today, going to create own "power-seeking cascade"
     - In pairs
     - The more complex the better
+    - Give example
+        - Use TaskRabbit to do something bad
+        - Extort TaskRabbit
+        - Threaten something...
     - Go!
-- Go through everyone's ten step plan for the end of the world
+- Go through everyone's 5-8 step plan for "power-seeking"
     - Which seems to be the most likely?
     - Any common themes?
-- Show OpenAI red team chart
-    - Find your favorite
-        - Discuss
-    - Find 2-3 tests that would neuter your scenario
-        - Importance of testing
-            - Regression testing
-    - More discussion
 - Ground homework reading
     - Discussion about ethical use of AI in society
         - Predictive algorithms
         - Identification algorithms
         - Scale: meter maid vs. new police cars that auto-run plates
     - Initial thoughts?
-- Give 5-10 minutes to start reading
-    - Last discussion for a while
-    - After this, start on personal project
+- What's next?
+    - End AI in society unit
+    - Start working on individual projects
 
 ### Homework
 
