@@ -10,6 +10,10 @@
 - `Murder Mystery Worksheet` posted to Schoology
     - https://docs.google.com/document/d/1raTq4IhXgCF_bPlXW3MFXrc_IMzhc5wMO3H0Bh9bFhw
 
+> Note: I didn't spend enough time setting this up for students who hadn't
+  dealt with classes. There should be an extended "structured" walkthough or
+  something.
+
 ### Actual Lesson
 
 - Review
@@ -24,9 +28,18 @@
     - Murder Mystery
     - Where got it from
     - Premise
+        - Spend time here explaining how it's based on clue
+            - Way murderer moves
+            - Way items are used
+    - Emphasize that having a good mental model allows you to anticipate the code
     - Goal
-- Get started
-    - Work in pairs with person schedule to work with for EOY project
+- Walk through the worksheet
+    - Explain classes a bit
+    - Do first few problems together
+- Go!
+    - Work in pairs with person scheduled to work with for EOY project
+- Reflection
+    - What lessons/things did you notice
 
 ### Homework
 

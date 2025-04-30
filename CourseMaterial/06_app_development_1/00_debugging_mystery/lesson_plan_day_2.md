@@ -20,7 +20,11 @@
     - What's the purpose of the TIL?
         - Grounding
 - Return to Murder Mystery
+    - What did you notice while debugging
+- Go!
+- Reflection
+    - What lessons/things did you notice
 
 ### Homework
 
-- Complete `Murder Mystery Worksheet`
+- TIL entry on topic of choosing
