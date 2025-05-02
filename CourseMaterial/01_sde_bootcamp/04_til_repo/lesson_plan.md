@@ -11,6 +11,7 @@ Learned" skeleton. This project will then be something that they to throughout
 the entire class and is designed to solidify their knowledge on tricky subjects.
 
 > Note: Student's creds (LDAP) _should_ work with `gitlab.ucls.uchicago.edu`
+> Note: If have issues during setup, check `resources/common_problems/git_problems.md`
 
 ### Setup
 
