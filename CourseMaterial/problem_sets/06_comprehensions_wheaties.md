@@ -3,7 +3,7 @@
 Create two new files in your `ProblemSetSkeleton` workspace. Name one file
 `comprehension_wheaties.py` and put it in the `src/skeleton` folder
 (`src/skeleton/comprehension_wheaties.py`). Name the other file `test_comprehension_wheaties.py`
-and put it in the `test` folder (`test/test_comprehension_wheaties.py`).
+and put it in the `tests` folder (`tests/test_comprehension_wheaties.py`).
 
 For each problem, create a new, **single line** function in the
 `comprehension_wheaties.py` file and then write at **least two unit test** in

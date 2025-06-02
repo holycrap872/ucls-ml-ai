@@ -3,8 +3,8 @@
 Create two new files in your `ProblemSetSkeleton` workspace. Name one file
 `data_structure_wheaties.py` and put it in the `src/skeleton` folder
 (`src/skeleton/data_structure_wheaties.py`). Name the other file
-`test_data_structure_wheaties.py` and put it in the `test` folder
-(`test/test_data_structure_wheaties.py`).
+`test_data_structure_wheaties.py` and put it in the `tests` folder
+(`tests/test_data_structure_wheaties.py`).
 
 For each problem, create a new function in the `data_structure_wheaties.py` file
 and then write at **least two unit tests** in the

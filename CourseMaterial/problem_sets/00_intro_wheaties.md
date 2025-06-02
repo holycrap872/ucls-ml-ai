@@ -3,7 +3,7 @@
 Create two new files in your `ProblemSetSkeleton` workspace. Name one file
 `intro_wheaties.py` and put it in the `src/skeleton` folder
 (`src/skeleton/intro_wheaties.py`). Name the other file `test_intro_wheaties.py`
-and put it in the `test` folder (`test/test_intro_wheaties.py`).
+and put it in the `tests` folder (`tests/test_intro_wheaties.py`).
 
 For each problem, create a new function in the `intro_wheaties.py` file and
 then write at **least three unit tests** in the `test_intro_wheaties.py` file.
