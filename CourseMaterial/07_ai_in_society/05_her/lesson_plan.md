@@ -11,6 +11,7 @@
 ### Setup
 
 - Permission slip sent out to parents
+    - See `permission.md`
 - `Her` rented and ready to go
 
 ### Actual Lesson
