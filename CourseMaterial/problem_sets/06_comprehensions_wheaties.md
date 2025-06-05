@@ -24,13 +24,10 @@ the `test_comprehension_wheaties.py` file.
 0. Create a function that takes a list of strings as an input and then returns
    a new list containing the length of each string.
     - For example: `["hey", "there", "class"] -> [3, 5, 5]`
+    - Hint: `len()`
 0. Create a function that takes a list of numbers as an input and then returns
    a new list containing only the positive numbers from the input list.
     - For example: `[-1, 2, -3, 4, -5] -> [2, 4]`
-0. Create a function that takes a list of numbers as an input and then returns
-   a new list containing a string representation of whether the element was
-   positive or negative.
-    - For example: `[-1, 2, -3] -> ["negative", "positive", "negative"]`
 0. Create a function that takes a list of numbers as an input and then returns
    a new list containing the numbers from the input list that are divisible by 3.
     - For example: `[1, 2, 3, 4, 5, 6, 7] -> [3, 6]`
@@ -38,6 +35,7 @@ the `test_comprehension_wheaties.py` file.
    a new list containing the strings from the input list that are palindromes
    (the same forwards and backwards).
     - For example: `["racecar", "level", "python"] -> ["racecar", "level"]`
+    - Hint: `[::-1]` is how you reverse a string in Python
 0. Create a function that takes a list of strings as an input and then returns
    a new list containing the strings from the input list that are palindromes
    and have an even number of characters.
@@ -46,6 +44,11 @@ the `test_comprehension_wheaties.py` file.
    a new list containing the numbers from the input list that are perfect
    squares.
     - For example: `[1, 2, 3, 4, 5] -> [1, 4]`
+0. Create a function that takes a list of numbers as an input and then returns
+   a new list containing a string representation of whether the element was
+   positive or negative.
+    - For example: `[-1, 2, -3] -> ["negative", "positive", "negative"]`
+    - Hint: Python can do "one line if statements": `"even" if x % 2 == 0 else "odd"`
 
 ### Dict Comprehension Problems
 
