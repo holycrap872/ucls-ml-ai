@@ -24,12 +24,12 @@ files.
     - `monte_circle_1.py`
     - TODO: Double check it's at the appropriate level of difficulty
 - `random_numbers` GoogleSheets loaded up on Schoology
-    - Example: https://docs.google.com/spreadsheets/d/1rZF7eaJ3Np48jKJZtIz--8izfXJX9h4vAvajOEZcb4Y
+    - Example: https://docs.google.com/spreadsheets/d/1G52YSMPUyLe6uR_XOZGbHVeXh_G6HGZqlXgZ4w-oYsc
     - Make sure anyone at Lab can see it
     - Make sure it's in Editor mode for all
 - `Class Randomness Worksheet` loaded up on Schoology
-    - Structured: https://docs.google.com/document/d/1WGmq0FNMfqMiFYv6bujM-Ddne2fGtgoxewaSlKE90ws
-    - Unstructured: https://docs.google.com/document/d/1xcpXlNsnr6HG9mrPdvLJyR8pJBkIrwSnpOI4h1_hfXI
+    - Structured: https://docs.google.com/document/d/1436AW0gXcQYpAqIjBmUheMjHBW3KaTdIMCMFE5IxwYI
+    - Unstructured: https://docs.google.com/document/d/1BeyVPK8OWGAlv5E858vHgJkx7p1-JK8r69cCflRlsFA
 
 ### Actual Lesson
 
@@ -49,7 +49,7 @@ files.
     - Humans are really bad at random
     - Random is important for things like Monte Carlo
 - Today going to see how hard randomness is
-    - Have everyone open a google sheet and put in 40 numbers between 0-9 (inclusive)
+    - Have everyone open a google sheet and put in 50 numbers between 0-9 (inclusive)
     - Show everyone how to download that as a .csv file
     - Open the file and parse it
         - What are the delimiters?

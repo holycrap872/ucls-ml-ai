@@ -23,8 +23,8 @@ on the
     - Both novels having keyword "START_CHAPTER", ... replacing existing chapter delimiters
         - Allows students to more easily parse
 - `Plotting the Classics Worksheet` loaded up in Schoology
-    - Structured: https://docs.google.com/document/d/1VL1Te3xlzuw_cUXSsoPjWMT-VL_0K1gM-JGDDv7GSvU
-    - Unstructured: https://docs.google.com/document/d/1moe5tKclfZRDqqLJDJ15T6FumJchU9uUCZS8zAl1QhQ
+    - Structured: https://docs.google.com/document/d/1k0Y46h60qx6GHhTKwXQxuN1iBJZv7heu62betDO0f0o
+    - Unstructured: https://docs.google.com/document/d/1WFiQGkNBqBaX5Cd6VJZwwE7HJb9LmMvjO0T-sgKW6Lk
 - `data_sci_template.py` loaded up
 
 ### Actual Lesson

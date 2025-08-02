@@ -19,9 +19,8 @@ lead to interesting/useful conclusions. Care will be taken to:
 - Wikipedia page loaded so can see Monte Carlo simulation
     - https://en.wikipedia.org/wiki/Monte_Carlo_method
 - `Monte Carlo Worksheet` loaded up in Schoology
-    - Structured: https://docs.google.com/document/d/11h5Xa6s6rMgayko8BXp4bPpxtYDhpC_-As9ktSmdI5g
-    - Unstructured: https://docs.google.com/document/d/1EEVFhbRojiaaFZse698KwxMyrZROzux8XKCbSIbfNRE
-
+    - Structured: https://docs.google.com/document/d/1DIQ1N1GNF53gSZbDJJfmB0Bg41I2P-_Q2sXSNSvzyDU
+    - Unstructured: https://docs.google.com/document/d/12bqA02GoGtZ-8eMGQ-x0ZjUBLx05MIYfelf8mJZ9PcU
 ### Actual Lesson
 
 - Review
