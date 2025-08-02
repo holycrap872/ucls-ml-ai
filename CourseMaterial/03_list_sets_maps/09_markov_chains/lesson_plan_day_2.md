@@ -15,8 +15,8 @@ model, and then traverses the model.
 ### Setup
 
 - `Markov Model Worksheet` loaded into Schoology
-    - Structured: https://docs.google.com/document/d/1a3iA1kl9uoAaWwEdl-4M0CnYFe0J2CbwdzDhdQSIodE
-    - Unstructured: https://docs.google.com/document/d/1EyZ5RL_CCch0ViK4T89vF9MAiG2jSskfZcLFEN0VlnM
+    - Structured: https://docs.google.com/document/d/1-KuHx8ZetAYqwDjYLKIrkMWK6AqST-2mc6bhhSbA5gk
+    - Unstructured: https://docs.google.com/document/d/1tuENuJfeDrY9pYZgCaBJjEux6TueakXucHJYtTDNMdA
 
 ### Actual Lesson
 

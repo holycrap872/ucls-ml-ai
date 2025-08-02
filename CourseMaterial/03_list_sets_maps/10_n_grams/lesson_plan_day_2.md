@@ -9,7 +9,7 @@
 
 - Copy of `Ouroboros Review` from Maja Teref
 - `Ouroboros Submission Worksheet` GoogleDoc posted to Schoology
-    - https://docs.google.com/document/d/1fyMwDkbSTWVX5JdmpolnhawgO-G4HSe-4inz5asu6Fk
+    - https://docs.google.com/document/d/1owDsK09TlgyEq9tDfbCr4RG5G9hAuCPWBI7DSxbzaHk
 
 ### Actual Lesson
 

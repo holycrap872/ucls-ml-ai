@@ -17,7 +17,7 @@ understanding without having to constantly check in with me.
 - One deck of cards for every two students
 - `blackjack_simple.py` ready to play
 - `Basic Blackjack Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1zMJGWE1mib6mlxPPGOQxzkShuyrXd21VVt3MphwzBjE
+    - https://docs.google.com/document/d/1CVTxKeyRxnLsy2HdDYRycEd96gPgndo0s0NvVsHb2qc
 
 ### Actual Lesson
 

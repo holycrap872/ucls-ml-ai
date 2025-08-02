@@ -9,9 +9,8 @@
 
 - Bunch of dice of various "sided-ness"
 - `Nerd Dice Worksheet` posted to Schoology
-    - Structured: https://docs.google.com/document/d/1lto9_vbNkReZaGUywDaO9YWiVxrXTeqs5PLshjJuYoo
-    - Unstructured: https://docs.google.com/document/d/1e9xWAlFcYCFBPapMjFKRzXOiDaptUdPo_Iq3KRK2y2w
-
+    - Structured: https://docs.google.com/document/d/1HcBtp3SGgqwx3t00QINbF92PpRF2-BmFEUmbs_-xfHw
+    - Unstructured: https://docs.google.com/document/d/1DIf1W-VTDqsMScPS5zbwgawwqmy6O_PBDZZdOe3kTzU
 
 ### Actual Lesson
 
@@ -39,4 +38,4 @@
 
 ### Homework
 
-- Problems 6 - 8 of Python Data Structures Wheaties
+- Problems 6 - 8 of `Python Data Structures Wheaties`

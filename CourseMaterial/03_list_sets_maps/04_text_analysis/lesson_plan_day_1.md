@@ -10,8 +10,8 @@
 - Solution associated with "Nerd Dice" lesson printed out so students can analyze it
     - `nerd_dice_solution.py`
 - `Text Analysis Worksheet` posted to Schoology
-    - Structured: https://docs.google.com/document/d/16RyyfLeFgYusdKyLlAZVpPn_eaLOoWZdl4A4x_U852I
-    - Unstructured: https://docs.google.com/document/d/1-v7pL5HZumD5vZaz0Xomjl-1uwfqtEiB3n031yuksLY
+    - Structured: https://docs.google.com/document/d/1TqX5hfq5YpjB0j_PJpzXLDfxeEcxsSKrRHAuvQAfy60
+    - Unstructured: https://docs.google.com/document/d/1eZTjIFRzZBfvqgMNLqbOM6dCjq6E7vguUUZ5l31rZHI
 
 ### Actual Lesson
 

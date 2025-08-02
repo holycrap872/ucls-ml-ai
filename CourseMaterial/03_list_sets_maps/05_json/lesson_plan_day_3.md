@@ -7,8 +7,8 @@
 
 ### Setup
 
-- `Python EmojiPics Worksheet` loaded up for discussion
-    - https://docs.google.com/document/d/1eRyqf4Wh6QenNvJX7IhwrWWl2eKnvaMdclrB-PerWaM
+- `Python EmojiPics Worksheet` from 9th grade class loaded up for discussion
+    - https://docs.google.com/document/d/1BdM1WXwt0Zht_RwshvBTymoVOp4R-Nc4CFgPwJo5iEE
 
 ### Actual Lesson
 

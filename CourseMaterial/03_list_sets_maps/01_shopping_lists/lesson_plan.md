@@ -7,8 +7,9 @@
 
 ### Setup
 
-- `Data Structure Usage` Schoology Assessment posted
+- `Homework: Data Structure Usage` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/144_J0ZeDOV_kiYFR801s8NfRXuvAoObg
 - `data_structures_cheat_sheet.docx` printed out
 - `shopping_example.py` open and ready to go
 
@@ -62,7 +63,7 @@
 
 ### Homework
 
-- Schoology Assessment
+- Schoology assessment: `Homework: Data Structure Usage`
 - TIL entry about five methods of the `dict` data structure
 
 ### Possible Extensions

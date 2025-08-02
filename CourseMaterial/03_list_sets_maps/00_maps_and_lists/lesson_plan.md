@@ -10,8 +10,9 @@
 - Solution associated with Plotting Classics lesson printed out so students can analyze it
     - `plotting_classics_solution.py`
     - TODO: Double check it's at the appropriate level of difficulty
-- `Data Structure Basics` Schoology Assessment posted
+- `Homework: Data Structure Basics` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1FJcgc5zeUQ-zMG_Yqg-EceJrNED11yVp
 - `real_life_containers.docx` printed out
 
 ### Actual Lesson
@@ -52,8 +53,8 @@
         - Duplicates?
         - Relationship?
     - Discuss when come back
-        - Note: index of a book problem (dict[str, int]) from my first job interview
+        - Note: index of a book problem (`dict[str, int]`) from my first job interview
 
 ### Homework
 
-- Schoology Assessment on Sets/Lists/Maps
+- Schoology assessment: `Homework: Data Structure Basics`

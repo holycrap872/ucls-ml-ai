@@ -8,8 +8,8 @@
 
 ### Setup
 
-- `Teaching Unit Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/19wi7dZ0e7rToo3LFZgKIK9hPGyWPnhlkPbCnl5Trqak
+- `Teaching Unit Template` loaded into Schoology
+    - https://docs.google.com/document/d/17NgqEoXvNr8IcR06oH9NWGzDoldnApplMxu3FOwewEo
 - `teaching_unit_rubric.docx` printed out
 
 ### Actual Lesson
@@ -39,10 +39,8 @@
             - Rubric to grade student's understanding
     - Teaching progression and explain purpose of each element
     - Work in pairs
-- Go over `Teaching Unit Worksheet`:
-    -  https://docs.google.com/document/d/19wi7dZ0e7rToo3LFZgKIK9hPGyWPnhlkPbCnl5Trqak
+- Go over `Teaching Unit Template`
 - Go over rubric
-    - See `teaching_unit_rubic.docx`
 - Have four days plus rest of this class
     - Give basic checkpoints based on day
         - Day 1 Homework: Agree on unit and complete "Unit Lesson Plan"

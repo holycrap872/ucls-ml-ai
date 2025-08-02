@@ -7,8 +7,7 @@
 
 ### Setup
 
-- `Blackjack Bot Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1lurIZi_SWNf56cJHxNf0FcXbpbzKZZOucENvi6wU1JQ
+- None
 
 ### Actual Lesson
 

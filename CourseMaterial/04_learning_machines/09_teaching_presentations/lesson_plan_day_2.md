@@ -7,7 +7,8 @@
 
 ### Setup
 
-- `teaching_unit_rubric.docx` printed out
+- `Python Grab Bag Wheaties` loaded up in Schoology
+    - `CourseMaterial/problem_sets/05_grab_bag_wheaties_*.md`
 
 ### Actual Lesson
 

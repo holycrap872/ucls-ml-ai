@@ -14,10 +14,10 @@ immutability.
 
 ### Setup
 
-- `Functions Worksheet` up and ready to use as example
-    - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+- `Functions Worksheet` from 9th grade class loaded up for discussion
+    - https://docs.google.com/document/d/1F2LopOKUzo7Me46r443AR9AAHAGyhx6UGzbuqCuz9X0
 - `NamedTuple Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1xan0wKmtAtdfNlcM0ZQWtNt6E37QdzplLj5k7C3sBNI
+    - https://docs.google.com/document/d/1atH1vMb0KfUEd8D4Z8TdczbgvrKcCwl6RIdCfBDsjXI
 
 ### Actual Lesson
 
@@ -29,7 +29,7 @@ immutability.
     - Why it's effective
     - Biggest hurdle at "make"
 - Examples of PRIMM
-    - https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+    - `Functions Worksheet` from 9th grade class
     - Talk through worksheet
     - What is it trying to do?
 - How does PRIMM match your experience?

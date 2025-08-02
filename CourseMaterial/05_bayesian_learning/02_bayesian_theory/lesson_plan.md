@@ -15,7 +15,7 @@ nights homework).
 ### Setup
 
 - Print out `Bayesian Probability Worksheet`
-    - https://docs.google.com/document/d/1MqtmRg79Z4fb0xBvIxxB_wFwJX6cBlNoawjJvqBCnQY
+    - https://docs.google.com/document/d/1ZjtLbkHw2iyj4zV-uxG4_UzeI-9fY1GEZaRsvR7ZkJA
 
 ### Actual Lesson
 

@@ -12,8 +12,8 @@
     - `Teaching Unit Worksheet`
     - Slides and other materials
 - Example presentation materials ready (on Functions)
-    - Slides: docs.google.com/presentation/d/1FxPj_-0XfHrqkxCdF04YyP_OCcdqfmHGcRxVqN-3DYk/edit#slide=id.g321c602a089_0_308
-    - Worksheet: https://docs.google.com/document/d/1pD_fh3PX6DwU3aemTk7Rn886AjMAgYAPAlwt7aCmDlk
+    - Slides: https://docs.google.com/presentation/d/1HCzD-3aaoLSdaW71j2XLM55avDzd3xXfgSb-42nqzV8/edit?slide=id.g321c602a089_0_308#slide=id.g321c602a089_0_308
+    - Worksheet: https://docs.google.com/document/d/1F2LopOKUzo7Me46r443AR9AAHAGyhx6UGzbuqCuz9X0
 
 ### Actual Lesson
 

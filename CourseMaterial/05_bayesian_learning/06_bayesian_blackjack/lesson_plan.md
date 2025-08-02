@@ -16,7 +16,8 @@ casino blackjack and run various simulations for rule changes.
 
 ### Setup
 
-- None
+- `Bayesian Blackjack Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1SxWQx6RRM7WoodJ6ybfVF5P5mEn_360wTTuU5PyhbwU
 
 ### Actual Lesson
 

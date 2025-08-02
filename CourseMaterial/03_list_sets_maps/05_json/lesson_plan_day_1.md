@@ -13,8 +13,8 @@
     - `Web Developer Tools` open
     - Student names hidden by making window small
 - `EmojiPic Worksheet` posted to Schoology
-    - Structured: https://docs.google.com/document/d/1nuOUKBjcMtZB4cs4miADyMmzVowSWINpeCWuurLt1sw
-    - Structured: https://docs.google.com/document/d/1rEZU8kaY4DA9z7RObT1ZmhdPCIjQHulyetspzzGl2P0
+    - Structured: https://docs.google.com/document/d/1dHhKcNMWWKQNFN2sk2R3Zzp5c_hVzFJFsDazL-LsC2I
+    - Unstructured: https://docs.google.com/document/d/1SRAwEpi2wwfWqqcnm9Vcz6eiRBIPu_-jWDihiG1KFLw
     - Note: emoji_pics are already in `ProblemSetSkeleton`
 
 ### Actual Lesson

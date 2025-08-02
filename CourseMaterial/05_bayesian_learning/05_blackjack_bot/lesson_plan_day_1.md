@@ -13,7 +13,7 @@ process) and then graph which value is the "best" value to stand on.
 ### Setup
 
 - `Blackjack Bot Worksheet` loaded up in Schoology
-    - https://docs.google.com/document/d/1lurIZi_SWNf56cJHxNf0FcXbpbzKZZOucENvi6wU1JQ
+    - https://docs.google.com/document/d/1y_CsEN4gw9w7w9QhmkrUVC_ymxCdiD-vuR4D8JnGouA
 
 ### Actual Lesson
 
