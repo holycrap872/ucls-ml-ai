@@ -16,7 +16,7 @@ dig through the code it produced. Finally, we discuss all of this.
 
 - Connection to Claude.ai
     - **Create new discussion** for both ChatGPT and Claude
-    - Prompt for Claude.ai of the form:
+    - Prompt for `claude.ai` of the form:
         ```
         I am trying to use Malcolm Gladwell's talk "On Spaghetti Sauce" to
         understand how search spaces and search space exploration work. Could

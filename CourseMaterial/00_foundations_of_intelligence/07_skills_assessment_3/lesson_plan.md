@@ -44,4 +44,4 @@ tests) that will help each of them as they encounter a problem.
 
 ### Homework
 
-- Finish up to and including Problem 2.4
+- Finish up to and including Problem 2.4 of `Skills Assessment Worksheet`

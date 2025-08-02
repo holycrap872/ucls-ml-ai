@@ -29,6 +29,7 @@ test is reenacted with a real ChatBot to illustrate it in real life.
     type an answer in order to illustrate the Turing test, please answer the
     following question: ..."
     ```
+    - Note: `claude.ai` was unwilling to pretend to be a human
 - Eliza ChatBot loaded up
     - https://web.njit.edu/~ronkowit/eliza.html
 

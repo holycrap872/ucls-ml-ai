@@ -15,11 +15,11 @@ the entire class and is designed to solidify their knowledge on tricky subjects.
 
 ### Setup
 
+- `TILSkeleton` zipped and loaded onto Schoology
+    - Taken from https://gitlab.com/eric.rizzi/til
+    - `.git` folder removed
 - `Today I Learned Repo Worksheet` GoogleDoc loaded up into Schoology
     - https://docs.google.com/document/d/1p4zIPsPVaHtmQ0lPAoNAQFoYARBuiqqfVsjWSmeZcJ8
-- `TILSkeleton` zipped and loaded onto Schoology
-    - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
-    - `.git` folder removed
 - Demo websites loaded up
     - http://git-school.github.io/visualizing-git/
     - https://github.com/jbranchaud/til

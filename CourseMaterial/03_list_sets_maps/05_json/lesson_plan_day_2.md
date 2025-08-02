@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Logged into AWS console so can create simple Lambda
+- Logged into `console.aws.amazon.com` so can create simple Lambda
 
 ### Actual Lesson
 

@@ -76,9 +76,3 @@ following day.
 ### Homework
 
 - Schoology assessment: `Homework: Command Line Basics`
-
-### Resources / Random ideas
-
-- https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
-- http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
-    - Seems buggy upon inspection

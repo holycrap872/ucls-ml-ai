@@ -46,4 +46,4 @@ solve a simple problem. Finally, the students will strike out on their own.
 
 ### Homework
 
-- Finish up to and including Problem 2.2
+- Finish up to and including Problem 2.2 of `Skills Assessment Worksheet`

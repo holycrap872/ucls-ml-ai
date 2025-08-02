@@ -21,8 +21,8 @@ to try and get the program running.
 ### Setup
 
 - `broken_fsm_structured.zip` and `broken_fsm_unstructured.zip` posted to Schoology
-    - TODO: Broken FSM project ready for cloning
-        - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
+    - `.zip` composed of both `.py` file _and_ `fsm.json`
+    - TODO: Broken FSM projects loaded into gitlab/github for cloning
 
 ### Actual Lesson
 
@@ -43,7 +43,6 @@ to try and get the program running.
     - Show me running it
     - Talk through the output and what is going on
 - Walk through `broken_fsm.py`
-    - https://gitlab.ucls.uchicago.edu/erizzi/broken-fsm
     - Explain the exercise
         - Intentionally seeded errors mimicking real-world
     - What are ways we could find the bugs

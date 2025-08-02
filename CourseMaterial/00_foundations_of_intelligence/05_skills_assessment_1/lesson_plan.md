@@ -93,4 +93,4 @@ and that everything else in `ProblemSetSkeleton` will be explained later.
 
 ### Homework
 
-- Finish problems 0 and 1 of Skills Assessment (aka the first two problems)
+- Finish problems 0 and 1 of `Skills Assessment Worksheet` (aka the first two problems)

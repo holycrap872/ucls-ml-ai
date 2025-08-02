@@ -13,8 +13,8 @@ to work on their homework.
 
 ### Setup
 
-- CI/CD website open so can examine what's going on
-    - https://gitlab.ucls.uchicago.edu/erizzi/pss-example
+- CI/CD website open so can see Docker image being built/tested
+    - https://gitlab.com/eric.rizzi/problem-set-skeleton
 
 ### Actual Lesson
 

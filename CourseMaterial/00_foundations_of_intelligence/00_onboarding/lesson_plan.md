@@ -15,7 +15,7 @@ understand the skill level/expectations of the class.
 
 ### Setup
 
-- `Getting to Know You` GoogleDoc printed out
+- `Getting to Know You` printed out
     - https://docs.google.com/document/d/1nwaaQSg6RI966rl58kF3ZqnBx67CrS3eFeAMrr5o9Xg
 - Logged into `console.aws.amazon.com`
 

@@ -9,6 +9,9 @@
 
 - Terminals open on desktop computers in lab
     - Command `ssh -p 2220 bandit0@bandit.labs.overthewire.org` typed in
+- `Over the Wire Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/1sUR_HOTZYv3HVJhH2MycrYMG2DzgV-mwdk8gyAxR1VQ
+    - Note: I took this from my independent study, so it might have to molded to a class w/ lecture
 - `Git Kickoff Homework` loaded into Schoology
     - https://docs.google.com/document/d/1OmbUN8ArotDb9TG2EclfiSDSMAhcJWd3BTFoM738a-4
 
@@ -21,7 +24,7 @@
         - `mkdir hey && touch hey/file.txt vs. mkdir hey && cd hey && touch file.txt`
         - Hacking websites via path traversal
             - https://finance.yahoo.com/screener/..
-            - Better if get some sort of "hackable site"
+            - Better if can find something from `hackthissite.org`
 - Review homework
     - Do problem 4 as a class
         - Go around room asking "what next"
@@ -49,6 +52,7 @@
 - Show website
     - Solve first two together as class
         - the `./-` in level 1 is ANNOYING
+    - Talk through `Over the Wire Worksheet`
 - Break up in to pairs
     - Go!
 - Setup homework

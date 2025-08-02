@@ -22,7 +22,7 @@ class: technical mixed with philosophical.
     - Pre-created "example boards" to make clear what I'm talking about
         - I took pictures of the board and will show them in class
     - Example board in case there's an odd number of students
-- `Spaghetti Sauce Search` assignment posted to Schoology
+- `Spaghetti Sauce Search Homework` posted to Schoology
     - https://docs.google.com/document/d/1bTV5ntHalwxvYOziWZeqBAUcWBFYPB-GALBRkiU9wXk
 
 ### Actual Lesson
@@ -87,7 +87,7 @@ class: technical mixed with philosophical.
 
 ### Homework
 
-- `Spaghetti Sauce Search`
+- `Spaghetti Sauce Search Homework`
 
 ### Other possible homeworks
 
