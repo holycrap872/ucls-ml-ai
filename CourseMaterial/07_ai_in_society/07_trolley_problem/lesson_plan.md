@@ -11,10 +11,11 @@ Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7u
 
 - YouTube videos loaded up
     - Good Place: https://youtu.be/DtRhrfhP5b4?si=fzlBgMH6xF7whm_g
-    - `Trial by Trolley`: https://youtu.be/6oeHHfSoqt8?si=ZOKMPBVZ4i5dnp3x&t=34
-- `Trial by Trolley` Game(s) ready to go
-    - Pick out the more objectionable cards
+    - ChatBot Trolley: https://www.youtube.com/watch?v=1boxiCcpZ-w&authuser=0
 - ChatGPT / Claude Ready to go
+
+
+
 
 ### Actual Lesson
 
@@ -44,12 +45,7 @@ Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7u
     - The one person will someday cure cancer
     - What is point of variation?
         - Way of making value systems clear
-- Introduce `Trial by Trolley`
-    - Going to play game
-    - Show video
-        - https://youtu.be/6oeHHfSoqt8?si=ZOKMPBVZ4i5dnp3x&t=34
-        - Quit before her sign of ("I'm Becca Scott") ... there's a bleep swear
-    - Show rules
+- 
 - Play
 - Switch to AI
     - More an more AI is being involved in decision making
