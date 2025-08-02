@@ -1,4 +1,16 @@
-## 
+## Essential Questions
+
+- What planning is needed before starting a large project?
+- What steps are necessary to set the project up for success?
+
+## Lesson Plan
+
+### Setup
+
+- `Group Plan Worksheet`
+    - https://docs.google.com/document/d/1AfeLlQXjnU2vKEVJbpA3mgU4dg5rqSvjmwUFUQJjIHM
+
+### Actual Lesson
 
 - Review
 - Elevator pitches
@@ -20,3 +32,7 @@
     - Next class you'll come together and compare
 - Walk through example
 - Go!
+
+### Homework
+
+- Finish `Group Plan Worksheet`
