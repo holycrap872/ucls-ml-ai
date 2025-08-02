@@ -7,8 +7,8 @@
 
 ### Setup
 
-- `common_docs/discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1mMe37rZ7aaS4JuJQlMzTyrxczeBsSBhAXMMPuYuxO4A
+- `Discussion Rubric` printed out
+    - https://docs.google.com/document/d/1hKjFvPVQ6SnSp94-YfhgT5zULjyhhOHjI3ZZyKh3cKw
 
 ### Actual Lesson
 

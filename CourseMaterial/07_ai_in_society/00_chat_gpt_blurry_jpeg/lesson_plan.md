@@ -8,8 +8,8 @@
 ### Setup
 
 - Extra copies of `blurry_jpeg.docx` printed out
-- `common_docs/discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- `Discussion Rubric` printed out
+    - https://docs.google.com/document/d/1hKjFvPVQ6SnSp94-YfhgT5zULjyhhOHjI3ZZyKh3cKw
 - `ethical_issues_in_ai.docx` printed out
 
 ### Actual Lesson
