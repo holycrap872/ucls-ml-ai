@@ -8,10 +8,10 @@
 ### Setup
 
 - `Murder Mystery Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1raTq4IhXgCF_bPlXW3MFXrc_IMzhc5wMO3H0Bh9bFhw
+    - https://docs.google.com/document/d/1xcWzLMv26nNTWZoy_7MdmldPgNSn-afaJyB3ZRF6a5k
 
 > Note: I didn't spend enough time setting this up for students who hadn't
-  dealt with classes. There should be an extended "structured" walkthough or
+  dealt with classes. There should be an extended "structured" walkthrough or
   something.
 
 ### Actual Lesson

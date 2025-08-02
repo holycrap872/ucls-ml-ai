@@ -1,0 +1,24 @@
+**DO NOT PLAY ANYTHING WITHIN THESE TIMES**
+
+- 00:04:50 - 00:04:59
+    - Honestly not that bad but could be a distraction
+    - Summary: reveals provocative pregnancy photos
+- 00:07:05 - 00:10:00
+    - Theodore looking for phone sex
+    - Summary: normal "phone hook up" leads to weird cat strangling
+- 19:45 - 00:22:25
+    - Round guy swears a lot
+    - Dumb video game.... easy jokes
+    - Summary: Theodore gets an email about a blind date and Samantha encourages him to go
+- 00:34:05 - 00:36:24
+    - Can cut for time starting at 00:32:18 since date not that interesting
+    - Both b/c of swears and not much going on
+    - Summary: date turns from good to bad
+- 00:41:55 - 00:43:42
+    - Summary: Samantha and Theodore having phone sex
+- 00:46:44 - 00:47:55
+    - Both b/c explicit talk about sex and b/c not that important
+    - Summary: Nice data at the beach
+- 01:16:57 - 01:20:35
+    - Cut as she starts to lead him by the hand away from the door
+    - Summary: hooking up via a surrogate and Theodore can't get out of his own head
