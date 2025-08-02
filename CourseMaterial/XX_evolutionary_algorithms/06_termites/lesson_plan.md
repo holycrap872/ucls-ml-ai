@@ -1,0 +1,3 @@
+Termites as FSMs
+Emergence
+http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Termites.nlogo
