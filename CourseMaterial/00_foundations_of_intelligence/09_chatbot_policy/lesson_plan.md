@@ -14,8 +14,11 @@ work on getting
 
 ### Setup
 
-- `common_docs/discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1htBJzHZhl1WrUBdPLBfw9R0MZVbdWIPt5LizYEP9VN4
+- `Discussion Rubric` printed out
+    - https://docs.google.com/document/d/1hKjFvPVQ6SnSp94-YfhgT5zULjyhhOHjI3ZZyKh3cKw
+- `Homework: Foundations of Intelligence Wrap Up` Schoology assessment posted
+    - See `assessment.md`
+        - https://drive.google.com/file/d/1ihODZi6snlntqB4KQyKhtZ6FnDSVtslz
 
 ### Actual Lesson
 
@@ -44,3 +47,4 @@ work on getting
 ### Homework
 
 - Do one more problem in `Skills Assessment Worksheet`
+- Schoology assessment: `Homework: Foundations of Intelligence Wrap Up`

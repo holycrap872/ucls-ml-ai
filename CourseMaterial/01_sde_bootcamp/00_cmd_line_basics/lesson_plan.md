@@ -18,17 +18,20 @@ following day.
 
 ### Setup
 
-- `GameShell` set up
+- `GameShell` set up on lab computers
     - https://github.com/phyver/GameShell Docker image built and pushed to lab computers
         - Enough docker images up and running
         ```
         docker pull erizzi/gameshell_tutorial
         docker run -it erizzi/gameshell_tutorial
         ```
+- `Learning Terminal Worksheet` loaded up in Schoology
+    - https://docs.google.com/document/d/1ZZzr4heqr97eaYjp4HO6OrPtJgo1RVnBTnOoAHFCHXY
 - An example folder on my desktop
     - `terminal_example.zip`
-- Schoology assessment on Command-Line Basics
+- `Homework: Command Line Basics` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1ZjOSbq5MvAN_DSsVBGtqu6DDFq9ZfbwW
     - Can take it up to **three times**
 
 ### Actual Lesson
@@ -54,6 +57,7 @@ following day.
 - Quick review of important commands
 - Introduce `GameShell`
     - Importance of `gsh check` and `gsh goal`
+    - Talk through worksheet
     - Do first goal together
     - Come back and talk about mission 3 and mission 6 together
         - Third goal is stupid and confusing
@@ -71,7 +75,7 @@ following day.
 
 ### Homework
 
-- Schoology Assessment on Command-Line Basics
+- Schoology assessment: `Homework: Command Line Basics`
 
 ### Resources / Random ideas
 

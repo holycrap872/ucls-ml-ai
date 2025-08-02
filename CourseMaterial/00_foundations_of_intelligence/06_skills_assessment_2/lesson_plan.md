@@ -13,8 +13,8 @@ solve a simple problem. Finally, the students will strike out on their own.
 ### Setup
 
 - Email to parents asking them if students can use Claude.ai / ChatGPT
-- 
 - `Python Comprehension Wheaties` loaded into Schoology students who finish
+    - `CourseMaterial/problem_sets/06_comprehensions_wheaties.md`
 
 ### Actual Lesson
 

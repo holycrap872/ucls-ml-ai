@@ -12,15 +12,8 @@ changes on their own computers.
 
 ### Setup
 
-- `GameShell` set up
-    - https://github.com/phyver/GameShell Docker image built and pushed to computers
-        - Enough docker images up and running
-        ```
-        docker pull erizzi/gameshell_tutorial
-        docker run -it erizzi/gameshell_tutorial
-        ```
 - `Command-Line Exercises Worksheet` posted to Schoology
-    - https://docs.google.com/document/d/1vkbXWdJovLMV1-w6NBhE25EzL_QALkfkZXIRrygZy_Y
+    - https://docs.google.com/document/d/1ZZzr4heqr97eaYjp4HO6OrPtJgo1RVnBTnOoAHFCHXY
 - `cmd_line_exercise.zip` posted to Schoology
 
 ### Actual Lesson

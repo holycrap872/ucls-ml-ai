@@ -16,7 +16,7 @@ the entire class and is designed to solidify their knowledge on tricky subjects.
 ### Setup
 
 - `Today I Learned Repo Worksheet` GoogleDoc loaded up into Schoology
-    - https://docs.google.com/document/d/1sKxsWjRBgt2ABAfRx6tLGViUGiLQBp8gdnEpSM6PgBk
+    - https://docs.google.com/document/d/1p4zIPsPVaHtmQ0lPAoNAQFoYARBuiqqfVsjWSmeZcJ8
 - `TILSkeleton` zipped and loaded onto Schoology
     - Taken from `https://gitlab.ucls.uchicago.edu/ml-ai/til`
     - `.git` folder removed

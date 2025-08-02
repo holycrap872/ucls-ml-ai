@@ -20,8 +20,9 @@ are needed. In summary, as long as they understand the to think of `git ` as a
     - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ (for history)
 - A few example git repositories to chew on.
     - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
-- Schoology Assessment on `git` published
+- `Homework: Git Basics` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1HeWChyPRjjVpNkVMja0sEl3oybDtB50q
     - Can take it up to **three times**
 
 ### Actual Lesson
@@ -74,7 +75,7 @@ are needed. In summary, as long as they understand the to think of `git ` as a
 
 ### Homework
 
-- Schoology assessment on `git`
+- Schoology assessment: `Homework: Git Basics`
 
 ### Resources
 

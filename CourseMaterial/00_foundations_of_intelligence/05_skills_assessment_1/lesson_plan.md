@@ -40,7 +40,7 @@ and that everything else in `ProblemSetSkeleton` will be explained later.
             - `data/text/great_gatsby.txt`
             - `data/text/little_women.txt`
 - `Skills Assessment Worksheet` posted on Schoology
-    - https://docs.google.com/document/d/1qt4WpGlUJX_-c_pszl-Al2Y12nbc3wcpDWMTOKnE-hw
+    - https://docs.google.com/document/d/1svc0ky_F1ToAghRPZmfee3RIHFj87utk7paq0uSM2gA
 
 ### Actual Lesson
 

@@ -9,8 +9,8 @@
 
 - Terminals open on desktop computers in lab
     - Command `ssh -p 2220 bandit0@bandit.labs.overthewire.org` typed in
-- `Git Kickoff Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1JKkWEULvgkRLH8VBuKTFchZi8yxuXm6Nm9RLyv2UeFI
+- `Git Kickoff Homework` loaded into Schoology
+    - https://docs.google.com/document/d/1OmbUN8ArotDb9TG2EclfiSDSMAhcJWd3BTFoM738a-4
 
 ### Actual Lesson
 
@@ -21,6 +21,7 @@
         - `mkdir hey && touch hey/file.txt vs. mkdir hey && cd hey && touch file.txt`
         - Hacking websites via path traversal
             - https://finance.yahoo.com/screener/..
+            - Better if get some sort of "hackable site"
 - Review homework
     - Do problem 4 as a class
         - Go around room asking "what next"

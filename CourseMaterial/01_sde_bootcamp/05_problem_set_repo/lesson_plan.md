@@ -14,8 +14,9 @@ will prompt them to create a TIL entry solidifying their knowledge of `git init`
 ### Setup
 
 - `Problem Set Repo Worksheet` GoogleDoc posted to Schoology
-    - https://docs.google.com/document/d/19h1ejv9kHlLr8VIXydBqVjqynR9JkC4UFSIr847d-4I
+    - https://docs.google.com/document/d/1j2cizwb-QKLS6BQR0Yc_u0-zAtdx1cyttQHGGF4Y8Yo
 - `Python Intro Wheaties` loaded up in Schoology
+    - `CourseMaterial/problem_sets/00_intro_wheaties.md`
 - Demo websites loaded up
     - https://github.com/jbranchaud/til
     - https://markdownlivepreview.com/ 

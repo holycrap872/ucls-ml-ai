@@ -15,8 +15,8 @@ interacting with AI.
 ### Setup
 
 - Feedback done for everyone on wheaties done so far
-- `Human vs. AI Comparison` worksheet pushed to Schoology
-    - https://docs.google.com/document/d/1qQCPRWvj5NFtIXzdm8vN-o78t5ZvF_vRA85PAyezRaI
+- `Human vs. AI Comparison Worksheet` pushed to Schoology
+    - https://docs.google.com/document/d/1pK0KVunx7_XAfBnQaf5TVgwCxH9XWhOVSBjRMK78SVU
 
 ### Actual Lesson
 
@@ -45,4 +45,4 @@ interacting with AI.
 
 ### Homework
 
-- Finish `Human vs. AI Comparison` worksheet
+- Finish `Human vs. AI Comparison Worksheet`

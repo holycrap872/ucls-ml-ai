@@ -18,10 +18,10 @@ and reflection.
 
 ### Setup
 
-- `common_docs/discussion_rubric.pdf` printed out
-    - https://docs.google.com/document/d/1mMe37rZ7aaS4JuJQlMzTyrxczeBsSBhAXMMPuYuxO4A
+- `Discussion Rubric` printed out
+    - https://docs.google.com/document/d/1hKjFvPVQ6SnSp94-YfhgT5zULjyhhOHjI3ZZyKh3cKw
 - `Requirements for Python Development Worksheet` loaded on Schoology
-    - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
+    - https://docs.google.com/document/d/1xXfJWjY4bbE7S91n8sRmIKCTJsloQCjr9FDU0d89nKM
 
 ### Actual Lesson
 

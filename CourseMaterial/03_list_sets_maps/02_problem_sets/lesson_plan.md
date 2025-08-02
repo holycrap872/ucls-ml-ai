@@ -10,7 +10,7 @@ confidence after a series of tough/intense classes.
 
 ### Setup
 
-- Data Structure Wheaties published to Schoology
+- `Data Structure Wheaties` published to Schoology
 
 ### Actual Lesson
 

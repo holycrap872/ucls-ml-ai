@@ -23,7 +23,7 @@ class: technical mixed with philosophical.
         - I took pictures of the board and will show them in class
     - Example board in case there's an odd number of students
 - `Spaghetti Sauce Search` assignment posted to Schoology
-    - https://docs.google.com/document/d/13f8gNtaOgFA_MCKX1965QIzF8IzqR16F4kFNBemDca0
+    - https://docs.google.com/document/d/1bTV5ntHalwxvYOziWZeqBAUcWBFYPB-GALBRkiU9wXk
 
 ### Actual Lesson
 

@@ -13,6 +13,7 @@ sets and given time in class to start working on them.
 ### Setup
 
 - `Python String Wheaties` loaded up in Schoology
+    - `CourseMaterial/problem_sets/01_string_wheaties_*.md`
 
 ### Actual Lesson
 
@@ -37,6 +38,7 @@ sets and given time in class to start working on them.
     - Why wheaties?
         - Long running check to make sure your Python is improving
         - Learning a "language" is hard, so need nightly practice
+        - Choose which one suits your level: structured or unstructured
 - Start homework
 
 ### Homework

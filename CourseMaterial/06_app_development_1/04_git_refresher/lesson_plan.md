@@ -1,7 +1,7 @@
 ## Essential Questions
 
-- How does git work in multi-developer project?
-- What methods does git provide to reduce conflicts?
+- How does `git` work in multi-developer project?
+- What methods does `git` provide to reduce conflicts?
 
 ## Lesson Plan
 
@@ -47,4 +47,4 @@
 
 ### Homework
 
-- Complete `Advanced Git Worksheet`
+- Problem 0 of `Advanced Git Worksheet`

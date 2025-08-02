@@ -16,6 +16,7 @@ presented in teh article.
 ### Setup
 
 - `Python List Wheaties` posted to Schoology
+    - `CourseMaterial/problem_sets/02_list_wheaties_*.md`
 - `assigning_ai.docx` article printed out
     - https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using
 
