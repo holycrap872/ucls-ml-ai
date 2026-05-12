@@ -40,6 +40,8 @@ interacting with AI.
     - Whole point is to reflect about how to use AI to improve
     - Do problems yourself first
     - Later, ask AI and compare the results
+    - Where does the AI's solution feel authoritative but might be wrong? (**automation bias**)
+    - Where does your solution feel weak but might actually be better?
     - Questions?
 - Go!
 

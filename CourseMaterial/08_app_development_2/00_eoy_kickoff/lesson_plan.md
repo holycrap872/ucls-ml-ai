@@ -25,6 +25,11 @@
     - Walk through it
     - Goal of it
     - Have rest of this class and all of next class to work on it
+- **Pre-mortem** (~10m)
+    - Before you start building, write a paragraph imagining your project failed and explaining why
+    - What went wrong? Be specific — technical, team, scope
+    - We'll revisit this at midpoint and compare to actual outcomes
+    - Remember: we practiced this in the teaching unit
 - Go!
 
 ### Homework

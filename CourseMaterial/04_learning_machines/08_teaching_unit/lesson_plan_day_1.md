@@ -50,7 +50,14 @@
         - Day 5 Homework: Integrate comments, annotations... ready to present
     - Lots to do, so use ChatBot as aid
         - **Must** document ChatBot usage
+        - Specific prompts to address in your planning:
+            - "Imagine a 9th grader who finds your topic confusing. What specifically would they get wrong, and how does your lesson address that?"
+            - "List two questions a student could answer correctly without actually understanding your topic. How will your assessment avoid those?"
     - Five minute check-in with every group at end of each day for feedback from me
+- Introduce the **pre-mortem** technique (~10m)
+    - Write a paragraph imagining your lesson fails with 9th graders and explaining why
+    - Then revise your plan to address what you identified
+    - This is a skill we'll use again for the EOY project
 - Go!
 
 ### Homework

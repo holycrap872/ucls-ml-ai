@@ -36,6 +36,15 @@ tests) that will help each of them as they encounter a problem.
     - Critique the code
 - Continue working on `Skills Assessment Worksheet`
     - Allowed to use Claude
+- Cognitive patterns demo (~15m)
+    - Ask for a volunteer with a strong opinion on something (pineapple on pizza, etc.)
+    - Have them argue their position to Claude — watch it agree
+    - Have them argue the **opposite** position — watch it agree again
+    - Name the pattern: **agreement bias** — the bot conforms to the user
+    - Now flip it: when you got your code back from Claude earlier, did you check it or just trust it?
+    - Name the pattern: **automation bias** — deferring to a system because it feels authoritative
+    - These two patterns reinforce each other: the bot agrees with you, so you trust it more, so you check it less
+    - Introduce `cognitive_patterns_reference.md` — living doc we'll add to across the year
 - Wrap up
     - Tomorrow discussion on ChatBot policy for this class
     - EQs:
@@ -48,3 +57,7 @@ tests) that will help each of them as they encounter a problem.
 
 - Read `colleges_ai.docx` and prepare for discussion
     - Annotations will be checked
+- Discussion pre-assignment (~half page):
+    - One place the author's reasoning is strong and why
+    - One place the author leans on something the reader is supposed to want to be true
+    - One named pattern from `cognitive_patterns_reference.md` with a specific passage cited

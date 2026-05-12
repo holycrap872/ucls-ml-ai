@@ -35,6 +35,11 @@ presented in teh article.
     - Any categories seem bad/duplicative?
     - What do you think of the sample prompts?
     - How could you use this on wheaties problems?
+    - Missing role: the **adversary**
+        - Prompt the bot to argue against you, find weaknesses, refuse to agree
+        - "The bot is most useful in the role you find most uncomfortable"
+        - Being pushed back on produces the best output
+        - This is the same move as questioning your own reasoning
 - If finish early
     - https://www.moreusefulthings.com/prompts
     - Come up with prompts to have it teach (rather than answer)
@@ -43,5 +48,9 @@ presented in teh article.
 ### Homework
 
 - Problem 0 - 4 of `Python List Wheaties`
-- Create two different threads in Claude (tutor and cheater) and use both to solve tonight's homework
-    - Send me a printout of both
+- Create three different threads in Claude (tutor, cheater, and adversary) and use all three to solve tonight's homework
+    - Tutor: helps you learn without giving answers
+    - Cheater: just gives you the answer
+    - Adversary: argues against your approach, finds weaknesses, refuses to agree
+    - Send me a printout of all three
+    - Which role produced the best learning? Which was most uncomfortable?

@@ -21,8 +21,10 @@
     - Answer the following prompt:
         - Explain why there was a power struggle between the board and the CEO and what the board should have done
         - 1-page summary explaining each side's position
+        - **Steelman requirement**: before arguing your own position, write the strongest possible version of the side you disagree with. Not a strawman — the version that side would recognize as fair.
         - 2-page document on what you would have done
             - Cite articles we've read or new ones your find
+        - Final paragraph: reflect on whether you could have constructed that steelman before being asked. What does that say about how you normally argue?
 - Two classes (including this one to work on it)
     - Due at the beginning of third class
     - I'll leave feedback before end of day of each class

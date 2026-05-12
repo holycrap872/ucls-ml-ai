@@ -31,6 +31,9 @@
         - How is your group using AI?
         - How are you using PRIMM?
         - What is something you are worried about?
+        - Where did the AI agree with your approach when you weren't sure? (**agreement bias**)
+        - Where did you accept its suggestion without verifying? (**automation bias**)
+        - Where did you reject good advice because you wanted the work to be yours?
     - Give time to ponder
     - Go around room... everyone must answer one of the questions
 - Reiterate expectations

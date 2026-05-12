@@ -28,6 +28,14 @@ work on getting
     - Assert
 - Questions from the previous night's homework?
 - Today going to discuss how ChatBots affect learning
+- Review pre-assignments (~10m)
+    - Show one student's pre-assignment (with permission, anonymized)
+    - Critique it gently as a class — model what "strong" looks like:
+        - Specific passage cited, not vague gesture
+        - Pattern named precisely, not just "bias"
+        - Reasoning about *why* it's that pattern, not just labeling
+    - Quick go-around: what pattern did you name and where?
+    - Any disagreements about whether something is actually a bias?
 - Give 5m to journal about discussion questions:
     - What are appropriate ChatBot usages in other classes?
     - How could a ChatBot help/hurt learning?

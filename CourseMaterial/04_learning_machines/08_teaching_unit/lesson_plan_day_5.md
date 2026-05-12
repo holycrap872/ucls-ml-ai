@@ -21,6 +21,7 @@
     - Pair up groups
         - Explain assumptions going into worksheet (each group gets 3m)
         - Give time for opposing group to look over worksheet and critique (10m)
+            - Specific ask: identify one place where the designing group seems to assume the 9th grader knows something they don't
         - Time to debrief (3m each)
 - Reflection
     - Any thoughts as going through other peoples worksheets?

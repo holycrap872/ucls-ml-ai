@@ -27,6 +27,7 @@
     - Hand out rubric
         - Five minutes to self-assess
     - Any last thoughts?
+    - Final reflection prompt: "You designed this lesson for someone who doesn't yet understand your topic. Where in this course have you been the 9th grader — confident you understood something you didn't fully understand?"
 - Finish unit by going back to NamedTuples
     - Will use in next unit: Bayesian Learning
 - Why NamedTuples?
