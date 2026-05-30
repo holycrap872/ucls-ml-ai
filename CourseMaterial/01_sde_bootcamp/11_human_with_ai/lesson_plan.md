@@ -5,11 +5,12 @@
 
 ## Lesson Plan
 
-This lesson is the final lesson in the SDE Boot Camp unit. In it, students are
-given time to read a short article on the different roles AI can take during
-the learning process. The article is then compared with the assignment from the
-previous night and students are asked to compare their experience with the ideal
-presented in teh article.
+This lesson is the final lesson in the SDE Boot Camp unit. It opens with a
+short reflection on yesterday's quiz: where predictions matched results, where
+they didn't, and what role AI played (or didn't) in students' preparation.
+Students then read a short article on the different roles AI can take during
+learning, and use the role framework as language for what they just experienced
+firsthand.
 
 > Note: This lesson plan is only ~3/4 done
 
@@ -23,8 +24,13 @@ presented in teh article.
 ### Actual Lesson
 
 - Review
-    - Discuss how AI did on the problems
+    - Discuss yesterday's quiz
+        - Predictions vs. actual: where was the gap?
+        - Where did AI help you prepare? Where didn't it?
+        - What surprised you about doing things without AI?
+    - Quick check-in: Human vs. AI worksheet. Where did the AI feel authoritative but turn out to be wrong?
 - Set up article
+    - You just felt what doing without AI is like. Today: a framework for thinking about how to use it.
     - Talk about the top level roles
     - Explain paper
 - Hand out paper

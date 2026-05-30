@@ -33,7 +33,8 @@
 
 ### Homework
 
-- Listen to "GPT-4 is here + The Group Chat Bank Run"
+- Listen to "Hard Fork: GPT-4 is here + The Group Chat Bank Run"
+    - https://www.nytimes.com/2023/03/17/podcasts/hard-fork-gpt-4.html 
     - 11:50 - 25:40
     - Prepare for one question "reading quiz"
 - Grab Bag Wheaties 18

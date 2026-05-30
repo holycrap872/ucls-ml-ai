@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- How has the use of AI affected my learning?
+- How has my AI use evolved since the first quiz?
 - How well do different types of assessments capture knowledge?
 
 ## Lesson Plan
@@ -22,10 +22,15 @@
 - Discussion prep
     - The purpose of grades
     - Show EQs
+- Predict your score (~2m)
+    - On the index card: write your name and your predicted score (0-100)
+    - Same pattern as the SDE quiz
+    - We're tracking how your predictions evolve over the year
 - Quiz
-    - Ground purpose of quiz
-        - Feedback on your use of AI
-        - Not intended to be a trick
+    - Second checkpoint of the year
+        - You did one of these at the end of SDE bootcamp
+        - Same setup, same purpose: real signal about where you are
+        - Today's question: how have your AI habits and your predictions changed since then?
     - ONLY have vscode open (no outside help, but may use previous problems)
     - NO Copilot/outside resources
     - 35m for normal time, 52m for extended time
