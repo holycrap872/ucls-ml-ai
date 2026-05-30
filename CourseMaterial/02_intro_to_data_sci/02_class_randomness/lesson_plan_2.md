@@ -18,6 +18,10 @@
 - Class code (MUST DO!!!)
     - Parsing CSV string
         - Write tests first
+            - Same skill as hacker_functions, but reversed: there you wrote
+              a test to capture a bug you found. Here you write a test to
+              define what "correct" looks like *before* any code exists.
+              The test is the spec the code has to meet.
         - Why are types useful?
         - Accumulator in an accumulator
 - Classwork:

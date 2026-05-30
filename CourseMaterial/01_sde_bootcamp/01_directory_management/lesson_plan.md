@@ -33,9 +33,9 @@ changes on their own computers.
         - Show files (hidden) associated with a particular user
         - Use attaching files to email from `ProblemSetSkeleton` as example
 - Virtual machines
-    - The games you were playing was a computer in a computer
+    - The games you were playing run inside a "computer in a computer"
     - Like "the Matrix"
-    - Philosophical concept that we will return to
+    - Comes back when we set up CI/CD — that's a computer-in-a-computer too
 - Why knowing how to use the terminal is so important
     - ChatBots good at writing code
     - Knowing how to use what it spits out is more difficult

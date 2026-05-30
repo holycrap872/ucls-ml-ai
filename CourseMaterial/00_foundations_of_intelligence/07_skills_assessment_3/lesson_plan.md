@@ -25,20 +25,30 @@ tests) that will help each of them as they encounter a problem.
     - Techniques for thinking about problems
         - Accumulator pattern
 - Unit tests
-    - Show simple piece of code
+    - Show a function I wrote — does it work?
         ```python
-        def print_name(name: str) -> str:
-            lower_name = name.lower()
-            if lower_name.startswith("eric"):
-                return "Uhhhhh... you wrote this"
-            else:
-                return "Hello " + name
+        def can_ride_coaster(height: int, age: int) -> bool:
+            """Rider must be at least 48 inches AND at least 8 years old."""
+            if height >= 48 or age >= 8:
+                return True
+            return False
         ```
-    - What tests should be created?
-    - Why?
+    - Read the spec out loud, then the code
+        - What does the spec say?
+        - What does the code actually do?
+        - Find an input where the two disagree
+    - Now: how do we *prove* the function is broken in a way the computer can check?
+        - Write an `assert` that captures the disagreement
+        - `assert can_ride_coaster(20, 50) == False`  # short kid, way too old
+        - Run it. Watch it fail.
+    - That's a unit test. Two more things to notice:
+        - The test names a specific input — not a vibe, an input
+        - Once you fix the function, the test stays around forever as a
+          guarantee the bug can't come back unnoticed
+    - This function comes from a project we'll come back to in a couple weeks
 - Class program
     - Create function takes a list of ints and returns a list of all the even numbers in the input
-    - Create three unit tests
+    - Create three unit tests — at least one should catch a wrong implementation
 - Today going to just program as much as we can
 - Continue working on `Skills Assessment Worksheet`
 

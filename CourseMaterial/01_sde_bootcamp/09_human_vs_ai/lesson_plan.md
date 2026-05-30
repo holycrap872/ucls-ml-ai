@@ -48,3 +48,6 @@ interacting with AI.
 ### Homework
 
 - Finish `Human vs. AI Comparison Worksheet`
+- Do problems 5 - 10 of `Python String Wheaties`
+    - For each problem, create a commit and push to main
+    - Verify CI/CD passes after each push
