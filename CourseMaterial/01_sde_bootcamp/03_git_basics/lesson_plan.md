@@ -17,12 +17,12 @@ are needed. In summary, as long as they understand the to think of `git ` as a
 - `git_cheatsheet.docx` printed out for students to use
 - Various `git` learning sites loaded up
     - http://git-school.github.io/visualizing-git/ (requires Chrome)
-    - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ (for history)
+    - A random GoogleDoc with a long version history (for demonstration)
 - A few example git repositories to chew on.
     - https://gitlab.ucls.uchicago.edu/ml-ai/git-example
 - `Homework: Git Basics` Schoology assessment posted
     - See `assessment.md`
-        - https://drive.google.com/file/d/1HeWChyPRjjVpNkVMja0sEl3oybDtB50q
+        - https://drive.google.com/drive/folders/18yQpiIoyGI04a8bQyHmT9160LyuvAgLo
     - Can take it up to **three times**
 
 ### Actual Lesson
@@ -43,8 +43,7 @@ are needed. In summary, as long as they understand the to think of `git ` as a
         - Who did what?
     - Where have you seen a solution to this?
         - GoogleDocs version history
-            - Show GoogleDocs version history
-                - https://docs.google.com/document/d/1kv9eGOh2T1Kr3K7YNIEm_U7-RmefU2ErWha9lOEuQKQ
+            - Show version history of random GoogleDoc
             - Compare with `git`
 - What do we know about `git`?
     - `git` is version control for a whole project

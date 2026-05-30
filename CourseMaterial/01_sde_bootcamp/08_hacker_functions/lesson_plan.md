@@ -14,12 +14,15 @@ experience tests *finding* something they didn't already know was broken.
 The functions are tiered (easy, medium, hard, xtreme). Students self-select.
 Xtreme is **bonus only** — historical bugs that require domain context.
 
-> Note: Setup happens in-class with teacher support. The first ~15 minutes are
-  reserved for everyone to get the repo running. Pair students up so the
-  faster setups can help the stragglers.
+> Note: This lesson plan and the accompanying lesson are mostly AI generated.
+  I'm not actually sure I want to do the red->green loop. Instead it's almost
+  certainly better on just having the students write tests.
 
 ### Setup
 
+- `Hacker Functions Worksheet` posted to Schoology
+    - TODO: The worksheet is AI generated and **NEEDS WORK**
+    - https://docs.google.com/document/d/1V-Hog5qa5YbmaGhfz3f21oAkO7rzTku-Y-E36wmYKVc
 - `ucls-hacker-functions.zip` distributed via Schoology
     - Strip `.git`, `.venv`, `__pycache__`, `.coverage`, `.pytest_cache` before zipping
 - `fn_01_easy.py` `can_ride_coaster` loaded on the projector for the demo
@@ -30,49 +33,31 @@ Xtreme is **bonus only** — historical bugs that require domain context.
 ### Actual Lesson
 
 - Project setup (~15m)
-    - Download zip from Schoology, unzip, open in VSCode
-    - Create venv: `python3 -m venv .venv` → activate
-    - `pip install -e ".[dev]"`
-    - Verify pytest runs:
-        - You'll see a mix of `PASSED` and `XFAIL`
-        - `XFAIL` means "this test is expected to fail because the bug is
-          still there" — those are reference tests showing the *shape* of a
-          bug-catching test
-    - If anything breaks, raise your hand. Pair-debug with your neighbor.
+    - Students work through Setup steps 1-8 on the worksheet
+    - Pair faster setups with stragglers
+    - Walk around for predictable friction (see `common_problems/venv_problems.md`)
 - Demo: the full red→green loop (~10m)
-    - Open `can_ride_coaster` in `fn_01_easy.py`
+    - Live demo; students follow along on worksheet Problem 1
+    - Open `can_ride_coaster` in `fn_01_easy.py` on the projector
     - "Some of you wrote a test for this in Unit 0. Today we make it run."
-    - Open `tests/test_fn_01_easy.py` — find the existing `@pytest.mark.xfail`
-      test for `can_ride_coaster`. That's the model.
-    - Write a *new* test (without xfail) that captures the bug — pick a
-      specific input that should return `False` but currently returns `True`
-    - Run pytest → new test FAILS (red)
-    - Fix the function (`or` → `and`)
-    - Run pytest → new test PASSES (green)
-    - **That's the workflow:**
+    - Write a new test (without xfail), run pytest, watch it FAIL (red)
+    - Fix the function (`or` → `and`), run pytest, watch it PASS (green)
+    - **The workflow:**
         - The failing test proves you found the bug
         - The passing-after-fix proves you fixed it
         - Together: the bug can never come back without someone noticing
 - Tier selection (~5m)
-    - `fn_01_easy`: small bugs, 2-minute finds
-    - `fn_02_medium`: same shape, harder bugs
-    - `fn_03_hard`: requires dicts and loops we haven't fully covered
-    - `fn_04_xtreme`: **bonus** — historical bugs (Y2K, Heartbleed, Therac-25).
-      No one is expected to do these. Pick if curious.
-    - Each function's docstring describes the bug. Use it as a hint, or cover
-      it and try to find the bug cold.
+    - See worksheet Problem 2 for tier descriptions
+    - Each function's docstring describes the bug. Use it as a hint, or cover it and try to find the bug cold.
 - Self-paced work (~15m)
-    - Goal: complete 1-2 red/green pairs in your chosen tier
+    - Students complete worksheet Problem 2 (at least one red/green pair)
     - Walk around, prompt where stuck
-    - When pytest goes green, ask: "Are you sure? What *other* inputs would
-      catch the same bug? What does your test miss?"
+    - When pytest goes green, ask: "Are you sure? What *other* inputs would catch the same bug? What does your test miss?"
 - Reflection (~5m)
-    - Remember the line from CI/CD day — "a green pipeline isn't proof your
-      code works, it's proof your tests didn't catch anything."
-    - Anyone fix the function in a way that passed *their* test but still has
-      a bug for inputs they didn't think of?
-    - That's **automation bias** at small scale: trusting your own green when
-      green only means "what you wrote agrees with itself."
+    - Lead class discussion on worksheet Problem 3
+    - Especially the CI/CD callback (Problem 3, question 3) and automation bias
+    - Anyone fix the function in a way that passed *their* test but still has a bug for inputs they didn't think of?
+    - That's **automation bias** at small scale: trusting your own green when green only means "what you wrote agrees with itself."
 
 ### Homework
 
