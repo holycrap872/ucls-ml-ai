@@ -5,6 +5,7 @@
 #### Texts:
 
 - *Computing Machinery and Intelligence,* by Alan Turing
+- *AI Cheating Is Getting Worse,* by Ian Bogost
 
 #### Objectives:
 
@@ -33,6 +34,7 @@
 #### Texts:
 
 - *Conventional Comments,* by Paul Slaughter
+- *Assigning AI: Seven Ways of Using AI in Class,* by Ethan Mollick
 
 #### Objectives:
 
@@ -108,14 +110,15 @@
 
 #### Texts:
 
+- *The End of Theory: The Data Deluge Makes the Scientific Method Obsolete,* by Chris Anderson
 - *Teaching the Science of Learning,* by Yana Weinstein, Christopher R. Madan, and Megan A. Sumeracki
-- *Abstraction: What Is It? Why Is It So Important?,* by Jeff Kramer
+- *God, Human, Animal, Machine,* by Meghan O'Gieblyn
 
 #### Objectives:
 
 - Differentiate between the major techniques used in machine learning
 - Visualize ways that data can be grouped and classified
-- Utilize techniques to prevent overfitting of data
+- Utilize techniques to prevent over-fitting of data
 - Draw analogies between the ways humans learn and the way machines learn
 - Understand what it feels like to learn and how to be intentional in acquiring knowledge
 

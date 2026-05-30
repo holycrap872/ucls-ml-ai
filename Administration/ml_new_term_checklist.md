@@ -8,7 +8,7 @@
 - [ ] Verify that assessments are enabled but not published
     - [ ] ...
 - [ ] Create grade categories in `Grade Setup`
-    - [ ] Classwork: 25
+    - [ ] Classwork: 55
     - [ ] Homework: 30
     - [ ] Discussions: 10
     - [ ] Quizzes: 5

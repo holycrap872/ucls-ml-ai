@@ -25,8 +25,8 @@
 #### Texts:
 
 - *ChatGPT is a Blurry JPEG of the Web,* by Ted Chiang
-- *The Trial,* by Franz Kafka
-- *A Hacker Manifesto,* by McKenzie Wark
+- *Ethical Issues in Advanced Artificial Intelligence,* by Nick Bostrom
+- *Positive AI Economic Futures,* by the World Economic Forum
 
 #### Objectives:
 
@@ -43,7 +43,7 @@
 #### Formative Assessments:
 
 - Reading check-ins
-- In-glass group work
+- In-class group work
 
 #### Summative Assessments:
 
@@ -113,40 +113,11 @@
 - In-class discussion
 - In-class essay
 
-## Unit 4 - Neural Networks
+## Unit 4 - Application of Knowledge
 
 #### Texts:
 
-- *A Sociological Study of the Official History of the Perceptrons Controversy,*
-  by Mikel Olazaran
-
-#### Objectives:
-
-- Create a perceptron and visualize what it is capable of deciding
-- Use existing neural network libraries to create and train a multi-layered network
-- Use commercial ChatBots to accelerate pace of production
-- Discuss how to most effectively utilize ChatBots to learn
-
-#### Essential Questions:
-
-- Why have neural networks become the “go to” for the most ambitious AI projects?
-- What factors determine if an idea receives attention within the scientific community?
-
-#### Formative Assessments:
-
-- Programming problem sets
-- In-class group work
-
-#### Summative Assessments:
-
-- In-class discussion
-- Programming projects
-
-## Unit 5 - Application of Knowledge
-
-#### Texts:
-
-- *Oh the Places You’ll Go,* by Theodore Geisel
+- *Her,* by Spike Jonze
 
 #### Objectives:
 
