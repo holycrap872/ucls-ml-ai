@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Extra copies of `ethical_issues_in_ai.dovx` printed out
+- Extra copies of `ethical_issues_in_ai.docx` printed out
 - `Discussion Rubric` printed out
     - https://docs.google.com/document/d/1hKjFvPVQ6SnSp94-YfhgT5zULjyhhOHjI3ZZyKh3cKw
 - `paperclip_maximizer.docx` printed out

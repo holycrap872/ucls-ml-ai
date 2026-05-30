@@ -5,7 +5,7 @@
 
 ## Lesson Plan
 
-Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7uJczCTjP8
+- Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7uJczCTjP8
 
 ### Setup
 
@@ -13,9 +13,6 @@ Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7u
     - Good Place: https://youtu.be/DtRhrfhP5b4?si=fzlBgMH6xF7whm_g
     - ChatBot Trolley: https://www.youtube.com/watch?v=1boxiCcpZ-w&authuser=0
 - ChatGPT / Claude Ready to go
-
-
-
 
 ### Actual Lesson
 
@@ -45,10 +42,10 @@ Based on https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7u
     - The one person will someday cure cancer
     - What is point of variation?
         - Way of making value systems clear
-- 
 - Play
+    - As described in https://docs.google.com/document/d/1QLwVgw_qSEGEjmmggApK7yAB9bwS10-2P7uJczCTjP8
 - Switch to AI
-    - More an more AI is being involved in decision making
+    - More and more AI is being involved in decision making
         - Is that a good or bad thing?
     - Feed answers into ChatBot to see what it would do
     - Drop point at the end:
