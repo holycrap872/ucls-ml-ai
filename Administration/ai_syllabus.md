@@ -3,15 +3,15 @@ back and ask ourselves, what are the possible downsides"* - Emily Bender
 
 # Artificial Intelligence
 
-This half-year course allows students to build on the knowledge they gained in
-the previous semester and to utilize these new skills to build a project of
-their choosing. In particular, students will continue to be exposed to a
-variety of AI/ML techniques including evolutionary algorithms and neural networks.
-Students will implement part or all of these techniques in Python and then use
-the resulting functionality to draw conclusions about various datasets.
-Alongside each of these engineering tasks, students will also be exposed to
-readings that highlight the tradeoffs that come from asking machines to make
-important decisions and the difficulty of determining the root of consciousness.
+This half-year course allows students to build on the engineering and
+philosophical foundations from the previous semester and to put them to work on
+a project of their choosing. Students will collaborate to build a non-trivial
+application from scratch, learning the git workflows, debugging practices, and
+planning habits that make team development possible. Alongside this engineering
+work, students will also be exposed to readings that explore AI's role in
+society, including alignment, ethical decisions made through automation, and
+the broader societal effects of powerful AI. The term culminates with a
+capstone group project and a final reflection on the year's themes.
 
 The goal of this course is for students to emerge as capable engineers and as
 critical creators of technology. In terms of engineering, students will become
@@ -31,15 +31,13 @@ are, and what the hidden downstream effects of their decisions might be.
   systems we interact with on a daily basis?
 - How can we create systems that avoid our personal biases and the limits of
   our knowledge?
-- How can data be used to produce just outcomes?
 - How can we utilize outside resources to increase our own capabilities?
 
 ## Learning Objectives
 
 - To learn common programming and engineering techniques.
+- To plan, build, and deliver a substantial software project as part of a team.
 - To utilize AI to extract knowledge from data.
-- To articulate the value of data in isolation and in aggregate.
-- To understand how the notion of consciousness has evolved over time.
 - To identify areas where AI has been given the power to make real-world decisions.
 - To assess the decisions made by existing AI systems and detect unjust outcomes.
 - To develop confidence and a problem-solving mindset when dealing with new

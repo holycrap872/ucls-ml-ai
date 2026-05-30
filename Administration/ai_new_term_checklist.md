@@ -2,7 +2,7 @@
 
 - [ ] Reorder classes in Schoology so new ones at front
 - [ ] Set "class banner" in Schoology (see `resources/favicons`)
-- [ ] Copy over first unit (`Administration`, `00_learning_machines`)
+- [ ] Copy over first unit (`Administration`, `06_app_development_1`)
 - [ ] Create new slideshow(s) and save in proper spot in Google Drive
 - [ ] Link to old slideshow(s) from ML in `Administration` folder
 - [ ] Verify that assessments are enabled but not published

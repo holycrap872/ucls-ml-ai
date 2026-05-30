@@ -20,25 +20,49 @@
 
 - Programming projects
 
-## Unit 1 - AI in Society
+## Unit 1 - App Development 1
+
+#### Objectives:
+
+- Practice reading and modifying unfamiliar code
+- Use a game library to build a non-trivial interactive program
+- Learn advanced git workflows for collaboration (branching, merging, remotes)
+- Work effectively as a pair or small group on a shared codebase
+
+#### Essential Questions:
+
+- How do you approach a codebase you didn't write?
+- What practices keep multiple developers from stepping on each other's work?
+
+#### Formative Assessments:
+
+- Programming problem sets
+- In-class group work
+
+#### Summative Assessments:
+
+- Programming projects
+
+## Unit 2 - AI in Society
 
 #### Texts:
 
 - *ChatGPT is a Blurry JPEG of the Web,* by Ted Chiang
 - *Ethical Issues in Advanced Artificial Intelligence,* by Nick Bostrom
+- *OpenAI GPT-4 System Card,* by OpenAI
 - *Positive AI Economic Futures,* by the World Economic Forum
 
 #### Objectives:
 
-- Understand where data comes from and how it is utilized within the modern world
-- Articulate the value of data in isolation and in aggregate
-- Identify current and potential effects of humans turning over decision making to AI
-- Explore datasets that contain pre-existing biases and their effects on society
+- Articulate the tradeoffs involved in turning decision-making over to AI systems
+- Identify where AI alignment can fail and what the consequences might be
+- Develop and defend a personal position on a contested question about AI
+- Practice using primary sources (system cards, articles) as evidence in argument
 
 #### Essential Questions:
 
-- What is the value of data?
-- How can societies best utilize data sources to produce just outcomes?
+- What is the role of AI in society, and who gets to decide?
+- What happens when AI systems pursue goals that diverge from human intent?
 
 #### Formative Assessments:
 
@@ -50,58 +74,48 @@
 - In-class discussion
 - In-class presentation
 
-## Unit 2 - Evolutionary Algorithms
-
-#### Texts:
-
-- *The Gene,* by Siddhartha Mukherjee
-- *Darwin’s Cathedral,* by David Wilson
+## Unit 3 - App Development 2
 
 #### Objectives:
 
-- Appreciate how the evolutionary process can be applied to multiple domain
-- Create a generic skeleton for solving problems via an evolutionary algorithm
-- Understand what a metaheuristic is
-- Appreciate how simple rules can lead to complex behaviors
-- Learn to utilize a gaming library to visualize certain emergent behaviors
+- Pitch a project idea and refine it in response to feedback
+- Plan a multi-week project with milestones and a clear scope
+- Use AI tools to generate, evaluate, and revise implementation plans
+- Operate within a team through a full development cycle
 
 #### Essential Questions:
 
-- What outcomes within our world can be attributed to an evolutionary process?
-- How can problems be modeled to take advantage of the evolutionary process?
-- What are the underlying properties of an emergent behavior?
-- Is consciousness an emergent system?
+- What makes a project idea feasible within the time and skills available?
+- How do you scope ambition so a team can actually finish what it starts?
+- When is AI assistance an accelerant, and when is it a crutch?
 
 #### Formative Assessments:
 
-- Programming problem sets
-- In-class group work
+- Elevator pitch presentation
+- Planning document
+- Check-in presentations
 
 #### Summative Assessments:
 
-- In-class discussion
-- Programming projects
+- Group capstone project
 
-## Unit 3 - Cognition and Computing
+## Unit 4 - Wrapup
 
 #### Texts:
 
-- *Discourse on the Method,* by Renee Descartes
-- *What is it like to be a bat,* by Thomas Nagel
-- *What Computers Still Can’t Do,* by Hubert L. Dreyfus
-- *God, Human, Animal Machine,"* by Meghan O'Gieblyn
+- *Her,* by Spike Jonze
 
 #### Objectives:
 
-- Learn important historical moments in the attempts to understand cognition
-- Analyze various philosophical models of consciousness
-- Create an argument for which model of consciousness is most persuasive
-- Identify areas of culture that have been affected by these debates
+- Recognize how the cognitive patterns thread applies to one's own thinking
+- Synthesize the technical and philosophical threads of the year through a single film
+- Reflect on how views about AI have changed over the course of the year
 
 #### Essential Questions:
 
-- How has the notion of consciousness evolved through time?
-- What are the differences between a human mind and a computer?
+- Which cognitive patterns that we spotted in others also apply to us?
+- What does it mean to form a relationship with a non-human?
+- How have my views about AI changed over the year?
 
 #### Formative Assessments:
 
@@ -111,32 +125,3 @@
 #### Summative Assessments:
 
 - In-class discussion
-- In-class essay
-
-## Unit 4 - Application of Knowledge
-
-#### Texts:
-
-- *Her,* by Spike Jonze
-
-#### Objectives:
-
-- Create a pitch for a project that is of interest you
-- Develop a plan for requirements and milestones to accomplish proposal
-- Utilize best practices to implement a robust, well-engineered solution
-- Operate within a team to maximize the abilities of everyone
-
-#### Essential Questions:
-
-- What questions are important to me?
-- What resources and techniques will allow me to create knowledge to answer these questions?
-- What biases within my analyses do I have to check for?
-
-#### Formative Assessments:
-
-- 2-minute check-in presentations
-- Research check-ins
-
-#### Summative Assessments:
-
-- Group project
