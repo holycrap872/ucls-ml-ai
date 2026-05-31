@@ -41,6 +41,7 @@ and that everything else in `ProblemSetSkeleton` will be explained later.
             - `data/text/little_women.txt`
 - `Skills Assessment Worksheet` posted on Schoology
     - https://docs.google.com/document/d/1svc0ky_F1ToAghRPZmfee3RIHFj87utk7paq0uSM2gA
+- `resources/common_problems/venv_problems.md` ready for fast debugging
 
 ### Actual Lesson
 

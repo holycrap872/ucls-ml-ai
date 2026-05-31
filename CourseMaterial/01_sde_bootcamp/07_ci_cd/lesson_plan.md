@@ -40,13 +40,15 @@ the CI/CD integration by writing tests and checking the results after they push.
 - Make sure everyone is up and running
 - Reflection
     - Where are we?
-    - What's next?
-        - Start data analysis unit
-    - One sentence to name: a green pipeline isn't proof your code works — it's proof your tests didn't catch anything. Same **automation bias** as deferring to the bot.
+    - One sentence to name: a green pipeline isn't proof your code works — it's proof your tests didn't catch anything.
+        - Same **automation bias** as deferring to the bot.
 - Start homework
 
 ### Homework
 
+- Do problems 5 - 8 of `Python String Wheaties`
+    - For each problem, create a commit
+    - Every time create a commit, check that got a "green pipeline"
 - TIL on CI/CD
 
 ### Resources

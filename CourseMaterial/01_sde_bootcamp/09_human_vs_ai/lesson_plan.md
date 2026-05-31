@@ -22,6 +22,9 @@ as a learning tool.
 
 - Review
     - CI/CD
+    - Hacker functions
+    - Do an "extreme one" together as a class
+        - Maybe Y2K since it's not too technical
 - Unit Review
     - CI/CD
     - `git`
